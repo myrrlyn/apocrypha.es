@@ -58,7 +58,7 @@ Oblivion. The Aedric planets, Nirn, and its Moons are all part of Mundus.
 ## What’s a Mundus Centerex?
 
 Tricky part. A Centerex is, by the strictest definition, the central office
-through which all mail is routed.  But if you cross your eyes a little you can
+through which all mail is routed. But if you cross your eyes a little you can
 see how a Centerex can also mean the center through which all communication, or
 commands, are sent.
 

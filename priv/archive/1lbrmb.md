@@ -127,7 +127,7 @@ three possibilities:
 
 2. Skyrim has passed its own provincial legislation banning the use of
    levitation. This wouldn’t be exactly unlikely, due to the Nords’ distrust of
-   wizards and use of magic.  If this is the case, it may have been in effect
+   wizards and use of magic. If this is the case, it may have been in effect
    prior to or introduced sometime after [The Oblivion Crisis][5].
    ~~I personally think this is the most likely scenario.~~
 

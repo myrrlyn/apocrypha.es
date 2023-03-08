@@ -51,9 +51,9 @@ source when it comes to historical events. The Khajiit themselves believe they
 are descendents of the same group as the Bosmer, there neighbours, even though
 they do not name this ancestor as Aldmer, in stead referring to creatures that
 change in form constantly (a theme also present in Bosmeri religion). According
-to the Khajiit, all Et’Ada are descendent of the union between Ahnurr (Anu) and
+to the Khajiit, all et’Ada are descendent of the union between Ahnurr (Anu) and
 Fadomai (Padomay), the chief forces of creation, stasis and change. Out of the
-first litter came the Et’Ada often classified as Aedra: Alkosh (Akatosh),
+first litter came the et’Ada often classified as Aedra: Alkosh (Akatosh),
 Khenarthi (Kynareth), Magrus (Magnus, also the only one who isn’t regarded as an
 Aedra), Mara, and S’rendarr (Stendarr). These forces all symbolise the more
 common things on Mundus, having effect on all life. After this came a second

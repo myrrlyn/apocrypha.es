@@ -107,7 +107,7 @@ The bird-men of the rivers gave Eplear five-and-twenty tongues of their own, and
 after he ate them all he spoke them all and sang.
 
 The satyrs of the woods gave a secret, whispered one more benefit of hiding even
-Eplear had not thought of.  Eplear told everyone the secret because he did not
+Eplear had not thought of. Eplear told everyone the secret because he did not
 like them, but everyone liked the satyrs’ benefit of hiding.
 
 The centaurs gave Eplear an idea that many things would happen and one day men

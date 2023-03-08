@@ -81,7 +81,7 @@ the other parts of Tamriel. Even though this new movement exists, most people of
 Tamriel are still more familiar with the Thalmor and their predecessors, and as
 such still regard the Altmer as being arrogant.Their pantheon is vast, and
 includes the eight divines also worshipped by the Imperials, alongside other
-Et’Ada, mostly related to magic (i.e. Magnus, Syrabane). Because of their Et’Ada
+et’Ada, mostly related to magic (i.e. Magnus, Syrabane). Because of their et’Ada
 heritage, they deeply hate Lorkhan, who they take responsible for making them
 mortal, along with any men-made additions to the different religions, most
 notably the Cyro-Nordic god-hero Talos (it is rumoured that the ban on the

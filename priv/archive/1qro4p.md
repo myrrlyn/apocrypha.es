@@ -7,7 +7,7 @@ date: 2013-11-16T17:18:57Z
 
 This is part of “Shezzar’s Song” as it was originally told.
 
-> […] and all the wise of the Et’Ada heard Shezzar’s words and followed
+> […] and all the wise of the et’Ada heard Shezzar’s words and followed
 > [](){:tag="br"}
 > […] with all their holdings and courts and attendents [a]nd it was good.
 >

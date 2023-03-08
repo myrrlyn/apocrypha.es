@@ -2,9 +2,19 @@
   <h2 class="text-center">About the Text</h2>
   <p>
     Originally
-    <.link href={"//reddit.com/r/teslore/comments/" <> @metadata.reddit}>posted to /r/teslore</.link>
-    on <time datetime={Timex.format!(@metadata.date, "{RFC3339z}")}><%= Timex.format!(@metadata.date, "{YYYY}, {Mshort} {D} at {h24}:{m} UTC") %></time>
-    by <.link href={"//reddit.com/u/" <> @metadata.author}>/u/<%= @metadata.author %></.link>.
+    <.link href={"//old.reddit.com/r/teslore/comments/" <> @metadata.reddit}>
+      posted to /r/teslore
+    </.link>
+    on <time datetime={Timex.format!(@metadata.date, "{RFC3339z}")}>
+      <%= Timex.format!(@metadata.date, "{YYYY}, {Mshort} {D} at {h24}:{m} UTC") %>
+    </time>
+    by <.link href={"//reddit.com/u/" <> @metadata.author}>
+      /u/<%= @metadata.author %>
+    </.link>.
+  </p>
+  <p>
+    The <.link href={@github_link}>source code for this article</.link> is on
+    GitHub. You may edit it and submit a pull request with your improvements.
   </p>
   <%= if about = @metadata.about, do: about |> Earmark.as_html!() |> raw() %>
 </section>

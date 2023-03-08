@@ -26,9 +26,9 @@ the Hists and the Argonians of Black Marsh). And to even begin understanding the
 common root, we need to take a look at the creation of Nirn and Mundus itself.
 
 According to the legends, Lorkhan envisioned Mundus when looking at the wheel of
-Aurbis. After convincing some of the Et’Ada to help him create it, they
+Aurbis. After convincing some of the et’Ada to help him create it, they
 positioned Mundus at the center of said wheel. However, as we all know, Lorkhan
-was at this point already known as a trickster, and the other Et’Ada quickly
+was at this point already known as a trickster, and the other et’Ada quickly
 lost faith in him. Most of them abondened Mundus, but not all.
 
 These that remained, known as the Ehlnofey, gave up most of their “godly” power

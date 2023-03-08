@@ -65,7 +65,7 @@ a Dream in order to escape to another Dream. Vehk returns from Aetherius to
 teach those who would listen. Know Love to avoid the Landfall, my brothers and
 sisters of the past.
 
-The Et’Ada are the original spirits. Ada-Mantia is the original Law. Nu-Mantia
+The et’Ada are the original spirits. Ada-Mantia is the original Law. Nu-Mantia
 is the new Law written by the Nu Man. The Laws of the next Dream.
 
 The Digitals are strongly hinted to be et’Ada in the Loveletter. They will

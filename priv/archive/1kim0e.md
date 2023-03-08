@@ -44,7 +44,7 @@ making it possible for a Hist to shape itself into multiple shapes, and
 increasing its adaptability.
 
 The origin of the Hist is unknown to us. What is known, is that the Hist had
-been around at the same time as the Et’Ada, predating Mundus. Indeed, they were
+been around at the same time as the et’Ada, predating Mundus. Indeed, they were
 the first inhabitants of Nirn, even before the Ehlnofey. Along with Nirn, the
 Hists also had a realm of Oblivion of their own, the name lost to us, along with
 relatives of them (called the Um-Hist) inhabiting the realm of Clavicus Vile.

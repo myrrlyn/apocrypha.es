@@ -47,7 +47,7 @@ definition of Love Under Will: she seeks action without the desire for result.
 To become a Ruling King, you must blacken your hands by becoming intimate with
 both Theory and Terror. Logic and Hysteria, two chiral opposites. Desire
 disappears in the hands of a Theorist, and fear does not exist in the hands of a
-Terrorist.  You become clear of mind and devoid of fear.
+Terrorist. You become clear of mind and devoid of fear.
 
 This could also be a part of the symbolism behind Vivec’s title of “Mastery.”
 I’d argue that Almalexia, as the Warrior, controls the domain of **Terror**, or
