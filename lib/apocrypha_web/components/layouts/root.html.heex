@@ -1,17 +1,24 @@
 <!DOCTYPE html>
-<html lang="en-US" style="scrollbar-gutter: stable;">
+<!--
+    |
+  ——0—— REGISTERED BY C0DA.
+    |
+     -->
+<!--(It looks better if you click it)-->
+<html lang="en-US">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="csrf-token" content={get_csrf_token()} />
-    <.live_title suffix=" · Apocrypha">
-      <%= assigns[:page_title] || "Apocrypha" %>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <.live_title prefix={@metadata[:tab_prefix]} suffix={@metadata[:tab_suffix] || " · Apocrypha"}>
+      <%= @metadata[:tab_title] || @metadata.title %>
     </.live_title>
     <link phx-track-static rel="stylesheet" href={~p"/assets/app.css"} />
     <script defer phx-track-static type="text/javascript" src={~p"/assets/app.js"}>
     </script>
   </head>
-  <body class="antialiased">
+  <body class={@classes}>
     <%= @inner_content %>
   </body>
 </html>

@@ -84,6 +84,8 @@ defmodule ApocryphaWeb do
       import Phoenix.HTML
       # Core UI components and translation
       import ApocryphaWeb.CoreComponents
+      # Site UI components
+      import ApocryphaWeb.Components
 
       # Shortcut for generating JS commands
       alias Phoenix.LiveView.JS

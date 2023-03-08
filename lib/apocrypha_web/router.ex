@@ -14,6 +14,13 @@ defmodule ApocryphaWeb.Router do
     plug :accepts, ["json"]
   end
 
+  scope "/a", ApocryphaWeb do
+    pipe_through :browser
+
+    get "/", PageController, :articles
+    get "/:id", PageController, :article
+  end
+
   scope "/", ApocryphaWeb do
     pipe_through :browser
 

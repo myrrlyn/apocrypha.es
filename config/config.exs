@@ -12,6 +12,7 @@ config :apocrypha,
 
 # Configures the endpoint
 config :apocrypha, ApocryphaWeb.Endpoint,
+  adapter: Bandit.PhoenixAdapter,
   url: [host: "localhost"],
   render_errors: [
     formats: [html: ApocryphaWeb.ErrorHTML, json: ApocryphaWeb.ErrorJSON],

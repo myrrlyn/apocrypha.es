@@ -47,7 +47,13 @@ defmodule Apocrypha.MixProject do
       {:telemetry_metrics, "~> 0.6"},
       {:telemetry_poller, "~> 1.0"},
       {:jason, "~> 1.2"},
-      {:plug_cowboy, "~> 2.5"}
+      {:bandit, "~> 0.6.9"},
+      {:earmark, "~> 1.4"},
+      {:earmark_parser, "~> 1.4"},
+      {:yaml_front_matter, "~> 1.0.0"},
+      {:timex, "~> 3.7"},
+      {:dialyxir, "~> 1.1", only: [:dev], runtime: false},
+      {:ex_doc, "~> 0.28", only: [:dev], runtime: false}
     ]
   end
 

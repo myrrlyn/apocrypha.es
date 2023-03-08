@@ -1,0 +1,11 @@
+<section>
+  <h2 class="text-center">About the Text</h2>
+  <p>
+    Originally
+    <.link href={"//reddit.com/r/teslore/comments/" <> @metadata.reddit}>posted to /r/teslore</.link>
+    on <time datetime={Timex.format!(@metadata.date, "{RFC3339z}")}><%= Timex.format!(@metadata.date, "{YYYY}, {Mshort} {D} at {h24}:{m} UTC") %></time>
+    by <.link href={"//reddit.com/u/" <> @metadata.author}>/u/<%= @metadata.author %></.link>.
+  </p>
+  <%= if about = @metadata.about, do: about |> Earmark.as_html!() |> raw() %>
+</section>
+<hr />

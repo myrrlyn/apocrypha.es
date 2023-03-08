@@ -1,0 +1,23 @@
+<%= @content |> raw() %>
+
+<h2>Formatted</h2>
+<p>These posts have had their source text formatted to better fit with how this
+site operates.</p>
+<ol>
+  <li :for={entry <- Apocrypha.Library.public_posts()}>
+    <.link href={"a/" <> Path.basename(entry, ".md")}>
+      <code><%= Path.basename(entry, ".md") %></code>
+    </.link>
+  </li>
+</ol>
+
+<h2>Raw</h2>
+<p>These posts have been emitted directly from the scraper with no alterations.
+They may look strange.</p>
+<ol>
+  <li :for={entry <- Apocrypha.Library.pending_posts()}>
+    <.link href={"a/" <> Path.basename(entry, ".md")}>
+      <code><%= Path.basename(entry, ".md") %></code>
+    </.link>
+  </li>
+</ol>

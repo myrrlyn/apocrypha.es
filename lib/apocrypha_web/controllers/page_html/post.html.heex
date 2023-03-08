@@ -1,0 +1,10 @@
+<header>
+  <h1 class="text-title text-center"><%= @metadata.title %></h1>
+  <h2 :if={@metadata.subtitle} class="text-title text-center">
+    <%= @metadata.subtitle %>
+  </h2>
+  <h2 :if={@metadata.series && !@metadata[:hide_series]} class="text-title text-center">
+    <%= @metadata.series %>, Vol. <%= @metadata.part %>
+  </h2>
+</header>
+<%= @content |> raw() %>
