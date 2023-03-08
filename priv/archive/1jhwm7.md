@@ -123,5 +123,5 @@ openness so striking for Bosmeri culture.
 > race, and should not be regarded as such.
 {:tag="aside" .afterword}
 
-[0]: http://www.reddit.com/r/teslore/comments/17i9cl/the_boiche_a_treatise_on_the_elves_of_valenwood/
-[1]: http://www.reddit.com/r/teslore/comments/18jmat/the_boiche_a_treatise_on_the_elves_of_valenwood/
+[0]: https://www.reddit.com/r/teslore/comments/17i9cl/the_boiche_a_treatise_on_the_elves_of_valenwood/
+[1]: https://www.reddit.com/r/teslore/comments/18jmat/the_boiche_a_treatise_on_the_elves_of_valenwood/

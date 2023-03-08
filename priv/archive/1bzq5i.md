@@ -110,6 +110,6 @@ know a whole lot about the frost giants in general, or how they relate to the
 regular giants. Interestingly, Giants have two eyes, Trolls and Frost Trolls
 have three, and Frost Giants have four. Weird.
 
-[0]: http://www.imperial-library.info/content/seven-fights-aldudagga
-[1]: http://www.imperial-library.info/sites/default/files/obscure_talos-king-atmora.jpg
-[2]: http://imgur.com/a/ag7xm
+[0]: https://www.imperial-library.info/content/seven-fights-aldudagga
+[1]: https://www.imperial-library.info/sites/default/files/obscure_talos-king-atmora.jpg
+[2]: https://imgur.com/a/ag7xm

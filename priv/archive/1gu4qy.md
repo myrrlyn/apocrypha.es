@@ -180,13 +180,13 @@ reward.
 Embrace your agony. Love it. Life is pain. Anyone who says differently is
 selling something. But it cuts us into better shapes.
 
-[0]: http://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_23
-[1]: http://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_14
-[2]: http://www.preparetodie.com/
-[3]: http://en.wikipedia.org/wiki/BDSM
-[4]: http://en.wikipedia.org/wiki/Safeword
-[5]: http://www.uesp.net/wiki/Lore:House_of_Troubles
-[6]: http://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_31
-[7]: http://www.reddit.com/r/teslore/comments/18gt8w/what_is_love/
-[8]: http://www.reddit.com/r/teslore/comments/1che6a/mephala_and_the_destruction_of_terror_and_theory/
-[9]: http://en.wikipedia.org/wiki/Dark_elf
+[0]: https://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_23
+[1]: https://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_14
+[2]: https://www.preparetodie.com/
+[3]: https://en.wikipedia.org/wiki/BDSM
+[4]: https://en.wikipedia.org/wiki/Safeword
+[5]: https://www.uesp.net/wiki/Lore:House_of_Troubles
+[6]: https://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_31
+[7]: https://www.reddit.com/r/teslore/comments/18gt8w/what_is_love/
+[8]: https://www.reddit.com/r/teslore/comments/1che6a/mephala_and_the_destruction_of_terror_and_theory/
+[9]: https://en.wikipedia.org/wiki/Dark_elf

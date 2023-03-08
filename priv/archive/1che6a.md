@@ -75,6 +75,6 @@ Because Vivec has knowledge of both Terror and Logic, it’s arguable that he wa
 the only member of the Tribunal to attain CHIM. But mostly I’m just illustrating
 the connections between the Daedra and the process of CHIM.
 
-[0]: http://images.uesp.net/9/93/OB-place-Sanctuary_Door.jpg
-[1]: http://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_11
-[2]: http://www.imperial-library.info/content/tower
+[0]: https://images.uesp.net/9/93/OB-place-Sanctuary_Door.jpg
+[1]: https://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_11
+[2]: https://www.imperial-library.info/content/tower
