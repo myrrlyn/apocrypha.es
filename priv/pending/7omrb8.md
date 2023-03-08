@@ -1,0 +1,16 @@
+---
+title: "Knight of Stendarr backstory"
+reddit: 7omrb8
+author: Praxedes69
+date: 2018-01-06T23:14:10Z
+---
+
+My name is Corvo Decius, and i'am a Knight of Stendarr. I'am an Imperial, born in Cyrodiil. My father served in the Legion as Captain and took the Sacred Oath like his father, his grandfather and all our ancestors before him. The Great War against the Aldmeri Dominion left several scars on him as for many veterans, but the war left him marked for the rest of his life. Anger, shame, revenge, dishonor, i grew up looking at my father's eyes without understanding as it feel to carry the burden of a family military tradition... and fail.
+I couldn't understand because i was young, moreover, because i was a second son. For centuries, my family has always sent his elder sons in the Legion and the second sons to the Temple of Stendarr. As Patron of the Legion, it was believed honoring Stendarr was a duty. The elder brings honor to the family, the second son prays so the first can come back alive. My elder brother was fragile and cowardy, father has always been harsh with him. Somehow i think my fathers saw in my brother a punishment for his own shame, my brother was like the Empire : fragile, weak, a shadow of a past glory.
+ 
+We were twins and he was born just before me, nothing more than a couple of heartbeats but he was my elder by right. I always wanted to be a warrior, a legionnaire but i carried my burden silently as the Fate decided for me and i was nobody to defy Fate itself, was i ?
+At 15 i was sent to the Temple to study the Credo. I was fascinated with the understanding of the Daedras, the danger they represent. I read the great Saga of the Champion of Cyrodiil and the event of the Oblivion Crisis. I spent years studying Restoration magic as command Stendarr : "be kind and generous to the people of Tamriel. Protect the weak, heal the sick, and give to the needy". However, the mercy of Stendarr does not extend to the enemies of mortals, who are referred to as Abominations and deserve extermination without mercy : daedra, lycanthropes, the undead and vampires, Restoration magic is also a fearsome weapon we trained to in order to be prepared.
+ 
+Depite being in the priesthood, my education was also martial. The Credo of Stendarr teach us to "not hoard wealth or indulge physically". Fortifying our bodies was as important as seeking wisdom and master the Credo. It was not a soldier life, but i grew strong and confident. I enjoyed this life for several years and i was notorious in the Temple for my piety and my devotion to the cult. But i wanted more, i felt useless and i wanted to use what i learnt for the greater good and maybe because i wished to travel the world who knows ? I sent several requests to enter at the service of the Vigilants of Stendarr and one year, it was granted.
+ 
+For 3 years i lived amongst the Vigilants during my Noviciat. At the end of the day i can say now it broke my ideal into pieces... The Vigilants of Stendarr appeared to be deliquent. An Order striped from its ideal and rigorism of the Third Era. Ambitious families sent second sons and nephews amongst the Vigilants in order to earn prestige, influence and power. Since the Vigilants was an independant institution of the Empire, there was no real control over the Order. 

@@ -1,0 +1,39 @@
+---
+title: "Tales of Old Tamriel #1 - A letter to Hestra"
+reddit: 2b4cmv
+author: Cyclenophus
+date: 2014-07-19T08:44:49Z
+---
+
+*Editor's note: The following piece of lore is from a larger collection called Tales of Old Tamriel. Its exact origin is unknown, but some claim the library shelf containing the collection first appeared in the Imperial Library during the Middle Dawn, and has some connection to the blue star Mnemoli. Interestingly, many of these texts refer to events from the Second, Third and Fourth eras! When asked about this, the Moth Priests simply shrugged and informed me that compared to the mysteries of the Elder Scrolls and the Ysmir Collective, a magical bookshelf that contains historically misplaced lore is one of the less unusual things in the Library. When pressed for more information, I was politely informed that the Priests were too busy to address my concerns. Thus, I transcribed the stories and left with many unanswered questions. Perhaps future scholars can discover the true origin of these stories, which largely center around the lesser-known periods and rulers of history.*
+
+To the Most Esteemed Empress Hestra,
+ 
+ 
+ It was my pleasure to receive your eloquent letter recently. I apologize for the delay in response, but I have had several pressing matters to attend to. As you are apparently a great Chieftain of your people, you'll no doubt understand. It was not my intention to be rude or dismissive. Please forgive this old Giant.
+ 
+Now, where shall I begin? Perhaps in order to understand the response I am about to give to your request for reinforcements, you should understand who I am. You should hear the history of my people. I am told that you are a student of History, so you would do well to listen. Missionaries of various stripes often visit the camps of my people, with condescending smiles and religious tomes. They enjoy speaking but never listening. I'll assume Your Majesty is cut from an altogether superior cloth to these grinning monkeys.
+ 
+You may address me as Gormtaag the Rune-Speaker. My kin have chosen this title for me, and I take it with honor in the old Atmoran way. It is true indeed that I am a Rune-Speaker. Many of my Giant kin forgo literacy out of tradition or fear, but we have always had lore masters and story tellers. It is no different in this benighted latter age.
+ 
+It may come as a surprise to Your Majesty to learn that a literate scholar such as myself is the de facto leader of the Giants of the Reach. It is the ignorant and erroneous belief of the smaller races that we value only brute force and barbarism - a prejudice reinforced by the tragic and preventable actions of certain brash members of my society. In fact my people have an ancient history and take great pride in our contributions to nation building, even though the smaller races have  fallen from grace and no longer speak of our deeds. Perhaps it is your shame, or perhaps it is simple ignorance. Let it be known that I am from the noble kingdom of Karstaag in the lands of Atmora, in the days of the distant green summers.
+ 
+     
+A parable from our sacred traditions, perhaps, to break the ice? You style yourself Mother of Dragons. It is an admirable title and one I am familiar with, though I assign it to my matron Kruhnstaag. Kruhnstaag is the great Hawk-Dragon of Atmora. She  breathed life into the mortal races atop the Throat of the World before departing this world. All Giants and Nords remember this story. You may know her by a different name - Kynareth - but to my people she is as wild and old as the bones of the earth. Kruhnstaag had a husband, Ysmaalstaag, who was less kind and only loved Dragons. He forced his suffering wife to give them her Breath, and they enslaved my ancestors cruelly. He impregnated her with a dark seed containing the essence of Misapthropy - Thartaag, the World Devourer. He devoured his mother first, then his father, and hated both Men and Dragons, enslaving both to his foul will. Thartaag contained the essence of the Void Ghost and no weapons of our people could harm him. Many of my ancestors submitted to his abominable will, and accepted his wicked gifts, slaying our little cousins the Aldmer, consuming their flesh in imitation of their wicked masters. The wicked demon Hermortaag encouraged this, using double-edged language to trick my cousins.
+ 
+For this sin, those Karstaag-Men who consumed the flesh of mortals became diminished. Generation after generation of this savagery rendered them tiny. Their flesh became soft and vulnerable. Their ears became small and rounded. They lost much of the Woad and Wind-Talking of their glorious ancestors, but some of us never forsook Kruhnstaag. We could feel the essence and the love of our Mother as her spirit wailed in the gut of the Defiler. We learned that a Wyrm that only devours is a thing to be destested, and many Nords and Karstaag-Men secretly hated the Dragons, but most of all we hated Thartaag who lorded over them.
+ 
+The Prime Herders - kin to Kruhnstaag and Ysmaalstaag - forsook Atmora for the sins of its sons and daughters. The blood of the little Elves and the cruelty of the Dragons and their wicked, greedy god sucked all of the warmth and love that the handmaiden Mahrghaag had protected the continent with. This coldness seeped into the hearts of Man and Giant, and they warred among themselves. When the warlord-scout Ysgrim returned with tales of a new world and the cruelty of the Elves there, some of my kin were swayed to his cause and followed him to Tamriel. These were my people. They stood proudly among the 500. Sinmuurtax of the Azure Lakes carried our standard into battle, and our mighty Tongues blasted Falmeri cities into dust.
+ 
+These were our mighty deeds, but Sinmuurtax became dark and felt the call of the Void Ghost, and many of my Kin became misguided and began to turn on our little cousins, and the blood-hatred sat in. To this day the Nords hate and distrust my kind, and so we keep to ourselves. We stood aside as our cousins trapped Thartaag with the power of the Matron. We remained silent and aloof as their endless, senseless war with all of Elvenkind continued. We retreated to our caves, our crags and our deep mountain valleys as your fledgeling Empire was born, and sent its tendrils North, greedily seeking souls like Hermortaag himself.
+ 
+ 
+Know this, Mother of Dragons. I serve the true Mother of Dragons. I am the keeper of the lore of the Wind, the Earth and the Waters. Kruhnstaag's body was devoured but her soul lives in the heart of every giant. We will never renounce the Old Ways, nor shall we turn against our little cousins in the Reach, who have shown us more generosity and support than the so-called "civilized people" you represent. Your Amulet of Dibella is a fine gift. I know her as Behlataax, She Who Paints Swirls. We use her Woad to represent the true Matron of mortals. Your great hero Morihaus knew this power. He nor his wise lover would dare to ask my people to commit blasphemous and aggressive acts against our little Reach brothers and sisters. Though they often worship the Void Ghost and their ways are not our ways, they at least respect us and our herds.
+ 
+ 
+It is without regret that I must inform you that my armies will not be joining your crusade against the Reachmen. You may have more luck with the savage tribes farther in the mountains. Many have allied themselves with the god of the little green people - Malak. Even they have honor and can smell a snake from a mile away, however, so my advice would be to tread carefully in the Reach, and to leave our herds alone. Even the gods can't save you from a mammoth stampede, little Empress. I can't promise I'd discourage such a thing if I found your armies on my doorstep.
+ 
+May the old and new gods keep you and may you reconsider this foolish war of yours.
+ 
+ Yours respectfully,
+Gormtaag the Rune-Speaker

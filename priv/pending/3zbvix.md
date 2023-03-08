@@ -1,0 +1,15 @@
+---
+title: "On Runes And The Makeup Thereof"
+reddit: 3zbvix
+author: ArtemosHyre
+date: 2016-01-03T22:39:09Z
+---
+
+Runes are a unique feature of the Destruction school that few mages ever seem to dedicate themselves to. At first glance, they appear to be nothing special; however, their usefulness derives from being unnoticed. Unlike all other varieties of Destruction, runes allow for mages to imbue power into a distant spot that won't cause any damage until physically breached. Runes are created when a mage psychically imbues magicka into a shape, such as a circle from a distance. Runes' strength derives from both the magicka imbued and the order and precision of the figure drawn - thus, circles and other regular polygons are usually used for inscribing. If the order of the rune is broken (i.e. stepped on, fired at, etc.), the seal of power imbued is released. The simplest of runes, and thus weakest and rarely ever used by a skilled mage, is a basic circle imbued with raw magicka. When breached, it releases whatever little power with which it was imbued - usually resulting in a small, quick flash of raw magicka. Smarter mages will choose to imbue magicka along with an element into a rune, such as fire or frost, to increase its effect.
+
+Stronger runes used by experienced mages utilize an additional power: Daedric letters. When a mage scribes a Daedric letter into a rune, they are now no longer simply imbuing magicka and an element into a rune - they are tethering part of the rune to Oblivion itself. When the edge of the rune is breached, the tether is broken and the snapping-back of reality results in a much stronger burst or explosion. Certain letters, such as *HEFHED* (**F**) and *SEHT* (**S**), ease the process of imbuing as it is much easier for a mage to associate the concept of **F**ire with *HEFHED* in an otherwise complex figure. Doing so can raise problems, though, as Oblivion has a tendency to not do exactly what a mage wants; thus, more Daedric script must surround such a rune to ensure that the tethers are stronger and stable and won't explode at unintended times. This surrounding script often contains letters corresponding to elements opposing the rune's imbued element - such as *HEFHED* (**F** for Fire) and *LYR* (**L** for Lightning) surrounding a Frost rune with *SEHT* (**S** for Snow). Doing so protects the stability of the rune while not altering the resulting explosion.
+
+Some mages have recently experimented with imbuing runes with powers other than simple fire or frost. Runes that coat the area around themselves with poison or quickly-solidifying ash have appeared in Solstheim as of late, showing that runes have a practical application if studied outside of the Destruction school. A skillful Illusion mage may even imbue madness into his or her rune to afflict minds with frenzy when activated. By all means, a rune that banishes a daedra or conjures a plethora of sweetrolls is likely right around the corner.
+
+*Artemos Hyre, scholar of Destruction at the College of Winterhold, Skyrim*
+

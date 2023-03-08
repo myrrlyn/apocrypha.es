@@ -1,0 +1,30 @@
+---
+title: "Velothi Void Striders: A Report"
+reddit: 2qfn6s
+author: RideTheLine
+date: 2014-12-26T08:59:29Z
+---
+
+They used to be much more common, back when we lived above. They were often described as shadowy spiders dancing across the heavens. These Void Striders form a major component of the Velothi military, and were a key element in our exodus to the skies.  
+
+At the turn of the Fourth Era to the Fifth when Nirn would die, a massive Dwemeri lexicon was unearthed from deep below Arkngthunch-Sturdumz that allowed scholars to translate many ancient texts from the Dwarves. Essentially, the Dunmer people became able to recreate certain processes used in construction of the Numidium, albeit on a much smaller scale due to the essential lack of Tonal Architecture. The Dunmer also lacked a central power source such as the Heart of Lorkhan, or the Mantella. These new Beratumidiums, or "Minimidiums," as they began to be called, would instead be mer-powered.  
+
+High-ranked and well-decorated soldiers were selected from the military to participate in the project. They were entombed in hulking suits of metal forged in the ancient sciences of the Dwemer. Soul gems would be constantly fed to the suits through compartments on the back which were self-replenishing as the weapons received Soul Trap enchantments. The combination of high amounts of magicka and small amounts of Tonal Architecture would give the soldiers a small amount of Numidiums reality-warping realities, enough to distort space and time within an area, but not enough to properly time travel or destroy universes. The suits also provided immense speed and strength, and came equipped with an arsenal of enchanted weapons.
+
+Project *Kogobalmer* was not completed until just shortly before Landfall. The weapons were kept hidden from the public to prevent outcry over the dangers inherent in attempting to replicate the Numidium, as well as to prevent any sort of political subterfuge. All of Nirn would want this technology.  
+
+The first documented sighting of a Beratumidium was during the Battle of Nurkik-Esk when a Thalmor unit attempted to march on Necrom. All reports detail Ordinator-like figures of approximately nine feet in height, each one gave off an awesome golden aura (it is unknown if the sun reflected off the metals or if the auras were a result of some sort of reality warping).  
+
+The public became terrified of the metal giants that now constituted their military. Opinions only became worse when it was discovered that the first wave of Beratumidiums were permanently encased in the armor. The first attempt at removing a soldier resulted in parts of his body being teleported all throughout Tamriel. The first-wave Beratumidiums were forced to serve and protect for the rest of their lives. Depression became rampant amongst the mer as they were forbidden from going into public, and were held inside bases. The lack of outside contact caused many of them to develop hallucinations and paranoia. They begged for nothing but the release of death, and feared the temporal manipulations of the suits would forbid them from aging.  
+
+Indeed, when Landfall finally struck, not a single first-wave Beratumidium survived. Whether that be from them simply being unable to defend themselves from the destruction, or acts of suicide in the line of duty is subject to debate.  
+
+A new generation of Beratumidiums were designed, these, however, emphasized the armor as a suit rather than a coffin. The Beratumidium Mk. IIs were not successful, in any means. These suits were actual sets of armor meant to be worn in pieces much like conventional plate mail. The plates left easily exploitable gaps, and the emphasis on efficiency removed most of the power that made the originals so terrifying. Most soliders were transferred into the Beratumidium Mk. III program when the Mk. IIs were discontinued.  
+
+The Mk. IIIs were only slightly smaller than the originals, but came with just as much firepower, if not more. The soul gem battery was moved inside the suit so enemies could not reach it. Magical apparatuses were added to the shoulders that could fire blasts of magicka at the wearer's will. The most notable improvement, however, came from how the suits linked to the wearers. Operators were given slim suits constructed from Dwemer materials to wear beneath the armor. The armor would link to the suit, rather than the operator, and would leave him free to depart the armor whenever desired.  
+
+In this post-Landfall world, the Beratumidiums fell out of usage. Land warfare became nearly non-existent to due to the lack of civilization left on the moons. The technology was adapted to the times and birthed the iconic Void Striders.  
+
+Void Strider operators wear suits just like those in the Mk. IIIs, and link into their machines just the same. Their armors, however, are almost nothing like the previous models. They are avian in appearance, with two large wings, one on each side, to aid in stability when near planet-forms. Two legs reach from the central pod, and can retract into the body. They are designed to be sleek, as warfare in the Void of Oblivion often ends in one solid hit. The machines are optimized to be flown through Oblivion either as fighters, delivery vessels, or, uncommonly, transports. Air is regulated through on-board filtration systems, magickal weaponry adorns the wings, and the central pod is lined with sensors of all sorts. The pilot can control the machine much like how we control our own bodies due to the link system. The training for which is incredibly difficult and highly selective. Acceptance into the Void Strider program is a great honor.  
+
+We get so few attacks here in the Velothiid because the Void Striders repel any incoming Daedra, bandits, or whatever other horrors lie beyond the darkness. Though their usefulness dwindles as we slowly became the sole mortal residents of Mundus, the Void Striders have protected us for generations, and will rise to combat any new threat that endangers our people.

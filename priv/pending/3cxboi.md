@@ -1,0 +1,26 @@
+---
+title: "The Merchants' Festival of 2E 582: Black Fredas"
+reddit: 3cxboi
+author: Minor_Edits
+date: 2015-07-11T16:39:13Z
+---
+
+As all know, the Mages Guild does not make deals. A standard price is set and paid in gold, with almost no exceptions. So when the Guild came to High Rock, it repudiated one of the most time-honored and widespread traditions of the land: the Merchants' Festival. On the 10th of Sun's Height every year, every major city had their own Merchants' Festival, as they do today: all honest merchants in the land of the Bretons open booths in the town squares and drop their prices by at least half. 
+
+The origins of this holiday were lost to time, but amidst music and merriment, and perhaps a bit too much Gods-Blind-Me, all the peasants who had been saving their money for months would congregate to give praise to Zenithar and take advantage of extraordinary deals. But the refusal of the Mages Guild to participate soon sparked other merchants to do the same, at least in spirit.
+
+Many merchants continued to promote "deals", but carefully manipulated their quantities and prices so that they were actually raising the cost for relatively shoddy goods. The sleaziest of merchants made fortunes. The "festival", if it could be called that, continued to limp along for many years with fewer and fewer participants. With the outbreak of the Three Banners War, celebrations in some cities disappeared entirely. Scholars attribute the final nail in the coffin of the Merchants' Festival to the events in Wayrest in 2E 582. The festival there, which fell on a Fredas, would be the last of its kind during the Second Era.
+
+As the sun came up early that morning, an old cook set up a stand by the fountain in the near-empty Wayrest town square. But he was not greeted by the frenzied crowds of his youth. Rather, the people he encountered turned out to be disguised Daedric cultists in the service of Sheogorath. After a series of bizarre trades, they began bowing to the bewildered cook, then dancing around him.
+
+Before anyone knew what was happening, their ritual was complete: the sky went dark as thousands of maddened people and creatures suddenly poured into the towns square from a portal to Sheogorath's realm. The Wayrest Guard tried to organize a response, but they were vastly outnumbered almost immediately.
+
+More importantly, the guard didn't seem to have anything to fight. Witnesses recounted all manner of inhuman blasphemies and indecent acts being performed. Citizens claimed to be able to hear the inhuman cacophony leagues away. Yet, there was no violence. At least, not against any locals. High King Emeric met with advisers throughout the morning, but they were perplexed on how to take back the heart of his capital city. The fear was that if the mob became enraged, their sheer numbers would have allowed them to lay waste to the castle.
+
+The townsfolk tried to barricade themselves in their homes, but the hordes of madmen soon sought them out and did the last thing anyone expected: they began offering trades. Sheogorath's subjects, it seemed, were coming to Wayrest to make sure the Merchants' Festival got the attention it deserved. They were still mad, of course, which was reflected in their bartering.
+
+One Breton homeowner was confronted by a Nord berserker who demanded the deed to the property in return for some used fishing bait. A local Orc weaver received a marriage proposal from a talking monkey, who wanted her skin as a dowry. The old cook later claimed he was actually able to do a fair amount of business with a well-mannered skeleton whose rib cage was bursting with the hearts of daedra. But the madness went further than trade. Unnatural lights danced across the sky, Frog Men referred to as "Bally Wogs" swam through the cobblestones of the square, and the statue of King Farangel at the center of it all turned around and performed lewd gestures in the direction of Emeric's castle.
+
+Whatever levity these things brought was dashed when, after several hours, the madness finally claimed a life. A young Redguard woman named Murya was quite suddenly pounced upon and dismembered by a yipping werewolf, who was believed to be one of the cultists who started the mess. Guardsmen spotted this atrocity from the parapets of the castle, and a Captain Ernele gave the order to attack. The guardsmen began hacking and slashing their way through the crowd, but the madmen still did not retaliate. Instead, they offered Murya's body parts in trade. As their fellows were stricken down in front of them, the madmen found even more parts to offer in trade. The young guardsmen soon ceased their assault out of shame and horror as the surviving madmen held up for their inspection the entrails of those they had already slaughtered.
+
+High King Emeric, a true merchant at heart, eventually found the solution: for a scant 1 gold each, the madmen all returned through the portal and sealed it behind them. The town square was left bloody and silent, the palace coffer empty, and the unnatural darkness was replaced with a natural twilight as Black Fredas drew to a close. For many years to come, no one would hold another Merchants' Festival, out of fear that if the people did not pay sufficient heed to it, then Sheogorath and his followers most certainly would.

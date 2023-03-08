@@ -1,0 +1,25 @@
+---
+title: "On Orcish Casual-wear"
+reddit: 2x4yyw
+author: gro-Muluk
+date: 2015-02-25T18:29:16Z
+---
+
+*You can imagine how excited I was when I first started ESO and found out I was right about Orcish clothing having a bunch of straps and embossed details.*
+***
+As you’re all aware, the Orcs have a long-standing history and reputation of and for their superior armorers, weaponsmiths and general smithing practice. The smell of burning metal hits your nose the moment you enter Orsinium’s southern gate, which gives one a good idea of what to expect within the walls. However in recent years, with the reinstatement of Orsinium to its provincial status, there has been an influx of Orcish common-wear and at-home clothing breaching the walls and finding their ways into Breton and Nordic homes. While you all may expect Orcish clothing to consist of drab, uninspired designs and colors the style is, dare I say, iconic and even intriguing. 
+
+**The Orcs of Wrothgar and outer-Orsinium**
+
+The first thing the expert clothier will notice when examining an orcish shirt or robe is the careful stitching around the joints. Each seam is incredibly tight-knit and hardly visible— something few of us expect from the stereotypically large and brutish hands of an Orc tailor. The whole piece is tied tightly together under the abdomen and around the arms with strategically placed straps which may or may not be tightened depending on occasion, which speaks to Orcish practicality. Further from said practicality of Orcish smithing are the obvious aesthetic embellishments of the common garb. More expensive and intricate robes and shirts are often decorated with lines of tightly-woven colored thread that resemble closely the embossing and engravings of Orcish heavy armor. More often these come in shades of beige and green with white and black accents, though members of the court may don red and richer greens. Small trinkets and baubles, such as feathers, may also hang from the collar or waist, which adds a sort of cultural flair to the mix. The most common theme present across all the clothing I’ve come by, is the tightness around the wrists and waist. It reminds me of any proper set of bracers, so perhaps old habits die hard.
+
+Cotton seems to be the favored material, followed closely by kresh of all things. You’re more likely to find cotton pieces at your local tailor than you are out in the field, which is where I believe the hardy and water-resistant kresh trend comes from and although not a hardline tenant of Orisnium’s army, a battlemage will most likely be wearing a kresh robe. Followed closely by cotton and kresh, though for the sturdier of character and the less fashionably-inclined, is leather. Leather pieces follow a similar pattern and utilization of practical straps, but otherwise remain largely solid pieces worn by smiths and foot soldiers and will not be discussed at length.
+
+**The Orcs of the Southern Dragontail Mountains and Eastern Hammerfell**
+
+Our cousins in the deserts of Hammerfell are not so far removed as to have a completely radical sense of style and design, but the differences are clear due to different geographical needs. Tight, careful stitching does not follow through further from Orsinium and is instead replaced by larger, cruder cross-stitches made with strong leather straps. Perhaps the practice is borrowed from the Redguards. The typical straps we see under the chest of most Orcish lightwear has been replaced largely by singular cloth holds, tied in place around the waist and often embellished with pieces reminiscent of loin cloths. Pants are tighter than the lax breeches of northern Wrothgar and are often tied about the ankle to keep out sand and dust. Hoods are also far more popular; whereas in Orsinium they are worn primarily by mages, the Orcs of Hammerfell wear them to keep the sun off their faces. The patterns on scarves and headdress are vaguely similar to Imperial houndstooth and checkered blocks.
+
+Cotton remains a popular material here as it is easy to wash and very resistant to dust-exposure; one can go a full day in the desert with a cotton jerkin and only have to wash their hands and feet. However even more popular than cotton I’ve come to find, is spidersilk. You may not expect such a lavish material to be in popular use within an Orcish community, but perhaps the isolation of the Dragontail clans has lead to more leisure time and cultural exploration. Or perhaps the lack of natural cotton in the dry mountain steppes leads to a need for other materials. Pieces woven from silk are often very colorful and reminiscent of the cotton robes worn by court officials in Orsinium, though instead sported by commoners.
+
+I personally hope my fellow Orcish siblings continue this trend of clothing exploration and expansion, as I have no idea how to craft myself. I look forward to my second trip to Orsinium where I hope to arrange a meeting with Morothmash, King Kurog’s head advisor; though I hear there’ve been some problems between the two...
+

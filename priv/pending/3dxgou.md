@@ -1,0 +1,37 @@
+---
+title: "Ulfric, Behind the Mask: The Ulfric I Know"
+reddit: 3dxgou
+author: CreamWafers
+date: 2015-07-20T09:55:38Z
+---
+
+[Previous Chapter (Preface) - "Warning!" AND Table of Contents Link-Hub](https://www.reddit.com/r/teslore/comments/3dx4pn/ulfric_behind_the_mask_warning/)
+
+-------------------------------
+
+THE ULFRIC I KNOW
+
+I explained before that I am a Nord. That was a tiny bit misleading. It’s undoubtedly true that I am a Nord, but that would imply that I was born in Skyrim, which I was not. I was born and raised in northern Colovia in a community composed exclusively of Nords. I went to a small school in County Bruma. You’ll never guess whose desk was right in front of mine.
+
+Ulfric was born in Eastmarch, due to inherit the title of Jarl from his father, but for some reason he spent a great deal of his childhood in that Bruma schoolroom, sitting in front of me. We were never close friends so I never learned exactly what brought him to Cyrodiil, and I assumed it was some mysterious Stormcloak family trouble. Even now that chapter of Ulfric’s existence has somewhat fallen from common discussion – even among the politically savvy. The Stormcloak family has declined in importance over the past couple centuries, its only preeminence lying in the line of Windhelm politicians, and the average Skyrim citizen outside Windhelm will assume that Ulfric lived in Skyrim all his life.
+
+And that assumption isn’t really fatal in itself. On the surface, Ulfric’s childhood hometown (not even his birthplace) has little present significance. We were all ethnic Nords living more or less like the Nords in Skyrim. But venture a little ways past the surface and you will find immense significance. I’ll get to that later!
+
+So Ulfric and I were schoolchildren in northern Colovia. It was a time when we were both sorting out our priorities and interests. I, for instance, developed a fascination with powerful leaders. Usually powerful in a tyrannical, evil sense – Jagar Tharn, Potema, Camoran, you name it (and this interest of mine never died, as I see a new tyrant developing now and feel more than glad to write about him). Ulfric was, ironically, similar to me. He was obsessed with Tiber Septim – and not in an admiring sort of way. He hated the guy. He was very determined in his arch-nemesis complex with Tiber Septim, scouring tomes and journals for every bit of ‘ugly truth’ on Septim’s rule. Imagine an eleven-year-old Ulfric laughing his head off over sordid conjectures about Septim’s personal (really personal) life.
+
+Another element to surprise you was Ulfric’s curiosity about the elves. Granted, we were a little Nord school with a History class that mainly focused on Nord stuff plus some obligatory second-rate lessons in Cyrodiilic history (we were, after all, in Cyrodiil), so that left some of us wondering. But this attitude still is hardly what one would expect from Ulfric. Alessian slave rebellion – “What about the Ayleids?” Ysgramor’s conquest of Skyrim – “What about the snow elves?” Make of that what you will.
+
+The Ulfric I knew in Bruma was a sentimental child, often absorbed in whims and chains of abstract thought. He was developing a disdain for the Empire which was common among the Colovian youths. This was somewhat inflated by his Stormcloak heritage. He developed the misguided idea that the Cyrodiil border was holding him back, and he would enter Eastmarch with well-established anticipation as a sort of celebrity. Ulfric could hold onto his Stormcloak family status as an emblem, and that was the only real Nord pride in him at the time (although I also detected some scorn towards his future prospect as Jarl – I suspect he disliked the sense of obligation, or the fact that a path had been laid out for him). The rest of his skull was filled with a bunch of disorganised, unfocused ambition – yet I am convinced that Colovia represented, and still represents, his sacred Homeland, and a part of this ambition will always gravitate towards Colovia.
+
+My quasi-analysis implies that Ulfric was different from the other Nord kids in some subtle, mystical way, besides the fact that he would become Jarl of Eastmarch. He wasn’t. Any of us could have been Ulfric in soul and spirit. It was a gambling game.
+
+What gambling game? The Summons! ~~Shriveled Mountain Men~~ The Greybeards! High Hrothgar! The Thu’um! Now this is where it really began. I mentioned Ulfric’s preoccupation with whims and symbols and whatnot – well this was a huge vindication thereof. It renewed Stormcloak prestige and ignited Ulfric’s cultural pride. All of his wrong assumptions would turn right. He would enter Skyrim as a celebrity. A mythical hero even. This hope-driven warping of falsehood into truth would become a big tactic of Ulfric’s, mark my words.
+
+Anyways, Ulfric was called to High Hrothgar by the Greybeards to become a Greybeard. He was seventeen, already in an important transition to adulthood (older than Stormcloak supporters like to imply, yes?). He had a few months to wrap up school before trekking away to the peaks of Snow-Throat. In this time, he forgot about Cyrods and elves as quickly as possible and proceeded to get profoundly obsessed with ancient Nord culture, as seemed appropriate. Atmoran exodus. Dragon cult. Animal gods. ~~Smut of Fjokki the Bard~~ Poetic Edda. Honestly, I already knew this Greybeard thing wouldn’t last. He seemed much more fixated on the Poetic Edda. Maybe even prepared to spend the next few decades writing his own bit – if only.
+
+Ulfric’s fire of Nord Fanaticism was now blazing. What actually happened in High Hrothgar I can only assume was Ulfric forging a sharp faith and patience in said fire. And learning the Voice. Other than fixing the Bruma accent, of course, this would prove quite significant as a symbol and Ulfric’s introduction of force to his current struggle for power (the Reachmen and the late High King know).
+
+He would never be a Greybeard; in fact, he would come to resent the Greybeards. Ulfric's training did not calm his ambitions. If anything, it strengthened them, and taught him the chilling patience that any good tyrant needs. Through a shattering Thu'um, Ulfric would make the people cheer with outbursts of force that were mostly symbolic and catered to public opinion, while patiently concealing his deeper intentions. Long story short, the Greybeards played a cardinal role in making Ulfric Ulfric. The Voice training bottled the ambitions up for when the time was right and there was a manifest cause to latch onto. You can probably guess what cause that was – a hint is that it started with a high elf messenger entering Cyrodiil with a nasty ultimatum in hand. But was that even a cause, or was it a validation of a more abstract motive? Another hardship to hone Ulfric's keen will? Was Ulfric even aware of this?
+
+I said I would address the question: why was Colovia important? For one, it tied Ulfric with Cyrodiil. He would fight in the Colovian army. That region would be the key to his participation in the Great War, which would in turn shape the plans he hides from you today - intentionally or not. That war was what I will, reluctantly, call the First Great War. I fought in it. Alongside Ulfric, believe it or not, so I have firsthand evidence to say this: if my theories are right, and nothing changes, Ulfric’s ties with Colovia will be instrumental in a Second. I’ve dropped some hints as to why. But this is all for a later part – this chapter must come to an end!
+

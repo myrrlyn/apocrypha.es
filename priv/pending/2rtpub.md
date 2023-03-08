@@ -1,0 +1,14 @@
+---
+title: "A Nord Blacksmith Talks About Quicksilver"
+reddit: 2rtpub
+author: DuncanTheSilent
+date: 2015-01-09T04:39:23Z
+---
+
+Quicksilver’s a strange kind of metal. It has the consistency of lead, very soft and malleable, and it compresses the more you beat it down. It doesn't deflect force away like most metal armors do, but instead absorbs it, and when put under the right amount of heat, it actually expands. Yes, all metals expand when heated, but this is more akin to adding yeast to get dough to rise. Set an ingot of quicksilver on the forge and after an hour it’ll resemble a molten loaf of bread. Make absolutely sure that you heat it at the right temperature. Quicksilver has an unusually low melting point, and I've made the mistake of setting my heat too high and watching my billets liquidate almost instantly and nearly ruin my forge. There’s a narrow range of temperatures in which quicksilver is workable while hot, keep the heat low and you should do fine. 
+
+
+Quicksilver can take a beating and it's best used for thick, shock absorbing heavy armors. You’ll need steel for the basic frame of the armor and the quicksilver is added on top of that. The best quicksilver armors also incorporate ebony into the key stress points, so this is a good armor to make when you first start working with ebony. It's excellent defence against blunt weapons especially. But even after a few battles it'll start to warp and not fit or protect as well, so it's not an ideal field armor. It's much better when you can make constant small repairs and treat it with heat to "re-fluff" the armor, so you see it more in cities and it has always enjoyed a vogue among Nordic champions in the Arena. Quicksilver armor is also quite vulnerable to Destruction magic, especially fire, which welds the joints shut and may even start to melt while the person is still wearing it. It's no fun having your own armor melt your flesh off, is it?
+
+
+As I mentioned before, you can hammer down quicksilver until it’s very compact and this crushed quicksilver is very tough with just enough give, resembling soft steel. It makes for excellent weapon cores; quicksilver core weapons handle stress better than steel, so weapons can be made more slender without running the risk of snapping the weapon. It’s too soft a metal to use for edges, though, so use some steel for that. Quicksilver also pairs well with other metals like steel and moonstone, though the difference in melting points makes combining the two tricky. On a historical note, the ancient Nords loved to use Quicksilver for their finest ceremonial armor when they couldn't find enough ebony and because the metal is so soft when it expands, they used to work intricate carvings into their armor that just aren't feasible with ebony. There were some fine specimens up in a museum up in Winterhold that unfortunately fell in the Sea of Ghosts during the Great Collapse. I remember when that happened. Just terrible.

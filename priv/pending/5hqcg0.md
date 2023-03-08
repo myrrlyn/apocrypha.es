@@ -1,0 +1,85 @@
+---
+title: "\"Tiger, Tiger ...\" - The Stripe-Cats of Ald Cyrod and Beyond"
+reddit: 5hqcg0
+author: Tyermali
+date: 2016-12-11T14:44:59Z
+---
+
+#"Tiger, Tiger ..." - The Stripe-Cats of Ald Cyrod and Beyond
+
+Once, there were Tigers in Nibenay. Not [Senche](http://www.uesp.net/w/images/0/0b/ON-creature-Tiger.jpg), mind you, even if they might be related somehow if we take Florin Jaliil's comment on Topal's "[cat demons on four legs](http://www.uesp.net/wiki/Lore:Father_of_the_Niben)" into account, or [this poor creature](http://www.uesp.net/w/images/c/cd/DF-quest-Runaway_Pet.jpg) or the [Rhojiit](http://www.uesp.net/wiki/Lore:The_Tale_of_Dro%27Zira) of Ra'Wulfharth. I'm speaking of the vanished Stripe-Cats of the Heartland as heard of in [this tale](https://www.imperial-library.info/content/water-getting-girl-and-inverse-tiger). Let's discuss their lore, how the motive might serve as a symbol for wonderment and imagination, awe and fear, and how it is a cipher for the problem of realizing such an impressive image at all, what Tiber Septim might have to do with it and how MK's work ties in with a long and celebrated literary tradition of this motive. 
+
+Let's first recall **"The Water-getting Girl and the Inverse Tiger"**, the Emperor's favorite bedtime story, in some excerpts: 
+
+&gt;The Emperor’s fascination with tigers has been documented elsewhere, though it is this translator’s belief that it was Orylon’s particular nature that colored that appeal.
+
+So this story, in the magical words of a children's story, probably inspired by classics such as Kipling's Djungle Books and Carroll's Alice combined with Borges' Tigers (see below) is a rare key to Tiber Septim and has to be read with the Emperor in mind – Tiber Septim, whose "breath in royalty" transformed the jungle in MK's reboot and who is recognized by Vivec as a Master. 
+
+&gt;Orlyan the Inverse Tiger of Cyrod, Black with Orange Stripes, Old Stony, Lord of Dark Fleas and Cake Batter, Always Roaring!
+
+The villain is an "Inverse Tiger" who also appears as a Stone and has a preference for cake. Later, he was referred to as "Caker King" in the Magne Ge Pantheon (again, see below) 
+
+&gt;[The Kothri villagers near a river branch of the Topal] were surrounded by jungle, a great batch of it between their huts and their portion of the river, and tigers were everywhere in those days hide-hissing in the trees. A three-beat for Tigers! Klo! Klo! Klo! So glad you are gone! You ate us! We will make due with pigment drawings! A four beat for their demise! Klo! Klo! Kloppa!
+
+&gt;“The stripe-cats are out! They did not sleep last night because they can hear better than we can and the skirmish where our men are (while far away to us is cat-senses-close to them) is keeping them up and hungry!”
+
+This are serious reasons for tiger-fear. 
+
+&gt;And she was almost to the water before any tigers found her at all, but they surely did! “Don’t run, little water-getting girl!” they said (there were maybe three or four, I forget!) “We will kill you quick, we promise, but only if you don’t make us run!” 
+
+Tempting, debauching and incredibly lazy, those cake-feasting Tigers are. 
+
+&gt;She ran so fast that she was able to find a giant rock to hide behind, hoping the tigers would lope right past her. And they did! [...] After a while, it all seemed safe, and that is when the giant rock spoke up! (You heard me!) [...] So Perrif began to push, unearthing the rock from the tangle of the jungle floor, and it seemed very light to her despite its size, but she explained away the ease of the effort by tiger-fear (which was still on her!). [...] Wash me up up up and see! A familiar face! Too long gone! [...] Perrif gasped! The rock’s face had a wide nose and heavy-lidded eyes and a mouthful of stony fangs, for all the world looking like a big-assed tiger head! She screamed, “Wait, you looked different before!”
+
+Now this is when Orlyan (on a side note, the name might be a nod to Glorantha's manyfold Orlanth), the Inverse Tiger, reveals his true, familiar face. The Stone becomes a Tiger becomes a Stone, either for true or rather because of that little girl's tiger-fear. I think she primarily sees the Tiger because of growing panic and because it's a nursery demon of her local tribe, a monster she heroically has to overcome later. But now, she interpretes the stone as a different thing altogether because she's dominated by fear. I think Orlyan is kind of Molag Bal – MK gives a broad hint with "I am a Verily Stone! / Ge yni V’arla Bal!" (Bal meaning Stone in Ehlnofey), Molag Bal from which Vivec and Tiber (see TS's Sword-Metting with Cyrus the Restless) learned their Mastery. RottenDeadite wrote an [essay](http://www.newwhirlingschool.com/essays/vivecamaranthlife.php) on domination and how it can be utilized by those on the path of CHIM. Perrif is definitely ruled by fear and somehow manages to turn this into her initiative: 
+
+&gt;Now by this point little Perrif had become so overcome by tiger-fear that she yelped despite herself, kicking the big rock! [...] And WHOA did the stone start to roll down the hill going WHOA-HO NOW towards the river but little Perrif didn’t notice because the tiger-fear made her run, run, run! [...] KER-SPLASH! The stone sunk like a rock.
+
+... which saves the telling and leads to a happy end, and we all have learned something about tiger-fear and the powers it can unleash. Tiber Septim enjoys this children's story not only out of admiration for Orlyan's changing nature, but also the way how Perrif acts here. This might have been inspiration to search confrontation with his own Verily Stone later. 
+
+&gt;Perrif: "No kidding. What happened? You were just a normal hiding rock and now you look like a stripe-cat!" 
+
+Just want to point out this line because it shows, in my impression, the influence of the Alice novels on this story. In both texts we have that little brave and curious girl and perceive the world through her eyes, we have a certain comic absurdity (like when Perrif outruns the lazy, cake-eating Tigers) and anthropomorphic animals. Suddenly, the strangely color-inversed Tiger is a Stone, and the story follows more the rules of a nonsensical imagination than actual possibility. You don't have to be Professor Antabolis to realize that this, by all logic means, is rather unlikely - now of course Tamriel is a world of myth and magic where shape-shifting is much more common, but that's always explained 'technically', within the extended laws of this world and besides the point, for in narrative terms, this scene is about how imagination (tiger-fear) overcomes a more rational, grown-up logic, which leads to more or less nonsensical literary possibilites. Septim might have strived for something similar, seeing the potential of this threatening Change-Tiger. 
+
+On a sidenote, a figure comparable to Perriff (the namesake is clear – according to the Five Hundred, they're all named Periff) named Aless shows up  in an Aldudagga fight where she beats Dagon with help of Morihaus. "To which Aless could only answer: 'It's a really long story, guys.'"
+
+So the tiger motive, realized as tiger-fear, might be very well a waystone on the pathway to Mastery/Royalty/CHIM. The weird Tiger also appears in another MK text, the Magne Ge Pantheon: 
+
+&gt;**Caker King (Blend Sign)** – The savannahs and jungles of Ut Cyr are lost to us now by the machinations of unknown Towers. Caker King was a mighty Tiger in those days. As such, he ruled a Principality that invited the rest of the Great Cats into the Den of the Hiss-and-Bite-Accord, a tradition now copied to different effect by the similarly-vanished March of Snakes. The royal stations of Great Cats have long-since become lost in the annals of celestial treaty. Caker King’s Tiger aspect is today only fashioned as a Stone-Leap of his last majestic hunting.
+
+Caker King of the occult Ge Pantheon from the in-between heavens, playing in the "many-and-shattered floating untimes". Here it becomes clear what was already mentioned by the narrator of the children's story: Tigers are gone now, even if they were hissing everywhere in the tress back in some mythic age and memory. "So glad you are gone! You ate us!" Likewise, the March of Snakes has disappeared. The reason is not that clear, "machinations of unknown Towers", could be discussed in relation to Tower theories or even combined with CHIM, but I'm not sure and leave this more technical aside.
+
+Somehow, those ancient Tigers even manipulated the Tones by "Hiss-and-Bite-Accord", which sounds like a grandiose orchestra. But now, they're part of memory, majestic, forgotten, terrifying images from a times past and no actual threats anymore. The tigers migrated to Platon's side of things. At this point, Borges's Dreamtigers come in. 
+
+Now the borgesian inspiration of MK's writing (that small Ontologica Chimera is a direct rewrite of the Argumentum, for example, and of the Republic of Hahd is based on Tlön, Uqbar, Orbis Tertius) has been mentioned many times, and I think the Tigers of Ald Cyrod are another most straightforward example for this. I haven't read the whole Borges, and since this might be very well one of those "manifest metaphors" to mesmerize an author for his lifetime, this is certainly just a small selection: 
+
+&gt;**J.L. Borges, Dreamtigers (translated by Mildred Boyer)**    
+&gt;In my childhood I was a fervent worshiper of the tiger: not the jaguar, the spotted “tiger” of the Amazonian tangles and the isles of vegetation that float down the Paraná, but that striped, Asiatic, royal tiger, that can only be faced by a man of war, on a castle atop an elephant. I used to linger endlessly before one of the cages at the zoo; I judged vast encyclopedias and books of natural history by the splendor of their tigers. (I still remember those illustrations: I who cannot rightly recall the brow or the smile of a woman.) Childhood passed away, and the tigers and my passion for them grew old, but still they are in my dreams. At that submerged or chaotic level they keep prevailing. And so, as I sleep, some dream beguiles me, **and suddenly I know I am dreaming. Then I think: this is a dream, a pure diversion of my will; and now that I have unlimited power, I am going to cause a tiger. / Oh, incompetence! Never can my dreams engender the wild beast I long for. The tiger indeed appears, but stuffed or flimsy, or with impure variations of shape, or of an implausible size, or all too fleeting, or with a touch of the dog or the bird.**
+
+Note the emphasis, sounds like lucid dreaming for me, a realization which is of crucial importance in the process of CHIM. The conscious, dream-awakened dreamer creates his own Tiger image (under Love and Will and that), but it is instable and imperfect. So if we take the "Water-Getting Girl" itself as part of Tiber's chimurged re-realization of his own past, this might explain why we have an Inversed Tiger here, orange on black. 
+
+There's a Borges poem called The Other Tiger. I had to cut it into pieces to present it here:  
+
+&gt;**J.L. Borges, The Other Tiger (translated by Harold Morland)**    
+&gt;*"And the craft that createth a semblance" - MORRIS: SIGURD THE VOLSUNG (1876)*        
+&gt;I think of a tiger. [...] and I reflect / That the tiger invoked in my verse / Is a ghost of a tiger, a symbol, / A series of literary tropes / And memories from the encyclopaedia / And not the deadly tiger, [...] / To the symbolic tiger I have opposed / The real thing, with its warm blood, / [...] Makes it a figment of art and no creature / Living among those that walk the earth. / We shall seek a third tiger. This / Will be like those others a shape / Of my dreaming, a system of words / A man makes and not the vertebrate tiger / That, beyond the mythologies, / Is treading the earth. I know well enough / That something lays on me this quest / Undefined, senseless and ancient, and I go on / Seeking through the afternoon time / The other tiger, that which is not in verse. 
+
+It deals with the problem of mythopoeia (quoting Morris) and imagination – a real tiger is opposed to his symbolized tiger as reflected in verse, but he's going to search for a third tiger "beyond the mythologies" – perhaps a combination of the two to birth a third one, sky kissing the land again, mythologically spoken, or the final solution of idealism vs realism, a different thing behind the restrictions of both nature and symbol - as Vivec puts it, "To be affixed to a symbol is too, too certain."
+
+And there's a short story called "[Blue Tigers](https://en.wikipedia.org/wiki/Blue_Tigers)". It begins this way:
+
+&gt;**J.L. Borges, Blue Tigers**        
+&gt;A FAMOUS POEM by Blake paints the tiger as a fire burning bright and an eternal archetype of Evil; I prefer the Chesterton maxim that casts the tiger as a symbol of terrible elegance. Apart from these, there are no words that can rune the tiger, that shape which for centuries has lived in the imagination of mankind. I have always been drawn to the tiger. I know that as a boy I would linger before one particular cage at the zoo; the others held no interest for me. I would judge encyclopaedias and natural histories by their engravings of the tiger. When the Jungle Books were revealed to me I was upset that the tiger, Shere Khan, was the hero's enemy. As the years passed, this strange fascination never left me; it survived my paradoxical desire to become a hunter as it did all common human vicissitudes. Until not long ago (the date feels distant but it really is not), it co- existed peacefully with my day-to-day labours at the University of Lahore. I am a professor of Eastern and Western logic, and I consecrate my Sundays to a seminar on the philosophy of Spinoza. I should add that I am a Scotsman; it may have been my love of tigers that brought me from Aberdeen to Punjab. The outward course of my life has been the common one, but in my dreams I always saw tigers. Now it is other forms that fill them.
+
+The narrator then quests for a blue-colored dreamtiger in Ganges Delta. It combines a miracle about a wondrous multiplication of stones, dealing with mathematical problems Borges was fond of, with the traces of this endeavoured ideal tiger. The quote above also condenses the Tiger mythology and symbolism "which for centuries has lived in the imagination of mankind". To round off the literary precedents of MK's Tigers, here is the aforementioned Blake, exemplary for many more. Kipling named Shere Khan's Jungle Book chapter after that poem (personal suggestion: read this as a work of Kipling, not the Disney tropes!): 
+
+&gt;**William Blake: Tyger, Tyger! (1794)**    
+&gt;Tyger! Tyger! burning bright / In the forests of the night, / What immortal hand or eye / Could frame thy fearful symmetry?/ /   In what distant deeps or skies / Burnt the fire of thine eyes? / On what wings dare he aspire? / What the hand dare sieze the fire? / / And what shoulder, &amp; what art. / Could twist the sinews of thy heart? / And when thy heart began to beat, / What dread hand? &amp; what dread feet? / / What the hammer? what the chain? / In what furnace was thy brain? / What the anvil? what dread grasp / Dare its deadly terrors clasp? / / When the stars threw down their spears, / And watered heaven with their tears, / Did he smile his work to see? / Did he who made the Lamb make thee? / / Tyger! Tyger! burning bright / In the forests of the night, / What immortal hand or eye / Dare frame thy fearful symmetry? / / 
+
+So MK reworked the problem of Borges' Dreamtigers into basics for the concept of Royalty/Mastery/CHIM and added his Tigers of Ald Cyrod to a literary tradition from Blake to Kipling, all in form of a light-yet-meaningful nonsensical children story a la Carroll. In lore, we might read them as numerous Ge spirits, colors, emotions that following their disappereance entered the Library of the Sun and are only vaguely, imperfectly remembered, which leads to the difficulty that only a true Master could realize these nibenese tigers beyond the nature of both the current-day tigers and their known symbols &amp; myths. 
+
+Allow me to close with a lesser known poem by one of my most admired writers, Lord Dunsany, which originally led me into reading about Tigers again: 
+
+&gt;**Lord Dunsany, To A Tiger Passing My Tent (1938)**    
+&gt;Oh mighty voice that in the night went by /  And with the wild waste communed as it went /   Hurling that bitter sound, that fierce lament, / To jar the stillness between earth and sky, / What loneliness has fashioned such a sigh? /   Have you from some remoter star been sent /   Into that black and yellow tenement / To be a curse to Earth, at which you cry? / /    
+&gt;No, you are but the voice of earthly need:  /   The cheating of the city is no more / Than this same power making the powerless bleed.  /   This also is our voice when oft at war.  / And, you and we being thus, how should we cease / From the world’s way for any dreams of peace?

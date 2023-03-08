@@ -1,0 +1,33 @@
+---
+title: "Petition to the most eminent lord muthsera Redoran Tedor Hadril Releth"
+reddit: 6yusab
+author: EnricoDandolo1204
+date: 2017-09-08T13:33:47Z
+---
+
+In the light of the Three Everlasting, Most Merciful, Master of the Wheel, the Hidden Hierophant, at Blacklight, the calend of bold Felms under the Atronach in the 2984th year of the Tribunal, glory to the ever-victorious ALMSIVI, may They be exalted!
+
+Ignorant and worthless as the ashworm that the slave tramples underfoot Redoran Alendryl Verdras Kena prostrates himself most humbly before the most eminent lord muthsera Redoran Tedor Hadril Releth, honoured councillor of the Red, may his wisdom and might be the pride of his house for ten thousand kalpas, greetings.
+
+Having considered by what means I your most humble slave should dare address your lordship's benevolent presence, it occurred to me that your lordship values nothing so much as the divine virtues of fortrightness, boldness and honesty, which have ever been the mantle of this house; wherefore I at once resolved to subdue the awe and love I feel towards the diamond-like dust touched by your lordship's feet and submit to your lordship's benevolent presence the plea of a worm in the form of a common letter; for I, being a mer of letters and frail of body in my advanced age, have not the strength nor cunning by which I might with martial feats earn your lordship's favour, must resort to what little is known to me; that is, the arts of fine-lettering and right-talking, or rather the shadow of a shadow thereof as laid out in the teachings of our sublime lady who rules the middle air, thrice-blessed be Her sacred name.
+
+As your lordship surely recalls, I have been employed in your lordship's household for five years now, as before you in that of your lordship's dearly-beloved mother the late most eminent lady muthsera Redoran Almse Belosi Releth, may her wisdom serve and defend her house forever more. In that time, I have come to love and adore your lordship as though you were my own father for your grace and wisdom, and have sought to repay the boons your lordship has granted to me in whatever slight way an old bookish mer such as myself may by devoting myself to the education of your lordship's daughter and heir, the noble lady muthsera Redoran Almse Vorani Releth. But alas, what evil fates have punished me! Alas, what woes torment me!
+
+For though your lordship's daughter is dear to me as the child of my very own blood and your lordship has shown me nought but kindness, I yet find myself beset by challenges. Of late, the noble lady Almse has been most discourteous to this frail old mer, as many of her age become, her noble blood no doubt tainted by the foul influence of the common knaves, whores, rogues and other verminous lizard-like mer that prowl the bowels of this city; and I, lacking the strength I possessed in my youth and too fond of the noble lady to be severe with her, have found myself unable to fulfil my duties to your lordship.
+
+Because "all language is based on meat" as our beloved Lady of Whispers instructs us, and your lordship is far too cunning to be fooled by sweetened lies, let me offer an example to strengthen my case. Just yesterday, as Azura's rosy hour approached, I was engaged as usual in the instruction of the noble lady Almse, having elected to make good use of the pleasant weather to take my lesson to the roof and lecture on the mystery of dusk and the principles of three-cornered holy geometry which are best revealed in the fading light, I found my noble disciple distracted and inattentive. At first I supposed the lady might have fallen ill, and inquired whether she was unwell, which she denied.
+
+After I sternly reminded her of the sacred nature of that lesson, I continued to elaborate on the meanings of the angles and the three-fold  magics of the bow, the bowstring, and the arrow, when the noble lady Almse spied one of her degenerate companions in the street below, a dusty scoundrel who I am ashamed to tell moved and held himself like an n'wah, and at once she stepped up to the railing and engaged the foul mer in indecorious conversation, shouting so loudly all the neighbours must have witnessed the dishonour she brought upon your lordship and her poor tutor, and using base and odious language. When I, filled with righteous fury at this unworthy display from a scion of House Redoran, admonished her, the noble lady Almse merely laughed in my face, calling me an "old fool" and a "withered slave" and other cruelties with which I shall not sully your lordship's ears. Whereupon she wiped out the circles and figures I had drawn in the ash of the roof to instruct her with her foot before descending from the roof and absconding with the mongrel fiend.
+
+As your lordship knows too well, I am not unaccustomed to restraining and educating rowdy youths on the principles of proper action, and would not be addressing your lordship's exalted presence with my unworthy complaints were it not for the distress in which I presently find myself, which fills my heart with worry and strips me of the dignity that should imbue the disciple with worthy love and respect for her wizened master. For though your lordship has treated me with great generosity, granting me a chamber within your household and a place at your retainers' table, I find myself once more in need of your lordship's mercy. For are not my robes so threadbare women avert their eyes as I walk past, my shoes so thin I feel every cobblestone and pebble like a needle in my skin, and my cloak so worn my teeth chatter whenever the frozen Skyrim winds come down from the Velothis? Is not my purse so empty that I cannot afford coals for my fire, but must heat my chamber with odorous guar dung? Have I not been forced to pawn some of my dearest and most prized books to procure ink and paper?
+
+Having thus described my present situation, and the distress to which your lordship's most noble, wise and beautiful daughter has driven me, I must once again throw myself before your lordship's feet and entrust my fate to your boundless mercy which is without equal in any mortal. I humbly beseech your lordship for a raise.
+
+Again.
+
+Nothing remains but to assure your most magnificent lordship of my continued love and loyalty. I would loathe having to seek employment elsewhere, but whatever your noble mind thinks, that is the best.
+
+May you always walk in the radiant light of the Three Ever-Victorious, Most Merciful, Master of the Wheel, the Hidden Hierophant; may Their Anticipations keep and reward you and the Corners turn away.
+
+I am and remain your most humble and obedient slave,
+Redoran Alendryl Verdras Kena

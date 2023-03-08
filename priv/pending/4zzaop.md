@@ -1,0 +1,14 @@
+---
+title: "History of the Do'Krin Monastery"
+reddit: 4zzaop
+author: Commander-Gro-Badul
+date: 2016-08-28T13:05:58Z
+---
+
+*By Dashizi-ko, Rawl'kha scholar*
+
+The Do'Krin Monastery has long been considered to be one of the most culturally significant locations in Reaper's March, and perhaps even all of northern Elsweyr. It is believed to have been built around 1E 460 when Darloc Brae, the Golden Beast of Anequina, ruled from Rimmen in the south to Arenthia in the north. It is believed that it was originally built to store the relics and riches that the Anequine forces stole (or "were given" according to some sources) during the so-called Anequine Conquests. The name Do'Krin means "the Warrior's Smile" in Ta'agra, and it was likely given the name because of that a Anequine soldier supposedly once found many relics and other valueables that the Bosmer had buried on the location that the Do'Krin Monastery would be built on top of. During Darloc Brae's rule Do'Krin was heavily guarded from Bosmer and bandits. For that reason Do'Krin was left alone for a long time, and when Darloc Brae died most had forgotten about the treasures within Do'Krin.
+
+A time after Darloc Brae's death Do'Krin occasionally became visited by monks and Twilight Cantors on their way to the Temple of Seven Riddles, and Do'Krin bacame a place of worship. After the Middle Dawn had ended Do'Krin was repurposed and became a monastery. The Do'Krin Monastery never became as prominent as the Temple of Seven Riddles in the mountains above it, however. The monks of Do'Krin quickly became aware of the riches sealed within it, but it remained a secret until 2E 319 when Mane Rid-Thar-ri'Datta ordered the cataloguing of the riches owned by the monk orders of the new nation of Elsweyr. The new Mane decided not to confiscate any of Do'Krin's contents, but instead have the monks of Do'Krin the mission to protects the relics and riches of Do'Krin from any who would want to steal it. The monks of the Monastery took this mission very seriously, which led to that future rulers of Elsweyr would donate significant or valueable items to them.
+
+In 2E 468 Mane Tullar-dra doneted the so-called "Golden Claw" to the Do'Krin Monastery. The origins of this relic is uncertain, but it must have been of much significance as the monk order of Do'Krin renamed itself "the Order of the Claw" when they recieved it. What remains of the Order of the Claw still guards what lies within Do'Krin, and they refused to leave the Monastery unguarded even when the Knahaten Flu ravaged Elsweyr. Few but priests ever visit Do'Krin these days, and the Monastery is slowly falling into disrepair. Unless something is done Do'Krin will likely be forgotten entirely, for the Order of the Claw is loosing members. This would make it so that the treasures within Do'Krin become free for the taking for any lowly bandit or thief, something we can not allow to happen.

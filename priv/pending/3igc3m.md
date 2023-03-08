@@ -1,0 +1,42 @@
+---
+title: "Query, Part III: Rise of the Thalmor"
+reddit: 3igc3m
+author: neknotes
+date: 2015-08-26T11:12:35Z
+---
+
+*The attached document continues.*
+
+&gt; The Altmer have always been a danger to Tamriel, sharpened by their ideology and blessed with the patience in planning and foreign affairs that results from a long lifespan. With this patience in mind, it is necessary to consider the long-term roots of the Thalmor’s establishment as the ruling party of Sumurset and the subsequent outbreak of war.
+
+&gt; The rise of the Thalmor as we know it today originates not in the Oblivion Crisis, but in Tiber Septim’s conquest of the Sumurset Isles. The Altmer had always believed Mundus to be a prison, but it was the first time that this concept was associated with a hatred of Man. Philosophical theories rose in the wake of Tiber Septim and his Numidium, the most relevant of which I will list below:
+
+&gt; 1) The ‘Man/Mer Dichotomy’ states that Convention predetermined a fundamental divide between Man and Mer where Man is Mer’s antithesis; the two parties must remain in perpetual fighting; the Aurbis can only end with one achieving its endeavor and the other being annihilated. There are less clear-cut versions of this idea in Imperial society as well with the Great War; most of Tamriel has interpreted a general cosmic-scale battle between Man and Mer out of recent events.
+
+&gt; 2) The ‘Imperishable Spirit’ states that it is the destiny of the Altmer to free Mundus from the bonds of Convention. Though Altmer society antagonised Lorkhan and Convention since much earlier, this was the first prospect of the Altmer acting on their beliefs to actually undo Convention.
+
+&gt; 3) The ‘Talos Mistake’ states that the formation of Talos represented a step of Man towards their endeavor, and a step of Mer away from theirs. Furthermore, Talos initiated a shift in the inner workings of the Aurbis which causes Convention to constantly tighten its grip on Nirn. This isolates Nirn from other planes (namely Aetherius and Oblivion), decreasing its access to magicka and eventually disintegrating the earth entirely. This, according to the theory, is Man’s endeavor – to uphold Convention so as to allow the world to succumb to mortality as humans do.
+
+&gt;These notions suffice to summarise Altmeri thinking in the past two Eras, and have been refined into the umbrella term *Neostatic Transcendentalism,* but the theories alone were not enough to prompt aggression, or even plans for aggression, against the Empire. Sentiments of Mundus-transcendence remained in the salons and universities, where mer lived comfortably enough not even to fathom the sentiments themselves.
+
+&gt;Still, the resentment towards Imperial rule left a mark on every Altmeri citizen, the salon-goers and working mer alike, and this was a hatred of Man. If anything this hatred was stronger among the workers. Any injustice, even one intrinsically present in Altmeri society, was because of the Empire. The Altmer did not view the Empire as a nebulous entity either; they emphasised it as a rule of Man which worked against merrish integrity. It was as mundane as mannish genetics, prophecised in lineage and constellations.
+
+&gt;All social evil was because of mannish influence. Unemployment and poverty were due to Imperial demands. Any common illness was said to be brought by Man’s conquest. If a merrish construction worker fell into a pit and met his end, an Imperial must have been there to push him. This did more than cultivate a deep-seated bellicosity; it meant that the Altmer would no longer question their own for societal improvement, and any prospect for positive development would be thereby linked with the necessity to triumph over Man.
+
+&gt;Talos was seen as the collective force of Man and the embodiment of their Endeavor. Talos became the great nemesis. The ‘New Thalmor,’ a small but secure political group from the times of Tiber Septim’s conquest, had risen steadily in membership and influence since its formation, and was now both respected and feared by the ruling body. This was because of how it sympathised with popular sentiments in all their nuances and turbulence, rather than adopting a strict dogma. When a mer became frustrated with life and unsure of their place in it, they could find a place in the Thalmor, and they could target Man and the Empire for their frustration. Kindling piled atop the bonfire that was the Sumurset Isles, but there was not yet fire to light it.
+
+&gt;Then there was the Oblivion Crisis. As painful as it is for an Imperial who has experienced the horror of Oblivion firsthand to admit, the Altmer suffered every bit as much destruction as we did from the Oblivion Crisis – perhaps more. Even today significant portions of the land, including many major cities, lay sundered and populated mostly by outlaws. Repair is slow as a result of various internal problems, but the current state provides a small glance into the utter chaos that the land experienced in the Oblivion Crisis.
+
+&gt;Since Altmeri resentment remained and even grew up to that point, it is obvious where the blame for the Oblivion Crisis was targeted. The Altmer viewed the disaster as a sign of man’s incompetence. Man ruled Nirn and failed to maintain the barrier to Oblivion, and to protect its territories from the hordes of daedra. The Imperial power seemed at that moment fragile and symbolic, resting solely on one family’s ability to protect its lineage – the defeat thereof especially hit the Altmer from an ideological standpoint. Because of Man, Tamriel, and more importantly the Isles, suffered ceaseless horror.
+
+&gt;There is no bond like the one between the common mer and the entity that helps to pull them out of crisis. The ‘New Thalmor,’ though without the power to rule, had gradually attained the power to aid the Altmer people significantly. These Thalmor secured supply routes, helped the wounded and joined local settlements in fending off daedra and destroying Oblivion gates. When the Crisis was over, they continued to fund reconstructions and recovery programs that the Empire could not. This showed unique moral character and loyalty to the Altmer people, unlike in other parties who the people branded as profiteers trying to use the crisis as a battle for control over the Sumurset Isles. The Isles were disunited but the New Thalmor were united with the common people.
+
+&gt;Many Imperial accounts will assert that the Thalmor claimed responsibility for ending the Oblivion crisis – this is misleading. They did not claim to have resealed the barrier between Mundus and Oblivion, but they claimed to have rescued the people from crisis; that claim is true and the Thalmor could not have found a better way to gain a foothold in the Isles. The events of the Oblivion Crisis had increased the Thalmor authority, primarily the death of the Crystal-Stone, sundering of Crystal Tower and the establishment of a temporary multi-party ruling body in the Alinor City Hall.
+
+&gt;In the fallout of the Crisis, the City Hall was threatened by political organisations, criminal syndicates and inner turmoil alike, so foul play on part of the New Thalmor could be easily forgiven with the favor of the public and the other anti-Empire groups – especially when one considers the Altmeri tradition of atrocity for the ‘greater good.’
+
+&gt; In year 22 of the Fourth Era the New Thalmor headquarters was trapped with fire runes about the perimeter, the identity of the assailant being up to speculation. These runes fizzled during a rainstorm and nobody was hurt, but the Thalmor used this threat to finally attain the ultimate authority. The rain extinguished the runes, but the fire of the Altmer was certainly lit. At the next meeting in the City Hall, the Thalmor did not attend but instead surrounded the building with sturdy wards, stating that no one would leave until all agreed that the Crystal-Stone would be reestablished with a Thalmor leader. The wards lasted a week, the parties arguing amongst themselves. Mer even killed each other, and those remaining agreed to the Thalmor demands, thinking they would be set free or exiled. Everyone in the building was instead executed on the spot.
+
+&gt; In a public reception the new Crystal-Stone spoke of a new Dominion and a new fight against the Empire. The people rejoiced, almost all of them sincerely.
+
+&gt;[Continued]

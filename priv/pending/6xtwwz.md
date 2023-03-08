@@ -1,0 +1,30 @@
+---
+title: "The Tamrielic Literacy Project"
+reddit: 6xtwwz
+author: Sifina
+date: 2017-09-03T15:57:08Z
+---
+
+*The following archive material was discovered inside a drawer in the University a number of years ago. The inscriptions are Aldmeris in a slightly modified Daedric script, with an interesting curvature, and appear to be written in blood (!). Perhaps of interest to calligraphists, the decision to use an adapted script may have been made to suit the author's chosen medium - what appears to be a series of large, circular, dried, and slightly decayed leaves, coated in some sort of resin. A red wax seal binds them loosely together - this could have once been the Emperor's seal. It is left to the reader to determine the extent of its historical value.*
+
+**Addressed to the Council of Mages of the Imperial City**
+
+I am sure the Council is aware of the recent interest around what has become commonly known as the "Literacy Movement". Indeed, the Council's position on the matter, that mass literacy education of the "unwashed masses" is a "dangerous, trivial pursuit" that would be "a waste of scholar's talents and distract from our all-important studies of the Aubris" has been well-publicised.
+
+Nevertheless, I am informed that the ideas presented by this burgeoning movement have drawn the attention of the Emperor, and he is most enthused by the prospect of a population that is informed in the superior methods of information recording and communication. He has dispatched an order to certain Imperial agents positioned in remote locations: we are to conduct a study into education opportunities and methods that might be effective under such limited conditions. My findings are detailed below. The Emperor dictates that the Council is to heed these findings and enact any recommendations immediately.
+
+As you are undoubtedly aware, there are some conventions that are currently used for scholarly writings (i.e. the main extent of literacy in the Empire). This Standard, set and taught by the Arcane University involves writing Aldmeris in the Daedric script on sheepskin, using feather, and ink derived from that of a Dreugh. This isn't acceptable for many of the Empire's provinces. There are other Standards which were primarily used by extinct cultures (e.g. the Ayleid, Dwemer, and Dragon Cult in Skyrim). These are either insufficiently documented or beyond the philosophical comprehension or pronunciation skills of most humans, and as such are unsuitable.
+
+Firstly, we can touch upon the absurdity of using Daedric as a common method of inscription. You must note that many of the smaller, more human-sized Daedra lack any ability to write, either because of a distinct lack of fingers (many instead favour claws) or the lack of intellect or creativity required to produce magic that would accomplish the same. The script that we are accustomed to is the design of beings who tower over us, and the awkwardness of Daedric's many harsh and intricate angles reflect this. Indeed, it is primarily useful as a decorative script, and it can be seen to fulfil this purpose effectively on the walls of many Dunmer temples. However, as any native Dunmer will tell you, only a filthy n'wah would have any need to read these inscriptions anyway - the Dunmeri culture is traditionally one where stories are told orally.
+
+Secondly, Aldmeris is a tongue of Elves. This is useful for cultures such as the Altmer and Dunmer, whose languages are descendants of Old Aldmeris and who can therefore learn Aldmeris easily. However, I imagine myself in the wastes of Skyrim, trying to convince the oaf Rolf the Bearded to learn a language he associates with "pointy-eared milk-drinkers". This is not a job I would wish upon anyone. Instead, most Men find themselves more comfortable with the Nedic tongues, from which many of their own languages have evolved.
+
+Tamriel is a land of many dialects, but in the end, the overwhelming majority of citizens are familiar with at least a secondary trade language that is either directly related to old Nedic or Aldmeris. In many Imperial port towns, the common vernacular already includes elements from both language groups. Per my recommendation, these two languages are to be adopted as the language of written communications of the Inner Provinces (High Rock, Hammerfell, Skyrim, Cyrodiil) and Outer Provinces (Morrowind, Black Marsh, Elsweyr, Valenwood, and Summerset Isle) respectively. In addition to these Standards, it will be useful to begin instruction using the citizenry's local dialects. A study is to be conducted on the extent of intelligibility between settlements, and regional standards are to be developed. These are expected to be divided around natural barriers such as mountains.
+
+The Daedric script, while currently unsuitable, may reach suitability through modification. While the Council's objections to this particular demand are well understood, the citizenry has needs beyond fraternizing with demons. There are two important objectives here - to make Daedric easier to write by simplifying the strokes, and making each symbol clearly unique and easily identifiable. It also seems sensible to assign each symbol to distinct sounds in the major target language groups, rather than the current awkward system where a single symbol can be interpreted in different ways. I expect that your existing reading skills should be possible to keep.
+
+The Guild of Mages has excellent resources in larger towns, which many of the Empire's citizens will be able to reach. On the other hand, the Guild has little influence in many remote and politically complicated regions (such as Eastern Morrowind). Religious institutions are expected to have far more influence in these regions, and resources are to be delegated accordingly.
+
+I have used some of my own intuition by finding the means to write this letter in this dense sacred forest. Perhaps it may serve as inspiration for the institutions that find themselves similarly deprived of resources.
+
+- Sifina, Imperial Battlemage, Valenwood

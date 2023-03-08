@@ -1,0 +1,16 @@
+---
+title: "Final Years of Ayleid Rule Vol. 2: Anumaril"
+reddit: 4c1gbo
+author: Commander-Gro-Badul
+date: 2016-03-26T14:59:22Z
+---
+
+[[Volume 6](https://www.reddit.com/r/teslore/comments/4c1lj0/final_years_of_ayleid_rule_vol_6_filestis/)]
+
+*By Angloriacar the Forgotten*
+
+Dark was the city of Abagarlas, Forbidden Cavern meant its name. It was built in mockery of Light; for light had betrayed the Elves, thought its inhabitants. Upon the throne of Mala-Loria sat Anumaril and over his head hang sacrifices to Molag Bal. They worshipped him as MOLA GBAL, for Stone-Fire was below his greatness, they thought. At Anumaril's side sat Palolel, and Anumaril worshiped her above life itself. They had but one child, mighty prince Malyon. Despite Anumaril's cruelness to the worshipers of great Merid-Nunda his people loved him, and they would sacrifice their own children in his name. Anumaril was a caring king, as he was as kind to his fiends as he was cruel to his foes. Even Molag Bal loved Anumaril, and showered him with gifts. When Molag Bal gave the Mortuum Vivicus, the Soul-Gatherer, Anumaril used it not for ill; but used it to bring health and prosperity to Caverns Forbidden. He resurrected the sacrificed to act as guards in the Halls of Darkness. But Anumaril hated Merid-Nunda, and for that he was punished. The Shining Godess sent her bright destructors to Abagarlas, where they murdered Anumaril's entire family and banished the Mortuum Vivicus back to Oblivion. Merid-Nunda then destoyed Abagarlas, and all who were in it. With burning light charring their flesh. Anumaril had been able to flee together with a remaining few of his followers. When the murder of his wife a child came to his knowledge he cried for sixteen-hundred days and sixteen-hundred nights.
+
+He prayed to Molag Bal to release him from the tyranny of of love and life. Molag Bal took pity upon the King, and granted him the Gift of Life. "*Taketh this, Anu-Maril. Imbuet it with thy love and life and become but Darkness-Husk.*" Anumaril accepted the scheming god's gift and wept tears of dark sorrow on it's crystal skin. Anumaril took the gift and ordred his followers to follow him to Kwyrothil, where his last ally lord Filestis ruled. Anumaril imbued all love that remained within him and presented him with his Remnant of Life. He told Filestis to travel to Altbal and the cold sunset limit of Tam-Rielle. Why remain unknown. So did Filestis, and the now empty Anumaril left Cyr-Odiil. He fled to the Valenwood, where he was given asylum with the Bosmeri of the Elden Tree. Being inspired by Green-Sap, Anumaril forged the Staff of Towers, with eight gems for each of the eight Towers of Nirn.
+
+Anumaril constucted many halls in the Grathwood, but the greatest was the Orrery he built beneath the Elden Tree itself. There he ripped out his heart with the Staff of Towers and imbued all that reamained of him into Green-Sap's Stone. For he had no longer any love for the Mundus. From within the great Perchance Acorn he watches over his Orrery, corrupting any worthy Mer who would enter it, out of sheer spite for the world that killed his belved Palolel. There he still lurks, for without love there is only eternal hatred.

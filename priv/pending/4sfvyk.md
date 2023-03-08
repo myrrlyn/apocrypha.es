@@ -1,0 +1,30 @@
+---
+title: "Pyandonea: An Acquired Detailing From the Times of the Sea Wars"
+reddit: 4sfvyk
+author: swedishplayer97
+date: 2016-07-12T07:56:13Z
+---
+
+Hello, pleased to see so many arrived. The facts provided during this presentation were all gathered and analysed by me and my team in the Imperial Synod, and any unwanted copying will be met with criminal charges. But moving on; I am here today to present a detailed analysis of the state of the Maormer Seadrom of Pyandonea in the Fourth Era. The island nation has been plagued by infighting and political dissidents ever since the early Third Era, and the information we have suggest it may become worse over time. *Hm-hrm*
+
+First, an overview. The Seadrom of Pyandonea has since its inception been ruled by King Orgnum; an immortal elven wizard with a serious god complex. The Maormer religion revolves around worshipping whomever or whatever is currently providing them the most benefits, which would be King Orgnum at this time, meaning he is basically treated as a god. In the center of the continent lies the capital city of Orgnumia, a collosal, hollow statue of the King which used to be Mount Mechea. Ever since their disastrous defeat in the War of the Isle in 3E 110, the people have been very upset with King Orgnum. A large group of dissidents calling themselves the Blue-Upon-Red have actively fought back against Orgnum's regime. I have compiled information regarding the state of Pyandonea as of this year.
+
+After a waiting period of around three months, I was finally permitted to come aboard a Maormeri merchant vessel. The vessel, like all sea elf ships, was constructed out of chitin and membrane, and lacked a bottom hull. The Maormer, being amphibious, have no problem with it, but I had to wear a breathing mask the entire trip. This particular ship was designed to be pulled by a skimmer leviathan, swimming underneath the vessel at over 60 knots. The trip to Pyandonea lasted approximately two days at full speed.
+
+I arrived at the city of Emetoua, on the coast. It was the second largest city on the continent, right after the capital, Orgnumia. The situation was very tense; everyday life involves being paranoid about the rebels, and I was checked three times before being allowed in. Everywhere I could see soldiers from the Pyandonean Royal Tidestrikers interrogating citizens, watching over them and searching for rebels. I decided to further investigate Maormeri culture.
+
+Merchants were peddling wares and items. Emetoua, being a trade town, sees lots of Tamrielic trinkets arrive on the docks, and many Maormer has taken a liking to these exotic items. Presumably because of the country's highly isolationist policy; if it weren't for seeker leviathans patrolling the miracle miles off the continent, I assume many Maormer would emigrate and integrate into the larger cosmopolitan nations of Tamriel. But moving on.
+
+Maormeri architecture was not unlike what I've seen in Morrowind; mostly buildings carved out of limestone, many of them half-submerged in water given the elves' amphibious nature. Others were old shells shed by collossal lobsters and crabs, reinforced with coral. In the center of town was a statue dedicated to King Orgnum, and around him were several smaller statues. No, not statues, *people*. They were all encased in some sort of membrane, and their eyes responded to my movements. I asked one of the patrolling Tidestrikers what this was, and he explained it was punishment for dissidents. They are encased in a membrane which keeps them alive, unable to sense anything, but still conscious, as a lifetime sentence. Truly a gruesome fate.
+
+I decided to taste the local cuisine. A standard street kitchen was cooking cram-coral, harvested from the very foundations of the continent, served with a dish of dried blue-bettled seaweed. While very foreign to my buds, it still tasted delicious, and I commended the chef for his abilities. He took it with joy, and it seems many Maormer are always appreciative of being wooed.
+
+I hitched a ride from a carriage, also built from chitin and coral. Everywhere you went you could see the massive statue of King Orgnum, Orgnumia, towering over the island. The city, despite being the largest, contained only very few residents; the King himself and his closest advisors. He is too paranoid of rebels to let anyone other than those he trusts live in his city. The Royal Tidestrikers headquarters are also located there, commanded by Supreme Strike-General Padaoua, and the Supplement Directorate, watching over all the farms in the Seadrom.
+
+Since food is rationed and supplies are scarce, all farms are controlled by the Supplement Directorate. Farms are often found in the foggy marshlands further into the continent, where farmers grow and harvest algae in large pools. Most of the algea, however, goes to taming the large sea serpents the Tidestrikers control. Ever since the War of the Isle, the Maormer lost their magical abilities, and as such has to command their serpents with food supplements or else they'd go berserk.
+
+The rebels also make use of sea serpents, leviathans called berserkerfish. They have large interiors which can store dozens of people or supplies. The Blue-Upon-Red have smuggled out many willful dissidents or general oppressed citizens to Tamriel, where they now hide as refugees either in the Aldmeri Dominion or the Empire. I guess they aren't treated well in either.
+
+The war between the Blue-Upon-Red and Orgnum's government is called the Sea Wars. Orgnum refuses to admit it's a civil war; he is too proudful to have "succumbed to his own people." Nonetheless the war has put a heavy toll on the population, many of which just want to see it ended and a return to normal life. As it stands, the Dominion and Empire are too wrapped up in their own bickering, and neither Hammerfell nor Argonia have any interest in sailing down south, meaning Pyandonea is on its own.
+
+I stayed in the Seadrom for six months, and have compiled a much more comprehensive report in my documents. Please take a moment to read them, and thank you for your time.

@@ -1,0 +1,36 @@
+---
+title: "Accounts on Reach Hedge-Magic Used in Battle"
+reddit: 5wx6oe
+author: slovakiin
+date: 2017-03-01T17:03:20Z
+---
+
+*by Ademar de Sarne, Royal Battlemage of Camlorn, 4E 202*
+
+My personal experience with battling Reachmen comes from the recent raid on Evermore, as a likely consequence of the Markarth Incident. Having lost their sovereign land in the Eastern Reach to the Nordic militia, the Witchmen tried to establish a new foothold in the Western Reach, at the time a rightful holding of Evermore, our ally. I have been sent with my units as aid.
+
+Western Reach is a mountainous, mostly wooded terrain, harsh, with resources scarce, but filled with many strong, easily defendable forts. Reachmen natives usually roam the wilds, poaching and occasionally raiding. With active guards in every Breton settlement, they can be driven away rather easily. But this time, the ranks of the savages were bolstered by the exodus from Skyrim. Of course, many so-called Forsworn stayed to pillage the Eastern Reach, but a considerable amount of warriors and hedge-wizards, even several of the feared Briarhearts and Hagravens, moved west.
+
+From the interrogation of captured Reachmen throughout the conflict, we found out that these Easterners do not owe allegiance to king Madanach, and the known tribes of Winterborn and Dark Witnesses do not deal with him either. But either way, these three groups of Reachmen concluded that High Rock was in a weakened state because of the Great War, and decided to invade Evermore.
+
+I have a fairly good experience commanding Breton battlemages against other Breton battlemages, but I’ve been told right away that Reach hedge-magic is different. I interpreted it as being crude, mostly Destructive, but unrefined. I was confident that my force would overpower them using our superior education in various schools of magic.
+
+However, Reachmen have no concept of schools of magic. All magic for them is the same. The spells they use are mostly based in manipulating nature and its forces. These hedge-wizards and witches use combative spells similar to the ones we know as Fire, Frost and Lightning, but they take Destruction to a whole new level. Witches often create collective spells to affect weather. I experienced it first-hand when my unit lived through thunderstorms several nights in a row, during which we lost soldiers to lightning, horses to panic and many of my mages fell sick. Healers suspected that the Reachmen somehow poisoned the rain, since the sickness was resistant to most treatments. However, I cannot be certain about this claim. But, I suppose it’s good to be prepared to anything when camping in a forest in the Reach.
+
+Another thing we’ve found out was that not only the witches and hedge-wizards practiced magic, but many common warriors knew at least a few spells, usually Destruction-based or healing. We’ve encountered scouts, dressed lightly and armed with bows, who excersised the ability to climb up trees with ease and jump great distances. My experts attributed it to Feather or Levitation based spells, although the Reachmen themselves (those we caught) refer to it as “*walking the wind*” and describe it as manipulation of air.
+
+There were some who did not use any apparent magic, but their fighting prowess did seem supernatural. The savagery these individuals exhibited were even greater than that of Orcish berserkers. We later found out that these were the zealots of Hircine, voluntarily tainted by lycanthropy, in their human form. Why they chose to engage us in this form is unknown, but we speculated they do it for skirmishes that required more organization and critical thinking.
+
+We did face lycanthropes in their animal form as well, and on many occasions. Reachmen use them almost as a form of cavalry. In the mountainous, forested region of the Western Reach, horses are not very effective. Letting werewolves and wereboars loose on a battlefield was a far better alternative. We have suffered many casualties to these attacks, but our healers were able to cure our wounded from the disease before it could take a hold of them completely. To stop charging lycanthropes we couldn’t use regular anti-cavalry tactics. They jumped over high magical walls we erected, and Destruction spells seemed to only make them more determined to kill. We had to utilize our Alteration experts and their Paralysis. But even paralysis didn’t work on them fully, it only slowed them down to a point when soldiers could actually fight them.
+
+As for Briarhearts, we didn’t encounter many of them, but those that did engage us, proved to be quite a challenge. They seemingly knew no pain and their determination to kill was unparalleled. They used both magic and weapons and our soldiers didn’t dare to fight them in melee. However, our Mystics were successful against them by casting Dispel, temporarily cancelling the magical enchantments keeping a Briarheart going. When hit, he would drop down dead, only to rise up on his feet a moment later. In the pacified state, however, we could remove the briar hearts in their chests, effectively killing them.
+
+A hagraven is the commander of any large Reachman army. We did battle several of them. To put it simply, one hagraven amounts to a dozen hedge-witches in power, cunning, knowledge and even physical strength. These creatures possess magical abilities that can’t be simply taught in a guild. It is said they are “blessed” by Hircine himself. Hagravens usually keep very strong wards, so we couldn’t use Paralyze, Silence or Dispel as in previous cases. To break one hag requires focus of Destructive spells of many battlemages.
+
+When Reachmen warriors see their commanding hagraven die, the morale usually falters and battle is soon over. They are seen as religious figures, as living saints, mortals chosen by gods to fulfill a higher purpose. Reachmen are quite superstitious in their strange religion, so if a hagraven dies before accomplishing her goals, it’s a sign of lost favour of Hircine.
+
+To summarize, our campaign in the Western Reach in 4E 178-181 was a drawn-out war, full of small-scale battles. The Reachmen were initially successful, catching Evermore off guard and conquering much of the region. After the arrival of the allies, the progress of Reachmen slowed down. Our battlemages were not used to this inhospitable terrain and the peculiar tactics of the savages, and suffered some losses. But, after spending time in the environment and getting used to lycanthropes and hedge-wizards and their strategy, Breton forces were able to gain upper hand and push the invaders back to where they came from. Western Reach was secured for Evermore and its allies were rewarded for the help.
+
+---
+
+This is sort of a continuation of [this post](https://www.reddit.com/r/teslore/comments/5wo39m/magical_tactics_of_high_rock/), the author is the same person. There is no lore record of a Reachman invasion of Evermor, but I thought about the political situation of that period and concluded that it *could* happen. If you don't like the timing of the war mentioned, just imagine it is set in Second Era and written by somebody else. But from what I understand, Reachmen attack Bretons pretty often.
