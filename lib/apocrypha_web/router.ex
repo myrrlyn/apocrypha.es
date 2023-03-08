@@ -21,6 +21,12 @@ defmodule ApocryphaWeb.Router do
     get "/:id", PageController, :article
   end
 
+  scope "/q", ApocryphaWeb do
+    pipe_through :browser
+
+    get "/:id", PageController, :draft_article
+  end
+
   scope "/", ApocryphaWeb do
     pipe_through :browser
 

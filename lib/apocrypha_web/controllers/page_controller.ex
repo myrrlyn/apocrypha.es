@@ -28,20 +28,20 @@ defmodule ApocryphaWeb.PageController do
 
   def article(conn, %{"id" => id} = _params) do
     %Apocrypha.Page{
-      meta:
-        %Apocrypha.Frontmatter.Post{
-          title: title
-        } = meta,
+      meta: meta,
       text: text
     } = Apocrypha.Page.load_post!(id <> ".md")
 
     render(conn, :post,
       classes: ["post", id],
-      tab_title: title,
-      title: title,
       content: text,
       metadata: meta,
       show_about: true
     )
+  end
+
+  def draft_article(conn, %{"id" => id} = _params) do
+    %Apocrypha.Page{meta: meta, text: text} = Apocrypha.Page.load_draft!(id <> ".md")
+    render(conn, :post, classes: ["draft-post", id], content: text, metadata: meta, show_about: true)
   end
 end

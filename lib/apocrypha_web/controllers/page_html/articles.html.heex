@@ -16,7 +16,7 @@ site operates.</p>
 They may look strange.</p>
 <ol>
   <li :for={entry <- Apocrypha.Library.pending_posts()}>
-    <.link href={"a/" <> Path.basename(entry, ".md")}>
+    <.link href={"q/" <> Path.basename(entry, ".md")}>
       <code><%= Path.basename(entry, ".md") %></code>
     </.link>
   </li>

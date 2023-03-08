@@ -70,4 +70,10 @@ defmodule Apocrypha.Page do
     {meta, text} = YamlFrontMatter.parse_file!(path)
     %__MODULE__{meta: Frontmatter.new_post(meta), text: text |> String.trim() |> Markdown.render()}
   end
+
+  def load_draft!(path) do
+    path = Path.join(["priv", "pending", path])
+    {meta, text} = YamlFrontMatter.parse_file!(path)
+    %__MODULE__{meta: Frontmatter.new_post(meta), text: text |> String.trim() |> Markdown.render()}
+  end
 end
