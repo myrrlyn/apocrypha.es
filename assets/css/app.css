@@ -86,7 +86,10 @@ p:not(:last-child) {
   margin-block-end: 1em;
 }
 
-.text-title {
+.text-title,
+.text-italic,
+.foreword,
+.afterword {
   font-style: italic;
 }
 
@@ -94,9 +97,8 @@ p:not(:last-child) {
   text-align: center;
 }
 
-.foreword,
-.afterword {
-  font-style: italic;
+.text-bold {
+  font-weight: bold;
 }
 
 /* layout */
