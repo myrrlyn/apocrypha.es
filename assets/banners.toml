@@ -1,0 +1,128 @@
+[c0da-1]
+file = "c0da-all.jpg"
+caption = "Some art from C0DA"
+pos = { x = "center", y = "top" }
+dim = { width = 1916, height = 125 }
+
+[c0da-2]
+file = "c0da-all.jpg"
+caption = "Some art from C0DA"
+pos = { x = "center", y = "-125px" }
+dim = { width = 1916, height = 125 }
+
+[c0da-3]
+file = "c0da-all.jpg"
+caption = "Some art from C0DA"
+pos = { x = "75%", y = "-250px" }
+dim = { width = 1916, height = 150 }
+
+[c0da-4]
+file = "c0da-all.jpg"
+caption = "Some art from C0DA"
+pos = { x = "center", y = "bottom" }
+dim = { width = 1916, height = 200 }
+
+[dragons]
+file = "dragons.jpg"
+caption = "Dragons flying around the White-Gold Tower"
+pos = { x = "center", y = "top" }
+dim = { width = 1920, height = 150 }
+
+[dragons-sepia]
+file = "dragons.jpg"
+caption = "Dragons flying around the White-Gold Tower"
+pos = { x = "center", y = "bottom" }
+dim = { width = 1920, height = 150 }
+
+[elder-scroll]
+file = "elder-scroll.jpg"
+caption = "An Elder Scroll"
+pos = { x = "right", y = "top" }
+dim = { width = 1920, height = 150 }
+
+[magnus]
+file = "magnus.jpg"
+caption = "The Eye of Magnus"
+dim = { width = 1920, height = 150 }
+
+[map-cyrod]
+file = "map-cyrod.jpg"
+caption = "A section of the map of Tamriel, centered on Imperial City"
+dim = { width = 1920, height = 100 }
+
+[map-skyrim]
+file = "map-skyrim.jpg"
+caption = "A section of the map of Tamriel, showing northern Skyrim"
+dim = { width = 1920, height = 100 }
+
+[map-stylized]
+file = "map-stylized.jpg"
+caption = "A section of the map of Tamriel, showing Morrowind"
+dim = { width = 1920, height = 100 }
+
+[map-wilderness]
+file = "map-wilderness.jpg"
+caption = "A section of the map of Tamriel, showing wilderness"
+dim = { width = 1920, height = 100 }
+
+[numinatus]
+file = "numinatus.png"
+caption = "Numinatus from C0DA"
+pos = { x = "left", y = "center" }
+dim = { width = 1920, height = 76 }
+
+[oblivion]
+file = "oblivion.jpg"
+caption = "The Battlespire, floating in Oblivion"
+pos = { x = "right", y = "center" }
+dim = { width = 1920, height = 180 }
+
+[seas]
+file = "seas.jpg"
+caption = "The Katariah"
+dim = { width = 1920, height = 180 }
+
+[text-daedric]
+file = "text-daedric.jpg"
+caption = "Some Daedric text"
+dim = { width = 1920, height = 100 }
+
+[text-kel]
+file = "text-kel.jpg"
+caption = "A section of the Elder Scrolls"
+dim = { width = 1000, height = 100 }
+
+[text-oghma]
+file = "text-oghma.jpg"
+caption = "A section of the Oghma Infinium"
+dim = { width = 1920, height = 100 }
+
+[tools]
+file = "tools.jpg"
+caption = "Sunder and Keening"
+pos = { x = "center", y = "bottom" }
+dim = { width = 1920, height = 190 }
+
+[tools-active]
+file = "tools.jpg"
+caption = "Sunder and Keening"
+pos = { x = "center", y = "top" }
+dim = { width = 1920, height = 190 }
+
+[wilds]
+file = "wilds.jpg"
+caption = "Wilderness of Tamriel"
+pos = { x = "center", y = "bottom" }
+dim = { width = 1920, height = 150 }
+
+[wilds-morrowind]
+file = "wilds.jpg"
+caption = "Wilderness of Morrowind"
+pos = { x = "center", y = "center" }
+dim = { width = 1920, height = 150 }
+
+[wilds-morrowind-2]
+file = "wilds.jpg"
+caption = "Wilderness of Morrowind"
+pos = { x = "center", y = "top" }
+dim = { width = 1920, height = 150 }

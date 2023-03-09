@@ -76,4 +76,8 @@ defmodule Apocrypha.Page do
     {meta, text} = YamlFrontMatter.parse_file!(path)
     %__MODULE__{meta: Frontmatter.new_post(meta), text: text |> String.trim() |> Markdown.render()}
   end
+
+  def get_banner(%__MODULE__{meta: meta}) do
+    meta[:banner] |> Apocrypha.Banners.get_banner()
+  end
 end

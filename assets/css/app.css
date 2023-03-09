@@ -112,9 +112,8 @@ body {
 }
 
 body>header {
-  background-color: tan;
-  height: 128px;
-
+  background-size: cover;
+  min-height: 4em;
   flex-grow: 0;
   flex-shrink: 0;
 }

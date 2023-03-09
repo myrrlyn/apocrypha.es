@@ -52,6 +52,7 @@ defmodule Apocrypha.MixProject do
       {:earmark_parser, "~> 1.4"},
       {:yaml_front_matter, "~> 1.0.0"},
       {:timex, "~> 3.7"},
+      {:toml, "~> 0.7"},
       {:dialyxir, "~> 1.1", only: [:dev], runtime: false},
       {:ex_doc, "~> 0.28", only: [:dev], runtime: false}
     ]
@@ -71,7 +72,12 @@ defmodule Apocrypha.MixProject do
       test: ["ecto.create --quiet", "ecto.migrate --quiet", "test"],
       "assets.setup": ["tailwind.install --if-missing", "esbuild.install --if-missing"],
       "assets.build": ["tailwind default", "esbuild default"],
-      "assets.deploy": ["tailwind default --minify", "esbuild default --minify", "phx.digest"]
+      "assets.deploy": [
+        "tailwind default --minify",
+        "esbuild default --minify",
+        "cmd cp -R assets/static/ priv/static/",
+        "phx.digest",
+      ]
     ]
   end
 end
