@@ -31,6 +31,7 @@ defmodule ApocryphaWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
+    get "/random", PageController, :random
     get "/style", PageController, :style
   end
 

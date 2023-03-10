@@ -3,6 +3,8 @@ defmodule Apocrypha.Application do
   # for more information on OTP Applications
   @moduledoc false
 
+  require Logger
+
   use Application
 
   @impl true
@@ -23,7 +25,11 @@ defmodule Apocrypha.Application do
     # See https://hexdocs.pm/elixir/Supervisor.html
     # for other strategies and supported options
     opts = [strategy: :one_for_one, name: Apocrypha.Supervisor]
-    Supervisor.start_link(children, opts)
+    out = Supervisor.start_link(children, opts)
+
+    Logger.notice("boot complete")
+
+    out
   end
 
   # Tell Phoenix to update the endpoint configuration

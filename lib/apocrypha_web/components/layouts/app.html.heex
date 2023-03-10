@@ -1,11 +1,5 @@
 <.banner banner={Apocrypha.Banners.get_banner(@metadata[:banner])} />
 <div id="content">
-  <main>
-    <!-- <.flash_group flash={@flash} /> -->
-    <article>
-      <%= @inner_content %>
-    </article>
-  </main>
   <aside id="about" class="screen-only">
     <div :if={@show_about} id="about-text">
       <%= view_module(@conn).about(assigns) %>
@@ -20,10 +14,19 @@
           <.link href="/a">Articles</.link>
         </li>
         <li>
+          <.link href="/random">Random Choice</.link>
+        </li>
+        <li>
           <.link href="/style">Style Guide</.link>
         </li>
       </ul>
     </nav>
   </aside>
+  <main>
+    <!-- <.flash_group flash={@flash} /> -->
+    <article>
+      <%= @inner_content %>
+    </article>
+  </main>
 </div>
 <.footer />

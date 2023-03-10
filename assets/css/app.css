@@ -117,7 +117,6 @@ body {
 
 body>header {
   background-size: cover;
-  min-height: 4em;
   flex-grow: 0;
   flex-shrink: 0;
 }
@@ -127,7 +126,7 @@ body>header {
   flex-grow: 1;
 
   display: flex;
-  flex-flow: row-reverse wrap;
+  flex-flow: row wrap;
   justify-content: center;
 
   overflow-y: auto;
