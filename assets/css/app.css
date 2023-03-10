@@ -78,6 +78,10 @@ a.footnote {
   font-size: 75%;
 }
 
+code.inline {
+  color: fuchsia;
+}
+
 p:not(:first-child) {
   margin-block-start: 1em;
 }
@@ -125,6 +129,8 @@ body>header {
   display: flex;
   flex-flow: row-reverse wrap;
   justify-content: center;
+
+  overflow-y: auto;
 }
 
 body>footer {
@@ -165,8 +171,8 @@ main,
   position: relative;
 }
 
-.youtube>div {
-  padding-bottom: 56.25%;
+.youtube {
+  aspect-ratio: 16 / 9;
 }
 
 .youtube iframe {

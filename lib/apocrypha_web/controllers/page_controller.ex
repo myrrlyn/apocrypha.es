@@ -17,6 +17,13 @@ defmodule ApocryphaWeb.PageController do
     )
   end
 
+  def style(conn, _params) do
+    %Apocrypha.Page{meta: meta, text: text, src: src} = Apocrypha.Page.load_page!("style-guide.md")
+    text = text <> "<hr /><section><pre><code>" <> (src |> String.trim() |> Phoenix.HTML.html_escape() |> Phoenix.HTML.safe_to_string()) <> "</code></pre></section>"
+
+    render(conn, :page, classes: ["style-guide"], content: text, metadata: meta, show_about: false)
+  end
+
   def articles(conn, _params) do
     %Apocrypha.Page{meta: meta, text: text} = Apocrypha.Page.load_page!("articles.md")
 

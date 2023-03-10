@@ -25,4 +25,4 @@ are not limited to:
 ## Development
 
 You will need to install Erlang and Elixir. You can then run the site with
-`mix phx.server`.
+`mix serve`.

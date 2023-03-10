@@ -31,6 +31,7 @@ defmodule ApocryphaWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
+    get "/style", PageController, :style
   end
 
   # Other scopes may use custom stacks.
