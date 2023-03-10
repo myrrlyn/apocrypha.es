@@ -1,5 +1,5 @@
 ---
-title: A treatise on the Talos Cult. 4e198.
+title: A Treatise on the Talos Cult, 4e198
 reddit: w6opa
 author: lilrhys
 date: 2012-07-07T17:53:49Z

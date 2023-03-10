@@ -1,5 +1,5 @@
 ---
-title: Observations on the languages of Tamriel
+title: Observations on the Languages of Tamriel
 reddit: zcaan
 author: lilrhys
 date: 2012-09-04T16:09:42Z

@@ -1,5 +1,5 @@
 ---
-title: A collection of all currently known information on the Mane
+title: A Collection of All Currently Known Information on the Mane
 reddit: 1mkj5k
 author: Mr_Flippers
 date: 2013-09-17T13:15:03Z

@@ -61,7 +61,7 @@ The famous line from the 36 Lessons. for those who haven’t read
 
 So, could you ever tell? If Miraak and Konahrik had fought so, could you tell
 the difference during the deafening Shouts? One is a powerful leader of a cult
-and the other... is a powerful leader of a cult. Could you ever tell if 1 and 1
+and the other… is a powerful leader of a cult. Could you ever tell if 1 and 1
 switched places? Vivec can, but he’s a special snowflake who can think beyond
 three-dimensional thought. Or Hortator and Sharmat, who won that fight in Red
 Mountain? When Dagoth Ur slept and Nerevar died from wounds, who could tell? Or

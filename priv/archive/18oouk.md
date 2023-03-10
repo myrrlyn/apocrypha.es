@@ -100,13 +100,12 @@ Empire, they are thieves greater than Rajhin. Only the Empire steals truth.
 Now, Rimmen. When Rasha was leaving Rimmen the sands were so pleasantly warm.
 Strolling them was falling for a lie, thinking this would harbour a good day. It
 did not. For a great hall was found where Khajiit had strolled. It was not of
-Khajiiti design at all, looking so... Big. Did the Nords build it? Impossible,
-we are too south for that. Was it the deep devils? It lacked their common
-features. Perhaps even a child of Fadomai’s? But then who? Rasha cannot tell
-you, nobody knows who built that place. But the Empire found interest in it. At
-least, Rasha saw imperials and their uniforms there, it had to be them. Rasha
-will not bore you with petty details, but Rasha discovered another powerful Mage
-there.
+Khajiiti design at all, looking so… Big. Did the Nords build it? Impossible, we
+are too south for that. Was it the deep devils? It lacked their common features.
+Perhaps even a child of Fadomai’s? But then who? Rasha cannot tell you, nobody
+knows who built that place. But the Empire found interest in it. At least, Rasha
+saw imperials and their uniforms there, it had to be them. Rasha will not bore
+you with petty details, but Rasha discovered another powerful Mage there.
 
 “Su’rin” Rasha thinks. It was hard to hear. But words are not what Rasha was
 amazed by. It was Big Walker.

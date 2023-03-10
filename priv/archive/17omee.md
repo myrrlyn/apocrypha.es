@@ -1,5 +1,6 @@
 ---
-title: The Revised Imperial Report on the Origin of the Sload, by Flavius Lupus, Synod Scholar
+title: The Revised Imperial Report on the Origin of the Sload
+subtitle: by Flavius Lupus, Synod Scholar
 reddit: 17omee
 author: b-rad-oleary
 date: 2013-02-01T07:13:12Z

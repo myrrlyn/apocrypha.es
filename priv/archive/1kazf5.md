@@ -1,5 +1,8 @@
 ---
-title: A Report to Your Highness the Emperor from Mikavel Silver-Tongue
+series: Reports from Mikavel Silver-Tongue to the Emperor
+part: 1
+title: An Overview of Modern Skyrim
+subtitle: from Mikavel Silver-Tongue
 reddit: 1kazf5
 author: Ushnad_gro-Udnar
 date: 2013-08-13T21:14:09Z

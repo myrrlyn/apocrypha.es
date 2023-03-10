@@ -1,14 +1,13 @@
 ---
-title: "The Quantum Enantiomorph"
+title: The Quantum Enantiomorph
 reddit: 1kozu0
 author: lilrhys
 date: 2013-08-19T22:21:40Z
+about: |
+  Disclaimer: This post enters into the domain of Quantum Physics and if my
+  physics and my explanation is downright incorrect then I apologise and hope
+  for a speedy correction.
 ---
-
-> Disclaimer: This post enters into the domain of Quantum Physics and if my
-> physics and my explanation is downright incorrect then I apologise and hope
-> for a speedy correction.
-{:tag="aside" .foreword}
 
 My personal favourite part of teslore is the dichotomy between the various
 characters of the Enantiomorph: King, Rebel and Observer (or for the newer
@@ -53,7 +52,7 @@ I hope that completely explained the Enantiomorph relationship even for those
 who thought they fully understood it. If you think that I am wrong please
 correct me and if you have any unanswered questions please do ask.
 
--Rhys
+—Rhys
 
 [0]: https://en.wikipedia.org/wiki/Quantum_superposition
 [1]: https://en.wikipedia.org/wiki/Observer_effect_(physics)

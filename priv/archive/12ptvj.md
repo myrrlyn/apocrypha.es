@@ -1,5 +1,5 @@
 ---
-title: The Prisoner, The Thief, The Tower, and the pursuit of CHIM
+title: The Prisoner, The Thief, The Tower, and the Pursuit of CHIM
 reddit: 12ptvj
 author: rexington_
 date: 2012-11-06T06:28:06Z

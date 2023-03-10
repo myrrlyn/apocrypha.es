@@ -8,38 +8,30 @@ defmodule ApocryphaWeb.PageController do
 
     render(conn, :page,
       classes: ["home"],
-      content: page.text,
+      content: Apocrypha.Page.render(page),
       metadata: page.meta,
       show_about: false
     )
   end
 
   def style(conn, _params) do
-    %Apocrypha.Page{meta: meta, text: text, src: src} =
-      Apocrypha.Page.load_page!("style-guide.md")
+    %Apocrypha.Page{meta: meta} = page = Apocrypha.Page.load_page!("style-guide.md")
 
     text =
-      text <>
+      Apocrypha.Page.render(page) <>
         "<hr /><section><pre><code>" <>
-        (src |> String.trim() |> Phoenix.HTML.html_escape() |> Phoenix.HTML.safe_to_string()) <>
+        (File.read!("priv/pages/style-guide.md") |> String.trim() |> Phoenix.HTML.html_escape() |> Phoenix.HTML.safe_to_string()) <>
         "</code></pre></section>"
 
     render(conn, :page, classes: ["style-guide"], content: text, metadata: meta, show_about: false)
   end
 
   def random(conn, _params) do
-    posts = Path.join(["priv", "archive", "*.md"]) |> Path.wildcard()
+    posts = Apocrypha.Library.get_index()
     idx = posts |> length() |> :rand.uniform() |> (&(&1 - 1)).()
-    name = posts |> Enum.at(idx)
-    post = name |> Path.basename() |> Apocrypha.Page.load_post!()
+    meta = posts |> Enum.at(idx)
 
-    render(conn, :page,
-      classes: ["post"],
-      content: post.text,
-      metadata: post.meta,
-      github_link: @repo_base <> String.trim_leading(name, "priv"),
-      show_about: true
-    )
+    article(conn, %{"id" => meta.reddit})
   end
 
   def articles(conn, _params) do
@@ -48,7 +40,7 @@ defmodule ApocryphaWeb.PageController do
     render(conn, :articles,
       classes: ["index"],
       show_about: false,
-      content: page.text,
+      content: Apocrypha.Page.render(page),
       metadata: page.meta,
       show_about: false
     )
@@ -59,7 +51,7 @@ defmodule ApocryphaWeb.PageController do
 
     render(conn, :post,
       classes: ["post", id],
-      content: post.text,
+      content: Apocrypha.Page.render(post),
       metadata: post.meta,
       show_about: true,
       github_link: "#{@repo_base}/archive/#{id}.md"
@@ -71,7 +63,7 @@ defmodule ApocryphaWeb.PageController do
 
     render(conn, :post,
       classes: ["draft-post", id],
-      content: post.text,
+      content: Apocrypha.Page.render(post),
       metadata: post.meta,
       show_about: true,
       github_link: "#{@repo_base}/pending/#{id}.md"

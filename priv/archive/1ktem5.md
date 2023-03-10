@@ -1,5 +1,7 @@
 ---
-title: "Continuation of a Report to Your Lorship from Mikavel Silver-Tongue: High Rock"
+series: Reports from Mikavel Silver-Tongue to the Emperor
+part: 2
+title: An Overview of Modern High Rock
 reddit: 1ktem5
 author: Ushnad_gro-Udnar
 date: 2013-08-21T17:35:12Z

@@ -16,6 +16,7 @@ defmodule Apocrypha.Application do
       Apocrypha.Repo,
       # Start the PubSub system
       {Phoenix.PubSub, name: Apocrypha.PubSub},
+      {Apocrypha.Library, %{}},
       # Start the Endpoint (http/https)
       ApocryphaWeb.Endpoint
       # Start a worker by calling: Apocrypha.Worker.start_link(arg)
@@ -27,6 +28,10 @@ defmodule Apocrypha.Application do
     opts = [strategy: :one_for_one, name: Apocrypha.Supervisor]
     out = Supervisor.start_link(children, opts)
 
+    case out do
+      {:ok, _pid} -> Apocrypha.Library.build_index()
+        _ -> nil
+    end
     Logger.notice("boot complete")
 
     out

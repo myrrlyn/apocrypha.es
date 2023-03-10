@@ -4,10 +4,10 @@
 <p>These posts have had their source text formatted to better fit with how this
 site operates.</p>
 <ol>
-  <li :for={entry <- Apocrypha.Library.public_posts()}>
-    <.link href={"a/" <> Path.basename(entry, ".md")}>
-      <code><%= Path.basename(entry, ".md") %></code>
-    </.link>
+  <li :for={entry <- Apocrypha.Library.get_index()}>
+    <.link href={"a/#{entry.reddit}"}>
+      <em><%= entry.title %></em>
+    </.link> by /u/<%= entry.author %>
   </li>
 </ol>
 

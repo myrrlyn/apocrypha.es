@@ -105,6 +105,14 @@ p:not(:last-child) {
   font-weight: bold;
 }
 
+.lang .ehlnofex {
+  font-style: italic;
+}
+
+.lang .dovah {
+  font-weight: bold;
+}
+
 /* layout */
 
 body {

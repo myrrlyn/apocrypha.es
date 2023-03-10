@@ -1,5 +1,6 @@
 ---
-title: "The Origin of the Argonians and the Great Symbiosis of Hist and Saxhleel"
+title: The Origin of the Argonians
+subtitle: And the Great Symbiosis of Hist and Saxhleel
 reddit: 1oqxtv
 author: xenoposeidon
 date: 2013-10-18T23:47:23Z

@@ -1,7 +1,8 @@
 ---
 series: On the Species of Tamriel
 part: 3
-title: "Cultured and Arrogant: the Altmer"
+title: Cultured and Arrogant
+subtitle: the Altmer
 reddit: 1ja6nm
 author: Hollymarkie
 date: 2013-07-29T15:59:28Z

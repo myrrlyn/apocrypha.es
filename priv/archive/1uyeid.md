@@ -234,7 +234,7 @@ My source, Uriel, said
 > *whether you were grey skinned or not or whether you worshipped the Divines*
 > *or the Temple. I knew something special had been and was now vanished.*
 > *Because, for one day, one beautiful moment in Mournhold’s sordid history, we*
-> *weren’t Dunmer, Imperials, Nords or whatever...we were just brothers and*
+> *weren’t Dunmer, Imperials, Nords or whatever… we were just brothers and*
 > *sisters. Just the people of Morrowind."*
 
 It was a very long time ere the sack was completed- this was, according to

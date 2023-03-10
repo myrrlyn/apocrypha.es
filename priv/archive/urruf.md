@@ -1,5 +1,6 @@
 ---
-title: Bormahu Aka-Tusk, Father of the Dovah
+title: Bormahu Aka-Tusk
+subtitle: Father of the Dovah
 reddit: urruf
 author: lilrhys
 date: 2012-06-08T16:33:19Z
@@ -8,10 +9,10 @@ date: 2012-06-08T16:33:19Z
 > **I am Alduin, First-Born of Akatosh**
 
 This sentence is probably one of the most controversial lines in Skyrim in
-> regards to the lore and many people use this line to show that Bethesda no
-> longer cares for TESlore and that Skyrim "ruined the lore of TES". So, in
-> response to these people I propose an explanation/misinterpretation of the
-> Alduin/Akatosh/Auri-el/Aka-Tusk/Bormahu dichotomy.
+regards to the lore and many people use this line to show that Bethesda no
+longer cares for TESlore and that Skyrim "ruined the lore of TES". So, in
+response to these people I propose an explanation/misinterpretation of the
+Alduin/Akatosh/Auri-el/Aka-Tusk/Bormahu dichotomy.
 
 ----
 
