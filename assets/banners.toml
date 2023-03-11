@@ -7,13 +7,13 @@ dim = { width = 1916, height = 125 }
 [c0da-2]
 file = "c0da-all.jpg"
 caption = "Some art from C0DA"
-pos = { x = "center", y = "-125px" }
+pos = { x = "center", y = "top 26.25%" }
 dim = { width = 1916, height = 125 }
 
 [c0da-3]
 file = "c0da-all.jpg"
 caption = "Some art from C0DA"
-pos = { x = "75%", y = "-250px" }
+pos = { x = "75%", y = "bottom 44.5%" }
 dim = { width = 1916, height = 150 }
 
 [c0da-4]

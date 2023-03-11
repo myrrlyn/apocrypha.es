@@ -1,8 +1,10 @@
 ---
+series: Bedtime Stories
 title: A Bedtime Story about Bedtime Stories
 reddit: 1rimhq
 author: lebiro
 date: 2013-11-26T19:55:25Z
+hide_series: true
 about: |
   I said I would, so I am
 ---

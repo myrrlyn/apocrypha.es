@@ -1,8 +1,10 @@
 ---
+series: Bedtime Stories
 title: A Bedtime Story About the Lizard-Men
 reddit: 1rihfj
 author: Al-Hatoor
 date: 2013-11-26T19:00:41Z
+hide_series: true
 about: |
   The unofficial triquel to [A Bedtime Story About the Elves][0] and [A Bed Time
   Story About Men][1]. First told from the perspective of a House Dres Slaver to

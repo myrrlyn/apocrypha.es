@@ -1,23 +1,19 @@
+<h1><%= @metadata.title %></h1>
+
 <%= @content |> raw() %>
 
 <h2>Formatted</h2>
-<p>These posts have had their source text formatted to better fit with how this
-site operates.</p>
 <ol>
-  <li :for={entry <- Apocrypha.Library.get_index()}>
-    <.link href={"a/#{entry.reddit}"}>
-      <em><%= entry.title %></em>
-    </.link> by /u/<%= entry.author %>
+  <li :for={post <- Apocrypha.Library.get_index()}>
+    <.link_article post={post} />
   </li>
 </ol>
 
 <h2>Raw</h2>
-<p>These posts have been emitted directly from the scraper with no alterations.
-They may look strange.</p>
 <ol>
-  <li :for={entry <- Apocrypha.Library.pending_posts()}>
-    <.link href={"q/" <> Path.basename(entry, ".md")}>
-      <code><%= Path.basename(entry, ".md") %></code>
+  <li :for={post <- Apocrypha.Library.pending_posts()}>
+    <.link href={"q/" <> Path.basename(post, ".md")}>
+      <code><%= Path.basename(post, ".md") %></code>
     </.link>
   </li>
 </ol>

@@ -1,8 +1,10 @@
 ---
+series: Bedtime Stories
 title: An Alehouse Story About Sload
 reddit: 1rjlha
 author: OPGreenback
 date: 2013-11-27T02:41:07Z
+hide_series: true
 about: |
   An old story that I thought would fit in well with the bedtime stories.
 ---

@@ -20,7 +20,10 @@ defmodule ApocryphaWeb.PageController do
     text =
       Apocrypha.Page.render(page) <>
         "<hr /><section><pre><code>" <>
-        (File.read!("priv/pages/style-guide.md") |> String.trim() |> Phoenix.HTML.html_escape() |> Phoenix.HTML.safe_to_string()) <>
+        (File.read!("priv/pages/style-guide.md")
+         |> String.trim()
+         |> Phoenix.HTML.html_escape()
+         |> Phoenix.HTML.safe_to_string()) <>
         "</code></pre></section>"
 
     render(conn, :page, classes: ["style-guide"], content: text, metadata: meta, show_about: false)
@@ -38,13 +41,37 @@ defmodule ApocryphaWeb.PageController do
     index = Task.async(&Apocrypha.Library.build_index/0)
     page = Apocrypha.Page.load_page!("articles.md")
 
-    out = render(conn, :articles,
-      classes: ["index"],
-      show_about: false,
-      content: Apocrypha.Page.render(page),
-      metadata: page.meta,
-      show_about: false
-    )
+    out =
+      render(conn, :articles,
+        classes: ["index"],
+        show_about: false,
+        content: Apocrypha.Page.render(page),
+        metadata: page.meta,
+        show_about: false
+      )
+
+    Task.await(index)
+    out
+  end
+
+  def all_series(conn, _params) do
+    index = Task.async(&Apocrypha.Library.build_index/0)
+    page = Apocrypha.Page.load_page!("series-index.md")
+    series_index = Apocrypha.Library.all_series()
+
+    all_series =
+      series_index
+      |> Enum.map(fn s -> {s, Apocrypha.Library.get_series(s)} end)
+      |> Enum.sort_by(&Enum.at(elem(&1, 1), 0).date)
+
+    out =
+      render(conn, :series_index,
+        classes: ["series-index"],
+        show_about: false,
+        content: Apocrypha.Page.render(page),
+        metadata: page.meta,
+        all_series: all_series
+      )
 
     Task.await(index)
     out

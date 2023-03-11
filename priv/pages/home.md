@@ -63,8 +63,9 @@ articles.
    runtimes, please do so, then use `mix phx.server` to run the application. You
    can view it at <http://localhost:5673> and see your work happen live!
 1. Pick some articles in `pending/` that you like (perhaps your own! search for
-   `author: "your username"` (with quotes)).
-1. Move them from `pending/` to `archive/` so that the server will render them.
+   `author: your_username`).
+1. Move them from `pending/` to `archive/` so that the main collection processor
+   will pick them up.
 1. Make them look like the other articles in `archive/`, following the steps
    outlined above.
 1. Submit a pull request!

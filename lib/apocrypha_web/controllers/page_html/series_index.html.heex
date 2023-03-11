@@ -1,0 +1,8 @@
+<%= @content |> raw() %>
+<hr />
+<section :for={{title, posts} <- @all_series}>
+  <h2 class="text-title"><%= title %></h2>
+  <ol>
+    <li :for={post <- posts}><.link_article post={post} /></li>
+  </ol>
+</section>

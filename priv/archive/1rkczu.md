@@ -1,8 +1,10 @@
 ---
+series: Bedtime Stories
 title: A Campfire Story about Tiber Septim
 reddit: 1rkczu
 author: Asotil
 date: 2013-11-27T11:00:45Z
+hide_series: true
 about: |
   I played this out in my head as a Nord warrior and an Altmer mage sitting in
   front of a campfire somewhere in eastern Skyrim.

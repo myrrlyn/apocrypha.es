@@ -1,29 +1,34 @@
 defmodule Apocrypha.Banners.Banner do
-  defstruct file: nil, caption: nil, pos: {"center", "center"}, dim: nil
+  defstruct file: nil, caption: nil, pos: {"center", "center"}, dim: nil, url: nil
 
   def new(%{file: file, caption: caption} = attrs) do
     {pos, attrs} = attrs |> Map.pop(:pos, {:center, :center})
     {dim, _attrs} = attrs |> Map.pop(:dim, [{:height, 128}])
 
     %__MODULE__{
+      file: file,
       caption: caption,
-      file: Path.join(["/images", "banners", file]),
       pos: pos,
-      dim: dim
+      dim: dim,
+      url: Path.join(["/images", "banners", file]),
     }
   end
 
-  def style_rules(%__MODULE__{file: file, pos: {x, y}, dim: [{:width, width}, {:height, height}]}) do
+  def style_rules(%__MODULE__{
+        url: url,
+        pos: {x, y},
+        dim: [{:width, width}, {:height, height}]
+      }) do
     """
     aspect-ratio: #{width} / #{height};
-    background-image: url(#{file});
+    background-image: url(#{url});
     background-position: #{x} #{y};
     """
   end
 
-  def style_rules(%__MODULE__{file: file, pos: {x, y}, dim: [{:height, height}]}) do
+  def style_rules(%__MODULE__{url: url, pos: {x, y}, dim: [{:height, height}]}) do
     """
-    background-image: url(#{file});
+    background-image: url(#{url});
     background-position: #{x} #{y};
     height: #{height}px;
     """
@@ -126,7 +131,9 @@ defmodule Apocrypha.Banners do
         banners = @banners |> Map.values()
         idx = banners |> length() |> :rand.uniform()
         banners |> Enum.at(idx - 1)
-      banner -> banner
+
+      banner ->
+        banner
     end
   end
 end

@@ -1,8 +1,10 @@
 ---
+series: Bedtime Stories
 title: A Bedtime Story About the Elves
 reddit: 1rhg1f
 author: myrrlyn
 date: 2013-11-26T08:28:48Z
+hide_series: true
 about: |
   This is my other two-month-old piece originally written as a comment to [a
   /u/Mr_Flippers post][0]. I’ve edited it slightly from the original, but unlike

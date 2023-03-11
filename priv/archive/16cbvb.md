@@ -29,7 +29,7 @@ Which thematically makes sense; 2 (divinity) and 9 (mortality) are two very
 disparate concepts; what else should we do with two opposites but smack them
 together and see what spits out? Let’s do this thing backwards.
 
-## 9 * 2 = 18
+## 9 × 2 = 18
 
 Mortality multiplied by Divinity. This is actually an excellent description of
 Vivec. But it could also describe the Amaranth, a mortal who becomes empowered

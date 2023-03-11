@@ -1,8 +1,10 @@
 ---
+series: Bedtime Stories
 title: A Bed Time Story About Men
 reddit: 1rhzsh
 author: Hollymarkie
 date: 2013-11-26T15:34:04Z
+hide_series: true
 ---
 
 So to tie in with [myrr’s post][0] about a children’s tale about Elves, I wanted

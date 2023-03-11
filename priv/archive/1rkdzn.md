@@ -1,8 +1,10 @@
 ---
+series: Bedtime Stories
 title: A Bedtime Story about Cat-Men
 reddit: 1rkdzn
 author: Mr_Flippers
 date: 2013-11-27T11:28:04Z
+hide_series: true
 ---
 
 “You want to hear a shtory? about dragons and how even I met and—”
