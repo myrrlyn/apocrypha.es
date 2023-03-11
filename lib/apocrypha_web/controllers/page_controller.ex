@@ -35,15 +35,19 @@ defmodule ApocryphaWeb.PageController do
   end
 
   def articles(conn, _params) do
+    index = Task.async(&Apocrypha.Library.build_index/0)
     page = Apocrypha.Page.load_page!("articles.md")
 
-    render(conn, :articles,
+    out = render(conn, :articles,
       classes: ["index"],
       show_about: false,
       content: Apocrypha.Page.render(page),
       metadata: page.meta,
       show_about: false
     )
+
+    Task.await(index)
+    out
   end
 
   def article(conn, %{"id" => id} = _params) do

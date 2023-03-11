@@ -12,14 +12,19 @@ defmodule Apocrypha.Library do
   end
 
   def build_index() do
+    snapshot = Agent.get(__MODULE__, & &1, :infinity) |> Map.keys() |> Enum.into(MapSet.new())
+
     public_posts()
     |> Stream.map(&Path.basename(&1, ".md"))
+    |> Stream.filter(&(!MapSet.member?(snapshot, &1)))
     |> Task.async_stream(&load_post/1, timeout: :infinity)
     |> Stream.run()
   end
 
   def get_index() do
-    Agent.get(__MODULE__, & &1, :infinity) |> Map.values() |> Enum.sort_by(& &1.reddit, &id_sorter/2)
+    Agent.get(__MODULE__, & &1, :infinity)
+    |> Map.values()
+    |> Enum.sort_by(& &1.reddit, &id_sorter/2)
   end
 
   def load_post(id) do
