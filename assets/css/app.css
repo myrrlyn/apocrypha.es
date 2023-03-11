@@ -61,7 +61,8 @@ h6 {
   font-size: 1.2em;
 }
 
-ol, ul {
+ol,
+ul {
   padding: initial;
   padding-inline-start: 3em;
 }
@@ -134,26 +135,56 @@ p:not(:last-child) {
 body {
   height: 100dvh;
   margin: 0;
-
-  display: flex;
-  flex-direction: column;
 }
 
-body>header {
-  background-size: cover;
-  flex-grow: 0;
-  flex-shrink: 0;
+@media screen and (max-width: 23.9em) {
+  body > header {
+    height: 4em;
+  }
 }
 
-#content {
-  min-height: 0;
-  flex-grow: 1;
+@media screen and (min-width: 24em) {
+  body {
+    display: flex;
+    flex-direction: column;
+  }
 
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
+  body>header {
+    background-size: cover;
+    flex-grow: 0;
+    flex-shrink: 0;
+  }
 
-  overflow-y: auto;
+  #content {
+    min-height: 0;
+    flex-grow: 1;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    overflow-y: auto;
+  }
+
+  main {
+    flex: 2 1 30em;
+    max-width: 48em;
+  }
+
+  #about {
+    flex: 1 1 10em;
+    max-width: 24em;
+  }
+
+  main,
+  #about {
+    max-height: 100%;
+    overflow-y: auto;
+  }
+}
+
+main, #about {
+  padding-inline: 0.5em;
 }
 
 body>footer {
@@ -162,23 +193,6 @@ body>footer {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
-}
-
-main {
-  flex: 4 1 30em;
-  max-width: 45em;
-}
-
-#about {
-  flex: 2 1 10em;
-  max-width: 15em;
-}
-
-main,
-#about {
-  max-height: 100%;
-  margin-inline: 0.5em;
-  overflow-y: auto;
 }
 
 @media not screen {

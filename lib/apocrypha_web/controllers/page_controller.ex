@@ -62,7 +62,7 @@ defmodule ApocryphaWeb.PageController do
     all_series =
       series_index
       |> Enum.map(fn s -> {s, Apocrypha.Library.get_series(s)} end)
-      |> Enum.sort_by(&Enum.at(elem(&1, 1), 0).date)
+      |> Enum.sort_by(&Enum.at(elem(&1, 1), 0).date, DateTime)
 
     out =
       render(conn, :series_index,
