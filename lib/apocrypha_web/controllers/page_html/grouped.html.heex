@@ -1,6 +1,7 @@
+<h1><%= @metadata.title %></h1>
 <%= @content |> raw() %>
 <hr />
-<section :for={{title, posts} <- @all_series}>
+<section :for={{title, posts} <- @all_groups}>
   <h2 class="text-title"><%= title %></h2>
   <ol>
     <li :for={post <- posts}><.link_article post={post} /></li>

@@ -6,6 +6,12 @@ defmodule Apocrypha.Library do
 
   use Agent
   require Logger
+  alias Apocrypha.Frontmatter
+
+  @typedoc """
+  A flat sequence of posts, sorted by publication date.
+  """
+  @type posts :: [Frontmatter.post()]
 
   def start_link(init) do
     Agent.start_link(fn -> init end, name: __MODULE__)
@@ -19,7 +25,7 @@ defmodule Apocrypha.Library do
   the post collection does not change, but is a convenience during development.
   """
   def build_index() do
-    snapshot = snapshot() |> Map.keys() |> Enum.into(MapSet.new())
+    snapshot = snapshot() |> Map.keys() |> MapSet.new()
 
     public_posts()
     |> Stream.map(&Path.basename(&1, ".md"))
@@ -29,29 +35,41 @@ defmodule Apocrypha.Library do
   end
 
   @doc """
-  Gets a list of all metadata objects in the store, sorted by publication date.
+  Gets a flat list of all metadata objects in the store
   """
-  @spec get_index :: [Apocrypha.Frontmatter.post()]
+  @spec get_index :: posts()
   def get_index() do
     snapshot_values() |> Enum.sort_by(& &1.reddit, &id_sorter/2)
   end
 
   @doc """
-  Gets a collection of all recognized `series:` names in the published set.
+  Clusters posts that are members of a series by that series.
+
+  Posts that do not define a `series:` tag in their frontmatter are excluded
+  from this listing.
   """
-  @spec all_series :: MapSet.t(String.t())
-  def all_series() do
-    snapshot_values() |> Stream.map(& &1.series) |> Stream.filter(& &1) |> Enum.into(MapSet.new())
+  @spec group_by_series :: [{String.t(), posts()}]
+  def group_by_series() do
+    snapshot_values()
+    |> Stream.filter(&(&1.series))
+    |> Enum.reduce(%{}, fn post, accum ->
+      Map.update(accum, post.series, MapSet.new([post]), &MapSet.put(&1, post))
+    end)
+    |> Stream.map(fn {series, posts} -> {series, Enum.sort_by(posts, & &1.date, DateTime)} end)
+    |> Enum.sort_by(fn {_, posts} -> Enum.at(posts, 0).date end, DateTime)
   end
 
   @doc """
-  Gets a all of the posts contained in a given series.
+  Clusters articles by their author.
   """
-  @spec get_series(String.t()) :: [Apocrypha.Frontmatter.post()]
-  def get_series(series_name) do
+  @spec group_by_authors :: [{String.t(), posts()}]
+  def group_by_authors() do
     snapshot_values()
-    |> Stream.filter(&(&1.series == series_name))
-    |> Enum.sort_by(& (&1.part || &1.date))
+    |> Enum.reduce(%{}, fn post, accum ->
+      Map.update(accum, post.author, MapSet.new([post]), & MapSet.put(&1, post))
+    end)
+    |> Stream.map(fn {author, posts} -> {author, Enum.sort_by(posts, & &1.date, DateTime)} end)
+    |> Enum.sort_by(&elem(&1, 0))
   end
 
   @doc """

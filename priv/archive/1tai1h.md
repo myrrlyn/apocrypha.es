@@ -5,33 +5,58 @@ author: indiges
 date: 2013-12-20T01:18:05Z
 ---
 
-**Editor's Note**
-
-Continuing my publication of selected works from the bound volumes I recently uncovered, I'm quite pleased to offer you one of the earliest published items. Though lacking the in-depth textual criticism and analysis that would later become the stock-in-trade of antiquarians, this poem, collected late in the third century of the Third Era along the lower reaches of the Niben, is quite interesting in its own right. Because of its length, I will be presenting this work in several parts. The introduction and first several segments of the poem are reproduced below.
-
-Lucretius Mella
-
-Imperial University of Bravil
-
-4E 201
-
------
-
-**The Lay of Fair Anica, Young Bero, and the Glorious Knight Pelinal**
+> **Editor’s Note**
+>
+> Continuing my publication of selected works from the bound volumes I recently
+> uncovered, I’m quite pleased to offer you one of the earliest published items.
+> Though lacking the in-depth textual criticism and analysis that would later
+> become the stock-in-trade of antiquarians, this poem, collected late in the
+> third century of the Third Era along the lower reaches of the Niben, is quite
+> interesting in its own right. Because of its length, I will be presenting this
+> work in several parts. The introduction and first several segments of the poem
+> are reproduced below.
+>
+> Lucretius Mella
+>
+> Imperial University of Bravil
+>
+> 4E 201
+{:tag="aside" .foreword}
 
 Recorded by Alain du Beaupont from a recitation by Antius Ampron
 
 3E 297
 
-**Collector's Note**
+> **Collector’s Note**
+>
+> In my study of the poetic tradition of the peoples of southern Nibenay, I have
+> become well-acquainted with the various cycles that have been transmitted
+> orally for generations. These works are often composed and recited in
+> increasingly archaic dialects of Old Cyrodiilic, a fact that threatens the
+> continued survival of this rich practice. Some, however, are taking steps to
+> prevent the destruction of their distinctive cultures. One such individual is
+> Antius Ampron. I had the great pleasure of meeting Antius nearly ten years
+> ago, and have since visited him and his family in their village many times.
+> Residing several miles south of the mouth of the Panther River, Antius,
+> already a man of many years when we first met, told me that he grew up being
+> regaled with the traditional tales on a nightly basis, and that as he grew
+> into a man, he too learned the old songs and began reciting. Several decades
+> ago, however, he became concerned when he found that his grandchildren were
+> unable to understand the language used in the traditional verses. Undaunted by
+> this, he began a project to translate portions of the epic cycles into modern
+> Tamrielic, while retaining the aspects that characterized this particular
+> tradition, including the meter and repetition.
+>
+> The poem reproduced below is Antius' translation of a portion of the Sedor
+> cycle, a rather obscure series of tales recounting the deeds of the heroes of
+> the Sedor tribe, a group believed to have dwelt in this area during the early
+> First Era. This particular section is interesting in its inclusion of the
+> figure of Pelinal, tying it into the more widely-spread Pelinal and Alessia
+> poetic cycles. And so, without further ado, I present to you *The Lay of Fair*
+> *Anica, Young Bero, and the Glorious Knight Pelinal*.
+{:tag="aside" .foreword}
 
-In my study of the poetic tradition of the peoples of southern Nibenay, I have become well-acquainted with the various cycles that have been transmitted orally for generations. These works are often composed and recited in increasingly archaic dialects of Old Cyrodiilic, a fact that threatens the continued survival of this rich practice. Some, however, are taking steps to prevent the destruction of their distinctive cultures. One such individual is Antius Ampron. I had the great pleasure of meeting Antius nearly ten years ago, and have since visited him and his family in their village many times. Residing several miles south of the mouth of the Panther River, Antius, already a man of many years when we first met, told me that he grew up being regaled with the traditional tales on a nightly basis, and that as he grew into a man, he too learned the old songs and began reciting. Several decades ago, however, he became concerned when he found that his grandchildren were unable to understand the language used in the traditional verses. Undaunted by this, he began a project to translate portions of the epic cycles into modern Tamrielic, while retaining the aspects that characterized this particular tradition, including the meter and repetition.
-
-The poem reproduced below is Antius' translation of a portion of the Sedor cycle, a rather obscure series of tales recounting the deeds of the heroes of the Sedor tribe, a group believed to have dwelt in this area during the early First Era. This particular section is interesting in its inclusion of the figure of Pelinal, tying it into the more widely-spread Pelinal and Alessia poetic cycles. And so, without further ado, I present to you *The Lay of Fair Anica, Young Bero, and the Glorious Knight Pelinal*.
-
-----
-
-**Verse I: The Plot of Beranil**
+## Verse I: The Plot of Beranil
 
 In the day of broken shackles
 
@@ -145,7 +170,7 @@ Drew them to him as his armor,
 
 Gathered them to be his weapon.
 
-**Verse II: The Challenge of Unno and the Oath of Anica**
+## Verse II: The Challenge of Unno and the Oath of Anica
 
 By the bright hearths of the Sedor,
 
@@ -173,7 +198,7 @@ Mighty Unno, son of Pallo,
 
 Scar-backed Unno, born in bondage,
 
-Broad-faced Unno, Elfkind's menace
+Broad-faced Unno, Elfkind’s menace
 
 Called upon the Men of Sedor,
 
@@ -221,7 +246,7 @@ Saying this unto the masses:
 
 Nobly granted every virtue,
 
-I have heard proud Unno's challenge,
+I have heard proud Unno’s challenge,
 
 I have heard his thoughtful speaking.
 
@@ -270,5 +295,3 @@ And those splendid Men of Sedor,
 Red-eyed, long-limbed Men of Sedor,
 
 All prepared to meet the challenge.
-
-

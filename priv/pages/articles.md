@@ -2,16 +2,19 @@
 title: Collected Works
 ---
 
-This is the list of all /r/teslore Apocryphal works currently mirrored.
+These are the /r/teslore Apocryphal works that we have given editorial review.
+There are three thousand articles in the collection, and they all need to be
+manually reviewed and edited to fit this site’s understanding. This process is
+going to take a while; you can see the articles [still in the queue][0] at their
+listing.
 
-The “Formatted” section contains the posts that have been manually edited for
-grammar and site style. They are not necessarily *done* yet, as we are learning
-what edits and reshaping should be done as we go, but they should at least be
-reasonably presentable.
+We expect to do further refinement of the content of these posts as we learn
+more about the overall structure of the archive and improve the site
+presentation. Articles here are not “done”, but they are done enough to our
+satisfaction.
 
-The “Raw” section’s posts are emitted directly from the scraper; they have not
-been edited at all and may have ugly formatting or leftover HTML entities.
+See the [home-page][1] for information about how to help edit the articles here
+or in the pending queue.
 
-Both sections are listed in chronological order, oldest to newest, and the edit
-process is *roughly* in that same order. See the home-page if you would like to
-help!
+[0]: /q
+[1]: /

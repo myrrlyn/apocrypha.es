@@ -1,0 +1,10 @@
+<h1><%= @metadata.title %></h1>
+
+<%= @content |> raw() %>
+<ol>
+  <li :for={post <- Apocrypha.Library.pending_posts()}>
+    <.link href={"q/" <> Path.basename(post, ".md")}>
+      <code><%= Path.basename(post, ".md") %></code>
+    </.link>
+  </li>
+</ol>

@@ -54,23 +54,48 @@ defmodule ApocryphaWeb.PageController do
     out
   end
 
+  def draft_articles(conn, _params) do
+    page = Apocrypha.Page.load_page!("draft-articles.md")
+
+    render(conn, :draft_articles,
+      classes: ["draft-index"],
+      show_about: false,
+      content: Apocrypha.Page.render(page),
+      metadata: page.meta,
+      show_about: false
+    )
+  end
+
   def all_series(conn, _params) do
     index = Task.async(&Apocrypha.Library.build_index/0)
     page = Apocrypha.Page.load_page!("series-index.md")
-    series_index = Apocrypha.Library.all_series()
-
-    all_series =
-      series_index
-      |> Enum.map(fn s -> {s, Apocrypha.Library.get_series(s)} end)
-      |> Enum.sort_by(&Enum.at(elem(&1, 1), 0).date, DateTime)
+    all_series = Apocrypha.Library.group_by_series()
 
     out =
-      render(conn, :series_index,
+      render(conn, :grouped,
         classes: ["series-index"],
         show_about: false,
         content: Apocrypha.Page.render(page),
         metadata: page.meta,
-        all_series: all_series
+        all_groups: all_series
+      )
+
+    Task.await(index)
+    out
+  end
+
+  def all_authors(conn, _params) do
+    index = Task.async(&Apocrypha.Library.build_index/0)
+    page = Apocrypha.Page.load_page!("authors-index.md")
+    all_authors = Apocrypha.Library.group_by_authors()
+
+    out =
+      render(conn, :grouped,
+        classes: ["authors-index"],
+        show_about: false,
+        content: Apocrypha.Page.render(page),
+        metadata: page.meta,
+        all_groups: all_authors
       )
 
     Task.await(index)

@@ -10,6 +10,7 @@ date: 2013-09-17T19:10:26Z
 > *Welcome back to the sixteenth volume of “On the Species of Tamriel”. This*
 > *volume deals with the Ayleids of Cyrodiil, who have disappeared into the*
 > *woods of Tamriel, after their last city was razed.*
+{:tag="aside" .foreword}
 
 The Ayleids (sometimes referred to as “Wild Elves”, “Heartland High Elves”, or
 “Ayleidoon”, the latter probably being a plural of “Ayleid”) were a race of Mer

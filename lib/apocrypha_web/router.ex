@@ -14,6 +14,7 @@ defmodule ApocryphaWeb.Router do
     plug :accepts, ["json"]
   end
 
+  # Processed Apocrypha
   scope "/a", ApocryphaWeb do
     pipe_through :browser
 
@@ -21,16 +22,26 @@ defmodule ApocryphaWeb.Router do
     get "/:id", PageController, :article
   end
 
+  # Queue for processing
   scope "/q", ApocryphaWeb do
     pipe_through :browser
 
+    get "/", PageController, :draft_articles
     get "/:id", PageController, :draft_article
   end
 
+  # Group posts by series
   scope "/s", ApocryphaWeb do
     pipe_through :browser
 
     get "/", PageController, :all_series
+  end
+
+  # Group posts by user
+  scope "/u", ApocryphaWeb do
+    pipe_through :browser
+
+    get "/", PageController, :all_authors
   end
 
   scope "/", ApocryphaWeb do

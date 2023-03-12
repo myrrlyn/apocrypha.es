@@ -1,19 +1,8 @@
 <h1><%= @metadata.title %></h1>
 
 <%= @content |> raw() %>
-
-<h2>Formatted</h2>
 <ol>
   <li :for={post <- Apocrypha.Library.get_index()}>
     <.link_article post={post} />
-  </li>
-</ol>
-
-<h2>Raw</h2>
-<ol>
-  <li :for={post <- Apocrypha.Library.pending_posts()}>
-    <.link href={"q/" <> Path.basename(post, ".md")}>
-      <code><%= Path.basename(post, ".md") %></code>
-    </.link>
   </li>
 </ol>

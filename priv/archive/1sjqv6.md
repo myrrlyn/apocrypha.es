@@ -8,6 +8,7 @@ date: 2013-12-10T14:24:20Z
 > *\[Written and compiled by Justiciar Jairen with the help of his Argonian*
 > *companion Runs-Like-Water on the 3rd of Last Seed. Filed and sealed in the*
 > *name of the glorious Aldmeri Dominion.]*
+{:tag="aside" .foreword}
 
 Hail to the Dominion, may our union last onwards and forever. I, Jairen, ever
 faithful to the glorious Queen, have compiled a long and illuminating report

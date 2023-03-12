@@ -108,34 +108,34 @@ Clavicus Vile is bad bartering to Zenithar’s good, and Peryite is illness and
 death. And so forth.
 
 > - **C** Mara
->>> - **C#^♭** Namira
+>>> - **C#^♭^** Namira
 >> - **C#** Malacath
->>> - **C#^#** Vaermina
+>>> - **C#^#^** Vaermina
 > - **D** Zenithar
->>> - **D#^♭** Clavicus Vile
+>>> - **D#^♭^** Clavicus Vile
 >> - **D#** Mehrunes Dagon
->>> - **D#^#** Peryite
+>>> - **D#^#^** Peryite
 > - **E** Arkay
 >> - **E#** Azura
 > - **F** Kyne
->>> - **F#^♭** Meridia
+>>> - **F#^♭^** Meridia
 >> - **F#** Molag Bal
->>> - **F#^#** Hircine
+>>> - **F#^#^** Hircine
 > - **G** Stendarr
->>> - **G#^♭** Sanguine
+>>> - **G#^♭^** Sanguine
 >> - **G#** Boethiah
->>> - **G#^#** Nocturnal
+>>> - **G#^#^** Nocturnal
 > - **A** Akatosh
->>> - **A#^♭** Hermaeus Mora
+>>> - **A#^♭^** Hermaeus Mora
 >> - **A#** Sheogorath
->>> - **A#^#** Jyggalag
+>>> - **A#^#^** Jyggalag
 > - **B** Julianos
 >> - **B#** Mephala
 > - **C** Dibella
 
 Incidentally, if one makes this list into a wheel, with Aedric overtones as the
 longest spokes, the 7 Prominent Daedra with spokes of middling length, and the
-ten remaining Princes as the shortest spokes, one gets [this result][1]].
+ten remaining Princes as the shortest spokes, one gets [this result][1].
 However, if we rotate so that D is our top, the [end result][2] is reflectively
 symmetric. D Major is incidentally commonly called the Heavenly Key in the
 Western music canon, and having Work in such a subtly special place is rather
