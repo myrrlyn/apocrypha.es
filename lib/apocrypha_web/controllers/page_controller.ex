@@ -34,7 +34,7 @@ defmodule ApocryphaWeb.PageController do
     idx = posts |> length() |> :rand.uniform() |> (&(&1 - 1)).()
     meta = posts |> Enum.at(idx)
 
-    article(conn, %{"id" => meta.reddit})
+    redirect(conn, to: ~p"/a/#{meta.reddit}")
   end
 
   def articles(conn, _params) do
