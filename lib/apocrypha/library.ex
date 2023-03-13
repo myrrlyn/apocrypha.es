@@ -51,12 +51,16 @@ defmodule Apocrypha.Library do
   @spec group_by_series :: [{String.t(), posts()}]
   def group_by_series() do
     snapshot_values()
-    |> Stream.filter(&(&1.series))
+    # Discard posts that are not in a series
+    |> Stream.filter(& &1.series)
+    # Fold each post into its series bucket
     |> Enum.reduce(%{}, fn post, accum ->
       Map.update(accum, post.series, MapSet.new([post]), &MapSet.put(&1, post))
     end)
-    |> Stream.map(fn {series, posts} -> {series, Enum.sort_by(posts, & &1.date, DateTime)} end)
-    |> Enum.sort_by(fn {_, posts} -> Enum.at(posts, 0).date end, DateTime)
+    # Convert each bucket into a date-sorted list
+    |> par_map(fn {series, posts} -> {series, date_sorter(posts)} end)
+    # Sort the buckets by first-entry publish date
+    |> Enum.sort_by(&(&1 |> elem(1) |> Enum.at(0)).date, DateTime)
   end
 
   @doc """
@@ -65,11 +69,14 @@ defmodule Apocrypha.Library do
   @spec group_by_authors :: [{String.t(), posts()}]
   def group_by_authors() do
     snapshot_values()
+    # Fold each post into its author bucket
     |> Enum.reduce(%{}, fn post, accum ->
-      Map.update(accum, post.author, MapSet.new([post]), & MapSet.put(&1, post))
+      Map.update(accum, post.author, MapSet.new([post]), &MapSet.put(&1, post))
     end)
-    |> Stream.map(fn {author, posts} -> {author, Enum.sort_by(posts, & &1.date, DateTime)} end)
-    |> Enum.sort_by(&elem(&1, 0))
+    # Convert each bucket into a date-sorted list
+    |> par_map(fn {author, posts} -> {author, date_sorter(posts)} end)
+    # Sort the buckets by author name, case-insensitively
+    |> Enum.sort_by(&elem(&1, 0), &(String.downcase(&1) < String.downcase(&2)))
   end
 
   @doc """
@@ -121,4 +128,16 @@ defmodule Apocrypha.Library do
   defp snapshot(), do: Agent.get(__MODULE__, & &1, :infinity)
 
   defp snapshot_values(), do: snapshot() |> Stream.map(&elem(&1, 1))
+
+  defp date_sorter(posts), do: Enum.sort_by(posts, & &1.date, DateTime)
+
+  defp par_map(stream, func) do
+    stream
+    |> Task.async_stream(func)
+    |> Stream.filter(fn
+      {:ok, _} -> true
+      {:error, _} -> false
+    end)
+    |> Stream.map(&elem(&1, 1))
+  end
 end

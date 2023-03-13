@@ -58,7 +58,7 @@ necessary, as the rest of the pantheon.
 
 ### Color and Tone
 
-I apologize for data-spam, but this is the unified Tone/Color/God table and I'm
+I apologize for data-spam, but this is the unified Tone/Color/God table and I’m
 going to base the rest of this post off of it. For ease of reading, the Aedra
 are in bold and the Prominent Daedra in italics.
 
@@ -90,7 +90,7 @@ are in bold and the Prominent Daedra in italics.
 |*Mephala*       |B#   |315|
 |**Dibella**     |C    |330|
 
-If you remember my definition of the color wheel, you'll see that C#, Red,
+If you remember my definition of the color wheel, you’ll see that C#, Red,
 happens to land on a Daedric Prince, whereas the other two are on Aedra (Kyne
 and Julianos). This may seem a little strange, considering that one of the
 tenets of my Musical Theory of Mundus is that the Aedra are the key Tones and
@@ -104,7 +104,7 @@ and an intermediary. Trinimalacath is a primarily Elven deity, and Kyne is
 primarily human. Julianos, however, is revered by both Elves and Men and his
 sphere (magic and intellectualism) is relevant to both.
 
-So. Let's talk physics and theory (and also terror. *blackens hands*).
+So. Let’s talk physics and theory (and also terror. *blackens hands*).
 
 While human hearing in our world begins at ~20Hz and extends to ~16kHz, human
 sight ranges from 4x10^14 Hz to 8X10^14 Hz. This is a much smaller window and
@@ -117,7 +117,7 @@ logarithmic pattern.
 However, TES physics are not necessarily identical to those of our own world,
 and we would all do well to remember this.
 
-I want you to visualize a helix. It's a screw: as a point rotates in a circle,
+I want you to visualize a helix. It’s a screw: as a point rotates in a circle,
 the center moves along an orthogonal axis, creating a twist rather than a closed
 loop. If you look at it from the side, you see a sine wave, but if you look at
 it head-on, it makes a circle.
@@ -133,7 +133,7 @@ with their periodic Colors as they are with periodic Tones (the Octaves).
 The mixture of "discrete" senses into single fields is one that features
 strongly in TES lore. Pure Song is perceived as all of the mortal senses, since
 this Song is what creates the world. Tonal Architecture reshapes the Song and
-sculpts matter. The Thu'um translates Voice into Color and Force. Color and Tone
+sculpts matter. The Thu’um translates Voice into Color and Force. Color and Tone
 are intertwined in many regards and it is no stretch at all to unify them.
 Furthermore, the use of cross-sensory perception in the mythos of Mundus further
 illustrates the nature of the Dream state that Godhead, Anu, the Captive Sage,
@@ -166,7 +166,7 @@ Post-Post-Script:
 > 20131030061819 <!Dovahkiin> this one? (link)
 > 20131030061825 <MK> y
 > 20131030061832 <!Dovahkiin> that was also myrrlyn
-> 20131030061847 <MK> I don't even
+> 20131030061847 <MK> I don’t even
 > ```
 
 Those lines are DEFINITELY why I wrote these.

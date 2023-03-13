@@ -38,7 +38,8 @@ In addition to the CommonMark standard, we support:
   text in fonts taken from the games. `.handwriting` uses the *Skyrim*
   journal font; `.dovah`, `.dwemer`, `.falmer`, and `.daedric` do
   exactly what they say, and `.ehlnofex` uses the font shown on the Eye
-  of Magnus.
+  of Magnus. You can also use an IAL to apply the `lang="x-NAME"`
+  attribute.
 
 - HTML attributes: the “inline attribute list” allows you to write HTML
   attributes and attach them to the HTML tag that your Markdown will

@@ -79,7 +79,7 @@ whisper.”
 
 “Good.”
 
-“As I was saying, Tiber Septim and Zurin Arctus' next move is to invade
+“As I was saying, Tiber Septim and Zurin Arctus’ next move is to invade
 Morrowind, home of the oldest enemies of Men…”
 
 > “(And rich ebony deposits.)”

@@ -3,7 +3,7 @@
 <%= @content |> raw() %>
 <ol>
   <li :for={post <- Apocrypha.Library.pending_posts()}>
-    <.link href={"q/" <> Path.basename(post, ".md")}>
+    <.link href={~p"/q/#{Path.basename(post, ".md")}"}>
       <code><%= Path.basename(post, ".md") %></code>
     </.link>
   </li>

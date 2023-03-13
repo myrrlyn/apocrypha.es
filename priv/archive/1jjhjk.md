@@ -10,7 +10,7 @@ to probe the nature of reality to gain power, but most of these methods are
 fundamentally involve illicit deals with powerful demons from Oblivion. Some
 scholars have argued that destruction magic is applied Alteration, but I would
 argue that Mehrunes Dagon is at the root of sorcerous abilities. Conjuration and
-it's bastard cousin Necromancy aren't even subtle about hiding their connections
+its bastard cousin Necromancy aren’t even subtle about hiding their connections
 to the foul planes of blasphemy which creep incessantly into our world, probing
 at the borders. Alchemy is the only form of magic which is completely removed
 from all Daedric studies.

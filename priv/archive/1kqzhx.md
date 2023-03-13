@@ -83,7 +83,7 @@ dialogue during his trial:
 > **fall before the one and one, I call you Dragon as brother and king**,
 > flame-faced, turgid, accounted, crowned in hours, see this as wanted and so to
 > write, set letter, set in time, and I call you Wife, sister and queen, hole
-> and throne, wet, spending, moan'ed before marriage, see this as wanted and so
+> and throne, wet, spending, moan’ed before marriage, see this as wanted and so
 > to wed, led-to-loved, set in never, GO DOWN AE ALTADOON DEN, for trailed it is
 > in slime we make our babes and the walker heeds no mock of dirt, until you,
 > until you, there, I call you there, I call you Proud One, brother-by-death,
@@ -100,7 +100,7 @@ dialogue during his trial:
 > running monies, whose vendors lay playing golden, star and city, all of one to
 > your only bed, because this is wanted, IS want, and so to swell them, set and
 > entered, SEHT AE DWEM, I call you Wounded as my war brother, speared and
-> thrown down, STENDR, rebuilt like mercy, lake-faced and lamp'd, spoke in
+> thrown down, STENDR, rebuilt like mercy, lake-faced and lamp’d, spoke in
 > water, this is wanted, give it grace, set in stillborn heavens, AE, I call you
 > Lock-step, math athlete, theorem-teethed biter, grand answer, stay skyward
 > from your line, symbol-gutter, this is wanted, set sequence, may you trace it

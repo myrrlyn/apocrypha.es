@@ -1,7 +1,7 @@
 ---
 series: Casualties of the Great War
 part: 1
-title: Cyrodiil
+title: Cyrodiil, pt. I
 reddit: 1tqjl9
 author: Avian81
 date: 2013-12-26T14:09:37Z

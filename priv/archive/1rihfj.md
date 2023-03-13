@@ -99,7 +99,7 @@ Egg-Spirits, and walked on the Egg.”
 
 “Maybe, hatchling.”
 
-> “What do you mean, 'maybe'? They were the Ehlnofey!”
+> “What do you mean, ‘maybe’? They were the Ehlnofey!”
 
 “Who is telling this tale, hatchling?”
 

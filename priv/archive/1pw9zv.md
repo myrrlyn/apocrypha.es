@@ -10,7 +10,7 @@ about: |
   my TES novel for quite sometime, I have gained enough confidence to post this.
 
   Below is the final and agonizing moments of a Hist’s life before it is purged
-  from the other trees, and 'his' conversation with the Great Root before it
+  from the other trees, and “his” conversation with the Great Root before it
   dies. What is the meaning of the words it speaks? Well, please elaborate in
   the comments below, because I sure in the hell don’t know.
 

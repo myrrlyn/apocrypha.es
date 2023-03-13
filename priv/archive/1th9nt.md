@@ -21,7 +21,7 @@ across the province, exterminating at least the local race of man, the
 Kothringi, and most likely the vulpine race of the Limothiit. The story of the
 Day of Shame is centred around the Kothringi, or, to be more precise, one ship
 filled with (most likely) the last living Kothringi, trying to escape the Flu,
-dubbed the 'Crimson Ship'. The Crimson Ship left the coasts of Black Marsh in 2E
+dubbed the “Crimson Ship”. The Crimson Ship left the coasts of Black Marsh in 2E
 563, and the sailors and refugees desperately tried to find a safe haven, but to
 no avail. At every port, the last of the Kothringi were refused entry, out of
 fear for the Flu (which was still raging on, both in Black Marsh, and on the

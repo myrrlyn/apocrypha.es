@@ -16,7 +16,7 @@ the Crowns, and the Forebears, have changed drastically due to the Thalmor
 invasion. Indeed, how does one approach those who sent soldiers to die
 reclaiming Hegathe, and yet have virulently opposed us for decades?
 
-The Forebears hold an inherited grudge over us due to our ancestors' rule of
+The Forebears hold an inherited grudge over us due to our ancestors’ rule of
 Yokuda and the civil war that once plagued this land, but to them I say this:
 why did the Na-Totambu lead if they were not suited for the job?
 

@@ -47,7 +47,7 @@ Recorded by Alain du Beaupont from a recitation by Antius Ampron
 > Tamrielic, while retaining the aspects that characterized this particular
 > tradition, including the meter and repetition.
 >
-> The poem reproduced below is Antius' translation of a portion of the Sedor
+> The poem reproduced below is Antius’ translation of a portion of the Sedor
 > cycle, a rather obscure series of tales recounting the deeds of the heroes of
 > the Sedor tribe, a group believed to have dwelt in this area during the early
 > First Era. This particular section is interesting in its inclusion of the

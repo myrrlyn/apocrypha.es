@@ -75,7 +75,7 @@ they were the original inhabitants of the province), they hold the Altmer in the
 highest regard, and try to emulate them in every way. As a result, many of the
 Great Apes now wear capes, practise duelling, train their speech to better fit
 in with higher social circles, and appear to despise any race of men. Along with
-this, all Imga take on some royal title, like 'duke' or 'count' (even though
+this, all Imga take on some royal title, like “duke” or “count” (even though
 there are no Imga who hold land), something which sometimes appears comically to
 outsiders. Despite going at length to emulate the Altmer, the High Elves look
 down upon them, since the High Elves look down upon all non-mer. This only makes

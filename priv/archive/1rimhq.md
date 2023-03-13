@@ -56,12 +56,12 @@ when they ain’t little boys nor girls —
 > Grandpa that’s racist
 
 Pish, in my day we didn’ ‘ave a word fer “racist”, we jus’ ad a big ol’ axe fer
-choppin’ up elves what came a-knockin'. Quiet down.
+choppin’ up elves what came a-knockin’. Quiet down.
 
 Anyways, even when they ain’t little boys nor girls, they’m powerful scurred o’
 Vaermima’s bad dreams. So they got a hold o’ one o’ their elf gods. Wassisname…
 Jeoffrey? Iffy? Summat elfish rest ashured. An’ ol’ wassisname weren’t much good
-fer nothin', bein’ an elf god. But ‘e ‘ad a right clever idea, did ol’
+fer nothin’, bein’ an elf god. But ‘e ‘ad a right clever idea, did ol’
 wassisname, an’ ‘e were right good at spinnin’ a yarn. So ‘e told the sleepin
 baby-elfs lie down in bed, be right quiet, an listen ter ol’ wassisname. An’ he
 told ‘em such lovely tales as ter keep their little elf minds off o’ ol’

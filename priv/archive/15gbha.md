@@ -24,7 +24,7 @@ that opened the portal”. However, a rough translation and interpretation has l
 me to believe other wise. It seems that the text themselves don’t just give
 power, but maybe summons it.
 
-[The first page of the Divine-forsaken book][0] displays the infamous 'O' in the
+[The first page of the Divine-forsaken book][0] displays the infamous “O” in the
 center of a circle surrounded by daedric script. The script that follow the axis
 of the circles edge read as so:
 

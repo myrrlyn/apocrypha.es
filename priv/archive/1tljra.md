@@ -176,7 +176,7 @@ just few Orcs.
 > > idk if I should continue this series on the artifacts, cause I feel lazy to
 > > -_-
 > >
-> > I’m working on a summary for the Mages' Guild questline in Oblivion, but
+> > I’m working on a summary for the Mages’ Guild questline in Oblivion, but
 > > then I realized, I haven’t completed the MG quests yet. Whoops (stupid
 > > Vahtacen ruins) Anyway I guess I’ll have to finish that questline first or
 > > else my post on that could be half assed.

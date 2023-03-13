@@ -16,8 +16,8 @@ about: |
 > primitive society. Without further ado: here is “The Lizards of the Swamps”.
 {:tag="aside" .foreword}
 
-The Argonians (in their language, Jel, Saxhleel, pronounced ['zaɣɦleil] as
-opposed to the Imperial pronunciation ['sækslil], meaning “people of the Root”,
+The Argonians (in their language, Jel, Saxhleel, pronounced [‘zaɣɦleil] as
+opposed to the Imperial pronunciation [‘sækslil], meaning “people of the Root”,
 a reference to their relation with the Hist trees) of Black Marsh are a
 reptilian people often looked down upon by the other races. Indeed, Argonians,
 along with the Khajiit, are (wrongly) classified as “beasts” by the races of Mer

@@ -10,12 +10,12 @@ about: |
 
 Listen, brothers and sisters, for we have been lied to again! Not only did the
 Trickster God curse us with mortality, our own Aedric gods did as well, for we
-are not that different from the 'divines'. They are using us, my people, and
+are not that different from the “divines”. They are using us, my people, and
 have always done so. But not for longer now.
 
 They cursed our ancestors, weak as they were from Creation, sundered by the evil
 Lorkhan, to lose their immortality. Today, I call upon everyone to reject these
-so called 'gods', and not bow down to any other being than ourselves, for they
+so called “gods”, and not bow down to any other being than ourselves, for they
 are not to be trusted. And why you might ask? It is because they have used us,
 brothers and sisters, they have used us. We are to them not their favoured
 children, not the ones they concern themselves with because they care. Oh no,
@@ -37,7 +37,7 @@ that, just because of a bigger cult.
 But we are not unlike them, for our souls can be shaped like theirs as well. In
 Sovngarde, the ancestors of the North still reside, even though all souls get
 wiped. Our stories and tales of hero’s shapes them, creating a collective
-memory. These are the powers we hold, and this is why the 'gods' have put us in
+memory. These are the powers we hold, and this is why the “gods” have put us in
 this prison, to feed of our power.
 
 But how do they take our power you might ask? They harvest our very souls,

@@ -63,7 +63,7 @@ a… ever heard of a Senchal Shakeup?”
 
 > “what’s that?”
 
-“nothing for you to know yet. How about the old Ne' Quinniit Treat?”
+“nothing for you to know yet. How about the old Ne’ Quinniit Treat?”
 
 > “I haven’t eaten your peoples food before”
 

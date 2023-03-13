@@ -49,7 +49,7 @@ represent the 16 Daedric Princes.
 As Vivec states. Look at the Wheel sideways and you see the “I” of the Godhead.
 The singular which dreams the plurals. This sudden realisation is what
 kickstarts CHIM. This quote, however, shows more than how to reach CHIM, it also
-explains Lorkhan's purpose. Lorkhan saw the Tower without the Wheel when he
+explains Lorkhan’s purpose. Lorkhan saw the Tower without the Wheel when he
 travelled to the edge of the Aurbis:
 
 > As the gods and demons of the Aurbis erupted, the get of Padhome tried to

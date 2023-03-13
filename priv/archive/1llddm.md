@@ -87,7 +87,7 @@ was successful, and started his own dynasty, as well as the Second Empire. The
 second Empire was different from the others, as the Tsaeci of Akavir had a huge
 amount of influence of the Empire. So much in fact, that after the assasination
 of the last Reman, Reman III, the Potentate Versidue-Shaie, proclaimed himself
-as sole ruler (while not using the title 'Emperor’). The Akaviri Potentate
+as sole ruler (while not using the title “Emperor”). The Akaviri Potentate
 ended in 2E 430, when the last descendent of Versidue-Shaie, Savirien-Chorak,
 was assassinated. This created another power vacuum, and saw the reestablishment
 of the many warlord led kingdoms. Tamriel was yet again united at the end of the

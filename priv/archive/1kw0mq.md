@@ -16,7 +16,7 @@ about: |
 > one can be as he will. More: be as he was and yet changed for all else on that
 > path for those that walk after. This is the third key of Nu-mantia and the
 > secret of how mortals become makers, and makers back to mortals. The Bones of
-> the Wheel need their flesh, and that is mankind's heirloom.
+> the Wheel need their flesh, and that is mankind’s heirloom.
 
 The Tower permeates throughout all of Aurbis, as The Wheel IS Aurbis. To stand
 at it’s apex, in full understanding, one may become a Padomaic wave of change
@@ -33,7 +33,7 @@ became mortals again as their mythic dance had ended. I won’t get into the
 Monkey-Truth aspect of the Selectives mantling the Divines.
 
 > Oath-breakers beware, for their traitors run through the nymic-paths, runner
-> dogs of prolix gods. The Dragon's Blood have hidden ascension in six-thousands
+> dogs of prolix gods. The Dragon’s Blood have hidden ascension in six-thousands
 > years of aetherial labyrinth, which is Arena, which they yet deny is
 > Oathbound. By the Book, take this key and pierce the divine shell that
 > encloses the mantle-takers! The skin of gold! SCARAB AE AURBEX!
@@ -171,7 +171,7 @@ again and again.
 This is a really fun Volume to analyze. The Tower is a favored subject of mine,
 as well as Mnemoli and the Hurling Disk.
 
-I'm extremely glad I decided to do a fifth part to discuss the Commentaries as a
+I’m extremely glad I decided to do a fifth part to discuss the Commentaries as a
 whole. I hope and feel it will be a bit easier to tie things together versus one
 gigantic thread that could very well end up being an eyesore.
 

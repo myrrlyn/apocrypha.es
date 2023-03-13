@@ -126,8 +126,8 @@ Addendum: Discussions with the honoured Quintus Umbranox, Researcher at the
 Synod reguarding timelines seem to reinforce this theory. With the Aetherium
 Wars beginning circa 1e 222-225 (around the death of High King Harald) with the
 creation of the Aetherium Forge, and the sudden collapse of the Dwemer Empire in
-Skyrim before High King Gellir's forces several decades later it is likely that
-the extended Civil war coupled with the Falmer 'breakout' contributed heavily to
+Skyrim before High King Gellir’s forces several decades later it is likely that
+the extended Civil war coupled with the Falmer “breakout” contributed heavily to
 the unexpected Nord Victory. This would place the beggining in of the War of the
 Crag circa 1e 250- 260.
 

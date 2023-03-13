@@ -34,7 +34,7 @@ Like with their appearance, there is little known of the society of the Snow
 Elves. They most likely lived in big city states, like their Elven cousins, even
 though nothing of this remains. This is truly strange, as contemporary sources
 state that they lived on the surface of skyrim. Whatever remains of the Snow
-Elves' once great civilisation is know either destroyed by the Nords, or covered
+Elves’ once great civilisation is know either destroyed by the Nords, or covered
 in the snow of Skyrim.
 
 There is a little more known about the religion of the Snow Elves. It either
