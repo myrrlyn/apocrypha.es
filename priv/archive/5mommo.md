@@ -1,5 +1,5 @@
 ---
-title: "The Birth of Savages"
+title: The Birth of Savages
 reddit: 5mommo
 author: myrrlyn
 date: 2017-01-08T02:55:20Z
@@ -68,7 +68,7 @@ of her people. Behind them, the altar sat cold and quiet.
 “It’s not working, Korosha. Lord Trinimac isn’t simply not answering; he’s not
 there!”
 
-Korosha surveyed the army filling the plain before her.  *We’re not an army*
+Korosha surveyed the army filling the plain before her. *We’re not an army*
 *anymore*, she thought. *An army is part of a nation, and we have no nation.* In
 their tongue, truth, strength, and beauty were synonyms. The Folk would see none
 of those qualities in her people, and the Departed would not welcome them solely
@@ -119,7 +119,7 @@ The priests had collected her armor, and Durnathar’s. Their chief, Vurnolamath
 — Korosha had asked why priests chose such long names, but they never gave
 satisfactory responses — conjured a forge-fire between her hands and let it
 settle atop the sacrificial armor. Molten metal dripped, like burning tears; it
-ran, like mirrored blood. Her people’s tears. God’s blood.
+ran, like mirrored blood. Her people’s tears. Her God’s blood.
 
 She turned, and Vurnolamathel stepped forward to speak.
 
@@ -140,7 +140,7 @@ to the pyre. She knelt, and dug her hands into the dirt.
 Below, her priests began to circle among the gathered throng. Discarded armor
 was collected, and the fires began.
 
-**“We are set free of wilfull ignorance!” Vurnolamathel cried, and covered her**
+**“We are set free of willful ignorance!” Vurnolamathel cried, and covered her**
 **heart in mud. Her voice grew deeper, rougher.**
 
 **“We are given understanding of truth, that our enemies will never reach!”**
@@ -166,7 +166,7 @@ pain of her betrayal. She and Durnathar spoke at once.
 
 “My people.”
 
-“My god.”
+“My God.”
 
 Silence. She almost envied Durnathar. They had each made their choice, and done
 so willingly. Durnathar could live with his choice. She was not sure how she
@@ -199,4 +199,3 @@ less of what she had lost.
 When they reached the great river, she thought only of her pack.
 
 When they came to the mountains, she thought only of the hunt.
-

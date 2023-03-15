@@ -136,8 +136,11 @@ various ways: Almalexia begins rallying magicka, Vivec stands off to the side,
 half-smiling and half-sorrowed, and Sotha Sil immediately vanishes in a puff of
 energy. His voice deep and commanding, Tiber intones:
 
-> *GHARTOK CHIVER DALKADOON TALOS.* **DOVVE! GAHVON ZIILLE DII SAHROT KRONGAH**
-> **TAAZOKAAN!**
+> *GHARTOK CHIVER DALKADOON TALOS.*
+> {:lang="x-ehlnofex"}
+>
+> **DOVVE! GAHVON ZIILLE DII SAHROT KRONGAH TAAZOKAAN!**
+> {:lang="x-dovah"}
 
 A wave, near-invisible, ripples out from Tiber Septim. As it passes through each
 dragon, the creature crumples, collapses, and begins to burn. As the scaly flesh

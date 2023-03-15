@@ -1,11 +1,11 @@
 ---
-title: "The Third Words of Oztrakos"
+series: Words of Oztrakos
+part: 3
+title: The First War
 reddit: 2nptag
 author: myrrlyn
 date: 2014-11-29T01:02:15Z
 ---
-
-# THE FIRST WAR
 
 The war went on for a long time, and the Sun turned many times and the light it
 cast through the holes riddling the mountain spun and danced to follow, and
@@ -35,7 +35,7 @@ defiance of the Clan and left, following the New Diggers far away.
 
 Trinimak gathered his Army, our fathers, and under orders of Orikal, chased down
 the fracturing band of Velothiidh. Trinimak demanded that Veloth and his ilk
-come home, but the Shirker holding Veloth's ear squirmed through the crack in
+come home, but the Shirker holding Veloth’s ear squirmed through the crack in
 the Mountain and infested him, and the Plotter-armored-in-Veloth stood up and
 fought with Trinimak.
 
@@ -46,13 +46,13 @@ fling itself on him. There it cracked open its jaws began to swallow Trinimak.
 Trinimak freed one arm and began crawling back out of its hellish mouth, but it
 bit down and swallowed him, and his arm fell to the rock.
 
-The Demon laughed and laughed at this, and kicked Trinimak's arm away, and then
-began to talk and lie. It had eaten Trinimak's voice as well, and vomited that
-up enough to speak with it. Trinimak's army despaired, and Veloth's followers
-celebrated, to hear Trinimak's voice deride the cave and family and preach how
+The Demon laughed and laughed at this, and kicked Trinimak’s arm away, and then
+began to talk and lie. It had eaten Trinimak’s voice as well, and vomited that
+up enough to speak with it. Trinimak’s army despaired, and Veloth’s followers
+celebrated, to hear Trinimak’s voice deride the cave and family and preach how
 separation would let them do better. The Demon soon realized it was still
 squeezing through that crack in the cave wall and having trouble staying in the
-cave, so it left Veloth and pulled back to its own level. It couldn't fit
+cave, so it left Veloth and pulled back to its own level. It couldn’t fit
 through the crack with Trinimak still in it, so it digested Trinimak right quick
 and gave birth to Malak on the far side.
 

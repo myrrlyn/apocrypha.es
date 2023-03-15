@@ -20,6 +20,7 @@ defmodule ApocryphaWeb.Router do
 
     get "/", PageController, :articles
     get "/:id", PageController, :article
+    get "/:id/:asset", PageController, :asset
   end
 
   # Queue for processing
@@ -28,6 +29,7 @@ defmodule ApocryphaWeb.Router do
 
     get "/", PageController, :draft_articles
     get "/:id", PageController, :draft_article
+    get "/:id/:asset", PageController, :draft_asset
   end
 
   # Group posts by series

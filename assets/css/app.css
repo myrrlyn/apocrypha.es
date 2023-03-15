@@ -4,6 +4,36 @@
 
 /* This file is for your main application CSS */
 
+@font-face {
+  font-family: "Daedric";
+  src: url(/fonts/Daedra.otf);
+}
+
+@font-face {
+  font-family: "Dovahzul";
+  src: url(/fonts/Dovah.ttf);
+}
+
+@font-face {
+  font-family: "Dwemeris";
+  src: url(/fonts/Dwemer.ttf);
+}
+
+@font-face {
+  font-family: "Falmeris";
+  src: url(/fonts/Falmer.ttf);
+}
+
+@font-face {
+  font-family: "Handwriting";
+  src: url(/fonts/Skyrim-Books-Hand.ttf);
+}
+
+@font-face {
+  font-family: "Mage Script";
+  src: url(/fonts/Mage.ttf);
+}
+
 *,
 *::before,
 *::after {
@@ -122,12 +152,36 @@ p:not(:last-child) {
   font-weight: bold;
 }
 
-.lang .ehlnofex {
-  font-style: italic;
+[lang="x-daedric"] {
+  font-family: "Daedric";
+  text-transform: uppercase;
 }
 
-.lang .dovah {
-  font-weight: bold;
+[lang="x-dovah"] {
+  font-family: "Dovahzul";
+  text-transform: uppercase;
+}
+
+[lang="x-dwemer"] {
+  font-family: "Dwemeris";
+  text-transform: uppercase;
+}
+
+[lang="x-ehlnofex"] {
+  font-family: "Mage Script";
+  text-transform: uppercase;
+}
+
+[lang="x-falmer"] {
+  font-family: "Falmeris";
+  text-transform: uppercase;
+}
+
+.handwriting {
+  font-family: "Handwriting";
+  font-style: normal;
+  letter-spacing: 1px;
+  line-height: 1.75em;
 }
 
 /* layout */
@@ -204,12 +258,9 @@ body>footer {
 .youtube {
   margin: 0 auto 1em;
   width: 100%;
+  aspect-ratio: 16 / 9;
 
   position: relative;
-}
-
-.youtube {
-  aspect-ratio: 16 / 9;
 }
 
 .youtube iframe {

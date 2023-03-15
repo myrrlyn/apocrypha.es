@@ -1,8 +1,35 @@
 <h1><%= @metadata.title %></h1>
 
 <%= @content |> raw() %>
-<ol>
-  <li :for={post <- Apocrypha.Library.get_index()}>
-    <.link_article post={post} />
-  </li>
-</ol>
+<% index = Apocrypha.Library.group_by_date() %>
+<nav>
+  <ol>
+    <li :for={{year, months} <- index}>
+      <.link href={"##{Apocrypha.toc_anchor(year)}"}><%= year %></.link>
+      <ol>
+        <li :for={month <- Map.keys(months)}>
+          <.link href={"##{Apocrypha.toc_anchor(year, month)}"}>
+            <%= Apocrypha.month_name(month) %>
+          </.link>
+        </li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+<section :for={{year, months} <- index}>
+  <h2 id={Apocrypha.toc_anchor(year)}>
+    <.link href={"##{Apocrypha.toc_anchor(year)}"}>§</.link>
+    <%= year %>
+  </h2>
+  <%= for {month, posts} <- months do %>
+    <h3 id={Apocrypha.toc_anchor(year, month)}>
+      <.link href={"##{Apocrypha.toc_anchor(year, month)}"}>§</.link>
+      <%= Apocrypha.month_name(month) %>
+    </h3>
+    <ol>
+      <li :for={post <- posts}>
+        <.link_article post={post} />
+      </li>
+    </ol>
+  <% end %>
+</section>

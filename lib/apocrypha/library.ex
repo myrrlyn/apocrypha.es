@@ -80,6 +80,31 @@ defmodule Apocrypha.Library do
   end
 
   @doc """
+  Clusters articles by year, then by month.
+  """
+  @spec group_by_date() :: %{pos_integer() => %{pos_integer() => posts()}}
+  def group_by_date() do
+    snapshot_values()
+    |> Enum.reduce(%{}, fn post, accum ->
+      Map.update(
+        accum,
+        post.date.year,
+        %{post.date.month => MapSet.new([post])},
+        fn yr ->
+          Map.update(yr, post.date.month, MapSet.new([post]), fn mo -> MapSet.put(mo, post) end)
+        end
+      )
+    end)
+    |> par_map(fn {year, months} ->
+      {year,
+       months
+       |> par_map(fn {month, posts} -> {month, posts |> Enum.sort_by(& &1.date, DateTime)} end)
+       |> Map.new()}
+    end)
+    |> Map.new()
+  end
+
+  @doc """
   Loads a single post from `priv/archive/`.
   """
   def load_post(id) do

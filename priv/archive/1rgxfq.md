@@ -48,6 +48,7 @@ hide_series: true
 > *heart, I don’t believe we will succeed.*
 >
 > *Sovngarde saraan.*
+{:.handwriting}
 
 ### Veloth
 
@@ -59,7 +60,9 @@ their heat ripples as its massive legs stride through the wastelands, and the
 massive gearings of its waist grind and groan as the stone in its chest blazes
 as a second sun. It takes another step—
 
-*![—squish][0]*
+> _*—squish*_{:tag="figcaption"}
+> ![Numidium steps on the Prophet][0]
+{:tag="figure"}
 
 ### Summurset
 
@@ -102,8 +105,7 @@ as a second sun. It takes another step—
 > *assaulting the spellform in hopes to escape it, and the Crystal Tower in*
 > *hopes of shattering us and ending the trap. It will not take long, however,*
 > *to pin the Golem and allow the Final Strike.*
-
-----
+{:.handwriting}
 
 The elf shuts his journal and looks outside. He turns and screams, “Boraccag!
 Now!” The Yoku man stands and joins him at the sill. A massive bronze limb
@@ -150,4 +152,4 @@ even the gods.
 
 And he swings.
 
-[0]: https://aurbis.c0da.es/prophet/p/4.png "—squish"
+[0]: https://myrrlyn.net/oeuvre/images/prophet-4.png "—squish"

@@ -24,8 +24,8 @@ about: |
 
 ### Construction
 
-2E296, Midyear… ~~18~~ 19. Hall of the Colossus, outside Rimmen.
-
+> *2E296, Midyear… ~~18~~ 19. Hall of the Colossus, outside Rimmen.*
+>
 > *It’s finished. Finally, we finished it. The Dunmer promised us a weapon as*
 > *their bargain for the Armistice, but they didn’t tell us we had to put it*
 > *together ourselves. Well, we did. All it needs now is a Heart. Tiber Septim*
@@ -36,7 +36,7 @@ about: |
 > *this does, I don’t know if we should be proud or ashamed. If you are reading*
 > *this, know that we intended only the best. We intended to forge peace on the*
 > *anvil of the world, with the hammer of the Numidium.*
-{:handwriting}
+{:.handwriting}
 
 ## Third Era
 
@@ -105,6 +105,7 @@ about: |
 > *power. We must reclaim it. We face the scourge of Corprus, and monsters*
 > *beyond our conception, but we must press on. There is no hope beyond the*
 > *fire and ash of the Mountain.*
+{:.handwriting}
 
 ### Skyrim
 
@@ -138,6 +139,7 @@ about: |
 > *themselves the Forsworn. Haafingar is sending warbands south to try and*
 > *quell the worst of it, but the fighting is still going strong. We’re headed*
 > *to Whiterun now. Hopefully someone there will know what we should do.*
+{:.handwriting}
 
 ### High Rock
 
@@ -170,6 +172,7 @@ about: |
 > *Nordic. The mages are making progress on their project, but Tiber’s monster*
 > *has for the time turned elsewhere. I pray that we will be ready when it*
 > *returns.*
+{:.handwriting}
 
 ### Elsweyr
 
@@ -200,3 +203,4 @@ about: |
 > *small cloth strips tacked to doors. I have included one below:*
 >
 > > *Elsweyr is lost. Seek Haven elsewhere.*
+{:.handwriting}

@@ -125,4 +125,12 @@ defmodule ApocryphaWeb.PageController do
       github_link: "#{@repo_base}/pending/#{id}.md"
     )
   end
+
+  def asset(conn, %{"id" => id, "asset" => asset}) do
+    Plug.Conn.send_file(conn, 200, Path.join(["priv", "archive", id, asset]))
+  end
+
+  def draft_asset(conn, %{"id" => id, "asset" => asset}) do
+    Plug.Conn.send_file(conn, 200, Path.join(["priv", "pending", id, asset]))
+  end
 end

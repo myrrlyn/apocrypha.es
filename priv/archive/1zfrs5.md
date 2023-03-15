@@ -1,14 +1,14 @@
 ---
-title: "Ta'agra'iss Lexicon"
+title: Ta’agra’iss Lexicon
 reddit: 1zfrs5
 author: myrrlyn
 date: 2014-03-03T15:16:39Z
 ---
 
-###Table of all known words
+## Table of All Known Words
 
 |Word               |Translation                            |Part of Speech     |
-|:---               |:---:                                  |---:               |
+|:------------------|:-------------------------------------:|------------------:|
 |Aaliter            |Unknown                                |Unknown            |
 |Ahzirr             |we, us (first person plural)           |pronoun            |
 |Ahziss             |my                                     |adjective          |
@@ -30,10 +30,10 @@ date: 2014-03-03T15:16:39Z
 |Fusozay            |without worry                          |idiom adjective    |
 |Gzalzi             |absurdity                              |noun               |
 |He                 |in/out/by                              |preposition        |
-|Iit                |job, occupation, origin.				|noun with object   |
+|Iit                |job, occupation, origin.               |noun with object   |
 |Iit                |place                                  |noun w/o object    |
 |-iit               |job/occupation                         |verb suffix        |
-|-iitay             |lived/did                              |suf.	- perfect	|
+|-iitay             |lived/did                              |suf. - perfect     |
 |J', Ja', Ji'       |Young, inexperienced or bachelor       |name prefix, m     |
 |Jah                |money                                  |noun               |
 |Ja’khajiit         |child, also a name for Mehrunes Dagon  |noun (s and pl)    |
@@ -105,46 +105,53 @@ date: 2014-03-03T15:16:39Z
 1: possibly "sheep-shagger" or "whore"
 2: official name of the language
 
-###Ta’agra language study (copied, not written by me)
+## Ta’agra Language Study
 
-Ta’agra lacks definitive articles.
-Ta'agra has always struck me as a tonal language, like Mandarin Chinese.
-The meaning of individual words can vary on context, especially with tonal words like ‘Var’ which has a different meaning depending on the tone and context.
+(These notes are by /u/Mr_Flippers, who has spent more time with Ta’agra than I
+have.)
 
-#####Sentence Structure
+- Ta’agra lacks definitive articles.
+- Ta’agra has always struck me as a tonal language, like Mandarin Chinese.
+- The meaning of individual words can vary on context, especially with tonal
+  words like “Var” which has a different meaning depending on the tone and
+  context.
 
-Every day I walk for water    
-Raj pal tohei da’khe iit    
-All days go water walk    
-[adjective]-[noun]-[verb]-[adjective]-[noun]    
+### Sentence Structure
 
-I have a yellow quill    
-Zwinthodurrarr rabi    
-Yellow writing stick mine    
-[adjective]-[noun]-[pronoun]    
+Every day I walk for water [](){:tag="br"}
+Raj pal tohei da’khe iit [](){:tag="br"}
+All days go water walk [](){:tag="br"}
+\[adjective]-\[noun]-\[verb]-\[adjective]-\[noun]
 
-######Vowels
-The Ta’agra language uses five vowels, a, e, i, o, u.
-The letter Y is used as a vowel when it comes at the end of a word (generally preceded by another vowel).
+I have a yellow quill [](){:tag="br"}
+Zwinthodurrarr rabi [](){:tag="br"}
+Yellow writing stick mine [](){:tag="br"}
+\[adjective]-\[noun]-\[pronoun]
 
-######Consonants
-Ta’agra uses very consonant except X, W and soft C.
-Consonants with no trailing vowels are generally prefixes or the final syllable in the word.
+### Vowels
 
-######Double Consonants
+The Ta’agra language uses five vowels, a, e, i, o, u. The letter Y is used as a
+vowel when it comes at the end of a word (generally preceded by another vowel).
+
+### Consonants
+
+Ta’agra uses very consonant except X, W and soft C. Consonants with no trailing
+vowels are generally prefixes or the final syllable in the word.
+
+### Double Consonants
+
 Combinations of a pair of consecutive consonant occur frequently in Ta’agra
 
 Phrases:
 
-* q'zi no vano thzina ualizz – when I contradict myself I am telling the truth.
-* Vaba do’shurh’do – it is good to be brave
-* Vaba maaszi lhajiito – it is necessary to run away
-* Fusozay var var – enjoy life (live life laughingly?)
-* Fusozay var dar – kill without qualm (end life laughingly?)
-* Ahzirr durrarriss – we give freely to the people (-iss|people, durrarr|write.
-* Writing and giving similar?)
-* Ahzirr trajijazeri – we justly take by force
-* Ahn trajiir – for you
-* Var var var – what will be will be (life lives[v] lives[n]?)
-* Da aqqa dween (a commendation of sorts)
-
+- q’zi no vano thzina ualizz – when I contradict myself I am telling the truth.
+- Vaba do’shurh’do – it is good to be brave
+- Vaba maaszi lhajiito – it is necessary to run away
+- Fusozay var var – enjoy life (live life laughingly?)
+- Fusozay var dar – kill without qualm (end life laughingly?)
+- Ahzirr durrarriss – we give freely to the people (-iss|people, durrarr|write.
+- Writing and giving similar?)
+- Ahzirr trajijazeri – we justly take by force
+- Ahn trajiir – for you
+- Var var var – what will be will be (life lives[v] lives[n]?)
+- Da aqqa dween (a commendation of sorts)

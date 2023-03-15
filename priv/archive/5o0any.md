@@ -1,5 +1,5 @@
 ---
-title: "Rite Makes Might"
+title: Rite Makes Might
 reddit: 5o0any
 author: myrrlyn
 date: 2017-01-14T22:37:24Z
@@ -99,4 +99,3 @@ new are stronger. The pack is stronger. Larger. Better. The strongest lead. The
 middle follow. The weakest fall away.
 
 Good.
-
