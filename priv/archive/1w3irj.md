@@ -1,7 +1,7 @@
 ---
-series: Looking Into the Information on the Khajiit
+series: Looking at the Information on the Khajiit
 part: 3
-title: Who Said What?
+title: Who Said What? (Part 3)
 reddit: 1w3irj
 author: Mr_Flippers
 date: 2014-01-25T05:43:42Z
