@@ -34,7 +34,7 @@ date: 2014-03-03T15:16:39Z
 |Iit                |place                                  |noun w/o object    |
 |-iit               |job/occupation                         |verb suffix        |
 |-iitay             |lived/did                              |suf. - perfect     |
-|J', Ja', Ji'       |Young, inexperienced or bachelor       |name prefix, m     |
+|J’, Ja’, Ji’       |Young, inexperienced or bachelor       |name prefix, m     |
 |Jah                |money                                  |noun               |
 |Ja’khajiit         |child, also a name for Mehrunes Dagon  |noun (s and pl)    |
 |Jaji               |This one, I                            |pronoun            |
@@ -45,7 +45,7 @@ date: 2014-03-03T15:16:39Z
 |Jekosiit           |an unknown insult^1                    |noun               |
 |Jihatt             |warrior for hire, mercenary            |noun               |
 |Jijri              |skin, ground, depending on context     |noun               |
-|Jo'                |Wizard, scholar, book handler          |name prefix        |
+|Jo’                |Wizard, scholar, book handler          |name prefix        |
 |Kahkahturrr        |what kind?                             |descriptor         |
 |Khaj               |Sand, desert                           |noun               |
 |Krin               |laugh, smile                           |noun               |
@@ -53,7 +53,7 @@ date: 2014-03-03T15:16:39Z
 |Krinith            |smiling, laughing                      |verb               |
 |Lhaj               |running                                |verb or adjective  |
 |Literajo’iiliten   |Unknown                                |Unknown            |
-|M', Ma'            |Child, apprentice or virgin            |name prefix, f     |
+|M’, Ma’            |Child, apprentice or virgin            |name prefix, f     |
 |Maaszi             |necessary/necessity                    |noun/adjective     |
 |Mo-jo’khaj         |Dark spirits of the desert             |noun               |
 |Naba               |is not                                 |verb               |
@@ -63,7 +63,7 @@ date: 2014-03-03T15:16:39Z
 |Nirnijijri         |Nirn’s Skin, the crust of Nirn         |noun               |
 |Pal                |Day                                    |noun               |
 |Qa’khajahk|        |Unknown                                |Unknown            |
-|Ra'                |honor                                  |name prefix        |
+|Ra’                |honor                                  |name prefix        |
 |Rabi               |own, mine                              |adjective          |
 |Rabiba|            |Unknown                                |Unknown            |
 |Raj                |All                                    |adjective          |

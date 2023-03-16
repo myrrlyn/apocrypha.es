@@ -187,7 +187,7 @@ crystal jaws, shattering the bones and scales of his smaller brother
 
 Numidium staggered as Mundus cracked, shattered, and reformed in infinitesimally
 small zero-points of Creatia. Hammerfell’s rocks and sands and sea rose and fell
-and gusted with the mythic collision of the Aka Krenne and the Jills' frantic
+and gusted with the mythic collision of the Aka Krenne and the Jills’ frantic
 Mending. Numidium roared its refusal in return, attracting swarms of Jills to
 the continuing fractures and negations emanating from the golden smoking skin of
 the metal-mile mountain-machine. They screeched as they tore into the fissures

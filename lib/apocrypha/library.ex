@@ -29,7 +29,10 @@ defmodule Apocrypha.Library do
 
     public_posts()
     |> Stream.map(&Path.basename(&1, ".md"))
-    |> Stream.filter(&(!MapSet.member?(snapshot, &1)))
+    |> Stream.filter(fn entry ->
+      Application.get_env(:apocrypha, :env) != :prod ||
+        entry not in snapshot
+    end)
     |> Task.async_stream(&load_post/1, timeout: :infinity)
     |> Stream.run()
   end

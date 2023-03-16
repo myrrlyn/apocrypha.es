@@ -97,6 +97,10 @@ ul {
   padding-inline-start: 3em;
 }
 
+ol.listing > :not(li) {
+  margin-inline-start: -3rem;
+}
+
 ol {
   list-style-type: decimal;
 }

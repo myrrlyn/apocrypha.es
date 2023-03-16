@@ -134,7 +134,7 @@ they are far more settled than the nomads of the Dragontail. They have even been
 able to domesticate the wildlife there, and herds of enormous shaggy centipedes,
 rock-skinned cattle, and sky-drakes are common sights on the horizon. How the
 Orcs manage to hide them from Breton raiders is something of a mystery, but
-hunters have never had much success against the Orcs' flocks. They have also
+hunters have never had much success against the Orcs’ flocks. They have also
 managed to cultivate wild grains, though as plants cannot be driven, these
 fields are burned far more regularly.
 

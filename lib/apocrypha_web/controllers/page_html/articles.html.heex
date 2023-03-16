@@ -16,20 +16,20 @@
     </li>
   </ol>
 </nav>
-<section :for={{year, months} <- index}>
-  <h2 id={Apocrypha.toc_anchor(year)}>
-    <.link href={"##{Apocrypha.toc_anchor(year)}"}>§</.link>
-    <%= year %>
-  </h2>
-  <%= for {month, posts} <- months do %>
-    <h3 id={Apocrypha.toc_anchor(year, month)}>
-      <.link href={"##{Apocrypha.toc_anchor(year, month)}"}>§</.link>
-      <%= Apocrypha.month_name(month) %>
-    </h3>
-    <ol>
+<ol class="listing">
+  <%= for {year, months} <- index do %>
+    <h2 id={Apocrypha.toc_anchor(year)}>
+      <.link href={"##{Apocrypha.toc_anchor(year)}"}>§</.link>
+      <%= year %>
+    </h2>
+    <%= for {month, posts} <- months do %>
+      <h3 id={Apocrypha.toc_anchor(year, month)}>
+        <.link href={"##{Apocrypha.toc_anchor(year, month)}"}>§</.link>
+        <%= "‘#{rem(year, 100)} " <> Apocrypha.month_name(month) %>
+      </h3>
       <li :for={post <- posts}>
         <.link_article post={post} />
       </li>
-    </ol>
+    <% end %>
   <% end %>
-</section>
+</ol>
