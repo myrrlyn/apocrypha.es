@@ -74,6 +74,7 @@ defmodule ApocryphaWeb.PageController do
     out =
       render(conn, :grouped,
         classes: ["series-index"],
+        class: ["text-title"],
         show_about: false,
         content: Apocrypha.Page.render(page),
         metadata: page.meta,
@@ -92,6 +93,7 @@ defmodule ApocryphaWeb.PageController do
     out =
       render(conn, :grouped,
         classes: ["authors-index"],
+        class: [],
         show_about: false,
         content: Apocrypha.Page.render(page),
         metadata: page.meta,

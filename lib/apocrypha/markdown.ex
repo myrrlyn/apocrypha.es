@@ -21,6 +21,7 @@ defmodule Apocrypha.Markdown do
     |> Earmark.as_ast!(@opts)
     |> Earmark.Transform.map_ast(&__MODULE__.walker/1)
     |> Earmark.Transform.transform(@opts)
+    |> String.replace("&amp;nbsp;", "&nbsp;")
   end
 
   def walker(node)

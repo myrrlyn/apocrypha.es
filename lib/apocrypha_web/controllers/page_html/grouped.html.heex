@@ -1,8 +1,18 @@
 <h1><%= @metadata.title %></h1>
 <%= @content |> raw() %>
 <hr />
+<nav>
+  <ol>
+    <li :for={title <- Stream.map(@all_groups, &elem(&1, 0))} class={@class}>
+      <.link href={"##{Apocrypha.to_ident(title)}"}><%= title %></.link>
+    </li>
+  </ol>
+</nav>
 <section :for={{title, posts} <- @all_groups}>
-  <h2 class="text-title"><%= title %></h2>
+  <h2 id={Apocrypha.to_ident(title)} class={@class}>
+    <.link href={"##{Apocrypha.to_ident(title)}"}>§</.link>
+    <%= title %>
+  </h2>
   <ol>
     <li :for={post <- posts}><.link_article post={post} /></li>
   </ol>

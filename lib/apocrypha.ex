@@ -39,4 +39,18 @@ defmodule Apocrypha do
     month = month |> to_string() |> String.pad_leading(2, "0")
     toc_anchor(year) <> "m#{month}"
   end
+
+  def to_ident(text) do
+    text
+    |> String.downcase()
+    |> String.replace(~r/["']/, "")
+    |> String.replace(~r/[^a-z0-9]/, "-")
+    |> String.replace(~r/--+/, "-")
+  end
+
+  def pluralize(number, singular), do: pluralize(number, singular, singular <> "s")
+
+  def pluralize(number, singular, plural) do
+    if number == 1, do: "#{number} #{singular}", else: "#{number} #{plural}"
+  end
 end

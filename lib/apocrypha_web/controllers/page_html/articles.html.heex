@@ -4,10 +4,12 @@
 <% index = Apocrypha.Library.group_by_date() %>
 <nav>
   <ol>
-    <li :for={{year, months} <- index}>
-      <.link href={"##{Apocrypha.toc_anchor(year)}"}><%= year %></.link>
+    <li :for={{year, {_, months}} <- index}>
+      <.link href={"##{Apocrypha.toc_anchor(year)}"}>
+        <%= year %>
+      </.link>
       <ol>
-        <li :for={month <- Map.keys(months)}>
+        <li :for={month <- Map.keys(months) }>
           <.link href={"##{Apocrypha.toc_anchor(year, month)}"}>
             <%= Apocrypha.month_name(month) %>
           </.link>
@@ -17,16 +19,23 @@
   </ol>
 </nav>
 <ol class="listing">
-  <%= for {year, months} <- index do %>
+  <%= for {year, {ct, months}} <- index do %>
     <h2 id={Apocrypha.toc_anchor(year)}>
       <.link href={"##{Apocrypha.toc_anchor(year)}"}>§</.link>
       <%= year %>
     </h2>
-    <%= for {month, posts} <- months do %>
+    <p>
+      <%= Apocrypha.pluralize(ct, "article") %> this year
+    </p>
+    <%= for {month, {ct, posts}} <- months do %>
       <h3 id={Apocrypha.toc_anchor(year, month)}>
         <.link href={"##{Apocrypha.toc_anchor(year, month)}"}>§</.link>
-        <%= "‘#{rem(year, 100)} " <> Apocrypha.month_name(month) %>
+        <%= "‘" <> (year |> rem(100) |> to_string()) %>
+        <%= Apocrypha.month_name(month) %>
       </h3>
+      <p>
+        <%= Apocrypha.pluralize(ct, "article") %> this month
+      </p>
       <li :for={post <- posts}>
         <.link_article post={post} />
       </li>

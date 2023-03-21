@@ -84,25 +84,38 @@ defmodule Apocrypha.Library do
 
   @doc """
   Clusters articles by year, then by month.
+
+  The returned structure is a map of years to the number of all posts in that
+  year, and the collected posts. The collected posts for a year is a map of
+  months to the number of all posts in that month, and a list of those posts,
+  sorted by publishing date.
   """
-  @spec group_by_date() :: %{pos_integer() => %{pos_integer() => posts()}}
+  @spec group_by_date() :: %{
+          pos_integer() => {pos_integer(), %{pos_integer() => {pos_integer(), posts()}}}
+        }
   def group_by_date() do
     snapshot_values()
     |> Enum.reduce(%{}, fn post, accum ->
       Map.update(
         accum,
         post.date.year,
-        %{post.date.month => MapSet.new([post])},
-        fn yr ->
-          Map.update(yr, post.date.month, MapSet.new([post]), fn mo -> MapSet.put(mo, post) end)
+        {1, %{post.date.month => {1, MapSet.new([post])}}},
+        fn {yr_ct, yr} ->
+          {yr_ct + 1,
+           Map.update(yr, post.date.month, {1, MapSet.new([post])}, fn {mo_ct, mo} ->
+             {mo_ct + 1, MapSet.put(mo, post)}
+           end)}
         end
       )
     end)
-    |> par_map(fn {year, months} ->
+    |> par_map(fn {year, {year_ct, months}} ->
       {year,
-       months
-       |> par_map(fn {month, posts} -> {month, posts |> Enum.sort_by(& &1.date, DateTime)} end)
-       |> Map.new()}
+       {year_ct,
+        months
+        |> par_map(fn {month, {month_ct, posts}} ->
+          {month, {month_ct, posts |> Enum.sort_by(& &1.date, DateTime)}}
+        end)
+        |> Map.new()}}
     end)
     |> Map.new()
   end
