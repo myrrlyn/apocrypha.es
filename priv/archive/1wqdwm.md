@@ -199,11 +199,11 @@ of creatia.
 > Please dissect, discuss, and deliberate!
 {:tag="aside" .afterword}
 
-[0]: https://www.reddit.com/r/teslore/comments/1w3qni/the_aurbis_spacetime_and_general_relativity/
-[1]: https://www.reddit.com/r/teslore/comments/1w616i/akalorkh_as_spacetime_two_sides_of_the_same_coin/
-[2]: https://www.reddit.com/r/teslore/comments/1we5j6/dragon_break_dynamics_jills_and_quantum_mechanics/
-[3]: https://www.reddit.com/r/teslore/comments/1oybze/aurbis_the_musical/
-[4]: https://www.reddit.com/r/teslore/comments/1p1fip/aurbis_2_colorful_boogaloo/
+[0]: ./1w3qni
+[1]: ./1w616i
+[2]: ./1we5j6
+[3]: ./1oybze
+[4]: ./1p1fip
 [5]: https://en.wikipedia.org/wiki/Quotient_space
 [6]: https://en.wikipedia.org/wiki/Orbifold
 [7]: https://www.brainmusic.org/EducationalActivitiesFolder/Tymoczko_chords2006.pdf
@@ -218,7 +218,7 @@ of creatia.
 [16]: https://en.wikipedia.org/wiki/Quantum_entanglement
 [17]: https://en.wikipedia.org/wiki/Wave_function_collapse
 [18]: https://en.wikipedia.org/wiki/Turing_machine
-[19]: https://www.reddit.com/r/teslore/comments/1wabpr/blending_the_spectral_eigenfrequencies_the/
+[19]: ./1wabpr
 
 [^1]: I’ve received a few messages regarding how to ‘squash’ spacetime; the answer is to speed up! For regular space, rotating axes looks like [this](https://www.eeescience.utoledo.edu/faculty/stierman/files/Image2.gif). For spacetime, ‘rotation’ between time and space is equivalent to speeding up, and looks like [this](https://en.wikipedia.org/wiki/File:MinkDiagrScale.svg). If you go at *c*, the speed of light, then your two axes merge and form a singular line.
 

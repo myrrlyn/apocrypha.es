@@ -123,4 +123,4 @@ be a special faith edition, I haven’t really decided on which one yet.
 
 [0]: ./1uuh16
 [1]: https://www.uesp.net/wiki/Lore:Ahzirr_Traajijazeri
-[2]: https://www.reddit.com/r/teslore/comments/14l8r9/the_common_khajiit_mindset_and_the_assimilation/
+[2]: ./14l8r9

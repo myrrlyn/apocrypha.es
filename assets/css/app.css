@@ -274,3 +274,22 @@ body>footer {
   width: 100%;
   height: 100%;
 }
+
+table.calendar {
+  display: inline-block;
+
+  border: 2px solid var(--fg);
+  border-collapse: collapse;
+  margin: 0 0.5em;
+}
+
+table.calendar tbody tr {
+  height: 2em;
+}
+
+table.calendar tbody td {
+  min-width: 3em;
+  padding: 0 0.25em;
+  text-align: center;
+  border: 1px solid var(--fg);
+}

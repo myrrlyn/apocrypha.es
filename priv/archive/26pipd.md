@@ -1,6 +1,6 @@
 ---
 series: Through Eastern Eyes
-part: 9
+part: 10
 title: Swamp, Tree, and Shadow
 reddit: 26pipd
 author: Blackfyre87

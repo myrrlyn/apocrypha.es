@@ -105,4 +105,4 @@ What cowardice keeps me alive here? I must rest, more another time. All my love,
 
 Lyenwen
 
-[0]: https://www.reddit.com/r/teslore/comments/1uyjp5/an_atheist_anuad/
+[0]: ./1uyjp5

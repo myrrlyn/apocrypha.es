@@ -28,6 +28,23 @@ defmodule Apocrypha do
     end
   end
 
+  def month_abbr(num) when num in 1..12 do
+    case num do
+      1 -> "Jan"
+      2 -> "Feb"
+      3 -> "Mar"
+      4 -> "Apr"
+      5 -> "May"
+      6 -> "Jun"
+      7 -> "Jul"
+      8 -> "Aug"
+      9 -> "Sep"
+      10 -> "Oct"
+      11 -> "Nov"
+      12 -> "Dec"
+    end
+  end
+
   @doc """
   Generates a table-of-contents anchor string for a date fragment.
   """
@@ -46,6 +63,14 @@ defmodule Apocrypha do
     |> String.replace(~r/["']/, "")
     |> String.replace(~r/[^a-z0-9]/, "-")
     |> String.replace(~r/--+/, "-")
+  end
+
+  def to_title(text) do
+    text
+    |> String.replace(~r/[-_]/, " ")
+    |> String.split()
+    |> Stream.map(&String.capitalize/1)
+    |> Enum.join(" ")
   end
 
   def pluralize(number, singular), do: pluralize(number, singular, singular <> "s")

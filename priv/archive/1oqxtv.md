@@ -167,7 +167,7 @@ is true for the original historical story as well.
 
 - Comment your own. Let’s discuss.
 
-[0]: https://www.reddit.com/r/teslore/comments/161yk6/the_elder_way_hist_genetics_and_argonian/
+[0]: ./161yk6
 [1]: https://z8.invisionfree.com/People_of_the_Beasts/index.php?showtopic=10
 [2]: https://www.uesp.net/wiki/Morrowind:The_Annotated_Anuad
 [3]: https://www.imperial-library.info/content/ancient-tales-dwemer-part-ii-seed

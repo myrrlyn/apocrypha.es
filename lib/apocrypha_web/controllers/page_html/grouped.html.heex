@@ -3,17 +3,22 @@
 <hr />
 <nav>
   <ol>
-    <li :for={title <- Stream.map(@all_groups, &elem(&1, 0))} class={@class}>
-      <.link href={"##{Apocrypha.to_ident(title)}"}><%= title %></.link>
+    <li :for={{title, posts} <- @all_groups}>
+      <.link href={"##{Apocrypha.to_ident(title)}"} class={@class}>
+        <%= title %>
+      </.link> (<%= posts |> length %>)
     </li>
   </ol>
 </nav>
 <section :for={{title, posts} <- @all_groups}>
-  <h2 id={Apocrypha.to_ident(title)} class={@class}>
+  <% grp_id = Apocrypha.to_ident(title) %>
+  <h2 id={grp_id} class={@class}>
     <.link href={"##{Apocrypha.to_ident(title)}"}>§</.link>
     <%= title %>
   </h2>
   <ol>
-    <li :for={post <- posts}><.link_article post={post} /></li>
+    <li :for={{post, idx} <- Stream.with_index(posts, 1)} id={"#{grp_id}-n#{idx}"}>
+      <.link_article post={post} />
+    </li>
   </ol>
 </section>

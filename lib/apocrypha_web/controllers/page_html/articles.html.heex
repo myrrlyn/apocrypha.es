@@ -3,20 +3,8 @@
 <%= @content |> raw() %>
 <% index = Apocrypha.Library.group_by_date() %>
 <nav>
-  <ol>
-    <li :for={{year, {_, months}} <- index}>
-      <.link href={"##{Apocrypha.toc_anchor(year)}"}>
-        <%= year %>
-      </.link>
-      <ol>
-        <li :for={month <- Map.keys(months) }>
-          <.link href={"##{Apocrypha.toc_anchor(year, month)}"}>
-            <%= Apocrypha.month_name(month) %>
-          </.link>
-        </li>
-      </ol>
-    </li>
-  </ol>
+  <.calendar :for={{y, {c, m}} <- index} year={y} ct_yr={c} months={m}>
+  </.calendar>
 </nav>
 <ol class="listing">
   <%= for {year, {ct, months}} <- index do %>
@@ -25,7 +13,7 @@
       <%= year %>
     </h2>
     <p>
-      <%= Apocrypha.pluralize(ct, "article") %> this year
+      <%= Apocrypha.pluralize(ct, "article") %> this year.
     </p>
     <%= for {month, {ct, posts}} <- months do %>
       <h3 id={Apocrypha.toc_anchor(year, month)}>
@@ -34,7 +22,7 @@
         <%= Apocrypha.month_name(month) %>
       </h3>
       <p>
-        <%= Apocrypha.pluralize(ct, "article") %> this month
+        <%= Apocrypha.pluralize(ct, "article") %> this month.
       </p>
       <li :for={post <- posts}>
         <.link_article post={post} />

@@ -403,4 +403,4 @@ extracts are in Vehk’s Teaching.
 [5]: https://1-media-cdn.foolz.us/ffuuka/board/tg/image/1361/24/1361248969677.pdf
 [6]: https://i.imgur.com/vo4GVL2.png
 [7]: https://www.imperial-library.info/sites/default/files/imagecache/node-gallery-display/gallery_files/vvardenfell_map.jpg
-[8]: https://www.reddit.com/r/teslore/comments/1v7ycc/the_fire_of_vivec/
+[8]: ./1v7ycc

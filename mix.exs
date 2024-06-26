@@ -54,7 +54,8 @@ defmodule Apocrypha.MixProject do
       {:timex, "~> 3.7"},
       {:toml, "~> 0.7"},
       {:dialyxir, "~> 1.1", only: [:dev], runtime: false},
-      {:ex_doc, "~> 0.28", only: [:dev], runtime: false}
+      {:ex_doc, "~> 0.28", only: [:dev], runtime: false},
+      {:credo, "~> 1.7", only: [:dev], runtime: false}
     ]
   end
 

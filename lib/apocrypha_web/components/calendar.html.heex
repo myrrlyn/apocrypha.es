@@ -1,0 +1,27 @@
+<table class="calendar" >
+  <thead>
+    <tr>
+      <th colspan="4">
+        <.link href={"##{Apocrypha.toc_anchor(@year)}"}>
+          <%= @year %>
+        </.link>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr :for={third <- Stream.chunk_every(1..12, 4)}>
+      <td :for={month_idx <- third}>
+        <span :if={month = @months[month_idx]}>
+          <.link href={"##{Apocrypha.toc_anchor(@year, month_idx)}"}>
+            <%= month_idx |> Apocrypha.month_abbr() %>
+          </.link>
+        </span>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th colspan="4"><%= Apocrypha.pluralize(@ct_yr, "post") %></th>
+    </tr>
+  </tfoot>
+</table>

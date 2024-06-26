@@ -377,4 +377,4 @@ Tree Sap People, and for them life is to be enjoyed, a unique gift of the natura
 order to be celebrated and shared, and we, the warlike, close-minded, and
 self-centred men and mer of Tamriel, have much to learn from them.
 
-[0]: https://www.reddit.com/r/teslore/comments/17i9cl/the_boiche_a_treatise_on_the_elves_of_valenwood/
+[0]: ./17i9cl

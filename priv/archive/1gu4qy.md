@@ -187,6 +187,6 @@ selling something. But it cuts us into better shapes.
 [4]: https://en.wikipedia.org/wiki/Safeword
 [5]: https://www.uesp.net/wiki/Lore:House_of_Troubles
 [6]: https://www.uesp.net/wiki/Morrowind:36_Lessons_of_Vivec,_Sermon_31
-[7]: https://www.reddit.com/r/teslore/comments/18gt8w/what_is_love/
-[8]: https://www.reddit.com/r/teslore/comments/1che6a/mephala_and_the_destruction_of_terror_and_theory/
+[7]: ./18gt8w
+[8]: ./1che6a
 [9]: https://en.wikipedia.org/wiki/Dark_elf
