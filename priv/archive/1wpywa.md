@@ -146,12 +146,12 @@ gained this knowledge for himself.
 
 What occurred next is only patchy in its details. I have interviewed several
 witnesses and believe I have included the most solidly verified events. On the
-26th Evening Star, 4E 18, Titus Mede, accompanied by only a small army, emerged
-from the catacombs beneath the Imperial city and quickly overwhelmed the forces
-Thules the Gibbering had left in place. The Emperor, who may or may not have
-been a lich, was himself struck down, according to some, by Titus Mede’s own
-hand. Carahil, the Arch-Mage of Anvil, who was with the army, advised me that
-Thules had indeed been killed by the High Regent of Colovia.
+26^th^ Evening Star, 4E 18, Titus Mede, accompanied by only a small army,
+emerged from the catacombs beneath the Imperial city and quickly overwhelmed the
+forces Thules the Gibbering had left in place. The Emperor, who may or may not
+have been a lich, was himself struck down, according to some, by Titus Mede’s
+own hand. Carahil, the Arch-Mage of Anvil, who was with the army, advised me
+that Thules had indeed been killed by the High Regent of Colovia.
 
 It is commonly fancied that Mede had less than one thousand men with him, but
 this is likely hyperbole. Thules had some eight thousand men under him; he had
@@ -175,17 +175,17 @@ most of it occurring on the city streets. According to Carahil, the fanatical,
 boorish and draconian Alessia Ottus suffered a fate as terrible as the
 Stormcrown Interregnum could bring:
 
-> *“…As the Colovian Legionnaires swept into the Temple district, the mobs came*
-> *alive. We never had a chance to secure the Temple and the High Primate’s*
-> *Palace. They surged from their homes, smashed down the doors of the palace*
-> *of divinity and began looting the place. As I tried to regain control of the*
-> *situation, I saw them grab that obsequious bitch Ottus, still garbed in full*
-> *ceremonial splendour, and take her, her family and her staff, and drag them*
-> *off to the Arena. There the mob was joined by both Blue and Yellow Team*
-> *gladiators, and one and all decided to roast the High Primate on a giant,*
-> *hastily constructed spit. Then, they ate her. You know, it’s ironic,*
-> *considering the number of sermons the bitch gave on the subject of*
-> *gluttony.”*
+> …As the Colovian Legionnaires swept into the Temple district, the mobs came
+> alive. We never had a chance to secure the Temple and the High Primate’s
+> Palace. They surged from their homes, smashed down the doors of the palace of
+> divinity and began looting the place. As I tried to regain control of the
+> situation, I saw them grab that obsequious bitch Ottus, still garbed in full
+> ceremonial splendour, and take her, her family and her staff, and drag them
+> off to the Arena. There the mob was joined by both Blue and Yellow Team
+> gladiators, and one and all decided to roast the High Primate on a giant,
+> hastily constructed spit. Then, they ate her. You know, it’s ironic,
+> considering the number of sermons the bitch gave on the subject of gluttony.
+{:.text-italic}
 
 Allegedly, Ottus’ screams could be heard in the town square of Bruma. In
 “Dunmer-town” the aptly, but unimaginatively named district that served as home
@@ -209,13 +209,13 @@ Redguards had threatened the city’s peace, Thules had ensured a Breton mob wou
 be ready to swoop in to butcher the troublemakers. These various groups came
 alive in the chaos and according to Honditar, one of Mede’s best foresters,
 
-> *“…(spits on ground) the Legions moved from neighbourhood to neighbourhood*
-> *putting down all and sundry who didn’t surrender. There was a lot of blood.*
-> *We crucified the goddamn lot of the Blues and Yellows. An’ I musta gutted a*
-> *hundred o’ those goddamn Nibbo necro-nutters meself in the end. Educated*
-> *guess? Huh. I’d say one hundred thousand civvies died in those five days.*
-> *Huh. Fun times. I still says them days was just good riddance to Nibbo*
-> *rubbish…”*
+> …(spits on ground) the Legions moved from neighbourhood to neighbourhood
+> putting down all and sundry who didn’t surrender. There was a lot of blood.
+> We crucified the goddamn lot of the Blues and Yellows. An’ I musta gutted a
+> hundred o’ those goddamn Nibbo necro-nutters meself in the end. Educated
+> guess? Huh. I’d say one hundred thousand civvies died in those five days. Huh.
+> Fun times. I still says them days was just good riddance to Nibbo rubbish…
+{:.text-italic}
 
 The chaos of those five days, which ended on the last day of 4E 18, was
 remembered for a long time afterward. Those in a position to observe the
@@ -226,8 +226,8 @@ one hundred thousand people dead. A High Primate was viciously murdered. In
 light of the atrocities, folk of learning asked whether sentient beings were no
 more than beasts in civilised skin. Lathenil of Sunhold, who was undeniably a
 witness to the chaos, likened the entire Stormcrown Interregnum to a prolonged
-absence of virtue which he believed brought about *“the judgement of the Nine*
-*Divines”*. But some benefit did come in the aftermath of this conquest.
+absence of virtue which he believed brought about _“the judgement of the Nine_
+_Divines”_. But some benefit did come in the aftermath of this conquest.
 Firstly, seizing the Imperial City immeasurably strengthened Mede’s claim to the
 purple cloak. Secondly, it gave the High Regent of Colovia access to Thules’
 vast accumulated treasury.
@@ -257,14 +257,14 @@ Lagertha, to Ragnar, Jarl of Eastmarch, in order to secure Solitude’s power
 against his ancient rivals in Winterhold. By tradition, Douglas had a legitimate
 and very strong claim; the ancient Pact of Chieftains, made law at the end of
 the War of Succession, dictated that the Moot only intervene in the succession
-if there were no legitimate heirs. Douglas’ legitimacy and position as first
-son was beyond question. But other aspects of Douglas were questionable. First,
-he was not the eldest child; that honour fell to Lagertha, who was very much
-aware of her right to rule. But, against convention, Lagertha had been sent to
-secure an alliance and the second child, Douglas, had been raised as heir to
-Solitude. Moreover, Douglas was married to a wealthy heiress from Markarth’s
-Mach Tir clan; a respectable marriage in every way except that it would –
-unthinkably – seat a Reachwoman upon the throne of the High Queen.
+if there were no legitimate heirs. Douglas’ legitimacy and position as first son
+was beyond question. But other aspects of Douglas were questionable. First, he
+was not the eldest child; that honour fell to Lagertha, who was very much aware
+of her right to rule. But, against convention, Lagertha had been sent to secure
+an alliance and the second child, Douglas, had been raised as heir to Solitude.
+Moreover, Douglas was married to a wealthy heiress from Markarth’s Mach Tir
+clan; a respectable marriage in every way except that it would – unthinkably –
+seat a Reachwoman upon the throne of the High Queen.
 
 Moreover the upheavals that had occurred in the Eastern Provinces had meant that
 a deep division had occurred in Skyrim. For whilst Vladimir’s personal strength
@@ -282,20 +282,21 @@ Why had Vladimir allowed the fleeing Orcs of Orsinium to litter the western
 marches? Ragnar concluded his address to the moot with the exceedingly poignant
 question
 
-> *“Is our land yet Skyrim or are the Nords now subject to a New Mereth?”*
+> Is our land yet Skyrim or are the Nords now subject to a New Mereth?
+{:.text-italic}
 
 Needless to say, Ragnar’s words were met with thunderous applause. This stirring
 address might have set the tone for the rest of the Moot had not alarming news
 arrived before the beginning of the second days’ deliberations: an army of
 Colovian Legionnaires had arrived in Skyrim.
 
-----
+---
 
 Of all of Titus Mede I’s actions, what came to be called the **“Skyrim**
 **Expedition”** was the greatest risk he ever took. A more cautious general
 might have sought to prepare Colovia for the inevitable clash against Eddar
 Olin. But Colovian soldier’s wisdom and the Imperial Legion Academy have long
-taught that *“The Legate who defends everything defends nothing…”*. Titus Mede
+taught that _“The Legate who defends everything defends nothing…”_. Titus Mede
 all but embodied this doctrine and he consistently utilized it to maximal
 effect. Leaving a small garrison under the command of one of his best officers,
 he abandoned the Imperial City and stormed northward, fully aware that although
@@ -351,7 +352,7 @@ since not only was his elder sister claiming the Throne, his father’s decision
 had tainted his own claim and his marriage to Cairine Mach Tir- and their
 Reach-blood children- was regarded by many as a betrayal of Nord interests.
 
-Titus Mede arrived at the Moot on the 10th of Morning Star, 4E 19, dressed in
+Titus Mede arrived at the Moot on the 10^th^ of Morning Star, 4E 19, dressed in
 the full measure of the austere dignity of the High Regents of Colovia. He had
 brought with him his queen, and he ensured that all knew he possessed the
 dignity of a mighty king. Mede exhorted the Jarls to remember that as Colovian
@@ -365,16 +366,17 @@ capable, but more worldly and more learned than Ragnar of Windhelm. Nor is it
 known whether Mede had decided from the outset to continue the Empire’s support
 of the House of Solitude.
 
-> *“Emperor Titus once told me that ideals were a grand foundation for a cause.*
-> *But woe betide the man who relies solely upon them,”*
+> Emperor Titus once told me that ideals were a grand foundation for a
+> cause. But woe betide the man who relies solely upon them,
+{:.text-italic}
 
 said Carahil, speaking to me of the approach Titus Mede took to the Moot. And
 while it is likely that Mede gave as fine a speech as he was ever to do,
 witnesses to the event have also confirmed the presence and vigour of Colovian
 agents at the Moot, spreading threats and bribes amidst the powerful of Skyrim.
 Lady Nenya, steward to the Jarls of Falkreath, who was at that time a healer and
-scullery maid in the service of Falkreath, said that *“The loudest sound that*
-*the High Regent made was not his eloquent words but the jingle of his coins”*.
+scullery maid in the service of Falkreath, said that _“The loudest sound that_
+_the High Regent made was not his eloquent words but the jingle of his coins”_.
 
 None of this however, was entirely new to the Moot, or politics in Skyrim
 whatsoever. Though in fairness, the historian might make allowance for the fact
@@ -406,11 +408,11 @@ army (which later caused bitterness in High Rock and Hammerfell). This was no
 coincidence. Titus Mede was widely rumoured to be **“Bloodkin”** (an Orc
 familial title for non-Orcs) and was noted on multiple occasions as being fluent
 in Orcish. The Colovians had been employing Orcs in their legions for centuries,
-and Colovian Law granted right of citizenship to *“City Orcs”* and protected the
+and Colovian Law granted right of citizenship to _“City Orcs”_ and protected the
 Orcish strongholds. The Colovian Reman Empire had raised Orsinium to provincial
 status, but since Breton ideals amongst the Septims were especially strong, this
 provincial status was revoked and only returned in 399. The value of High Rock
-*“ideals”* regarding Orcs, is revealed if you ask Imperial Legionnaires whether
+_“ideals”_ regarding Orcs, is revealed if you ask Imperial Legionnaires whether
 they prefer an Orc or Breton soldier or general and hear the answer of every
 legionnaire (except a Breton, who will no doubt be complaining at the question
 even being asked).
@@ -420,7 +422,7 @@ even being asked).
 In mid 19, Eddar Olin finally returned for Titus Mede. He was returning not only
 for his revenge on the usurper who had thwarted his own plans for the Imperial
 City and who had thrashed his army at Bruma, nor even simply to put the title of
-*“Emperor”* on the line; the question of which bloc would hold cultural
+_“Emperor”_ on the line; the question of which bloc would hold cultural
 supremacy in Cyrodiil was to be answered in this campaign. He did not come
 unprepared. Olin marched at the head of a heterogeneous force forty thousand
 strong; he brought with him the flower of Nibenese soldiery in all its variety.
@@ -500,10 +502,10 @@ Olin’s army left the Old Holds without their most powerful ally. They soon
 surrendered.
 
 Word spread fast throughout Skyrim and then across Tamriel. The Moot met again
-and this time, Jarl Douglas was acclaimed High King. Uncharacteristically,
-Jarls Ragnar and Sinjir were each executed at the hand of High King Douglas;
-Lagertha was encouraged to become a nun in a temple of Talos, but her children
-were nonetheless allowed to inherit Windhelm. This sowed lasting anti-Imperial
+and this time, Jarl Douglas was acclaimed High King. Uncharacteristically, Jarls
+Ragnar and Sinjir were each executed at the hand of High King Douglas; Lagertha
+was encouraged to become a nun in a temple of Talos, but her children were
+nonetheless allowed to inherit Windhelm. This sowed lasting anti-Imperial
 sentiment in the Old Holds, although correspondence and sources close to High
 King Douglas strongly suggest that Titus Mede had nothing to do the new king’s
 heavy handedness. But most significantly, led by High King Douglas, the Moot

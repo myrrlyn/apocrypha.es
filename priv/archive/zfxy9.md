@@ -21,48 +21,48 @@ The Jel alphabet goes:
 **a, ch, d, e, g, h, i, j, jh, k, l, lh, ny, n, o, q, r, s, t, th, ts, u, w,**
 **x, y, p**
 
-Jel has no *labial* consonants, i.e. consonants that are pronounced with the
+Jel has no _labial_ consonants, i.e. consonants that are pronounced with the
 help of the lips, since Argonians don’t have any.
 
-- **a** is pronounced like in English *father*.
-- **ch** sounds like a *ky* pronounced very fast, somewhat like in *backyard*.
-- **d** is like in English *dog*.
-- **e** is pronounced roughly like the *ay* in *say* when stressed, laxer when
+- **a** is pronounced like in English _father_.
+- **ch** sounds like a _ky_ pronounced very fast, somewhat like in _backyard_.
+- **d** is like in English _dog_.
+- **e** is pronounced roughly like the _ay_ in _say_ when stressed, laxer when
   unstressed.
-- **g** is like in English *go*.
+- **g** is like in English _go_.
 - **h** is like in English but voiced.
-- **i** is like the *ee* in English *free*, but laxer when unstressed.
-- **j** is pronounced *dz*.
-- **jh** is pronounced like a very fast *gy*; it’s the voiced counterpart to
-  *ch*.
-- **k** is like in English *Kate*.
-- **l** is like in English *lake*, never as in *dull*.
-- **lh** is really difficult. It’s a voiced Welsh *ll* as in *Llanelli*. Put
-  your tongue in the position for *l*, and then blow.
-- **ny** is somewhat like in *canyon*.
-- **n** is like in English *nine*.
-- **o** is like in English *so*, but unrounded (the lips don’t “bunch” when
+- **i** is like the _ee_ in English _free_, but laxer when unstressed.
+- **j** is pronounced _dz_.
+- **jh** is pronounced like a very fast _gy_; it’s the voiced counterpart to
+  _ch_.
+- **k** is like in English _Kate_.
+- **l** is like in English _lake_, never as in _dull_.
+- **lh** is really difficult. It’s a voiced Welsh _ll_ as in _Llanelli_. Put
+  your tongue in the position for _l_, and then blow.
+- **ny** is somewhat like in _canyon_.
+- **n** is like in English _nine_.
+- **o** is like in English _so_, but unrounded (the lips don’t “bunch” when
   pronouncing it).
-- **q** is another difficult sound, namely a voiced German *ch* as in *ich*.
+- **q** is another difficult sound, namely a voiced German _ch_ as in _ich_.
 - **r** is a tap, like in English with a Scottish accent.
-- **s** is like the *z* in English *zoo*.
-- **t** is like in English *too*.
-- **th** is always like in English *there*, except before unvoiced consonants,
-  when it becomes as in *bath*.
-- **ts** is pronounced like in English *guts*.
-- **u** is like the *oo* in English *moon*, but unrounded, like in Japanese.
-- **w** is like in English *well*, but unrounded.
-- **x** is a voiced German *ch* as in *Bach*.
-- **y** is like in English *yell*.
+- **s** is like the _z_ in English _zoo_.
+- **t** is like in English _too_.
+- **th** is always like in English _there_, except before unvoiced consonants,
+  when it becomes as in _bath_.
+- **ts** is pronounced like in English _guts_.
+- **u** is like the _oo_ in English _moon_, but unrounded, like in Japanese.
+- **w** is like in English _well_, but unrounded.
+- **x** is a voiced German _ch_ as in _Bach_.
+- **y** is like in English _yell_.
 
 The last consonant appears as **p** only at the end of a word, but is present at
 the beginning of every syllable that begins with a vowel. It is a glottal stop,
-i.e. the sound between the sillables in English *oh-oh* or the apostrophe in
-Hawaiian *Hawai’i*. The stress always falls on syllables containing a long
+i.e. the sound between the sillables in English _oh-oh_ or the apostrophe in
+Hawaiian _Hawai’i_. The stress always falls on syllables containing a long
 vowel, a diphthong or ending with a click. Otherwise it falls on the
 penultimate. There are also two sounds which are very alien to an English
 speaker, which are the **clicks**. In Argonian, they are **c’**, pronounced like
-in English *tsk tsk*, and **xh** which is a loud click of the tongue.
+in English _tsk tsk_, and **xh** which is a loud click of the tongue.
 
 ## Pronouns
 
@@ -72,30 +72,30 @@ set, used for everything else. The Argonians make no distinction in number, so
 understanding whether a given pronoun refers to a single individual or to a
 group of people is entirely a matter of context.
 
-## Connected**
+## Connected\*\*
 
-1st person: **sep**
+1^st^ person: **sep**
 
-2nd person: **xho**
+2^nd^ person: **xho**
 
-3rd person: **suu**
+3^rd^ person: **suu**
 
-4th person: **c’a**
+4^th^ person: **c’a**
 
-The 4th person is a special pronoun which we could call a “hyper-inclusive we”,
-which is used to refer to every being connected through the Hist at the same
-time, and is therefore the only pronoun which carries some sense of plurality,
-although this is misleading, since the Argonians perceive themselves as one when
-they’re connected. Depending on context, it can be translated as “the whole
-world” or “the Argonian people” or other such expressions.
+The 4^th^ person is a special pronoun which we could call a “hyper-inclusive
+we”, which is used to refer to every being connected through the Hist at the
+same time, and is therefore the only pronoun which carries some sense of
+plurality, although this is misleading, since the Argonians perceive themselves
+as one when they’re connected. Depending on context, it can be translated as
+“the whole world” or “the Argonian people” or other such expressions.
 
 ## Disconnected
 
-1st person: **see**
+1^st^ person: **see**
 
-2nd person: **to**
+2^nd^ person: **to**
 
-3rd person: **thuu**
+3^rd^ person: **thuu**
 
 The “disconnected” set is a later derivation of the “connected” set, created
 when the Argonians were forcibly taken out of their millennia-long isolation by
@@ -103,23 +103,24 @@ the Alessian Empire in the First Era, is used to refer to all non-Argonians,
 which Argonians perceive as being “disconnected” in some way. This is a very
 discomforting feeling to Argonians, which need to get used to it before
 interacting with other peoples on a long-term basis. There is no “collective”
-4th person.
+4^th^ person.
 
 ## Use of the Pronouns
 
 All Argonians refer to themselves and their peers with the “connected” set of
 pronouns, although in special circumstances, such as when speaking with a
 tribe-leader or a very important individual, an Argonian may refer to himself
-with the “disconnected” 1st person pronoun, to suggest humility, implying that
+with the “disconnected” 1^st^ person pronoun, to suggest humility, implying that
 he’s not worthy of being connected through the same Hist as whatever person he’s
-talking to. To address an Argonian with the “disconnected” 2nd person pronoun is
-in an of itself a powerful insult, and it’s not that rare to hear enemy tribes
-refer to each other as thuu rather than suu. Conversely, every non-Argonian must
-refer to himself and to his peers with the “disconnected” set of pronouns. To do
-differently would be seen as unbelievably arrogant and insulting. Argonians may
-refer to non-Argonians with the “connected” set of pronouns when these strangers
-have done them a great favour or when they consider them close friends (e.g.
-Mere-Glim probably addressed Annaïg with *xho*).
+talking to. To address an Argonian with the “disconnected” 2^nd^ person pronoun
+is in an of itself a powerful insult, and it’s not that rare to hear enemy
+tribes refer to each other as thuu rather than suu. Conversely, every
+non-Argonian must refer to himself and to his peers with the “disconnected” set
+of pronouns. To do differently would be seen as unbelievably arrogant and
+insulting. Argonians may refer to non-Argonians with the “connected” set of
+pronouns when these strangers have done them a great favour or when they
+consider them close friends (e.g. Mere-Glim probably addressed Annaïg with
+_xho_).
 
 ## Syntax
 
@@ -137,11 +138,11 @@ the noun ends in a consonant, and **-huth** if it ends in a vowel.
 
 ### The Ablative Suffix
 
-The suffix **-duj** means *from, originating from*.
+The suffix **-duj** means _from, originating from_.
 
 ### The Purposive Suffix
 
-The suffix **-to** means *(in order) to*.
+The suffix **-to** means _(in order) to_.
 
 ### The Derisive Suffix
 
@@ -149,34 +150,34 @@ The suffix **-luu** indicates amusement or mocking intent.
 
 ### The Locative Suffix
 
-The suffix **-daa** means *in, inside*.
+The suffix **-daa** means _in, inside_.
 
 This is about it for the grammar at the moment. Here’s the sample sentences I’ve
 made:
 
 **Suur Haj-Ei golt. **
 
-*Hist.Sap Haj-Ei drink*
+_Hist.Sap Haj-Ei drink_
 
 Haj-Ei drinks Hist-Sap
 
 **Suur golt-suu.**
 
-*Hist.Sap drink-he/she*
+_Hist.Sap drink-he/she_
 
 He/she drinks Hist-Sap.
 
 **Hajhiit maagaruth goc’daa gooluu.**
 
-*Khajiit cart-POS mud-LOC get.stuck-DER*
+_Khajiit cart-POS mud-LOC get.stuck-DER_
 
 The Khajiit’s cart got stuck in the mud.
 
 **Thuu chakkuth lod Hajhiit c’oo? Hajhiit gortsuquth gorihuth thuu gooluthduj**
 **thdeitoluu!**
 
-*they butt-POS lick Khajiit why? Khajiit cuisine-POS flavour-POS they*
-*mouth-POS-ABL chase.away-PUR-DER*
+_they butt-POS lick Khajiit why? Khajiit cuisine-POS flavour-POS they_
+_mouth-POS-ABL chase.away-PUR-DER_
 
 Why do Khajiit lick their butts? To get the taste of their cooking out of their
 mouths! (The famous “Khajiit joke”)

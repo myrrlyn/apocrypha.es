@@ -38,18 +38,18 @@ strength to act on their own.
 
 The stage was now set for the final collapse of the Imperial Government in what
 is now called the ‘Stormcrown Interregnum’. At the time, and in a few works of
-both fiction and non-fiction, many eastern authors simply called it
-**“The Blood-Gold Epoch”** or simply **“the Days of Blood and Gold”**. The
-origin of “Blood” in the poetic name came not only from the ceaseless battles
-that were fought in this second, decade long interregnum; a short span in the
-lives of some races, but also from those who had fallen in the period
-immediately preceeding. It was as violent an epoch as any could recall. “Gold”
-came not only from the collapse of the Imperial government in White Gold Tower,
-but also from the overwhelming increase in mercenary activity, and how the
-Septim seemed to be becoming the only true item of value in the world. There was
-a widespread awareness among Easterners; Nords, Dunmer and Saxhleel, that the
-coming years would chart the course of Tamriel. And that it would be Blood and
-Gold that would mark the course of this charting.
+both fiction and non-fiction, many eastern authors simply called it **“The**
+**Blood-Gold Epoch”** or simply **“the Days of Blood and Gold”**. The origin of
+“Blood” in the poetic name came not only from the ceaseless battles that were
+fought in this second, decade long interregnum; a short span in the lives of
+some races, but also from those who had fallen in the period immediately
+preceding. It was as violent an epoch as any could recall. “Gold” came not only
+from the collapse of the Imperial government in White Gold Tower, but also from
+the overwhelming increase in mercenary activity, and how the Septim seemed to be
+becoming the only true item of value in the world. There was a widespread
+awareness among Easterners; Nords, Dunmer and Saxhleel, that the coming years
+would chart the course of Tamriel. And that it would be Blood and Gold that
+would mark the course of this charting.
 
 ## 4E 9-12 – The Eerie Calm, the Fracture of Councils
 
@@ -81,7 +81,7 @@ while they had fled to Solstheim and Skyrim, earnestly yearned to return to
 their own nomadic wandering of Vvardenfell. In our time, the Ashlanders are
 divided between Vvardenfell, their traditional home and the Velothi and Valus
 Mountains and Solstheim. Umeni, an Ashlander I had the privelige of speaking to
-called the Valus/Velothi and the Isle of Solstheim the *“Cradles of Refuge”*.
+called the Valus/Velothi and the Isle of Solstheim the _“Cradles of Refuge”_.
 The insular and nomadic tribesfolk were grateful that they had received succour
 in these foreign lands, and many still make regular migrations to the visit the
 lands and peoples amongst which they had sought refuge. Some Ashlander tribes
@@ -107,7 +107,7 @@ in contact with members of House Hlaalu and with Imperial Officers. The Royal
 Guard had spirited Queen Mother Barenziah from Mournhold to Cheydinhal at the
 earliest possibility and she had sent for her daughter, Morgiah, who was, at any
 rate, growing anxious about her place in the Summerset Isle (note: see Lathenil
-of Sunhold’s *Rising Threat volume IV* and Maveus Cie’s *The Firsthold Revolt*).
+of Sunhold’s _Rising Threat volume IV_ and Maveus Cie’s _The Firsthold Revolt_).
 She had gone to the Imperial Province with a small company of Battlemages that
 constituted a good deal more than a mere household guard and was in regular
 contact with Duke Vedam Dren. After Ocato’s debacles in the An-Xileel invasion,
@@ -126,8 +126,9 @@ Inspector in the Penitus Oculatus and an agent for the East Empire Company, I
 can only admit that to this day, the Potentate’s murder was an entirely
 mysterious event. One friend of the potentate called it
 
-> *“a fitting end for the last remnant of the strange destiny of Uriel Septim*
-> *VII”.*
+> “a fitting end for the last remnant of the strange destiny of Uriel Septim
+> VII”.
+{:.text-italic}
 
 The Culprit of the deed was never found, though Lathenil of Sunhold insisted it
 was the work of Thalmor assassins. Most agree with him. The Black Horse Courier
@@ -140,13 +141,13 @@ death. Sadly, I could not convince Lathenil of Sunhold to agree to an interview
 during his lifetime. Only a week before his death did he finally consent to
 discuss this with me and we were never to have our interview.
 
-On the other hand, Justianus Quintius’ *“The Great War”*, places the Thalmor
+On the other hand, Justianus Quintius’ _“The Great War”_, places the Thalmor
 takeover firmly in 4E 22- Quintius however, makes little mention of the length
 of the Stormcrown Interregnum. I have questioned multiple witnesses of sound
 mind, extensively, on this subject and have received answers, which I have no
 doubt are, to the mind of the witness, reliable. These answers state that Ocato
 was seen and confirmed dead at various points before 4E 15. Conversely, he was
-reported as healthy and speaking to various people up until the 20th of First
+reported as healthy and speaking to various people up until the 20^th^ of First
 Seed, 4E 15. The Imperial Watch confirmed Ocato murdered in 4E 12, though I and
 many others in the military police believe the Imperial Watch have previously
 displayed shoddy detective work. Whilst one must make concession for the chaotic
@@ -173,8 +174,8 @@ and undoubtedly very serious for Tamriel, though some parts were more affected
 than others. The fracture of the Elder Council caused the collapse of the
 Nibenese Bureaucracy and thus, the Imperial Government. In this environment, the
 provinces went their separate ways, although arguably the process had already
-begun. But without Ocato, the sundering of Tamriel was hastened and could not
-be easily stopped.
+begun. But without Ocato, the sundering of Tamriel was hastened and could not be
+easily stopped.
 
 ## 4E 10-22 – The Stormcrown Interregnum and the East
 
@@ -182,10 +183,10 @@ So began the Stormcrown Interregnum or **“The Blood Gold Epoch”**. But how d
 define it, when the dates of Ocato’s death, traditionally considered the
 inception of the chaos, are so confusing? Typically, many historians choose a
 simple range of 4E 10-17, as based off an interpretation of Lathenil stating
-that Ocato died a decade after certain events described earlier in
-*“Rising Threat”* and the capture of the Imperial City was seven years after
-Ocato’s death. But since Lathenil very rarely specifies dates and timeframes,
-this interpretation is meaningless. Thus, I dispute it. In 4E 10, it is reliably
+that Ocato died a decade after certain events described earlier in _“Rising_
+_Threat”_ and the capture of the Imperial City was seven years after Ocato’s
+death. But since Lathenil very rarely specifies dates and timeframes, this
+interpretation is meaningless. Thus, I dispute it. In 4E 10, it is reliably
 stated on numerous public works in Leyawiin, that the city was proclaimed as the
 **“Archonate of Leyawiin”**. Thus was Leyawiin the first city to be fragmented
 from the rule of the Imperial government. Moreover, numerous battles, some of
@@ -219,7 +220,7 @@ population, since the Red Year, Nibenay’s populace had been swelled by Dunmer
 refugees, and now they found themselves in a difficult situation. For just as
 Dunmer had fled into Nibenay from a war with the An-Xileel, they now found
 themselves confronted not only with a considerable populace of Saxhleel already
-extant in Nibenay, but also with *Argonian* refugees. Nibenay, especially the
+extant in Nibenay, but also with _Argonian_ refugees. Nibenay, especially the
 south, had been the overwhelming relocation of choice for those Saxhleel who
 disliked or found themselves at odds with the An-Xileel; a portion of the
 Argonian people most Saxhleel of Black Marsh describe as **Lukiul**, meaning

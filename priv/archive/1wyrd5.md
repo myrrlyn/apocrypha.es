@@ -71,8 +71,8 @@ are
 
 Sounding very similar to the Daedra, except missing more than half of them. Two
 things, however, that are not quite right about this is Hermorah being the Tides
-because “who can say if the moons predict the tides or \[vice versa]". At this
-point in time, *there weren’t any moons*. How could this be Hermorah’s title if
+because “who can say if the moons predict the tides or \[vice versa\]”. At this
+point in time, _there weren’t any moons_. How could this be Hermorah’s title if
 it’s related to something that has not existed yet? Same deal with Sheggorath
 being the Skooma Cat. Once again, no moons to make the Moon Sugar which becomes
 Skooma. Chances are it’s Ahnissi making it more “relevant” for her daughter, but
@@ -120,7 +120,7 @@ motions will protect us from Ahnurr’s anger.” Now the really odd thing here 
 He somehow managed to shake the Great Darkness and yet he couldnt get through
 Jone and Jode? It’s my interpretation/understanding that Ahnurr essentially
 shook the world here in rage, but with that specific language it sounds as
-though he may have grabbed a hold of Namiira *inside Lorkhaj’s Heart* and shook
+though he may have grabbed a hold of Namiira _inside Lorkhaj’s Heart_ and shook
 it like crazy. That’s pretty metal. But again, this part being a little oddly
 worded may be best left to interpretation.
 
@@ -181,7 +181,7 @@ Now a bit we can really look into is Y’ffre being pissed and yelling out the
 First Secret to everyone bar Lorkhaj and Ahnurr. This being particularly
 interesting because it implies that the children couldn’t actually reach Nirni
 before due to Jone and Jode. Likewise, perhaps with all of the children being
-stuck in Nirni’s space now *they could also get out*, supposedly what the Second
+stuck in Nirni’s space now _they could also get out_, supposedly what the Second
 Litter did and the First decided against. Y’ffre then makes Bosmer and Nirni
 turns cat-land into horribly hot deserts and poisnous jungles.
 
@@ -191,5 +191,7 @@ ever get to hear that word.
 Because of the length of this, Varieties of Faith will be done in the next
 issue.
 
-[0]: https://www.imperial-library.info/content/words-clan-mother-ahnissi-her-favored-daughter
-[1]: https://www.reddit.com/r/teslore/comments/1eb00m/the_thread_of_alkosh_or_choose_your_own_timegod/
+[0]:
+  https://www.imperial-library.info/content/words-clan-mother-ahnissi-her-favored-daughter
+[1]:
+  https://old.reddit.com/r/teslore/comments/1eb00m/the_thread_of_alkosh_or_choose_your_own_timegod/

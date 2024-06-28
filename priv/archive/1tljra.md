@@ -6,10 +6,24 @@ reddit: 1tljra
 author: Avian81
 date: 2013-12-24T09:41:06Z
 hide_series: true
+about: |
+  This is basically a summary on the Daedric artifacts; it isn’t complete and
+  idk if I should continue this series on the artifacts, cause I feel lazy too
+  -_-
+
+  I’m working on a summary for the Mages’ Guild questline in Oblivion, but
+  then I realized, I haven’t completed the MG quests yet. Whoops (stupid
+  Vahtacen ruins) Anyway I guess I’ll have to finish that questline first or
+  else my post on that could be half-assed.
+
+  Like this one… I’ll make more quality posts in the future but it’ll take
+  awhile. DyK I worked on the Umbranox and the Blackwood post for a few hours?
+  But this one not so much. If you guys have suggestions on a questline you’d
+  like me to “investigate” feel free to do so!!! :D
 ---
 
-*153rd Year of the 4th Era, Marcus Averius, Synod Historian, Synod Artifact*
-*Recovery Division*
+_153^rd^ Year of the 4^th^ Era, Marcus Averius, Synod Historian, Synod Artifact_
+_Recovery Division_
 
 ## Foreword
 
@@ -171,19 +185,3 @@ Dwemer craftsmanship. The Hammer is a Symbol of Great Might and claiming it
 would prove the Might of the Synod, therefore the search priority for this
 Artifact is set to High, and Risk level to Low, as its protectors are probably
 just few Orcs.
-
-> > This is basically a summary on the Daedric artifacts; it isn’t complete and
-> > idk if I should continue this series on the artifacts, cause I feel lazy to
-> > -_-
-> >
-> > I’m working on a summary for the Mages’ Guild questline in Oblivion, but
-> > then I realized, I haven’t completed the MG quests yet. Whoops (stupid
-> > Vahtacen ruins) Anyway I guess I’ll have to finish that questline first or
-> > else my post on that could be half assed.
-> >
-> > Like this one… I’ll make more quality posts in the future but it’ll take
-> > awhile. DyK I worked on the Umbranox and the Blackwood post for a few hours?
-> > But this one not so much. If you guys have suggestions on a questline you’d
-> > like me to “investigate” feel free to do so!!! :D
-> {:tag="small"}
-{:tag="aside" .afterword}

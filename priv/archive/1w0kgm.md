@@ -22,7 +22,7 @@ We begin with
 
 Now, as we know from other texts this does not mean that the Khajiit came about
 much later than the other races but that the nation of Elsweyr had not existed
-until the 2nd Era (termed the Common Era in this text). What had occurred were
+until the 2^nd^ Era (termed the Common Era in this text). What had occurred were
 the several kingdoms (including, but not limited to, Anequina and Pelletine) in
 the land now called Elsweyr until they were unified by Eshita and Keirgo.
 

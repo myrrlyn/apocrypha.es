@@ -5,9 +5,28 @@ title: Cyrodiil, pt. I
 reddit: 1tqjl9
 author: Avian81
 date: 2013-12-26T14:09:37Z
+about: |
+  If you guys think this is like the in-game book _“The Red Year”_ well that’s
+  cause I based this off that idea, well the main topic is different of course.
+  I thought why do the Dunmer get their own inspiring story thing? what about
+  the great war? so I made my own I had fun making it, and I hope you guys enjoy
+  reading this just as much :)
+
+  As a friendly favor please point out any holes or weakness(es) (or strengths)
+  in the stories so I can make them better. And suggestions would be nice.
+
+  Hey funny story, it took me 2 hours to think this all up. who said you need to
+  work hard for a good story? lol. Oh and this is near 2000 words not including
+  the sidebar
+
+  I will make this a series based on reception as always. I’ll make another one
+  for Cyrodiil and 1-2 for Hammerfell not sure if I can do it from the
+  perspective of someone from the Dominion though, since their Homeland was
+  never on the defensive so probably Cyrodiil and Hammerfell only. So… Cheers
+  Mates!!!
 ---
 
-*181st Year of the 4th Era, Mathieu Aviènne*
+_181^st^ Year of the 4^th^ Era, Mathieu Aviènne_
 
 ## Foreword
 
@@ -25,7 +44,7 @@ suffering war brings and never make the same mistakes that we do.
 
 ## Bravil
 
-*Malus Chorus*
+_Malus Chorus_
 
 Malus was an Imperial Legion soldier assigned to patrol the Green Road along
 with his squadron. The Night the Dominion attacked Bravil, Malus and his squad
@@ -50,7 +69,7 @@ were spending the night in The Lonely Suitor Lodge an inn located in the city.
 > count’s body in front of the City gates along with my commander and several
 > others.”
 
-*“And then what happened? Did you retreat back to Fort Variela?”*
+_“And then what happened? Did you retreat back to Fort Variela?”_
 
 > “We were going to… I ordered my men to march back to the fort but we were cut
 > off by the Dominion. Half my men routed, they ran in different directions. The
@@ -69,7 +88,7 @@ May the divines bless his soul.
 
 ## Leyawiin
 
-*Aria Viatrix*
+_Aria Viatrix_
 
 Aria was a bard, she would sing in the Castle from time to time, her father was
 the Captain of the Town Guard, and he was known to be very protective of her.
@@ -83,8 +102,8 @@ throughout the city. The day Leyawiin was besieged, that all changed.
 > stepped outside and the streets were empty, but when we looked at the city
 > walls we saw some elves climbing on to the city walls and the city guard were
 > fighting them. We watched it happen from a distance, and then I saw my father
-> rallying his men down the street. He looked at me as if he was mad he asked
-> me why was I still in the city, he said he thought I was with the rest of the
+> rallying his men down the street. He looked at me as if he was mad he asked me
+> why was I still in the city, he said he thought I was with the rest of the
 > townspeople. I asked him what was going on but he just told me that everything
 > will be okay, he gave me the necklace that his father gave him the day he
 > died, and then I knew that this was the last time I would ever see him again.
@@ -105,12 +124,12 @@ kept prisoners of war but whether her father is one of them is anyone’s guess.
 
 ## Anvil
 
-*Travis Jarrun*
+_Travis Jarrun_
 
 Travis is an imperial sailor and dockworker at the Port in Anvil. Travis was
 never popular in Anvil, he grew up without a family and learned to fend for
 himself while growing up. Travis has commited burglary in the past in both
-Kvatch  and Anvil, until he went to work for Captain Avernii, a man with a known
+Kvatch and Anvil, until he went to work for Captain Avernii, a man with a known
 drinking issue.
 
 > “It started out like any other day Captain was drunk as a fishstick,
@@ -128,15 +147,15 @@ drinking issue.
 > bottom of the sea. I woke up at dawn near the port in Anvil, in a pile of dead
 > bodies. I looked around and saw a bunch of elves piling bodies in groups.”
 
-*“What did you do after that? How did you escape?”*
+_“What did you do after that? How did you escape?”_
 
 > “I’m getting there mate, let the story tell itself. I didn’t know what was
 > happening at the time, but I knew that If I was caught snooping around they’d
 > kill me for sure. I tended to my wounds with some herbs, an old trick this
 > alchemist fellow taught me at Stros M’kai. It was rough work but it had to do,
 > grabbed the sword of some dead guard and made my way through the city’s
-> outskirts. I saw two elves walking outside the City Wall, thought  I could
-> kill ‘em both and get their money, hell it would be the least they could do to
+> outskirts. I saw two elves walking outside the City Wall, thought I could kill
+> ‘em both and get their money, hell it would be the least they could do to
 > repay me, since they took my city. I went slowly for one guy and slit his
 > throat. I was about to do the same to the other guy, but the other elf
 > couldn’t just die quietly and said something in elf tongue. I stabbed that
@@ -151,7 +170,7 @@ drinking issue.
 > shot my foot with an arrow, I fell to the ground and then they dragged me back
 > to Kvatch.”
 
-*“So you were imprisoned then? How were you set free?”*
+_“So you were imprisoned then? How were you set free?”_
 
 > “Well they sent me to the dungeon; the Interrogator kept asking me who I
 > killed. I told ‘em my story, but he wouldn’t hear me out told me he remembers
@@ -172,27 +191,3 @@ of. A hero that would prefer a humble life at sea, than fame among nobles. A few
 days ago Travis left to look for a job as a Sailor in the Illiac Bay, I asked
 him if I could use his story, he smiled at me and said “Sure, just make sure you
 change my name.”
-
-> > Don’t Read This Part NSFW
-> >
-> > If you guys think this is like the in-game book *“The Red Year”* well that’s
-> > cause I based this off that idea, well the main topic is different of
-> > course. I thought why do the Dunmer get their own inspiring story thing?
-> > what about the great war? so I made my own I had fun making it, and I hope
-> > you guys enjoy reading this just as much :)
-> >
-> > As a friendly favor please point out any holes or weakness(es) (or
-> > strengths) in the stories so I can make them better. And suggestions would
-> > be nice.
-> >
-> > Hey funny story, it took me 2 hours to think this all up. who said you need
-> > to work hard for a good story? lol. Oh and this is near 2000 words not
-> > including the small text part
-> >
-> > I will make this a series based on reception as always. I’ll make another
-> > one for Cyrodiil and 1-2 for Hammerfell not sure if I can do it from the
-> > perspective of someone from the Dominion though, since their Homeland was
-> > never on the defensive so probably Cyrodiil and Hammerfell only. So… Cheers
-> > Mates!!!
-> {:tag="small"}
-{:tag="aside" .afterword}

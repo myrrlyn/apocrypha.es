@@ -40,8 +40,9 @@ wonderful. House Indoril’s second councillor gave a public speech in the counc
 chambers in Blacklight, praising Ocato’s death. Morgen Indoril, the darling of
 his house, proclaimed
 
-> *“…the birth of a new era, the end of the accursed Armistice, the end of*
-> *suffering and the return of the glorious Morrowind of old…”*
+> …the birth of a new era, the end of the accursed Armistice, the end of
+> suffering and the return of the glorious Morrowind of old…
+{:.text-italic}
 
 But Morgen’s proclaimation was pure folly, and many of the more tempered
 politicians of the day acknowledged that. It is true that the carnage in
@@ -60,8 +61,8 @@ Also worth noting are two other things. The Decree of Monument shows that the
 luminaries involved in the governance of Skyrim and, at the very least, certain
 influential parties able to sway the Grand Council of Morrowind, were not all as
 opposed to the continuation of the Armistice as were the Indoril. Nor would
-anyone upon the council have missed that *“the return of the glorious Morrowind*
-*of old”* meant the restoration of Indoril’s primacy. And Indoril, though
+anyone upon the council have missed that _“the return of the glorious Morrowind_
+_of old”_ meant the restoration of Indoril’s primacy. And Indoril, though
 august, prestigious and possessed of a gravitas that could all but make law with
 mere words, did and still does not have the strength of arms that Redoran and
 Sadras had shown; moreover, it was beginning to move in a direction which meant
@@ -71,7 +72,7 @@ to reclaim its crown, that day showed the power of the House’s words. It was
 Indoril who carried the day in council and they who were chiefly responsible for
 the upheaval to come.
 
-On the 31st of Evening Star 4E 16, at the New Year Festival Ball in Cheydinhal
+On the 31^st^ of Evening Star 4E 16, at the New Year Festival Ball in Cheydinhal
 one of the most infamous events of the Stormcrown Interregnum took place. My
 close friend, Varon Vamori, one of the Empire’s most famed poets, dubbed the
 events of that evening as the **“Scarlet Dusk of Cheydin’s Honour”**. The ball
@@ -98,7 +99,7 @@ troubadours, merchants and servants, led the butchery of the vast majority of
 the gathered guests in the castle Cheydinhal Ballroom. The massacre was led in
 this venture by none other than the legendary blade, spy and infiltrator known
 to history as ‘Nightingale’. Previously, historians have believed this
-individual to be none other than Jagar Tharn, but the book *“Nightingales II”*
+individual to be none other than Jagar Tharn, but the book _“Nightingales II”_
 by Gallus Desidenius suggests this is untrue. Desidenius suggests it was a
 Dunmer named Drayven Indoril. While works written by a thief may be suspect in
 the eyes of some, my investigation, through reliable sources, into the matter
@@ -231,7 +232,7 @@ would be happy to act on it, it was Dres, and in them is the strongest case for
 Hlaalu’s position as scapegoat. I feel that this theorem most satisfactorily
 explains the actions of House Dres.
 
-----
+---
 
 The Second prevalent theory is that it is supposed that the Dunmer people quite
 simply wanted the avaricious Hlaalu gone out of animosity, a loathing due
@@ -259,7 +260,7 @@ could return the insults done to them. Indoril were and always have been the
 most scathingly anti-Imperial of the Great Houses. Clearly, the theory of
 anti-Imperial sentiment fits best with Indoril.
 
-----
+---
 
 There is however, a limit to what we can blame upon the Imperial leanings of
 Great House Hlaalu. As a historical point in favor of argument, even after the
@@ -282,11 +283,12 @@ survival and exile of these people.
 A farmer in Eastmarch I spoke to about Hlaalu’s last days said he had only
 survived because:
 
-> *“…Just as the Ordinators were about to come for me and my family, there was*
-> *a knight in front o’ me. Garbed in the House Sadras colours he were. And he*
-> *just stepped outta nowhere, in between three of those silent, terrifying*
-> *Ordinators, in their fancy armour. He drew his sword and without looking*
-> *back, he said ‘Run’.”*
+> …Just as the Ordinators were about to come for me and my family, there was a
+> knight in front o’ me. Garbed in the House Sadras colours he were. And he just
+> stepped outta nowhere, in between three of those silent, terrifying
+> Ordinators, in their fancy armour. He drew his sword and without looking back,
+> he said “Run”.
+{:.text-italic}
 
 This must be considered a part of the cause for House Sadras inheriting the
 anti-Indoril feud of their Hlaalu forebears. For in the coming years, as we
@@ -312,7 +314,7 @@ outlander holdings in their territory, the Telvanni ignored the existence of
 Wolverine Hall and other outlander communities in their districts. This approach
 was typically mutual between Telvanni and their “enemies”.
 
-----
+---
 
 Additionally, Redoran itself, the undisputed first House, though frequently
 conservative and disapproving of Hlaalu’s greed and disregard of tradition, bore
@@ -331,21 +333,23 @@ communication between the offices of the Chancellor and the councillors of House
 Redoran from the last year of the Third Era. Indeed, one scrap of a late Third
 Era journal recovered from a scribe in Thorn describes a pertinent scenario:
 
-> *“Journal of Marius Vantus, Thorn, 1st Hearthfire, 3E 433. …So’s I took Elia*
-> *out in the rowboat last night and gave her a right good tumble. She screamed*
-> *so loud she must have woken half the swamp. But that’s not hard to do; one*
-> *can scarce lift a finger without these muckdwellers looking at you like you*
-> *have a second head. And the An-Xileel are the worst. Harald says ya can*
-> *actually feel the malice coming from them. Still, Harald says Dragons once*
-> *ruled the world and I think he’s a skooma fiend. By Alessia’s tits, I’m so*
-> *sick and tired of this thrice-cursed swamp. But things are looking up.*
-> *Legate Dargalmo says Bog Company Foresters have new orders, straight from*
-> *the Chancellor. He says we’re heading north, to Morrowind; some problem with*
-> *Daedra. We need to make Tear in three days. The northern legions are leaving*
-> *the Marsh. Southern legions are evacuating the countryside and fortifying*
-> *the coastal cities. But he said when we reach Mournhold we’ll be up to our*
-> *necks in grey girls and Skooma. Which is just as well. Because I think*
-> *Jo’Gasha is hitting the company supply. Goddamn cat…”*
+> Journal of Marius Vantus, Thorn, 1^st^ Hearthfire, 3E 433.
+>
+> …So’s I took Elia out in the rowboat last night and gave her a right good
+> tumble. She screamed so loud she must have woken half the swamp. But that’s
+> not hard to do; one can scarce lift a finger without these muckdwellers
+> looking at you like you have a second head. And the An-Xileel are the worst.
+> Harald says ya can actually feel the malice coming from them. Still, Harald
+> says Dragons once ruled the world and I think he’s a skooma fiend. By
+> Alessia’s tits, I’m so sick and tired of this thrice-cursed swamp. But things
+> are looking up. Legate Dargalmo says Bog Company Foresters have new orders,
+> straight from the Chancellor. He says we’re heading north, to Morrowind; some
+> problem with Daedra. We need to make Tear in three days. The northern legions
+> are leaving the Marsh. Southern legions are evacuating the countryside and
+> fortifying the coastal cities. But he said when we reach Mournhold we’ll be up
+> to our necks in grey girls and Skooma. Which is just as well. Because I think
+> Jo’Gasha is hitting the company supply. Goddamn cat…
+{:.handwriting}
 
 If true, Vantus’ journal would indicate that legions were **leaving** Black
 Marsh to fortify Morrowind, and that at least the elite Forester units were
@@ -371,7 +375,7 @@ against the Redoran, there is little in the way of Redoran animosity toward
 Hlaalu’s Imperial leanings, (and **nothing** to suggest a needed scapegoat) that
 satisfactorily explains the Redoran involvement in the fall of Hlaalu.
 
-----
+---
 
 So if historians are to rectify the dearth of history on this topic, we are
 begged a vital question: why did this catastrophe happen?
@@ -431,15 +435,15 @@ inference that the Grand Council feared Hlaalu ambition.
 
 The letter, acquired by means of painstaking detective work reads:
 
-> *“Though in more genteel lands we have a reputation as dour, ruthless*
-> *warriors who have autocratically seized ancient and august Resdayn, Redoran*
-> *are ultimately at the service of Tamriel. It is Redoran who have answered*
-> *the call to arms from Hortators, Almsivi, Kings and Emperors alike. We bled*
-> *our sons and daughters against the Daedra. We led the charge against the*
-> *An-Xileel. And were we, the Masters of Blacklight, to claim that we were*
-> *instrumental in aiding the destruction of the greatest obstacle impeding the*
-> *rise of the noble dynasty of Mede, we would be speaking no more than the*
-> *truth…”*
+> Though in more genteel lands we have a reputation as dour, ruthless warriors
+> who have autocratically seized ancient and august Resdayn, Redoran are
+> ultimately at the service of Tamriel. It is Redoran who have answered the call
+> to arms from Hortators, Almsivi, Kings and Emperors alike. We bled our sons
+> and daughters against the Daedra. We led the charge against the An-Xileel. And
+> were we, the Masters of Blacklight, to claim that we were instrumental in
+> aiding the destruction of the greatest obstacle impeding the rise of the noble
+> dynasty of Mede, we would be speaking no more than the truth…
+{:.handwriting}
 
 Though letter smacks of exaggeration, there is some truth in it. Though Vedam
 Dren had openly declared his intention to return to Morrowind at the head of an
@@ -479,7 +483,7 @@ First House (which Hlaalu acquisition of the Ruby Throne would have undoubtedly
 destroyed) and their desire to defend the Grand Council’s authority. Those more
 broad-minded members of Redoran, which assuredly includes those luminaries who
 were responsible for inclusion of the Armistice in Redoran policy considerations
-(such as the *“Decree of monument”*), sought to prevent another pointless,
+(such as the _“Decree of monument”_), sought to prevent another pointless,
 bloody civil war.
 
 What did the commoners of Morrowind, and Ashlanders gain from the debacle? In

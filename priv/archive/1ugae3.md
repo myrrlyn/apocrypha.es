@@ -3,12 +3,16 @@ title: The Thieves’ Guild Chapters
 reddit: 1ugae3
 author: Avian81
 date: 2014-01-05T09:38:53Z
+about: |
+  I dunno what to put here honestly so what’s up? I see you like reading
+  sibedars eh? Anyways Thieves’ Guild blablabla I stole my friend’s wallet so I
+  thought of this, poor bastard. Cheers Mates!
 ---
 
-> *An account on the Thieves’ Guild of Skyrim and Cyrodiil, and their relations*
-> *with Nocturnal*
+> An account on the Thieves’ Guild of Skyrim and Cyrodiil, and their relations
+> with Nocturnal.
 >
-> *12th of Frostfall, 196th year of the 4th Era, Written by Anonymous*
+> 12th of Frostfall, 196^th^ year of the 4^th^ Era, Written by Anonymous
 {:tag="aside" .foreword}
 
 ## Author’s Note
@@ -95,7 +99,7 @@ I intend to write about the other chapters someday if I do get admitted into
 their ranks, but for now I’m only able to tell of the Cyrodiil and Skyrim
 Chapters of the Guild. The High Rock Chapter is a fairly simple syndicate, with
 Guild halls throughout the major kingdoms, as far as I’ve heard. The Morrowind
-Chapter, was destroyed by the Fighter’s Guild back in the 3rd Era, and the
+Chapter, was destroyed by the Fighter’s Guild back in the 3^rd^ Era, and the
 ruling syndicate there now is the Cammona Tong, I’m unsure if the Guild has
 returned to Morrowind in the past or if they’ve abandoned it completely, It’s
 unlikely that I can inflitrate the Cammona Tong, as they won’t accept anyone
@@ -111,20 +115,15 @@ maybe they’re just that good. I’m sure that all these Chapters have some
 relation to Nocturnal one way or the other, just not sure how exactly but I’ll
 find out.
 
-> *One of our Spymasters was sending these reports on the Guild’s activities in*
-> *both Skyrim and Cyrodiil. I want this man hunted down and ruined. For years*
-> *he has been sending reports to the City Guards causing most of our plans to*
-> *fail. This is one of the documents that he intended to send to the watch*
-> *captain in the Imperial City, luckily one of our members intercepted the*
-> *courier along the Gold Road. We believe this snitch is now residing in Anvil*
-> *as of the 5th of Evening Star 4E 197, he is scheduled to board passage on a*
-> *boat towards the Summerset Isles come 16th of Evening Star. Find him and*
-> *send him to me. Shadow hide you.*
+> One of our Spymasters was sending these reports on the Guild’s activities in
+> both Skyrim and Cyrodiil. I want this man hunted down and ruined. For years he
+> has been sending reports to the City Guards causing most of our plans to fail.
+> This is one of the documents that he intended to send to the watch captain in
+> the Imperial City, luckily one of our members intercepted the courier along
+> the Gold Road. We believe this snitch is now residing in Anvil as of the 5^th^
+> of Evening Star 4E 197, he is scheduled to board passage on a boat towards the
+> Summerset Isles come 16^th^ of Evening Star. Find him and send him to me.
+> Shadow hide you.
 >
-> —*The Grey Fox*{:tag="cite"}
-
-> > I dunno what to put here honestly so what’s up? I see you like reading small
-> > text eh? Anyways Thieves’ Guild blablabla I stole my friend’s wallet so I
-> > thought of this, poor bastard. Cheers Mates!
-> {:tag="small"}
-{:tag="aside" .afterword}
+> —The Grey Fox
+> {:tag="cite"}

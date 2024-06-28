@@ -36,7 +36,7 @@ Men and Mer specimen. The Hist spread the disease through infecting influenced
 wildlife and using it to attack and infect Men, Mer, and uninfluenced creatures.
 Infected fish biologically manufactured to survive in waters of any condition
 were used to infect beyond Black Marsh and remain in many parts of Tamriel after
-the 2nd Era despite not being able to infect anymore. The Hist’s goal ended up
+the 2^nd^ Era despite not being able to infect anymore. The Hist’s goal ended up
 failing as Altmer were able to research the disease by examining discarded
 infants.
 
@@ -166,7 +166,7 @@ previous symptoms and renders the disease useless. Outside of Black Marsh the
 plague comes to a halt and within it different strains with radically different
 symptoms can be found and the Hist loses control of the disease. The remaining
 strains of the disease make up many of the diseases that can be found in Black
-Marsh and are feared all the way up to the 4th era, and while the pandemic is
+Marsh and are feared all the way up to the 4^th^ era, and while the pandemic is
 stopped, the Knahaten Flu is remembered in history as the greatest plague and
 one of the most terrible catastrophes in Tamriel’s history.
 

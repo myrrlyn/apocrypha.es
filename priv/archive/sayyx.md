@@ -11,7 +11,7 @@ reading some books I realized there were many conflicting beliefs on the matter
 which obviously raised a few questions, whose answers brought up new question
 etc…
 
-**The first question is who is the head of the Nordic Pantheon?**
+## Who is the Head of the Nordic Pantheon?
 
 The first source is [Varieties of Faith in the Empire][0] which states that the
 head of the pantheon was Shor but when he was killed at convention the Pantheon
@@ -22,7 +22,7 @@ but also the chief of these Totems was the Dragon and therefore Alduin. This
 means that the head of the Nord pantheon is Shor but at the height of the Dragon
 Cult’s power, Alduin was. This then brings us to another question.
 
-**What are the totems seen in the many barrows of Skyrim?**
+## What are the totems seen in the many barrows of Skyrim?
 
 As many of you most likely know these totems represent the Nordic Pantheon but
 which is which you may ask? Since most of the totems are seen in the barrows
@@ -30,37 +30,37 @@ which include Dragon Claws (For a list see [here][2]) we can safely say that
 they were built during the time of the Dragon Cult (Late Merethic, very early
 first era). What this means is that at this time Dragons were still worshipped
 as Gods and Alduin would be at the head of the Pantheon and Shor not. So from
-this information here is my list of Totems - Gods.
+this information here is my list of Totems — Gods.
 
-Dragon - Alduin (Already explained)
+- Dragon — Alduin (Already explained)
 
-Snake - Shor (Shor being ignored as God of Men is now represented as the Snake,
-lowliest of  creatures)
+- Snake — Shor (Shor being ignored as God of Men is now represented as the
+  Snake, lowliest of creatures)
 
-Hawk - Kyne (Goddess of Air and Wind which can both be seen in a Hawk, maybe a
-link with the Skyforge)
+- Hawk — Kyne (Goddess of Air and Wind which can both be seen in a Hawk, maybe a
+  link with the Skyforge)
 
-Owl - Jhunal (God of knowledge)
+- Owl — Jhunal (God of knowledge)
 
-Whale - Tsun (Guards the Whale-Bone bridge)
+- Whale — Tsun (Guards the Whale-Bone bridge)
 
-Wolf - Mara (Much like a Wolf-Mother of a wolf pack)
+- Wolf — Mara (Much like a Wolf-Mother of a wolf pack)
 
-Moth - Dibella (Goddess of beauty, link to ancestor moths maybe? Elder Scrolls
-beautiful?)
+- Moth — Dibella (Goddess of beauty, link to ancestor moths maybe? Elder Scrolls
+  beautiful?)
 
-Bear - Stuhn (Stuhn = Strength like a bear)
+- Bear — Stuhn (Stuhn = Strength like a bear)
 
-Fox - Ysmir (In one of many of his reincarnations Ysmir has a link to the fox.
-Hans the Fox, ~~Pelinal has been linked to a fox ([Here’s][3] an image of
-Morihaus and a Fox, maybe Pelinal?)~~
+- Fox — Ysmir (In one of many of his reincarnations Ysmir has a link to the fox.
+  Hans the Fox, ~~Pelinal has been linked to a fox ([Here’s][3] an image of
+  Morihaus and a Fox, maybe Pelinal?)~~
 
 As you can see there the list isn’t properly fleshed out yet although from the
 murals in the barrows and tombs we can see that 3 of the deities are female with
 6 being male which shows a connection to the Nordic Pantheon. The next question
 that springs to mind is:
 
-**Why are the totems and sealing-doors in the tombs?**
+## Why Are the Totems and Sealing-Doors in the Tombs?
 
 The tombs which use the sealing-doors with animal murals are all from the Late
 Merethic Era/Early First Era meaning that they would exist at the time of the
@@ -78,10 +78,10 @@ and to quote [Death of a Wanderer][4]:
 
 The next question would then be
 
-**Why were the Draugr buried with their honored priests?**
+## Why Were the Draugr Buried with Their Honored Priests?
 
-To quote [Amongst the Draugr][5],
-the Draugr were needed to keep the Dragon Priests alive.
+To quote [Amongst the Draugr][5], the Draugr were needed to keep the Dragon
+Priests alive.
 
 > When the next group of draugr came to pay homage to the priest, I noted a sort
 > of transferral happening. A distinct flow of life force between the adherents
@@ -92,19 +92,19 @@ the Draugr were needed to keep the Dragon Priests alive.
 > to the priesthood, but the lesser functionaries contributed their life force
 > to sustaining them for eternity.
 
-**What about Olaf One-Eye?**
+## What about Olaf One-Eye?
 
 Next we come to the exception to this rule which would be the famed Olaf One-Eye
 who did not worship the dragons but rather he captured them (or not, if you
-believe Svaknir and the Bards of Solitude). Olaf reigned from 1e 420 - 1e 452
-and the last of the Dragon Cult had been [destroyed by 1e 140][6]. So why would
+believe Svaknir and the Bards of Solitude). Olaf reigned from 1E 420 – 1E 452
+and the last of the Dragon Cult had been [destroyed by 1E 140][6]. So why would
 Olaf bury himself with his slaves and servants like the Dragon Priests of olde?
 My belief is that after the Dragon Cults and the Dragons defeat the Jarls and
 Lords of Skyrim carried on the same practices of burying the dead since they
 knew no better way to do so and it only really stopped with the introduction of
 Ar’kay and the Halls of the dead.
 
-----
+---
 
 I hope you find these somehow helpful and if you do I might add some more on the
 Word Walls seen in the tombs. Please feel free to comment and correct me in the

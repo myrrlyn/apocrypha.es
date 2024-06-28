@@ -26,11 +26,11 @@ well to tasking. The author submitted this account on request from an Imperial
 field agent assigned to the area. Neither party is read into GLASS TAPROOT. The
 raw text of the report follows.
 
-----
+---
 
 26 Sun’s Height, 4E211
 
-Stendar’s mercy be upon you, \[REDACTED]. I continue to be astonished at the
+Stendar’s mercy be upon you, \[REDACTED\]. I continue to be astonished at the
 uproar among the Vigilants over the events of our last gathering. Our friend and
 brother, the Breton named Alfdyn Ashsmith, is an unusual man even by the
 standards of our Vigil which practices something as paradoxical as (forgive me)
@@ -152,7 +152,7 @@ Vigil.
 
 But I tell you the moment the sun slipped below the horizon that heart stopped.
 
-----
+---
 
 Here ends the report. It it still quite new and has not yet been analyzed within
 GLASS TAPROOT. However, I do have a few preliminary observations. First, Alfdyn

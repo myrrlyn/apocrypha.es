@@ -10,7 +10,7 @@ I decided I’d take a crack at submitting something useful, and answering some
 questions you guys may have about certain things in TES. Specifically culture,
 race, and history.
 
-So to begin this, I’ll start with a race that has become prominent in the 4th
+So to begin this, I’ll start with a race that has become prominent in the 4^th^
 Era, the Altmer of Summerset Isles.
 
 The Altmeri come from a group of Aldmer which stayed on the Summerset Isles
@@ -25,25 +25,26 @@ themselves the “Cultured people”. Culturally, they place heavy emphasis on t
 more artistic pursuits. Art, Writing, Law etc. The common tongue of Tamriel is
 actually based off of Altmeri language. In fact, many cultural advances in
 Tamriel have been a result of their ideas. To put it simply, what the Dwemer
-were to technology, they are to artistic culture. Because of this, the Altmer have
-developed a snobbish view towards other races of Tamriel. This doesn’t mean they
-don’t respect them, but they believe they’re not as cultured as they are. Which
-isn’t false in this case. So Art is pretty much their defining cultural aspect.
+were to technology, they are to artistic culture. Because of this, the Altmer
+have developed a snobbish view towards other races of Tamriel. This doesn’t mean
+they don’t respect them, but they believe they’re not as cultured as they are.
+Which isn’t false in this case. So Art is pretty much their defining cultural
+aspect.
 
 NOTE: I think it’s important to clarify that while the Altmer can be snobbish,
-this isn’t a huge part of what contributes to the Thalmor goals in the 4th Era.
-While the Altmer can be insufferable snobs, most of them aren’t flat out evil.
-But more on that later.
+this isn’t a huge part of what contributes to the Thalmor goals in the 4^th^
+Era. While the Altmer can be insufferable snobs, most of them aren’t flat out
+evil. But more on that later.
 
 The Altmer are naturally gifted at Magic, and are arguably the most innately
 talented at the art of all the races in Tamriel. All mer (save Orsimer) tend to
 have inclinations towards Magic, but it’s especially pronounced in the Altmer.
 
-During the 1st and 2nd Era the Altmer were absent from most events that occurred
-on the mainland. The sea that surrounds Summerset both saved the Altmer from and
-introduced them to problems. Like most other nations in the 1st and 2nd Era,
-Summerset suffered from internal conflict. The 3rd Edition Pocket Guide to The
-Empire states that
+During the 1^st^ and 2^nd^ Era the Altmer were absent from most events that
+occurred on the mainland. The sea that surrounds Summerset both saved the Altmer
+from and introduced them to problems. Like most other nations in the 1^st^ and
+2^nd^ Era, Summerset suffered from internal conflict. The 3^rd^ Edition Pocket
+Guide to The Empire states that
 
 > Internal conflicts between Skywatch and Firsthold, and between Alinor and
 > Lillandril, often sparked into full war…

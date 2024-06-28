@@ -100,7 +100,7 @@ another claims that nothing but silk, spirit, and song is needed. Regardless of
 its manufacture, the strands were then bent into rings, which were linked in an
 intricate five-part pattern. The suits excelled at stopping the short sword and
 spear favored by foot soldiers, as well as the spells of magi. The making of the
-suits stopped sometime in the mid 1st era, perhaps prompted by the advent of
+suits stopped sometime in the mid 1^st^ era, perhaps prompted by the advent of
 heavier swords or sturdier metals. No full suits survived to modernity, though
 individual links or chains are found in the possession of many wealthy citizens.
 Many claim that the metal speaks to its carrier, and ensures that they win in

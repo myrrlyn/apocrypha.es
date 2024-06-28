@@ -6,9 +6,8 @@ author: lebiro
 date: 2014-01-12T00:33:12Z
 ---
 
-*Collated by Over-Secretary Nicaeo Polus*
-
-----
+collated by Over-Secretary Nicaeo Polus
+{:.text-right}
 
 ## Preliminary Notes
 
@@ -34,7 +33,7 @@ Her Cyrodiilic Majesty and Imperial Splendour the Empress Morihatha II Mede,
 Blessed of Heaven, Empress, and Mother and Daughter of Emperors, Inspiration of
 Faith and Safeguard of Justice ^All the Gods be with Her^ intended initially to
 dispatch Her Cyrodiilic Majesty and Imperial Splendour’s Imperial Battlemage,
-\[REDACTED] as Imperial Nuncio to the Council, but in the unfortunate event of
+\[REDACTED\] as Imperial Nuncio to the Council, but in the unfortunate event of
 said Battlemage’s non-existence, the Nunciate was transferred to his Nibenean
 Lordship the Count of Nu-Corrup.
 
@@ -61,7 +60,8 @@ Fourth Seatman to the Council: First Attendant of the Synod, Lysanna Montrose
 
 Fifth Seatman to the Council: First Attendant of the Synod, Albero Sul
 
-Sixth Seatman to the Council: Little Moff of the College of Whispers, Agvo Jerich
+Sixth Seatman to the Council: Little Moff of the College of Whispers, Agvo
+Jerich
 
 Seventh Seatman to the Council: Keeper of the Vigil of Stendarr, Randull
 Red-Beard
@@ -96,32 +96,32 @@ Voting Representatives of Margo Ablutius: 1
 
 Witless Spectators: 36
 
-----
+---
 
 ## Minutes of the Council
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal*
-*^All the Gods be with Him (Tableman)^:* First Seatman, Second Seatman, Third
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ First Seatman, Second Seatman, Third
 Seatman, Fourth Seatman, Fifth Seatman, Sixth Seatman, Seventh Seatman, Eighth
 Seatman, tow-hundred-and-eight— ahem, two-hundred-and-nine Voting
 Representatives, thirty-six Witless Spectators, We welcome you to this First
 Ecumagickal Council of the Fourth Era, and to the Synod House of Nu Corrup.
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1^st^^:* Hear, hear!
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Hear, hear!
 
-*First Attendant of the Synod, Lysanna Montrose ^4^th^^:* Hear, hear!
+_First Attendant of the Synod, Lysanna Montrose ^4th^:_ Hear, hear!
 
-*First Attendant of the Synod, Albero Sul ^5^th^^:* Hear, hear… hear.
+_First Attendant of the Synod, Albero Sul ^5th^:_ Hear, hear… hear.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Thank you First Seatman, Fourth
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Thank you First Seatman, Fourth
 Seatman, and Fifth Seatman, now—
 
-*First Attendant of the Synod, Albero Sul ^5^th^^:* Hear, hear!
+_First Attendant of the Synod, Albero Sul ^5th^:_ Hear, hear!
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Ahem. Now on to – ah, thank you Fifth
-Seatman – on to business.
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Ahem. Now on to — ah, thank you Fifth
+Seatman — on to business.
 
 The primary order of, uh, of business, is to be the assessment, reassessment,
 and reallocation of those spell functions and Magnal principles not already
@@ -134,11 +134,11 @@ into one of the remaining five Schools of Magic, those Schools being as follows:
 The School of Alteration, the School of Conjuration, the School of Destruction,
 the School of Illusion and uh, the School of… the School of Restoration.
 
-*Little Moff of the College of Whispers, Agvo Jerich ^6^th^^:* A perfectly valid
+_Little Moff of the College of Whispers, Agvo Jerich ^6th^:_ A perfectly valid
 School!
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Indeed, thank you Sixth Seatman.
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Indeed, thank you Sixth Seatman.
 
 Now, before entering onto aforementioned first order of business, let us share
 in the Nine Invocations: Come to me, Akatosh, come to me, Talos, come to me
@@ -146,33 +146,33 @@ Julianos, come to me Kynareth, come to me, Zenithar, come to me, come to me,
 Stendarr, come to me, Mara, come to me, Dibella, come to me, Arkay. Et Ceterous
 exaltations and praises unto the gods.
 
-Now, to the first order of business – the assessment. We have here in our hand,
+Now, to the first order of business — the assessment. We have here in our hand,
 a list of those spell functions and Magnal principles pertinent to
-aforementioned assessment. Let us begin, with item the first, soul trapping,
-and extra-liminal exclusion. Who will speak first?
+aforementioned assessment. Let us begin, with item the first, soul trapping, and
+extra-liminal exclusion. Who will speak first?
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1^st^^:* I will speak first.
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ I will speak first.
 
-*Margo Ablutius ^8^th^^:* Surprise…
+_Margo Ablutius ^8th^:_ Surprise…
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1^st^^:* Soul trapping and
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Soul trapping and
 transliminal exclusion deal ultimately with the manipulation of the limen, and
 with the traffic of souls. As such—
 
-*Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin*
-*^2^nd^^:* Objection! Soul trapping by its very definition deals with the *lack*
+_Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin_
+_^2nd^:_ Objection! Soul trapping by its very definition deals with the _lack_
 of traffic of souls.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Thank you Second Seatman, please hold
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Thank you Second Seatman, please hold
 all objections until the end of the First Seatman’s given speaking time. Eighth
 Seatman, the same goes for sarcastic interjections.
 
-*Margo Ablutius ^8^th^^:* Objection, it isn’t an interjection if it only comes
+_Margo Ablutius ^8th^:_ Objection, it isn’t an interjection if it only comes
 after.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Indeed, in which case We move for a
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Indeed, in which case We move for a
 Table ban on sarcastic interjections. Vote.
 
 ## Aye
@@ -189,245 +189,246 @@ Table ban on sarcastic interjections. Vote.
 
 ## AYE
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* The motion carries, sarcastic
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ The motion carries, sarcastic
 interjections to be banned. Who was speaking?
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* I was speaking, Soul—
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ I was speaking, Soul—
 
-*Margo Ablutius ^8th^:* \[REDACTED]
+_Margo Ablutius ^8th^:_ \[REDACTED\]
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal*
-*^All the Gods be with Him (Tableman)^:* Eighth Seatman, sarcastic interjections
-have been banned by this Table… cover your ears for… a while. Secretary, redact
-Eighth Seatman’s comment. First Seatman?
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Eighth Seatman, sarcastic interjections
+have been banned by this Table… cover your ears for… a while. Secretary,
+redact Eighth Seatman’s comment. First Seatman?
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Ahem. Soul trapping and
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Ahem. Soul trapping and
 transliminal exclusion deal ultimately with the manipulation of the limen, and
 with the traffic of souls. As such, they fall within the purview of the School
 of Conjuration, alongside transliminal inclusions, penetrations, irrelevancies,
 and other such related interactions. Furthermore, summoning spells, the
 transliminal movement of souls, is classified uncontestedly under the School of
-Conjuration, ergo soul trapping, the *prevention* of the transliminal movement
+Conjuration, ergo soul trapping, the _prevention_ of the transliminal movement
 of souls, must likewise be classified under said school.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Objections?
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Objections?
 
-*Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin*
-*^2nd^:* I have. As I said, Soul trapping deals with the *lack* of traffic of
+_Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin_
+_^2nd^:_ I have. As I said, Soul trapping deals with the _lack_ of traffic of
 souls. Surely if it is, as the Synod posits, the opposite of summoning, it can
 by no means occupy the same school.
 
-*First Attendant of the Synod, Lysanna Montrose ^4th^:* If the School of
+_First Attendant of the Synod, Lysanna Montrose ^4th^:_ If the School of
 Restoration may hold spells both to rejuvenate and to tire, surely Conjuration
 may hold spells both to promote and to prevent the transliminal passage of
 souls.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Let’s keep this moving, we move for a
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Let’s keep this moving, we move for a
 House vote, proposition, “soul trapping and transliminal exclusion be moved to
 the School of Conjuration”.
 
 ## AYE
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Motion carries. Next, dispels and
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Motion carries. Next, dispels and
 wards. Who will speak first?
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* I—
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ I—
 
-*Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin*
-*^2nd^:* *I* will speak first. Dispels and wards deal with the effects of spells
-and of magicka in general upon the body. As such, I propose that it be moved to
-the School of Restoration.
+_Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin_
+_^2nd^:_ _I_ will speak first. Dispels and wards deal with the effects of
+spells and of magicka in general upon the body. As such, I propose that it be
+moved to the School of Restoration.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Any objections?
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Any objections?
 
-*Little Moff of the College of Whispers, Agvo Jerich ^6th^:* Objection! I… no,
+_Little Moff of the College of Whispers, Agvo Jerich ^6th^:_ Objection! I… no,
 no objection.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Hmm. A House vote then. The motion
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Hmm. A House vote then. The motion
 “Dispels and wards be moved to the School of Restoration”.
 
 ## AYE
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Next… magicka reflection and spell
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Next… magicka reflection and spell
 absorption. Who will speak?
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* I will speak first
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ I will speak first
 
-*Margo Ablutius ^8th^:* \[REDACTED]
+_Margo Ablutius ^8th^:_ \[REDACTED\]
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Secretary, redact. Continue, First
-Seatman
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Secretary, redact. Continue, First
+Seatman.
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Reflection and absorption
-can only be placed in my school of Alteration. Per the Farano Treatise,
-reflection and absorption spells find their foundation in manipulation of the
-skin’s physical properties. Indeed Farano’s test subjects exhibited reactions
-only when their skin or clothing was exposed to aetheric—
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Reflection and
+absorption can only be placed in my school of Alteration. Per the Farano
+Treatise, reflection and absorption spells find their foundation in manipulation
+of the skin’s physical properties. Indeed Farano’s test subjects exhibited
+reactions only when their skin or clothing was exposed to aetheric—
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* First Seatman, I am sure the esteemed
-Seatmen of this Council are familiar with the relevant texts, let us not get
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ First Seatman, I am sure the esteemed
+Seatmen of this Council are familiar with the relevant texts; let us not get
 bogged down in academic details. Please. Any objections?
 
-*Margo Ablutius ^8th^:* I have an objection, Attendant—
+_Margo Ablutius ^8th^:_ I have an objection, Attendant—
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Eighth Seatman, speaking in turn I see?
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Eighth Seatman, speaking in turn I see?
 
-*Margo Ablutius ^8th^:* Secretary, redact? No? Table vote? No? Fine. As I was
+_Margo Ablutius ^8th^:_ Secretary, redact? No? Table vote? No? Fine. As I was
 saying, Attendant Morroiel said what feels like mere lengthy, mind-numbing hours
 ago that dispels and wards, affecting, as they do, the effects of magicka on the
 body—
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Objection!
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Objection!
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Regretfully overruled
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Regretfully overruled
 
-*Margo Ablutius ^8th^:* —should be classified under the School of Restoration.
+_Margo Ablutius ^8th^:_ —should be classified under the School of Restoration.
 Surely, then, the same must hold true for reflection and absorption? Affecting,
 as it does, the effect of magicka on the body.
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Objection, Magister
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Objection, Magister
 Ablutius’ quote is from the mouth of Moff Losmin, not of my own. It is therefore
 entirely irrelevant.
 
-*Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin*
-*^2nd^:* Objection! The reasoning stands. Reflection and absorption belong under
-Restoration.
+_Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin_
+_^2nd^:_ Objection! The reasoning stands. Reflection and absorption belong
+under Restoration.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Ugh, House vote. Proposition, “magicka
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Ugh, House vote. Proposition, “magicka
 reflection and spell absorption be moved to the School of Restoration”.
 
 ## NAY
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Very well… Proposition, “magicka
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Very well… Proposition, “magicka
 reflection and spell absorption be moved to the School of Alteration”.
 
 ## AYE
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Motion carries. Next… telekinesis,
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Motion carries. Next… telekinesis,
 magickinesis, aetheric fulcrums et cetera. Who will speak first?
 
-*First Attendant of the Synod, Albero Sul ^5th^:* I will. Table vote that this
+_First Attendant of the Synod, Albero Sul ^5th^:_ I will. Table vote that this
 council recess for victuals.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Fifth Seatman, the hour is barely past
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Fifth Seatman, the hour is barely past
 two, and this council was preceded by a banquet… Very well…
 
 ## Aye
 
-4th, 5th, 7th, 8th
+4^th^, 5^th^, 7^th^, 8^th^
+
 ## Nay
 
-1st, 2nd, 4th, 6th, Table,
+1^st^, 2^nd^, 4^th^, 6^th^, Table,
 
 ## Abstain
 
-3rd
+3^rd^
 
 ## NAY
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Motion fails, mercifully. Telekinesis,
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Motion fails, mercifully. Telekinesis,
 et cetera?
 
-*Little Moff of the College of Whispers, Agvo Jerich ^6th^:* Telekinesis et
+_Little Moff of the College of Whispers, Agvo Jerich ^6th^:_ Telekinesis et
 cetera belong in the School of Illusion. Per Athi’s Law of Magickal Fulcra, the
 essential is to trick one’s own mind into assuming new properties. It is absurd
 to suggest that in actual fact the mortal mind can naturally exert force upon
-outside physical objects is preposterous, as the mind, per *Carstein’s* Law can
+outside physical objects is preposterous, as the mind, per _Carstein’s_ Law can
 exert no pressure beyond itself except through via tones and wave
 magnifications. Telekinesis consists primarily of an illusion persuading one’s
 own mind that this is not the case.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Object—
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Object—
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Moff Jerich you forget
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Moff Jerich you forget
 yourself, Athi’s Law was discredited unanimously by Synod earlier this year in
 the Montrose Papers—
 
-*First Attendant of the Synod, Lysanna Montrose ^4th^:* Hmm?
+_First Attendant of the Synod, Lysanna Montrose ^4th^:_ Hmm?
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Moff Jerich you forget
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Moff Jerich you forget
 yourself, Athi’s Law was discredited unanimously by Synod earlier this year in
-the Montrose Papers, stamped by \[REDACTED] himself. Once again the College of
+the Montrose Papers, stamped by \[REDACTED\] himself. Once again the College of
 Whispers reveals its fixation with archaic principles.
 
-*First Attendant of the Synod, Lysanna Montrose ^4th^:* Hear, hear.
+_First Attendant of the Synod, Lysanna Montrose ^4th^:_ Hear, hear.
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Rather, telekinesis and
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Rather, telekinesis and
 magickal fulcra, manipulations of the Mundrial by the magickal, belong in the
 School of Alteration. After all—
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* House vote. To Alteration with it?
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ House vote. To Alteration with it?
 
 ## AYE
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Carries. Sensory magnifications, wave
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Carries. Sensory magnifications, wave
 reception and drum-dowsing. Who will speak?
 
-*His Eminence the Primate of Julianos, Kantus Astav ^3rd^:* I will speak first.
+_His Eminence the Primate of Julianos, Kantus Astav ^3rd^:_ I will speak first.
 The School of Julianos prefers that all such “life detection” and wave-function
 magicks be placed under the School of Alteration for the time being, pursuant to
 a proper review and assessment by the School’s own analysts. It is our feeling
 that so called “drum-dowsing” as a practise is in need of review.
 
-*Margo Ablutius ^8th^:* Objection, I doubt his Eminence will be paid in full if
+_Margo Ablutius ^8th^:_ Objection, I doubt his Eminence will be paid in full if
 he insists on deviating from Synod agendas.
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Objection! This
-organisation would never stoop so low as to – what of the Whisperers? Did they
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Objection! This
+organisation would never stoop so low as to — what of the Whisperers? Did they
 not—
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Thank you Third Seatman. Eighth
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Thank you Third Seatman. Eighth
 Seatman, We will thank you to refrain from libellous remarks for the duration of
 this Council.
 
-*Margo Ablutius ^8th^:* Table vote?
+_Margo Ablutius ^8th^:_ Table vote?
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Veto. Third Seatman, anything beyond
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Veto. Third Seatman, anything beyond
 the immediate reclassification of the relevant spells falls beyond the purview
 of this council. We recommend that the School submit in timely fashion a
 petition for Her Cyrodiilic Majesty and Imperial Splendour’s authority to the
 Elder Council by memospore for a more appropriate forum. Aside from that,
 objections to the Alteration School?
 
-*Little Moff of the College of Whispers, Agvo Jerich ^6th^:* How in \[REDACTED]
-can any of the aforementioned be called alterations of the Mundrial by means
-magickal? Life detection alters nothing in the Mundrial beyond the caster’s own
-body. Per the Caranya Paper of -
+_Little Moff of the College of Whispers, Agvo Jerich ^6th^:_ How in
+\[REDACTED\] can any of the aforementioned be called alterations of the Mundrial
+by means magickal? Life detection alters nothing in the Mundrial beyond the
+caster’s own body. Per the Caranya Paper of—
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Objection! Master Wizard
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Objection! Master Wizard
 Caranya was disgraced and posthumously excommunicated from the Mages’ Guild in—
 
-*Little Moff of the College of Whispers, Agvo Jerich ^6th^:* You’re talking out
-of your \[REDACTED] you puffed up, stuff-robed charlatan, you wouldn’t know a
-\[REDACTED] you can’t \[REDACTED] and even then, it was only thanks to
-\[REDACTED] right up your \[REDACTED]. The academic principle remains, and all
+_Little Moff of the College of Whispers, Agvo Jerich ^6th^:_ You’re talking out
+of your \[REDACTED\] you puffed up, stuff-robed charlatan, you wouldn’t know a
+\[REDACTED\] you can’t \[REDACTED\] and even then, it was only thanks to
+\[REDACTED\] right up your \[REDACTED\]. The academic principle remains, and all
 the spell functions in this grouping belong to Restoration, they are
 modifications of the body’s natural senses, and as such, you can take your
-Alteration and \[REDACTED].
+Alteration and \[REDACTED\].
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Ahem… thank you… Sixth Seatman… We
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Ahem… thank you… Sixth Seatman… We
 would thank you to refrain from awakening repressed memories through obscenity
 for the duration… Shall we put it to a House vote? Proposition, “sensory
 magnifications, wave reception and drum-dowsing be moved to the School of
@@ -435,40 +436,42 @@ Alteration”.
 
 ## AYE
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Passes.
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Passes.
 
-*Little Moff of the College of Whispers, Agvo Jerich ^6th^:* Objection!
+_Little Moff of the College of Whispers, Agvo Jerich ^6th^:_ Objection!
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Overruled.
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Overruled.
 
-*Keeper of the Vigil of Stendarr, Randull Red-Beard (7th^:* Recommend that this
+_Keeper of the Vigil of Stendarr, Randull Red-Beard (7th^:_ Recommend that this
 Council be recessed, and that First and Sixth take their disagreements to the
 courtyard.
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Objection!
+_Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:_ Objection!
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Overruled. Table vote.
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Overruled. Table vote.
 
 ## Aye
-2nd, 6th, 7th, 8th
+
+2^nd^, 6^th^, 7^th^, 8^th^
 
 ## Nay
-1st, 4th, 5th
+
+1^st^, 4^th^, 5^th^
 
 ## Abstain
 
-3rd, Table
+3^rd^, Table
 
 ## AYE
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Vote carries. Reconvene in…
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Vote carries. Reconvene in…
 
-*Little Moff of the College of Whispers, Agvo Jerich ^6th^:* An hour.
+_Little Moff of the College of Whispers, Agvo Jerich ^6th^:_ An hour.
 
-*His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
-*^All the Gods be with Him (Tableman)^:* Reconvene in an hour. We are required
+_His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal_
+_^All the Gods be with Him (Tableman)^:_ Reconvene in an hour. We are required
 to thank all attendees at the Table.

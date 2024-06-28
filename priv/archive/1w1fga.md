@@ -7,13 +7,13 @@ author: kamikazekopec
 date: 2014-01-24T16:01:21Z
 ---
 
-28th of Sun’s Height, 57th Year of the Third Era
+28^th^ of Sun’s Height, 57^th^ Year of the Third Era
 
 For four days and nights a storm with the will of The HoonDing assaulted my
 fleet, by the sweet songs of Tava we survived the maelstrom, though not
 unharmed. The fleet lost the Alik’r Mistress and we believe we have been pushed
-a hundred Numidials[^1] off course. The sun sets on the far shores and I begin to
-drift off to sleep for the first time in days.
+a hundred Numidials[^1] off course. The sun sets on the far shores and I begin
+to drift off to sleep for the first time in days.
 
 I begin to dream and the twinkle in the eye of my trespasser grows into a bright
 light, there I stand before the mer, the dream so real I can smell the red dirt

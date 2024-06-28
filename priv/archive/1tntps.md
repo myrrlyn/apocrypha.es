@@ -6,10 +6,23 @@ reddit: 1tntps
 author: Avian81
 date: 2013-12-25T07:19:27Z
 hide_series: true
+about: |
+  Well this post is done. 5 artifacts per post just like the last. Though I’m
+  running out of interesting artifacts to write about the next post will
+  probably be the last :O
+
+  Well it’s official, I made 6 posts within 3 days, and I have ran out of good
+  ideas. These are my lesser ideas: I can do something Akavir related, like
+  the Kamal Invasions of Tang Mo, maybe different povs of victims of the Great
+  War (if that was done before I wouldn’t do it), or a journal describing the
+  search for Goldbrand. I originally wanted to do something about the
+  Shivering Isles but it’s really hard to do, so I cancelled that (Thanks
+  Obama!) seriously perspective writing is hard you should try it sometime.
+  (Idk why I wrote all this)
 ---
 
-**Synod Archives on Daedric Artifacts (Part 2)** *153rd Year of the 4th Era,*
-*Marcus Averius, Synod Historian, Synod Artifact Recovery Division*
+_153^rd^ Year of the 4^th^ Era, Marcus Averius, Synod Historian, Synod Artifact_
+_Recovery Division_
 
 ## Foreword
 
@@ -49,11 +62,11 @@ Molag Bal’s followers. Exactly where in Skyrim, is unknown. The recommend we s
 the priority on the Mace’s retrieval at High, the Mace is a symbol of Molag
 Bal’s power and is revered in many Ancient Vampire Clans throughout Tamriel. If
 these Vampire Clans believe we work for Molag Bal, we may be able to gain
-influence among these groups, and possibly *retrieve* any artifacts they have.
+influence among these groups, and possibly _retrieve_ any artifacts they have.
 The risk in obtaining this artifact is also set at high, since the guardians of
 this mace would likely guard the Mace till death.
 
-## Skull of Corruption**
+## Skull of Corruption
 
 ### Properties
 
@@ -121,7 +134,7 @@ a report the risk in retrieving this will be high, and only agents with a strong
 will be sent to do this task, since the Mad God is known for driving people
 insane.
 
-## Daedric Crescent Blade**
+## Daedric Crescent Blade
 
 ### Properties
 
@@ -134,8 +147,8 @@ to the enemy’s armor.
 ### Sightings
 
 The last remaining crescent blade was owned by a Dremora Lord who resided in
-Vvardenfell. At one point during the 3rd Era, an unnamed traveller defeated this
-Dremora Lord and claimed the Crescent Blade, who this traveller was is not
+Vvardenfell. At one point during the 3^rd^ Era, an unnamed traveller defeated
+this Dremora Lord and claimed the Crescent Blade, who this traveller was is not
 recorded. There have been rumours that the Blade was seen in the floating City
 of Umbriel yet these claims have no proof. Another claim stated that the Blade
 was seen being used by a Bosmer Noble residing in Elden Root. Another claim
@@ -181,19 +194,3 @@ this Artifact is set to normal, as our recovery teams are currently pursuing
 artifacts of greater value. And the risk factor for this Artifact is set to
 high, the elf that possesses this Artifact is known to be a skilled fighter and
 has evaded the Vigil, and local Guards many times.
-
-> > Don’t read this part NSFW
-> > Well this post is done. 5 artifacts per post just like the last. Though I’m
-> > running out of interesting artifacts to write about the next post will
-> > probably be the last :O
-> >
-> > Well it’s official, I made 6 posts within 3 days, and I have ran out of good
-> > ideas. These are my lesser ideas: I can do something Akavir related, like
-> > the Kamal Invasions of Tang Mo, maybe different povs of victims of the Great
-> > War (if that was done before I wouldn’t do it), or a journal describing the
-> > search for Goldbrand. I originally wanted to do something about the
-> > Shivering Isles but it’s really hard to do, so I cancelled that (Thanks
-> > Obama!) seriously perspective writing is hard you should try it sometime.
-> > (Idk why I wrote all this)
-> {:tag="small"}
-{:tag="aside" .afterword}

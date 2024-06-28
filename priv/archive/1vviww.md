@@ -7,12 +7,12 @@ author: kamikazekopec
 date: 2014-01-22T19:41:53Z
 ---
 
-24th of Suns Height, 57th Year of the Third.
+24^th^ of Suns Height, 57^th^ Year of the Third.
 
 This morning I awoke in a deep sweat with unknown pasts coursing through my
 mind, what kind of demon Mer magic this is I do not know, but I must outline all
 discoveries I come acrossed as a stipulation of my Imperial Charter. As of the
-22nd of Suns Height my crew and I set sail from the shores of a Yokudan island
+22^nd^ of Suns Height my crew and I set sail from the shores of a Yokudan island
 of which we had been excavating some ancient Yokudan ruins.
 
 The ruin itself is a vast warehouse seemingly constructed of a single piece of
