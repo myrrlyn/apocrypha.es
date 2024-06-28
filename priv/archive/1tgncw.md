@@ -6,8 +6,8 @@ date: 2013-12-22T15:06:13Z
 ---
 
 In the Old Life Festival, we reflect on the year we have just lived in, and we
-try to think about the future year. It’s held on the last day of the year: 30th
-of Evening Star.
+try to think about the future year. It’s held on the last day of the year:
+30^th^ of Evening Star.
 
 We go to the temples of the eight,nine,sheogorath and whatever god(s) you
 worship. There we reflect on our past,asking for forgiveness for our sins and

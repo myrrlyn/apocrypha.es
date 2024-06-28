@@ -107,17 +107,17 @@ Seatman, tow-hundred-and-eight— ahem, two-hundred-and-nine Voting
 Representatives, thirty-six Witless Spectators, We welcome you to this First
 Ecumagickal Council of the Fourth Era, and to the Synod House of Nu Corrup.
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Hear, hear!
+*Zeroth Attendant of the Synod, Jurus Morroiel ^1^st^^:* Hear, hear!
 
-*First Attendant of the Synod, Lysanna Montrose ^4th^:* Hear, hear!
+*First Attendant of the Synod, Lysanna Montrose ^4^th^^:* Hear, hear!
 
-*First Attendant of the Synod, Albero Sul ^5th^:* Hear, hear… hear.
+*First Attendant of the Synod, Albero Sul ^5^th^^:* Hear, hear… hear.
 
 *His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
 *^All the Gods be with Him (Tableman)^:* Thank you First Seatman, Fourth
 Seatman, and Fifth Seatman, now—
 
-*First Attendant of the Synod, Albero Sul ^5th^:* Hear, hear!
+*First Attendant of the Synod, Albero Sul ^5^th^^:* Hear, hear!
 
 *His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
 *^All the Gods be with Him (Tableman)^:* Ahem. Now on to – ah, thank you Fifth
@@ -134,7 +134,7 @@ into one of the remaining five Schools of Magic, those Schools being as follows:
 The School of Alteration, the School of Conjuration, the School of Destruction,
 the School of Illusion and uh, the School of… the School of Restoration.
 
-*Little Moff of the College of Whispers, Agvo Jerich ^6th^:* A perfectly valid
+*Little Moff of the College of Whispers, Agvo Jerich ^6^th^^:* A perfectly valid
 School!
 
 *His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
@@ -151,16 +151,16 @@ a list of those spell functions and Magnal principles pertinent to
 aforementioned assessment. Let us begin, with item the first, soul trapping,
 and extra-liminal exclusion. Who will speak first?
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* I will speak first.
+*Zeroth Attendant of the Synod, Jurus Morroiel ^1^st^^:* I will speak first.
 
-*Margo Ablutius ^8th^:* Surprise…
+*Margo Ablutius ^8^th^^:* Surprise…
 
-*Zeroth Attendant of the Synod, Jurus Morroiel ^1st^:* Soul trapping and
+*Zeroth Attendant of the Synod, Jurus Morroiel ^1^st^^:* Soul trapping and
 transliminal exclusion deal ultimately with the manipulation of the limen, and
 with the traffic of souls. As such—
 
 *Moderate-and-acting-Grand Arch-Moff of the College of Whispers, Sussuro Losmin*
-*^2nd^:* Objection! Soul trapping by its very definition deals with the *lack*
+*^2^nd^^:* Objection! Soul trapping by its very definition deals with the *lack*
 of traffic of souls.
 
 *His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
@@ -168,7 +168,7 @@ of traffic of souls.
 all objections until the end of the First Seatman’s given speaking time. Eighth
 Seatman, the same goes for sarcastic interjections.
 
-*Margo Ablutius ^8th^:* Objection, it isn’t an interjection if it only comes
+*Margo Ablutius ^8^th^^:* Objection, it isn’t an interjection if it only comes
 after.
 
 *His Nibean Lordship the Count of Nu-Corrup, Elder Councillor Pavo Bincal.*
@@ -177,15 +177,15 @@ Table ban on sarcastic interjections. Vote.
 
 ## Aye
 
-1st, 2nd, 4th, 5th, 6th, 7th, Table
+1^st^, 2^nd^, 4^th^, 5^th^, 6^th^, 7^th^, Table
 
 ## Nay
 
-8th
+8^th^
 
 ## Abstain
 
-3rd
+3^rd^
 
 ## AYE
 

@@ -101,7 +101,7 @@ Sancre Tor. In an effort to destroy the alliance with Belharza, his army (said
 to numbered in the thousands) sacked the city and executed the ruling council
 before declaring it would be the staging ground for his invasion into Valenwood.
 
-Word of the massacre reached both Emperor Belharza and Queen Yrsa - and while
+Word of the massacre reached both Emperor Belharza and Queen Yrsa — and while
 many in Skyrim expected the south to retaliate, the war Thane Stenvar hoped for
 didn’t come. Belharza wisely saw through Stenvar’s scheme and instead sent his
 legions to retake Sancre Tor. A joint Alessian and Nordic army laid siege to the

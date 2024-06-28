@@ -55,7 +55,7 @@ The Dominion’s approach is more of a “We ate them so they could become us an
 there are no more variations” approach, as opposed to the Tsaesci.
 
 In a scrap of comic that was released last month (text no art), a Thalmor agent
-in the 9th or 10th era refers to a Khajiit as a “kinsmer”.
+in the 9^th^ or 10^th^ era refers to a Khajiit as a “kinsmer”.
 
 The appelation of kin between non-relatives hearkens to a plethora of religious
 orders, as well as communist-style dictatorships. It breaks down individual
@@ -64,7 +64,7 @@ being friendly and compassionate, he was denying the individual identity, and
 the Khajiit-ness of the Khajiit in question.
 
 Rather than each individual achieving CHIM through trial and enlightenment; they
-are trying to teach it through propaganda and thought control. In the 4th era,
+are trying to teach it through propaganda and thought control. In the 4^th^ era,
 they need to use brute force to begin the paring down of variation on Tamriel,
 but after Landfall, it is possible that violence is no longer required to
 convince the people to follow. People may be more willing to renounce their

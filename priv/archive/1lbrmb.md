@@ -176,5 +176,5 @@ influence of magic on the law.
 [3]: https://www.imperial-library.info/content/rising-threat-vol-iii
 [4]: https://www.uesp.net/wiki/Oblivion:Levitation_Act
 [5]: https://www.imperial-library.info/content/oblivion-crisis
-[6]: https://www.reddit.com/r/teslore/comments/1lbrmb/the_lore_of_law_part_ii_jurisdiction_and/cbxmv74
+[6]: https://old.reddit.com/r/teslore/comments/1lbrmb/the_lore_of_law_part_ii_jurisdiction_and/cbxmv74
 [7]: https://www.imperial-library.info/content/short-history-morrowind

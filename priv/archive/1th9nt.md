@@ -6,8 +6,8 @@ date: 2013-12-22T20:30:12Z
 ---
 
 A “holiday” often overlooked, is the Hamerfellian “Day of Shame”. This
-tradition, remembered on the 20th of Rain’s Hand, strongest on the coastal
-cities of the Redguard province, finds its origin in the 564th year of the
+tradition, remembered on the 20^th^ of Rain’s Hand, strongest on the coastal
+cities of the Redguard province, finds its origin in the 564^th^ year of the
 Second Era, during the days of the Knahaten Flu.
 
 ## History

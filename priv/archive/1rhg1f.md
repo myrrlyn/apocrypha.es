@@ -17,7 +17,7 @@ about: |
   It’s also my fault that the next *several* pages in the collection are what
   they are. I’d apologize if I were at all sorry.
 
-  [0]: https://www.reddit.com/r/teslore/comments/1n322k/discussion_for_the_community_leaving_the/
+  [0]: https://old.reddit.com/r/teslore/comments/1n322k/discussion_for_the_community_leaving_the/
 ---
 
 “So, you want a story, eh? Hahah… Let’s see. Ah, you’ve heard enough of

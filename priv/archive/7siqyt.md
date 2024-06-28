@@ -55,7 +55,7 @@ Skjoralmor of Falkreath arranged for his own elite horsemen to shepherd numerous
 carriages and wagons, and bring the dead back to his town’s cemetery. This
 marked the first of many mass burials that Falkreath would host over the
 following eras. The Jarl’s horsemen went on to form the distinguished Ilinalta
-Outriders - an elite branch of cavalry who swore an oath to guard the mountain
+Outriders — an elite branch of cavalry who swore an oath to guard the mountain
 passes of the Jeralls.
 
 King Bjarfrud himself, who always considered Falkreath his home, was interred in

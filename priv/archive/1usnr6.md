@@ -10,7 +10,7 @@ date: 2014-01-09T14:00:57Z
 ----
 
 After hearing of the events that transpired in the Mad God’s Realm around the
-end of the 3rd era, I decided that we could learn more from this event by
+end of the 3^rd^ era, I decided that we could learn more from this event by
 interviewing one of the key players, Jyggalag himself. It was difficult to track
 Jyggalag, as we barely know anything about him. But when I finally found him in
 one of the Realms of Oblivion, I was given the rare opportunity to have an

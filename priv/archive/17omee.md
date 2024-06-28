@@ -112,4 +112,4 @@ Flavius Lupus, Synod Researcher
 
 > *“May your blades be sharp, and your minds sharper.”*
 
-[0]: https://www.reddit.com/r/teslore/comments/106hb1/imperial_report_on_the_origin_of_the_sload/
+[0]: https://old.reddit.com/r/teslore/comments/106hb1/imperial_report_on_the_origin_of_the_sload/

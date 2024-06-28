@@ -257,7 +257,7 @@ Dunmer away from the south simply referred to as “the Troubles”, Morrowind w
 not by any means considered to be formally in a state of civil war.
 
 However, this quiet, but steadily escalating conflict was given a new and
-terrible dimension, when, on 20th Sun’s Dusk 4E 36, Lady Drela Sadras, the wife
+terrible dimension, when, on 20^th^ Sun’s Dusk 4E 36, Lady Drela Sadras, the wife
 of High Warden Voryn Sadras, Lord Commander of House Sadras, was attending
 Vespers in the Chapel in Blacklight. As the service reached its conclusion, nine
 cloaked and hooded figures burst into the Chapel hall. In a methodical and

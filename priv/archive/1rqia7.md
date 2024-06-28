@@ -6,7 +6,7 @@ date: 2013-11-29T22:17:38Z
 ---
 
 {MEMOSPORE CORRUPT} [](){:tag="br"}
-29th of Sun’s Dusk [](){:tag="br"}
+29^th^ of Sun’s Dusk [](){:tag="br"}
 3E "/= [](){:tag="br"}
 &260t36z6943w4ß032ß67u05tz [](){:tag="br"}
 {location data corrupt}

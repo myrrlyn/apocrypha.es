@@ -89,40 +89,40 @@ use them here, which may differ from how others use them and how I use them
 elsewhere (note that this text is rather old at this point, and some terms may
 be outdated compared to the rest of the [Model][0]):
 
-AE - Identity, self, selfhood, consciousness, ghost (when disembodied),
+AE — Identity, self, selfhood, consciousness, ghost (when disembodied),
 story-shape, narrative-and-plot-and-narrator in one
 
-Arena - Division of AE through self-struggle, self-rejection, self-violence;
+Arena — Division of AE through self-struggle, self-rejection, self-violence;
 another name for Nirn, its Heart, and Mundus; the House of We
 
-Aurbis - Totality, the Dream and its Dreamer, the state of Amaranth, the story
+Aurbis — Totality, the Dream and its Dreamer, the state of Amaranth, the story
 that tells itself to itself, the sum of all AE and all Heart
 
-CHIM - [Pairing of Love and Will][1], allowing persistence of AE even in unity
+CHIM — [Pairing of Love and Will][1], allowing persistence of AE even in unity
 with the rest of existence; I AM AND I ARE ALL WE, a Walking Way
 
-Convention - A particular instance of the Enantiomorph, the creation of Mundus
+Convention — A particular instance of the Enantiomorph, the creation of Mundus
 
-Enantiomorph - A particular story-shape, a tripartite AE, echoed through the
+Enantiomorph — A particular story-shape, a tripartite AE, echoed through the
 gradients, granting relevance (new Hearts) to itself by repetition; a motif, the
 King, Rebel, and Observer; a kind of soul fusion; a Walking Way
 
-Heart - Divinity, the ability of an AE (or collective of AE) to stake out a
+Heart — Divinity, the ability of an AE (or collective of AE) to stake out a
 claim to importance and mythic relevance, conceptual meaning, sphere
 
-Mantling - [Taking a role and nature in the story of the Aurbis. Wearing a
+Mantling — [Taking a role and nature in the story of the Aurbis. Wearing a
 concept as a skin.][2]
 
-Mortal - Embodied AE without a Heart to call its own
+Mortal — Embodied AE without a Heart to call its own
 
-Mythic - The quality of being part of the story of the dream, and thus not
+Mythic — The quality of being part of the story of the dream, and thus not
 forgotten or left out by the Godhead; the bits left after proofreading
 
-The Steps of the Dead - Acting out a story-shape, an AE, in such a way as to
+The Steps of the Dead — Acting out a story-shape, an AE, in such a way as to
 become indistinguishable from it in the mythic; when the AE has a Heart (or
 would be granted one in the process), a Walking Way
 
-Walking Way - A path which, when taken, leads to possessing a Heart, to the
+Walking Way — A path which, when taken, leads to possessing a Heart, to the
 transcendence of mortal form
 
 ---

@@ -14,7 +14,7 @@ cohort, information that has surfaced during the recent Vampire Crisis, The
 Aetherium Wars by Taron Dreth and the always invaluable The Falmer: A study by
 Ursa Uthrax.
 
-Complied by scholars of the Imperial University, led by Vaelkyr Vicir - 4E 201.
+Complied by scholars of the Imperial University, led by Vaelkyr Vicir — 4E 201.
 
 Long have the enigmatic races of Dwemer and Falmer both fascinated and confused
 Imperial Historians. The total and sudden disappearance of the Dwemer, leaving
@@ -24,7 +24,7 @@ and those that have are an extensive challenge to decipher and translate has
 left us very much in the dark about these strange “deep elves”.
 
 Ironically, it has been revelations about an even less understood race, thought
-pure fantasy until recent times, - the Falmer or “snow elves” that has shone a
+pure fantasy until recent times, — the Falmer or “snow elves” that has shone a
 light on the Dwemer and exposed some very dark and very ugly truths about this
 advanced and powerful race.
 

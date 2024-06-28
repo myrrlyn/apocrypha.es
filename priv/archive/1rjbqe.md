@@ -25,7 +25,7 @@ The Beasthold; Xeideres Camoran, anon Camoran Cyrodiil, with the aid of The
 Alinor and his lessers, The Ape-Lord Bug, and Hermaeus sought to subdue Dawn’s
 Beauty in their Mora Camoris; the Yokeda Wolombu (high king) Jaan, anon Sejanus
 Cyrodiil, with the aid of House Hlaalu, the Direnni, and Vile ran mad and
-breathless as The [1st] Restless League; King Rohlstain of Kreath, anon Amalur
+breathless as The [1^st^] Restless League; King Rohlstain of Kreath, anon Amalur
 Cyrodiil, with the aid of all Colovia, Versius Arrenaldus and his Dragonguard,
 Chieftain Wogturuk Gro-Smuthk, and Dagon tried for the throne as The Free
 Estates.

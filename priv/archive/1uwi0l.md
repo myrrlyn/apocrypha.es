@@ -5,7 +5,7 @@ author: Avian81
 date: 2014-01-10T19:22:57Z
 ---
 
-*17th of Hearthfire, 200th year of the 4th era, Ramoné Aviénne*
+*17^th^ of Hearthfire, 200^th^ year of the 4^th^ era, Ramoné Aviénne*
 
 The following is a short summary of the five major kingdoms of High Rock, or
 what is left of them.
@@ -57,7 +57,7 @@ weaker neighbours.
 
 ## Kingdom of Daggerfall
 
-The Ancient Kingdom of Daggerfall, founded in the 1st Era, has been an important
+The Ancient Kingdom of Daggerfall, founded in the 1^st^ Era, has been an important
 city to all who have possessed it. The City Lies on the shores of the Illiac
 Bay, and it is the largest city in High Rock, the one with the closest ties to
 the Empire. Today The Kingdom of Daggerfall possesses High Rock’s strongest and
@@ -134,7 +134,7 @@ what is rightfully theirs but until that time comes, they will continue to make
 war with the Corsair Republic.
 
 > > Nothing like staying up at 3am to finish writing some apocrypha eh? Well
-> > this is what I think High Rock is currently like circa 4E200 17th of
+> > this is what I think High Rock is currently like circa 4E200 17^th^ of
 > > Hearthfire to be exact, which is basically September 17 which is a date I
 > > shouldn’t forget. Also ever notice the Author’s name Aviénne=Avian get it?
 > > no? meh who cares Any way oh right… This is my head canon hurray to me for

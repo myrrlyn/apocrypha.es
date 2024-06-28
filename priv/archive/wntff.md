@@ -21,7 +21,7 @@ domestication and riding of horses) is an almost exclusively human tradition:
   the jungle. So Khajiit don’t ride horses either.
 - Much like Black Marsh, Valenwood is a province where horses would be of no
   use. The Bosmer do not build roads (see [Provinces of Tamriel][0], and [The
-  P.G.E. 1st Ed.][1]), and, much like the Argonians, can move through their
+  P.G.E. 1^st^ Ed.][1]), and, much like the Argonians, can move through their
   environment far more easily than any steed. So Bosmer probably don’t ride.
 - Dunmer and Orsimer have no real environmental reason to shun horsemanship
   (though Morrowind seems to be a poor environment for animal husbandry), but
@@ -58,7 +58,7 @@ transport.
 Okay, so that’s why no one else rides. Now, on to why it is humans who do so.
 The second conclusion I have come to is that horses and horsemanship originate
 in High Rock, specifically the lands around the Bjoulsae river (perfect horse
-country- plains and a river). The [1st Edition P.G.E.][2] (my favourite lore
+country- plains and a river). The [1^st^ Edition P.G.E.][2] (my favourite lore
 source, you may notice) refers to “The Horse-People of the Bjoulsae River”
 (which, interestingly, “YR” complains are “scarcely mentioned in text”). This is
 the only suggestion I could find of a strong horse culture; the fact they can be

@@ -1,5 +1,5 @@
 ---
-title: The Dragon War (ME 10 - 1E 3)
+title: The Dragon War (ME 10 — 1E 3)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 6
 pseudonym: High Chronicler Valerius of Winterhold
@@ -28,7 +28,7 @@ life in Riften as a simple farmer, oblivious to the fact he was of royal blood.
 On her deathbed in ME 31, Svari revealed Iglund’s ancestry to him, but urged him
 remain in hiding given that the priesthood was still very much in power and
 actively seeking out the last remnants of the Skerd. And so for many years
-Iglund lived in obscurity with his wife, raising a daughter and three sons - the
+Iglund lived in obscurity with his wife, raising a daughter and three sons — the
 oldest of which was Valdimar.
 
 ## Birth of the Rebellion
@@ -107,7 +107,7 @@ betrayed by his own followers. Hans the Fox personally killed two dragons in
 Skuldafn before putting down high priest Nahkriin.
 
 It was the closing days of the Merethic Era when Valdimar set his sights on
-Bromjunaar - one of the last strongholds of the priesthood famous for its
+Bromjunaar — one of the last strongholds of the priesthood famous for its
 impenetrable walls. After a long and costly siege, numerous Voice masters
 gathered and together burst through the magical barricades. Valdimar himself
 supposedly led the charge directly into the council chambers and slayed high

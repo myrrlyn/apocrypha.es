@@ -8,7 +8,7 @@ date: 2014-01-09T02:29:38Z
 hide_series: true
 ---
 
-> *26th of First Seed 3E277*
+> *26^th^ of First Seed 3E277*
 >
 > *Something bizarre occured today. As per usual on Morndas, Angeir brought in*
 > *the evening’s selection. Today he had bagged a nice, big Orsimer, a rare*

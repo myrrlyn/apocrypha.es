@@ -8,7 +8,7 @@ date: 2014-01-10T03:05:42Z
 hide_series: true
 ---
 
-> *27th of Rain’s Hand, 3E279*
+> *27^th^ of Rain’s Hand, 3E279*
 >
 > *I did it. By Shor, I found him. Had that damned cult not been offering such*
 > *a hefty sum for this man’s head, I would not have spent these past two*

@@ -459,4 +459,4 @@ butchered those Archcanons who refused to recant the old ways.
 By the end of the first month of 4E 25, the old leadership of the Temple had all
 converted, fled or had been killed. The Reclamation had finally arrived.
 
-[0]: https://www.reddit.com/r/teslore/comments/1wvufy/through_eastern_eyes_thanks_resources_timeline/
+[0]: https://old.reddit.com/r/teslore/comments/1wvufy/through_eastern_eyes_thanks_resources_timeline/

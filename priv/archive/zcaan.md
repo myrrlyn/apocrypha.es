@@ -19,9 +19,9 @@ as “ye” (and), “buro(i)” (slaves), “gandra” (gifts) and many more sh
 meaning in both Falmeris and Ayleidoon. This can also be seen in the names of
 Falmer and Ayleids:
 
-Ayleid - Umaril, Celethelel, Tjurhane
+Ayleid — Umaril, Celethelel, Tjurhane
 
-Falmer - Gelebor, Celegriath, Vyrthur
+Falmer — Gelebor, Celegriath, Vyrthur
 
 Therefore if the language is similar we can go further and attest that their
 culture and origins are similar. If so then I’d go and say that the Falmer are

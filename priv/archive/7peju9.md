@@ -1,5 +1,5 @@
 ---
-title: Totem-King Heimverlund (ME 81 - ME 62)
+title: Totem-King Heimverlund (ME 81 — ME 62)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 3
 pseudonym: High Chronicler Valerius of Winterhold
@@ -18,7 +18,7 @@ on the mainland.
 
 Arriving in the new world at the age of eight, Heimverlund was taken under
 Ysgramor’s wing. Against generations of clan tradition, Ysgramor decreed that
-young prince Heimverlund be schooled not on the field of battle - but in the
+young prince Heimverlund be schooled not on the field of battle — but in the
 fanes of the priesthood. Such a path was unprecedented among Ysgramor’s clan,
 who were resolutely warriors. The ruling caused strife among the royal court,
 but Ysgramor was steadfast. Addressing the court, he revealed his deep

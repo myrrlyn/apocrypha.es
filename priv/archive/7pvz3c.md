@@ -1,5 +1,5 @@
 ---
-title: Tyranny of the Dragon Cult (ME 61 - ME 10)
+title: Tyranny of the Dragon Cult (ME 61 — ME 10)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 5
 pseudonym: High Chronicler Valerius of Winterhold

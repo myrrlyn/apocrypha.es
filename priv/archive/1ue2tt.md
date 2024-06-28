@@ -8,7 +8,7 @@ date: 2014-01-04T14:17:45Z
 > *A detailed account on the Rise and Fall of the Forsworn Kingdom, by Ramoné*
 > *Aviénne*
 >
-> *Published on the 27th of Hearthfire, 200th year of the 4th Era*
+> *Published on the 27^th^ of Hearthfire, 200^th^ year of the 4^th^ Era*
 {:tag="aside" .foreword}
 
 ## Culture of the Reachmen

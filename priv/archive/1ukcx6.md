@@ -163,7 +163,7 @@ With these words, Aechneil found solemn comfort. *“They’ve come to rectify*
 > ![Readiness][9-img]
 {:tag="figure"}
 
-[0]: https://www.reddit.com/r/teslore/comments/1wasi1/djaf_arena_of_lyg_illustrated/
+[0]: https://old.reddit.com/r/teslore/comments/1wasi1/djaf_arena_of_lyg_illustrated/
 [1]: https://kp108.deviantart.com/art/Ramel-s-Eye-176558132
 [2]: https://gregmks.deviantart.com/art/The-arena-156320618
 [2-img]: ./1ukcx6/arena.jpg

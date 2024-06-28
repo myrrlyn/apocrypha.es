@@ -21,6 +21,8 @@ Tamriel, with the express purpose of forcing the realm to experience linear
 time, so that actions can have consequences and therefore Lorkhan’s Trial will
 have meaning.
 
+![A panel from _Watchmen_][0]{:.float-right}
+
 This implies that anything outside the sphere of Mundus is not always subject to
 the Laws of Time, the Daedra are effectively [Doctor Manhattan][0], they
 experience the past, present, and future simultaneously, so long as they remain
@@ -61,21 +63,23 @@ a "new timeline" like in Back to the Future 2, but instead we get the same
 timeline, just it’s been rewound, and it’s recording over a new show. We don’t
 necessarily know what will happen (or has happened, depending one where you are
 in the tape). The Elder Scrolls seem to have an idea, but they only become fixed
-*after* the event has occurred.
+_after_ the event has occurred.
 
-If an elder scroll was used in an attempt to see what happened on, say, the 29th
-of Last Seed, 3E 433, before that bit of the tape has been watched, it would
-tell you what could happen, but several different versions, because there have
-been *several* 29th of Last Seed, 3E 433’s. It looks forwards, and sideways, and
-up ways and downways. And all ways are correct.
+If an elder scroll was used in an attempt to see what happened on, say, the
+29^th^ of Last Seed, 3E 433, before that bit of the tape has been watched, it
+would tell you what could happen, but several different versions, because there
+have been _several_ 29^th^ of Last Seed, 3E 433’s. It looks forwards, and
+sideways, and up ways and downways. And all ways are correct.
 
 What’s also interesting is what this means for those who manage to leave Mundus,
 either permanently, or temporarily.
 
 Vehk is now in Aetherius, which means he has always been there, even before he
-arrived, and after he left. So should this Kalpa end, *this Kalpa’s edition of*
-*Vehk/Vivec*  will have survived no matter what. He could easily meddle in
-future Kalpas, or past ones. He is outside Akatosh’s influence of Linear Time.
+arrived, and after he left. So should this Kalpa end, _this Kalpa’s edition of_
+_Vehk/Vivec_ will have survived no matter what. He could easily meddle in future
+Kalpas, or past ones. He is outside Akatosh’s influence of Linear Time.
+
+![Aurbis][2]{:.float-right}
 
 The same could be said of the Mantella, or at least the area holding the
 Mantella (I’ve occasionally thought of it as existing within a pocket of Mundus,
@@ -83,10 +87,10 @@ thus allowing Time to move linearly for the Agent sent to retrieve it). This
 might be why the Numidium seems to act like a walking Dragon Break, its original
 Heart was Lorkhan’s, the anti-Akatosh, as illustrated wonderfully [here][2] in
 this [post][3], and its replacement heart was both a soul gem containing the
-souls of two or three Shezzarrines, *and* it existed outside of space and linear
+souls of two or three Shezzarrines, _and_ it existed outside of space and linear
 time.
 
-[0]: https://farm4.staticflickr.com/3610/3393491131_435b2d9bf5_o.jpg
-[1]: https://www.reddit.com/r/teslore/comments/1s9f5w/boethiah_and_molag_bal/cdvbvjo
-[2]: https://i.imgur.com/K88W1u6.png
-[3]: https://www.reddit.com/r/teslore/comments/1s49wr/an_simple_illustration_on_vehks_teaching_of_the/
+[0]: ./1sapb9/watchmen.jpg
+[1]: https://old.reddit.com/r/teslore/comments/1s9f5w/boethiah_and_molag_bal/cdvbvjo
+[2]: ./1sapb9/aurbis.png
+[3]: https://old.reddit.com/r/teslore/comments/1s49wr/an_simple_illustration_on_vehks_teaching_of_the/

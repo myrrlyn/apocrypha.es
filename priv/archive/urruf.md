@@ -27,19 +27,19 @@ Time-God and true father of the Dovah.
 > “Happy? No, I am not happy. Zeymahi lost ont du’ul Bormahu. Alduin was once
 > the crown of our father Akatosh’s creation.”
 >
-> - Paarthurnax
+> — Paarthurnax
 > {:tag="cite"}
 
 > “His doom was written when he claimed for himself the lordship that properly
-> belongs to Bormahu - our father Akatosh.”
+> belongs to Bormahu — our father Akatosh.”
 >
-> - Paarthurnax
+> — Paarthurnax
 > {:tag="cite"}
 
 > “You will eat nothing here, aspect Ald,” said the Aka-Tusk, sensing trouble.
 > “Do not forget that it was Heaven itself that shed you from me.”
 >
-> - Aldudagga
+> — Aldudagga
 > {:tag="cite"}
 
 These are the best quotes out there in regards to the true nature of the

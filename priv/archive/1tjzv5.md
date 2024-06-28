@@ -6,7 +6,7 @@ date: 2013-12-23T20:51:50Z
 ---
 
 Kynstears – Kyne’s Tears – is a traditional Nord holiday that was still
-celebrated even in the early 4th era but has lost prominence since. It
+celebrated even in the early 4^th^ era but has lost prominence since. It
 commemorates the sundering of Shor, or more specifically, the first rain that
 Kyne made after her husband’s death. It is a day of gravity and remembrance,
 used to honor not only the Father of Men, but also all other dead Chieftains and

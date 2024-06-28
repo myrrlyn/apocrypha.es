@@ -216,7 +216,7 @@ The defence was taken up by those who had fled into the city as refugees, the
 Fighters Guild, those who refused to leave, by the members of the Imperial Cult
 faction in Mournhold and finally those fanatical devotees of the Temple- which
 was based out of the capital- and who had journeyed to Morrowind’s very heart,
-to defend the once sacred city of Almalexia. But inevitably, on the 27th of
+to defend the once sacred city of Almalexia. But inevitably, on the 27^th^ of
 Hearthfire, in a torrential rainstorm, the merciless and determined Saxhleel
 brought down the walls of Mournhold, mining beneath the walls in multiple
 places. And rapidly, the sack of Mournhold commenced, with the ancient capital
@@ -384,7 +384,7 @@ Sadras, under Knight (now Councillor) Voryn Sadras, began withdrawing southward,
 steadily and inexorably slowing the An-Xileel army’s pace, allowing the Redoran
 Guard to catch up.
 
-And, on the 26th of Mid Year 4E 8, the Redoran Guard **did** catch up. In a
+And, on the 26^th^ of Mid Year 4E 8, the Redoran Guard **did** catch up. In a
 snowy field east of Kragenmoor, within sight of the fortifications Vedam Dren
 had ordered built, the An-Xileel "Army of Justice" were crushed at the Battle of
 Bloodmoor, which is also called the Battle of the Scarlet Snow. As a violent
@@ -436,7 +436,7 @@ reconquer the southern districts. Meanwhile, House Sadras was adamantly against
 being put in any position where they would be subservient to Hlaalu; they were
 of the opinion that they had proven themselves defenders of Morrowind, worthy to
 sit upon the Grand Council as a Great House. Surprisingly, Redoran agreed with
-them, having come to admire their fierce martial spirit. Thus, on the 1st
+them, having come to admire their fierce martial spirit. Thus, on the 1^st^
 Morning Star, 4 E 9, the Grand Council decided to send their peace terms to the
 An-Xileel leaders in Tear and return all their Argonian prisoners without
 ransom. The An-Xileel for their part, opted to accept that conquering Morrowind

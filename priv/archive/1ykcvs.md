@@ -6,7 +6,7 @@ date: 2014-02-21T20:33:37Z
 ---
 
 > *The following transcription was recovered from a strongbox found after a*
-> *fire consumed a house in Solitude in the early part of the 3rd Era. The*
+> *fire consumed a house in Solitude in the early part of the 3^rd^ Era. The*
 > *Imperial Library has rejected its legitimacy, calling it “heresy written by*
 > *a mad Nord”.*
 {:tag="aside" .foreword}

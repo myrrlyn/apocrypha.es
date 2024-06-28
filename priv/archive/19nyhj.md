@@ -16,7 +16,7 @@ half will deal with the Altmer, Argonians, Bosmer, Bretons and finally Dunmer.
 The Altmer have a great deal of respect for their ancestors, and treat their
 remains with great care. Altmer are traditionally interred at the top of the
 towers that dot the land of Alinor, with the taller towers being reserved for
-more important people[^1] According to The Pocket Guide, 3rd Edition,
+more important people[^1] According to The Pocket Guide, 3^rd^ Edition,
 Crystal-Like-Law was a resting place for many:
 
 > When the Aldmer came together as a people to create the Crystal Tower, it was
@@ -114,7 +114,7 @@ begin to return.
 [1]: https://www.imperial-library.info/content/pocket-guide-empire-third-edition-aldmeris
 [2]: https://www.imperial-library.info/content/pocket-guide-empire-third-edition-blessed-isle-alinor-and-summersets
 [3]: https://www.imperial-library.info/content/pocket-guide-empire-first-edition-aldmeri-dominion
-[4]: https://www.reddit.com/r/teslore/comments/19emwn/did_the_altmer_really_kill_nine_out_of_ten_babies/
+[4]: https://old.reddit.com/r/teslore/comments/19emwn/did_the_altmer_really_kill_nine_out_of_ten_babies/
 [5]: https://www.imperial-library.info/content/preparation-corpse
 [6]: https://imperial-library.info/content/airship-captains-journal
 [7]: https://www.imperial-library.info/content/ancient-tales-dwemer-part-ii-seed

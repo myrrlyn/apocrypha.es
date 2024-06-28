@@ -5,9 +5,9 @@ author: Al-Hatoor
 date: 2013-12-10T14:24:20Z
 ---
 
-> *\[Written and compiled by Justiciar Jairen with the help of his Argonian*
-> *companion Runs-Like-Water on the 3rd of Last Seed. Filed and sealed in the*
-> *name of the glorious Aldmeri Dominion.]*
+> Written and compiled by Justiciar Jairen with the help of his Argonian
+> companion Runs-Like-Water on the 3^rd^ of Last Seed. Filed and sealed in the
+> name of the glorious Aldmeri Dominion.
 {:tag="aside" .foreword}
 
 Hail to the Dominion, may our union last onwards and forever. I, Jairen, ever
@@ -125,13 +125,14 @@ Marsh does indeed have large canals built for directing the flow of water
 towards crops. They even have a unique form of sewage treatment, which
 Runs-Like-Water describes as this:
 
-> *Things break down, so we build over and around it. The underground of the*
-> *marsh is as much as a land as the world where fleshflies attack starving*
-> *rats and strip them down to the bone. While many dry-backs view my home as*
-> *“dirty” or “unclean”, it is actually not the case. My people prefer are*
-> *water pure, and so we build many underground caverns beneath the muddy soil.*
-> *Many of those caverns crisscross ancient, forgotten ruins that are best left*
-> *forgotten…”*
+> Things break down, so we build over and around it. The underground of the
+> marsh is as much as a land as the world where fleshflies attack starving
+> rats and strip them down to the bone. While many dry-backs view my home as
+> “dirty” or “unclean”, it is actually not the case. My people prefer are
+> water pure, and so we build many underground caverns beneath the muddy soil.
+> Many of those caverns crisscross ancient, forgotten ruins that are best left
+> forgotten…
+{:.text-italic}
 
 ## Religion
 
@@ -233,13 +234,14 @@ many days, until they believe they can make up for the horrible excuse of
 behavior. It is quite fascinating to watch, but not funny at all.
 Runs-Like-Water states:
 
-> *For my people, your word is everything. If you give it, you WILL follow*
-> *through on it. Breaking this promise is a great undoing, and you will be*
-> *adequately punished. If it small, than you will exile yourself until you are*
-> *no longer shamed. But if you commit a breaking that is too much to bear,*
-> *then you will be banished permanently from the marsh and never allowed to*
-> *return. You will be forever marked, and all of our kind will know that you*
-> *are not to be trusted.”*
+> For my people, your word is everything. If you give it, you WILL follow
+> through on it. Breaking this promise is a great undoing, and you will be
+> adequately punished. If it small, than you will exile yourself until you are
+> no longer shamed. But if you commit a breaking that is too much to bear,
+> then you will be banished permanently from the marsh and never allowed to
+> return. You will be forever marked, and all of our kind will know that you
+> are not to be trusted.
+{:.text-italic}
 
 **Jewelry**: The Argonians are quite beautiful makers of jewelry, which I guess
 goes hand-in-hand with their amazing stoneworking abilities. I have seen many

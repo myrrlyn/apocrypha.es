@@ -91,8 +91,8 @@ are through Love:
 Talos loved his warriors and used CHIM to change the landscape of Cyrodiil from
 jungle to the grasslands we see in Oblivion.
 
-[0]: https://www.reddit.com/r/teslore/comments/np26d/merry_chimmas_rteslore/
+[0]: https://old.reddit.com/r/teslore/comments/np26d/merry_chimmas_rteslore/
 [1]: https://www.imperial-library.info/content/tower
 [2]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dharma_Wheel.svg/220px-Dharma_Wheel.svg.png
-[3]: https://www.reddit.com/r/teslore/comments/pojhf/know_love/
+[3]: https://old.reddit.com/r/teslore/comments/pojhf/know_love/
 [4]: https://www.imperial-library.info/content/many-headed-talos
