@@ -1,24 +1,23 @@
 ---
-title: Vundheim Silver-Hand
+title: Vundheim Silver-Hand (1E 99 — 1E 110)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 12
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 7ttg7c
 author: Jimeee
 date: 2018-01-29T16:28:06Z
 ---
 
-> Vundheim Silver-Hand (1E 99 — 1E 110)
->
-> _by High Chronicler Valerius of Winterhold_
+![Vundheim Silver-Hand][banner]
 
 Before becoming High King, Vundheim Silver-Hand of House Asbjorn served as
 Harbinger of the Companions in Whiterun. He earned his position at a relatively
 young age when he single-handedly hunted down and killed an entire pack of
 werewolves who had been terrorizing the farmsteads of Whiterun Hold for years.
-His deeds made him famed across the land and [Jarl Gjalund] of Whiterun bestowed
-unto him the title of Harbinger shortly after. This ancient and well respected
-position dated back to the founding of Whiterun and original Five Hundred
-Companions.
+His deeds made him famed across the land and [Jarl Gjalund][0] of Whiterun
+bestowed unto him the title of Harbinger shortly after. This ancient and well
+respected position dated back to the founding of Whiterun and original Five
+Hundred Companions.
 
 Although the original Five Hundred had dispersed throughout the land seeking
 glory in conquest, the crew of the Jorrvaskr remained as a distinct group. Many
@@ -50,10 +49,10 @@ clan.
 
 Under his rule he established the towns of H’roldan and Granite Hill, both of
 which prospered and earned him great acclaim. He also created the famed
-[Winterblade Arena in Windhelm][Winterblade Arena]. The arena was a huge success
-and it would regularly attract thousands of visitors to watch the various duels,
-contests and displays of might. On occasion, the king himself would partake in
-the revelry, much to the crowd’s delight.
+[Winterblade Arena in Windhelm][1]. The arena was a huge success and it would
+regularly attract thousands of visitors to watch the various duels, contests and
+displays of might. On occasion, the king himself would partake in the revelry,
+much to the crowd’s delight.
 
 He also formed the First Council of the Hawk in 1E 108 to oversee numerous
 religion reforms. Most notable was the codification of the kingdom’s official
@@ -87,5 +86,6 @@ Valdar the Far-Sighted to become the next High King.
 Valdar, a wise but reclusive scholar and the younger brother of King Vundheim,
 ascended to the throne in 1E 110.
 
-[Jarl Gjalund]: https://en.uesp.net/wiki/Lore:Holdings_of_Jarl_Gjalund
-[Winterblade Arena]: https://elderscrolls.wikia.com/wiki/Windhelm_Pit
+[0]: https://en.uesp.net/wiki/Lore:Holdings_of_Jarl_Gjalund
+[1]: https://elderscrolls.wikia.com/wiki/Windhelm_Pit
+[banner]: ./7ttg7c/banner-vundheim.png

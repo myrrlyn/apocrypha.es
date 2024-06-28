@@ -1,27 +1,22 @@
 ---
-title: Tyranny of the Dragon Cult
+title: Tyranny of the Dragon Cult (ME 61 - ME 10)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 5
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 7pvz3c
 author: Jimeee
 date: 2018-01-12T11:22:36Z
 ---
 
-> Tyranny of the Dragon Cult (ME 61 - ME 10)
->
-> _by High Chronicler Valerius of Winterhold_
-
----
-
 The death of the child-king Jafnhar was a turning point in the history of Skyrim
-(or "Keizaal" as it was known as under dragon rule). It marked the point when
+(or _Keizaal_ as it was known as under dragon rule). It marked the point when
 the will of the Atmorans was broken and priesthood assumed full control of
 Ysgramor’s kingdom. The mastermind behind the coup was a newly appointed high
 priest named Miraak. Miraak was born in Skyrim shortly after first wave of
 priests arrived in ME 95. His parentage remains unknown, but they were no doubt
 part of the priesthood. Much of his early life remains a complete mystery, other
 than he too joined the priesthood as a novitiate and studied at the remote
-[Valthume Chantry][Valthume] under high priest Hevnoraak.
+[Valthume Chantry][0] under high priest Hevnoraak.
 
 Mikaak, unlike any other before him, was gifted in an extraordinary manner. He
 was a Dragonborn. The first of many throughout history. According to the _Tract
@@ -29,25 +24,25 @@ of the Allegiance Guide_ written by Miraak himself, he came to know of this
 power when he witnessed a sky-battle between two dragons vying for territory in
 at the summit of the Throat of the World. One of the dragons, mortally wounded,
 fell from the sky and perished. Miraak approached the corpse and without warning
-began to absorb its very soul. The victor of the battle, [Sahrotaar], witnessed
-this astonishing feat and made Miraak as his student. The tract reads:
+began to absorb its very soul. The victor of the battle, [Sahrotaar][1],
+witnessed this astonishing feat and made Miraak as his student. The tract reads:
 
-> _…and as I beheld the clash of the blessed Dovah in the skies above, I wept
-> tears of sorrow. Noble [Kahvozein] slain at the Monahven. Brit grah. To
+> …and as I beheld the clash of the blessed Dovah in the skies above, I wept
+> tears of sorrow. Noble [Kahvozein][2] slain at the Monahven. Brit grah. To
 > prepare the burial mound I neared the \[untranslatable\] uttering the Chant of
 > Consecration and Apology. My \[heart?\] began to burn in a fire of holy
 > incandescent light as Kahvozein’s \[essence?\] filled my \[soul?\].
-> Vonmindoraan! Sahrotaar then spake and said unto me: "Sossedov joor!? By long
+> Vonmindoraan! Sahrotaar then spake and said unto me: “_Sossedov joor‽_ By long
 > tradition, the elder speaks first. Hear my Thu’um! Feel it in your bones.
-> Match it, if you are Dovahkiin!" His Thu’um washed over…_
+> Match it, if you are Dovahkiin!” His Thu’um washed over…
 >
-> _\[the remainder of the tract is missing\]_
+> \[the remainder of the tract is missing\]
 
 Being Dragonborn afforded Miraak enormous influence within the priesthood. He
 quickly rose through the ranks and held influence with several high priests.
 When Miraak became aware of the priesthood’s distaste of [Totem-King
-Heimverlund], he orchestrated a plot to assassinate him and his entire clan and
-take power. The high priests were in agreement, and although Heimverlund
+Heimverlund][3], he orchestrated a plot to assassinate him and his entire clan
+and take power. The high priests were in agreement, and although Heimverlund
 survived his clan’s massacre in Windhelm, he was in no position to rule and was
 ousted from the ruling council. Miraak took his place, cementing the
 priesthood’s total control over Skyrim in ME 62.
@@ -60,8 +55,8 @@ populace to immense cruelty. Dragons terrorized the countryside, entire towns
 were made into slaves and forced build grand temples, tombs and and shrines. One
 of the more notable tragedies was the rebellious village of Vundeheim, which was
 completely reduced to ash after a high priest conjured an [unending lightning
-storm][Storm Call] upon it as punishment. With the people cowed into submission,
-the priesthood continued its subjugation for many years. The borders of Skyrim
+storm][4] upon it as punishment. With the people cowed into submission, the
+priesthood continued its subjugation for many years. The borders of Skyrim
 expanded rapidly to the south and west, into present day Falkreath hold and the
 Reach respectively. Historians speculate that with dragonkind protecting them,
 the priesthood could have expanded further were in not for the mighty Jerall and
@@ -117,10 +112,10 @@ Although Miraak’s rule was largely forgotten about in later eras after his nam
 was purged from the Annals, his rebellion was of monumental importance.
 Historians attribute Miraak’s defiance as the inspirational spark which ignited
 a full scale war against the Dragons and the priesthood. Leading this rebellion
-was hero named Valdimar Fireforge.
+was a hero named Valdimar Fireforge.
 
-[Kahvozein]: https://elderscrolls.wikia.com/wiki/Kahvozein%27s_Fang
-[Sahrotaar]: https://en.uesp.net/wiki/Dragonborn:Sahrotaar
-[Storm Call]: https://en.uesp.net/wiki/Skyrim:Storm_Call#Word_Wall_Translations
-[Totem-King Heimverlund]: ./7peju9
-[Valthume]: https://en.uesp.net/wiki/Skyrim:Valthume
+[0]: https://en.uesp.net/wiki/Skyrim:Valthume
+[1]: https://en.uesp.net/wiki/Dragonborn:Sahrotaar
+[2]: https://en.uesp.net/wiki/Lore:Kahvozein%27s_Fang
+[3]: ./7peju9
+[4]: https://en.uesp.net/wiki/Skyrim:Storm_Call#Word_Wall_Translations

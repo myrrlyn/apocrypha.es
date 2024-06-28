@@ -1,15 +1,14 @@
 ---
-title: Valdimar the Vanquisher
+title: Valdimar the Vanquisher (1E 03 — 1E 75)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 7
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 7qs6vm
 author: Jimeee
 date: 2018-01-16T13:08:50Z
 ---
 
-> Valdimar the Vanquisher (1E 03 — 1E 75)
->
-> _by High Chronicler Valerius of Winterhold_
+![Valdimar the Vanquisher][banner]
 
 High King Valdimar, also known as the Vanquisher, the Deliverer and the Savior
 of Skyrim, ushered the Atmoran people into the First Era after his triumph over
@@ -80,6 +79,8 @@ Ancestors in the Jerall Mountains to study the mysteries behind his Elder Scroll
 in complete seclusion, and was later credited with the founding of the Cult of
 the Ancestor Moth.
 
-Valdimar ruled as High King for forty seven prosperous years before abdicating
+Valdimar ruled as High King for forty-seven prosperous years before abdicating
 the throne to his son Hjornskar in 1E 50. He spent the rest of his days at his
 family’s old farmstead near Riften and died many years later at the age of 105.
+
+[banner]: ./7qs6vm/banner-valdimar.png

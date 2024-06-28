@@ -1,23 +1,20 @@
 ---
-title: Ysgramor the Returned
+title: Ysgramor the Returned (ME 119 — ME 99)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 1
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 7oy7ew
 author: Jimeee
 date: 2018-01-08T12:29:08Z
 ---
 
-> Ysgramor the Returned (ME 119 — ME 99)
->
-> _by High Chronicler Valerius of Winterhold_
-{:tag="aside" .foreword}
+![Ysgramor][banner]
 
----
-
-The oldest accounts of Ysgramor’s life appear in the Fragmentae Annals of Mora,
-believed to date around the rule of High Priestess Kulaasdaanikgolt of Atmora in
-the year 130 of the Merethic Era (ME 130), although they survive only as
-incomplete copies made by the royal archivists of Winterhold in the 1st Era.
+The oldest accounts of Ysgramor’s life appear in the _Fragmentae Annals of_
+_Mora_, believed to date around the rule of High Priestess Kulaasdaanikgolt of
+Atmora in the year 130 of the Merethic Era (ME 130), although they survive only
+as incomplete copies made by the royal archivists of Winterhold in the 1^st^
+Era.
 
 Some fifteen years prior to the Return, Ysgramor served the High Priestess as
 the general of her armies. During her rule, her augers uncovered an ancient
@@ -77,24 +74,24 @@ speaks of Ysgramor’s attack on the great city. After marching his army south
 across the hot springs of modern-day Eastmarch, he arrived at the city gates and
 bellowed a speech at Arthalaan itself:
 
-> _By the grace of the Shor, witness the all-embracing Harbinger of the Northern
-> Horde. Hearken my words!_
+> By the grace of the Shor, witness the all-embracing Harbinger of the Northern
+> Horde. Hearken my words!
 >
-> _Know thou that on this day thy wicked transgressions against Sarthaal must be
+> Know thou that on this day thy wicked transgressions against Sarthaal must be
 > answered for. Kyne herself bade me to claim this land of ice and snow. For it
 > was on this soil that her exalted breath gave birth to my kin, and it is to
 > this soil we Return to claim what is ours. Through her blessing, all empires
 > from the rising of the sun to its setting will be given to us and we will own
-> them._
+> them.
 >
-> _Blessed Wuuthrad drove our ships to this new land and its edge begged to meet
+> Blessed Wuuthrad drove our ships to this new land and its edge begged to meet
 > thine all-too-many necks. As thy soft green fields whisper tales of gore I ask
 > thee: beg not for mercy, or lay down thy swords, or rebuild thy ruins. We hath
-> no longer use for thy peace or trust, and it shan’t win the day for thy ilk._
+> no longer use for thy peace or trust, and it shan’t win the day for thy ilk.
 >
-> _We are thine overlords and ne’er shall we return to the land of the midnight
+> We are thine overlords and ne’er shall we return to the land of the midnight
 > sun from whence we came. We will fight, singing and crying, until Sovngarde
-> calls._
+> calls.
 
 The destruction of Arthalaan and her citizens was total. A city numbering in the
 thousands was exterminated over the course of a few days. While countless sagas
@@ -117,10 +114,10 @@ Jeek of the River, Ingjaldr White-Eye, Rhorlak the Unflinching, Gurilda
 Sharktooth, Freida Oaken-Wand and many others, and sent them to the four corners
 of Mereth, declaring:
 
-> _“Go forth into the belly of this new land. Drive the wretched from their
+> Go forth into the belly of this new land. Drive the wretched from their
 > palaces of idleness. Oblige them to squalor and toil, that they would see
 > their betrayals as the all-sin against our kind. Give no quarter. Show no
-> kindness. For they would not give nor show you the same.”_
+> kindness. For they would not give nor show you the same.
 
 With much of their leadership dead, the remaining elves that weren’t killed were
 said to be driven into the bowels of the land itself. As more and more warriors
@@ -148,12 +145,12 @@ Nordic speech (or Old Nord) at the time was completely separate to the language
 of dragons, which itself was strictly reserved for those in the priesthood. The
 Songs of the Return speaks of his inspiration:
 
-> _“…yet I had beheld during my captivity that the wily Elves possessed much
+> …yet I had beheld during my captivity that the wily Elves possessed much
 > learning and knowledge, though they put it to ends both vile and dishonorable.
 > And I bethought me that to defeat the Elves and scour them from the land, it
 > would be well if Men also did wield such wisdoms… And I vowed that henceforth
 > all Men would record their ideas and thoughts, just as Shor carved a record of
-> his victory over Sneggh into the side of Shivering Glacier.”_
+> his victory over Sneggh into the side of Shivering Glacier.
 
 Ysgramor was fascinated by the almost magical nature of the written word and
 knew that if his descendants were to not only dominate, but build
@@ -170,6 +167,7 @@ Although a grand tomb was prepared from him below Windhelm, the Harbinger chose
 to be buried in a traditional Atmoran barrow facing Atmora. He was succeeded by
 his son and right-hand, Ylgar, the Bear of Forelgrin.
 
----
+[Appendix: Family Tree Chart and Timeline][appendix]
 
-[Appendix: Family Tree Chart and Timeline](https://en.uesp.net/wiki/User:Jimeee/Fiction/YsgramorDynasty)
+[appendix]: https://en.uesp.net/wiki/User:Jimeee/Fiction/YsgramorDynasty
+[banner]: ./7oy7ew/banner-ysgramor.png

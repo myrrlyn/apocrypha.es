@@ -1,17 +1,14 @@
 ---
-title: Totem-King Heimverlund
+title: Totem-King Heimverlund (ME 81 - ME 62)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 3
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 7peju9
 author: Jimeee
 date: 2018-01-10T09:38:36Z
 ---
 
-> Totem-King Heimverlund (ME 81 - ME 62)
->
-> _by High Chronicler Valerius of Winterhold_
-
----
+![Totem-King Heimverlund][banner]
 
 Heimverlund was the sole issue of Yngol, First Martyr of the Return and his
 war-wife Astrid Stormcrag. He was born in Atmora shortly after his father and
@@ -27,12 +24,12 @@ who were resolutely warriors. The ruling caused strife among the royal court,
 but Ysgramor was steadfast. Addressing the court, he revealed his deep
 foresight:
 
-> _“Noble kinsmen, remember the words of the hoar father: the best weapon is the
+> Noble kinsmen, remember the words of the hoar father: the best weapon is the
 > mind of a steel-souled warrior! Verily, we hath no shortage of champions to
 > drive the perfidious elves from thy new home. But in time the Echoes of Atmora
 > will reach thine shores and usurp this throne, as is their right. Wherefore,
 > would it be not wise to wield the wisdoms of the old priests, who alone are
-> granted the right to parlay with Drah-gkon and rule in their stead?”_
+> granted the right to parlay with Drah-gkon and rule in their stead?
 
 Ysgramor foresaw the coming of the priesthood and prepared for it. Although the
 Companions were formidable warriors, even they would not risk drawing the ire of
@@ -66,10 +63,10 @@ that Skyrim would be their new home. Upon arrival, much of the priesthood
 settled in the Pale, while the dragons themselves scattered to the four winds.
 Heimverlund reunited with his aged uncle, King Yglar, in Windhelm and stayed
 with him until his death two years later. Heimverlund assumed the throne and
-moved the capital to [Bromjunaar] in the west. The priesthood founded the holy
-city fifteen years earlier, and since then it had become vast and powerful.
+moved the capital to [Bromjunaar][1] in the west. The priesthood founded the
+holy city fifteen years earlier, and since then it had become vast and powerful.
 Given Heimverlund’s station, he joined the ruling council of eight-and-one high
-priests. Heimverlund inherited the name and title of [Vokun] from his
+priests. Heimverlund inherited the name and title of [Vokun][2] from his
 predecessor on Atmora, but to his people he was forever known as the Totem-King.
 
 Years passed and Heimverlund proved to be a formidable ruler, earning the
@@ -82,7 +79,7 @@ from among themselves a priest to lead their troops into battle. More often than
 not, Heimverlund was chosen to lead the charge and would assume the mantle of
 "Konahrik". As legend goes, he rode his sabre cat through the Drajkmyr
 marshlands of Hjaal directly to the chief’s stronghold and challenged him to
-single combat. Armed with his [golden sword][1] and [tusked mask][2], he slew
+single combat. Armed with his [golden sword][3] and [tusked mask][4], he slew
 Krul and drove the remaining Orcs into the sea.
 
 ## The Feast of the Dead
@@ -97,10 +94,12 @@ sacrifice.
 
 This tradition was established by Heimverlund years prior. Seeking a way to
 honor Skyrim’s founders, he ordered the construction of an [enormous edifice in
-Windhelm’s Stone Quarter][3]. Each brick was inscribed with the name of a
+Windhelm’s Stone Quarter][5]. Each brick was inscribed with the name of a
 Companion and blessed by the Totem-King himself. As time passed, the wall itself
 became a symbol representing the strength of Nordic unity. Ironically, that
 unity was about to be shattered.
+
+![Winterhold Funeral Wall][5]
 
 Most of the Skerd (Heimverlund’s clan) was present at the feast, alongside his
 staunchest defenders throughout the land. Queen Finna Prince-Slayer and Crown
@@ -114,7 +113,7 @@ out of those present.
 
 The Totem-King miraculously survived the assassination, but witnessing the
 destruction of his clan utterly broke his will and sent him into a homicidal
-madness. In ME 62 he retreated north to the [temple of High Gate][4] and sealed
+madness. In ME 62 he retreated north to the [temple of High Gate][6] and sealed
 himself inside. What became of the Totem-King thereafter is unknown, but his
 surviving clansmen were left in disarray. The priesthood quickly replaced him
 with another priest and began to carve up his holdings among themselves. The
@@ -122,9 +121,10 @@ only surviving member of the clan that could lay claim to Heimverlund’s crown
 was his nine-year-old son, Jafnhar.
 
 [0]: https://en.uesp.net/wiki/Skyrim:Storm_Call
-[1]: https://en.uesp.net/wiki/Lore:Goldbrand
-[2]: https://images.uesp.net//3/3c/SR-icon-armor-Konahrik.png
-[3]: https://staticdelivery.nexusmods.com/mods/110/images/74942-7-1460439757.jpg
-[4]: https://en.uesp.net/wiki/Skyrim:High_Gate_Ruins
-[Bromjunaar]: https://elderscrolls.wikia.com/wiki/Bromjunaar
-[Vokun]: https://elderscrolls.wikia.com/wiki/Vokun
+[1]: https://elderscrolls.wikia.com/wiki/Bromjunaar
+[2]: https://elderscrolls.wikia.com/wiki/Vokun
+[3]: https://en.uesp.net/wiki/Lore:Goldbrand
+[4]: https://images.uesp.net//3/3c/SR-icon-armor-Konahrik.png
+[5]: ./7peju9/winterhold-wall.jpg.jpg
+[6]: https://en.uesp.net/wiki/Skyrim:High_Gate_Ruins
+[banner]: ./7peju9/banner-heimverlund.png

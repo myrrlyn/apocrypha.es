@@ -3,12 +3,16 @@
   <h2 :if={@metadata.subtitle} class="text-title text-center">
     <%= @metadata.subtitle %>
   </h2>
-  <h2 :if={@metadata.series && !@metadata[:hide_series]} class="text-title text-center">
+  <h2 :if={@metadata.series && !@metadata[:hide_series]}
+    class="text-title text-center">
     <% s_id = Apocrypha.to_ident(@metadata.series) %>
     <.link href={"/s##{s_id}"}>
       <%= @metadata.series %></.link>,
     <.link href={"/s##{s_id}-n#{@metadata.part}"}>
       Vol. <%= @metadata.part %></.link>
   </h2>
+  <p :if={pseud = @metadata[:pseudonym]} class="text-right">
+    by <%= pseud %>
+  </p>
 </header>
 <%= @content |> raw() %>

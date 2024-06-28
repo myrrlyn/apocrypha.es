@@ -1,15 +1,14 @@
 ---
-title: Hrogar Brass-Bane
+title: Hrogar Brass-Bane (1E 75 — 1E 88)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 10
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 7ri9vn
 author: Jimeee
 date: 2018-01-19T13:24:51Z
 ---
 
-> Hrogar Brass-Bane (1E 75 — 1E 88)
->
-> _by High Chronicler Valerius of Winterhold_
+![Hrogar Brass-Bane][banner]
 
 Thane Hrogar of Riften ascended to the throne in 1E 75 after the death of his
 brother, High King Einarth. He served as his brother’s right-arm throughout his
@@ -45,7 +44,7 @@ Their initial attack on the city was slow to begin with. Despite their prowess,
 the Shouts of the Voice masters were completely ineffective against the gates of
 Nchuand-Zel. Siege warfare was out of the question as the Dwemer were completely
 self-sufficient underground. The Dwarves seemed content to simply keep up their
-defenses, and not engage Hrogar’s army - an act which infuriated the typically
+defenses, and not engage Hrogar’s army — an act which infuriated the typically
 stoic king.
 
 After Hrogar realized their Shouts were beings dissipated by the numerous
@@ -76,7 +75,7 @@ captured the power of their own shouts, and were channeling it back at them.
 Dwarven Tonal Magic was formidable, and accounts speak of their tonal devices
 inducing paranoia and terror in the Atmorans minds.
 
-Dwarven arms and armor were known to far surpassed the Atmorans' - both in
+Dwarven arms and armor were known to far surpassed the Atmorans’ — both in
 strength and durability. Such was Hrogar’s fascination with them that he ordered
 slain Dwarves be completely looted of their equipment, and it be sent to the
 surface where his plunder-caravans awaited.
@@ -108,7 +107,7 @@ surprisingly abdicated the throne and imposed exile onto himself. He was last
 seen departing from Windhelm and sailing east, never to be heard of again. A
 fragment of his parting speech was recorded as follows:
 
-> _…O blessed children of Kyne, hearken my words for they will be my last. Know
+> …O blessed children of Kyne, hearken my words for they will be my last. Know
 > that I have brought the greatest of shame unto the House of Skerd. There is no
 > doubt in my heart that the Eternal Harbinger, Ysgramor himself, would cast me
 > from his kingdom, if he still drew breath. My failure against the vile elves
@@ -116,10 +115,10 @@ fragment of his parting speech was recorded as follows:
 > Sovngarde for my ilk. Until my honor is restored I am unworthy to face mighty
 > Tsun and no welcome will I find in Shor’s lofty hall. It is for this reason I
 > must leave this land and find my own path to… \[the rest of the speech is
-> missing\]_
+> missing\]
 
-Hrogar’s cousin, [Bjarfrud Skjoralmor] from the House of Asbjorn, was convinced
-to take the throne, much to his regret.
+Hrogar’s cousin, [Bjarfrud Skjoralmor][0] from the House of Asbjorn, was
+convinced to take the throne, much to his regret.
 
-[Bjarfrud Skjoralmor]:
-  https://en.uesp.net/wiki/Lore:Epitaph_of_Bjarfrud_Skjoralmor
+[0]: https://en.uesp.net/wiki/Lore:Epitaph_of_Bjarfrud_Skjoralmor
+[banner]: ./7ri9vn/banner-hrogar.png

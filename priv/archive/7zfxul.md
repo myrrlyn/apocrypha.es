@@ -1,18 +1,17 @@
 ---
-title: Haknir the Baleful
+title: Haknir the Baleful (1E 123 — 1E 143)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 14
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 7zfxul
 author: Jimeee
 date: 2018-02-22T16:04:04Z
 ---
 
-> Haknir the Baleful (1E 123 — 1E 143)
->
-> _by High Chronicler Valerius of Winterhold_
+![Haknir the Baleful][banner]
 
-Haknir was the grandson of the legendary [King Hjornskar], and the first member
-of his House to ascend to the position of High King since the era of the
+Haknir was the grandson of the legendary [King Hjornskar][0], and the first
+member of his House to ascend to the position of High King since the era of the
 aforementioned patriarch.
 
 According to legend, after his predecessor disappeared Haknir seized the crown
@@ -52,24 +51,24 @@ Haknir was given a Memory Crystal which delivered an admonishing speech from an
 Ayleid sorcerer-king named Gordhaur the Shaper. A part of which reads as
 follows:
 
-> _O false thrall-king, hearken the words of thine eternal overlords. For
+> O false thrall-king, hearken the words of thine eternal overlords. For
 > generations we hath graciously granted your ancestors the right to thrive the
 > northern lands unchecked and undisturbed. Like a plague of vermin, your ilk
 > hath multiplied ten-fold and spread to the four corners of the land, bearing
-> fruit that is ready for the harvest._
+> fruit that is ready for the harvest.
 >
-> _Though baffled we are, for your kind hath neglected to submit yourselves of
+> Though baffled we are, for your kind hath neglected to submit yourselves of
 > thine own accord thus forcing our hand to send this messenger. Verily, not
 > only your southern kinsmen but even irrational animals, nay, the very elements
 > which go to make up the world machine recognize that your insolent race was
-> spared for one reason and one reason alone. To serve us._
+> spared for one reason and one reason alone. To serve us.
 >
-> _We, therefore, following the example of our Ancestors, do earnestly command
+> We, therefore, following the example of our Ancestors, do earnestly command
 > you hie post-haste to the Temple of White-Gold where you shall submit your
 > kinsmen to us, and that after such grievous offenses you conciliate by a
 > fitting penance the wrath of Auri-El, which without doubt you have seriously
-> aroused by such provocation. Failure to do so will incur… [the rest of the >
-> text is missing]_
+> aroused by such provocation. Failure to do so will incur… \[the rest of the
+> text is missing\]
 
 Haknir was said to have bellowed heartily with laughter for hours at the Ayleid
 king’s commandment before immediately preparing for war. When the messenger
@@ -99,7 +98,7 @@ Vukeinziivul was fearsome dragon dating back to the Dragon War, and was thought
 to have been one of Alduin’s generals. After King Valdimar’s forces banished the
 World-Eater, Vukeinziivul fled south into Cyrodiil with the dragon priest
 Korthosiis, his most devout servant. Among the Ayelid sorcerer-kings they were
-given refuge in exchange for their allegiance - and for centuries they plotted
+given refuge in exchange for their allegiance — and for centuries they plotted
 their revenge.
 
 Numerous battle-chroniclers have recorded that when Haknir received word that a
@@ -113,7 +112,7 @@ rumbled with a deafening thunder for two days and nights and several avalanches
 were triggered all across the mighty Jeralls, engulfing soldiers from both
 sides.
 
-On the third day, Haknir descended from the summit - bloodied but victorious. By
+On the third day, Haknir descended from the summit — bloodied but victorious. By
 his own account, he first dispatched the priest with a Shout that flung him from
 the summit. After weakening Vukeinziivul with his mighty Thu’um, he crushed his
 skull with the Vulpine Scepter. Although Vukeinziivul had been slain, the
@@ -151,4 +150,5 @@ House of Fjora. One of Haknir’s most trusted generals from the war, he ascende
 to the throne in 1E 143 and later became one of the most noted High Kings in
 Nordic history.
 
-[King Hjornskar]: ./7r088c
+[0]: ./7r088c
+[banner]: ./7zfxul/banner-haknir.png

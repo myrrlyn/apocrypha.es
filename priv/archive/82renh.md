@@ -1,15 +1,14 @@
 ---
-title: Hjalmer the Unworthy
+title: Hjalmer the Unworthy (1E 221 — 1E 222)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 16
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 82renh
 author: Jimeee
 date: 2018-03-07T20:16:29Z
 ---
 
-> [Hjalmer the Unworthy] (1E 221 — 1E 222)
->
-> _by High Chronicler Valerius of Winterhold_
+![Hjalmer the Unworthy][banner]
 
 Hjalmer was the eldest son of the King Harald Hand-Free and Skerd-Queen Fura
 Jurgendottir. He ascended to the throne in 1E 221 after the death of his father
@@ -22,13 +21,13 @@ characterized by conflict and poor decision-making.
 
 Although he swore to uphold his father’s wishes on his deathbed, upon becoming
 High King he completely reneged on his promise in favor of his own military
-campaigns - much to his court’s surprise. Hjalmer was very careful to never
+campaigns — much to his court’s surprise. Hjalmer was very careful to never
 explicitly declare he had other plans (to do so would have given any of the
 three Houses of Skerd the authority to depose him immediately for breaking a
 royal death-oath). Instead, he would make various excuses (ranging from
 reasonable to outright ridiculous) as to why he couldn’t commit troops and
-resources to his father’s campaigns. Promising that Harald’s "Exalted Crusade"
-was merely delayed - not rescinded - was enough to keep the Skerd appeased,
+resources to his father’s campaigns. Promising that Harald’s “Exalted Crusade”
+was merely delayed — not rescinded — was enough to keep the Skerd appeased,
 albeit begrudgingly.
 
 ## The Failed King
@@ -93,8 +92,8 @@ speech to his brother before challenging him for the crown.
 
 Hjalmer was no match for his battle-hardened brother and was slain in the throne
 room in front of his own court. Vrage immediately assumed the throne and ushered
-in a new era for the Nordic people. His father’s long-planned "Exalted Crusade"
+in a new era for the Nordic people. His father’s long-planned “Exalted Crusade”
 (more commonly known as the Skyrim Conquests) would forever change Tamriel and
 transform the kingdom of Skyrim into a vast continent-spanning empire.
 
-[Hjalmer the Unworthy]: https://images.uesp.net//8/83/User-Jimeee-Banner-Hjalmer.png
+[banner]: ./82renh/banner-hjalmer.png

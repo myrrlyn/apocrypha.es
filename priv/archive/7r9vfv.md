@@ -1,15 +1,14 @@
 ---
-title: Einarth of the East
+title: Einarth of the East (1E 60 — 1E 75)
 series: The Seventeen and One Monarchs of the Ysgramor Dynasty
 part: 9
+pseudonym: High Chronicler Valerius of Winterhold
 reddit: 7r9vfv
 author: Jimeee
 date: 2018-01-18T14:03:21Z
 ---
 
-> Einarth of the East (1E 60 — 1E 75)
->
-> _by High Chronicler Valerius of Winterhold_
+![Einarth of the East][banner]
 
 Jarl Einarth from the House of Fjora was the favorite nephew of King Hjornskar,
 and much like his uncle, Einarth was resolute in expanding the borders of the
@@ -29,7 +28,7 @@ the Chimer along the Cinder Valley: a narrow mountain pass that cut through the
 Velothi Mountains and into Morrowind (or Veloth as it was known then). The
 period of High Velothi Culture had long passed and the Chimer at the time has
 devolved into warring tribes. One of the largest tribes was ruled by a fearsome
-warlord named [Virak], who laid claim to the Cinder Valley. For eight years,
+warlord named [Virak][0], who laid claim to the Cinder Valley. For eight years,
 Jarl Einarth had little success in pushing his forces through the pass. Virak
 had heavily fortified the valley with numerous barricades, trenches and magical
 barriers. According to legend, countless Daedra were said to roam the pass, and
@@ -46,11 +45,11 @@ Daedra to aid him, but ultimately he was slain by Einarth himself. After the
 battle, Einarth’s battle-journals reveal that he stood at the summit of
 Trolhetta and gazed south to the Heartlands of Cyrodiil:
 
-> _…As I beheld a glimmering white spire piercing thro' the jungles o’er the
+> …As I beheld a glimmering white spire piercing thro’ the jungles o’er the
 > southern peaks, I held my axe to the neck of an ash-heathen and he spake
 > hastily… The wretched elf told of yet more of his accursed kin who thronged
 > the south!? By Shor, before I complete my count of days, their doom I will see
-> to._
+> to.
 
 Einarth never had the opportunity to wage war with the Ayleids. In his lust for
 conquest, he had already made numerous commitments to reclaim other lands. Of
@@ -60,7 +59,7 @@ these campaigns, the most grave was his attempt to take the Reach.
 
 Einarth was the last monarch to receive settlers from Atmora, after two battered
 ships laden with corpses begged to make port in Windhelm in 1E 68. They were
-identified as the Snow-Whale clan - or what was left of them. Years prior, they
+identified as the Snow-Whale clan — or what was left of them. Years prior, they
 were the only Atmoran clan to stubbornly refused King Valdimar’s offer to
 migrate to Skyrim, when he sought to bolster its population.
 
@@ -71,7 +70,7 @@ scholars to this day, but what is known is that according to Atmoran myth
 Hvergvalinn was a revered and ancient frost-oak that grew in the Hviturfjall
 Valley. Legend states Shor himself planted the tree during the Dawn Era when the
 Atmorans first appeared on the continent, and from a seed grew the first
-frost-oak - “Hvergvalinn the Father”.
+frost-oak — “Hvergvalinn the Father”.
 
 The ancient Eldergleam is said to be a one of its cuttings that took root in
 Skyrim in the Middle Merethic Era (although some historians claim otherwise).
@@ -97,7 +96,7 @@ Towers and structures such as these were dotted across the kingdom since the
 time before Ysgramor, but were found to be utterly impregnable. Numerous
 attempts (many by Ysgramor himself) at forcing entry had proved futile, and
 because there appeared to be no signs of life within they were eventually
-ignored - considered ancient ruins of a long dead civilization.
+ignored — considered ancient ruins of a long dead civilization.
 
 After the interrogation of his Chimer prisoners from the battle at Trolhetta,
 Einarth learned that a people hitherto unknown dwelled deep beneath his kingdom.
@@ -105,16 +104,17 @@ His battle-lust unabated, Einarth marched his brigade to the enormous brass
 gates of Nchuand-Zel (known today as Markarth) to wage war. The Annals contain
 the eye-witness account of what occurred next:
 
-> _…and just as our lord did approach the gate, four colossal brass idols were
+> …and just as our lord did approach the gate, four colossal brass idols were
 > brought to life by some form of vile elven magic. They swiftly descended upon
 > us, hissing and roaring. Though he fought valiantly and felled two of the
 > possessed golems, the king was slain. I desired nothing more than die in
 > battle with my liege, but was ordered to hie back to Windhelm and deliver the
-> news to the Skerd-Queen._
+> news to the Skerd-Queen.
 
 News of Einarth’s death was met with great sorrow across the land. His body was
 never recovered from the Reach, but a large ceremony in Windhelm was held in his
 honor regardless. King Einarth’s successor was his younger brother, Thane Hrogar
 of Riften, who would later famously become known as Hrogar Brass-Bane.
 
-[Virak]: https://en.uesp.net/wiki/Online:Fort_Virak
+[0]: https://en.uesp.net/wiki/Online:Fort_Virak
+[banner]: ./7r9vfv/banner-einarth.png
