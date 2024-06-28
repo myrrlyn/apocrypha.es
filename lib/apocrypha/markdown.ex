@@ -28,7 +28,7 @@ defmodule Apocrypha.Markdown do
 
   # No `<h1>`s in body text. The document title is emitted by the template.
   def walker({"h1", attrs, inner, meta}) do
-    Logger.warn("found `# #{inspect(inner)}`; rewriting it to use `## ` instead")
+    Logger.warning("found `# #{inspect(inner)}`; rewriting it to use `## ` instead")
     walker({"h2", attrs, inner, meta})
   end
 
