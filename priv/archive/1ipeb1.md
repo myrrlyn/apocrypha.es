@@ -15,7 +15,7 @@ about: |
 Hello, and thank you for purchasing the first volume of “On the Species of
 Tamriel”! During this multi-part set of analisations of the various traits and
 characteristics of the various species of our beautiful continent (which, at
-time of writing (20th of Sun’s Height, 4E3) is on discount at First Edition in
+time of writing (20^th^ of Sun’s Height, 4E3) is on discount at First Edition in
 the Imperial City), I will take you on journey throughout Tamriel, helping you
 understand the species inhabiting her.
 

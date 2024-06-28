@@ -1,5 +1,6 @@
 ---
 title: Research into Skaal Religion
+pseudonym: Marcus Flavi
 reddit: 1ofvdq
 author: Hollymarkie
 date: 2013-10-14T18:09:51Z
@@ -9,7 +10,7 @@ Addressed to: Georges Devereau, Chief Scholar, Imperial Geographical Society
 
 Concerning: Recent research into the religion of the Skaal
 
-14th of Frost Fall
+14^th^ of Frost Fall
 
 Honourable Chief Scholar,
 

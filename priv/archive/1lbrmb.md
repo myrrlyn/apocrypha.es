@@ -13,16 +13,14 @@ date: 2013-08-29T12:36:13Z
 > level.
 {:tag="aside" .foreword}
 
-----
-
 Back in [Part I][0] we explored the roles and relationship between the Emperor
-and the Elder Council - Now we get in to the tricky logistics of the
+and the Elder Council — Now we get in to the tricky logistics of the
 jurisdiction within the Empire. From what I can tell the Elder Council rules not
 only over the broader Empire as a whole, but more specifically the capital
 province of Cyrodiil.
 
 To use another modern real-world comparison, jurisdiction of law is usually
-divided up in to three levels - Federal, State and Local. Federal powers
+divided up in to three levels — Federal, State and Local. Federal powers
 generally override state powers and state override local, but some powers can be
 shared between different levels of parliament/congress (known as “concurrent
 powers”) and certain levels may have specific areas of law where only they can
@@ -31,7 +29,7 @@ would be the Empire, “State” would be the Provinces, and “Local” would b
 smaller districts within each province: For example, in Cyrodiil it would be the
 Counties, Skyrim the Holds and Morrowind the Great House Districts. In the case
 of Cyrodiil, the “State” and “Federal” parliament equivalents are one and the
-same - The Elder Council acts as both, skipping the “State” level altogether.
+same — The Elder Council acts as both, skipping the “State” level altogether.
 
 For the purposes of consistency, I’ll be referring to “federal” law within the
 Empire as *Empire Law*, “state” law as *Province law* and “local” law depending
@@ -47,7 +45,7 @@ using to differentiate between different jurisdictions within Tamriel.
 > settlements and villages, although I can’t think of any specific villages
 > having their own binding laws. This school of thought makes the progression to
 > a post-Oblivion Crisis Tamriel a little easier to define, but again, for the
-> sake of consistency and simplicity we’ll stick to the comparisons made above -
+> sake of consistency and simplicity we’ll stick to the comparisons made above —
 > e.g. Empire = Federal
 {:tag="aside"}
 
@@ -55,12 +53,18 @@ With that knowledge under our belt, let’s take a step back for a moment and lo
 at what we’ve learnt of the governmental and legislative hierarchy of the Empire
 so far:
 
-[Here’s a diagram I knocked up for your viewing pleasure][1]
+Here’s a diagram I whipped up for your viewing pleasure
+
+> ![diagram of the Elder Council][1]
+>
+> _Sketch of the Elder Council power devolution_
+> {:tag="figcaption"}
+{:tag="figure"}
 
 Please note that I’ve only included the provinces of Cyrodiil, Morrowind and
 Skyrim simply because they’re the provinces with the most information readily
 available. The other provinces would of course sit at the same level of the
-hierarchy - consider Morrowind and Skyrim two examples of Province law.
+hierarchy — consider Morrowind and Skyrim two examples of Province law.
 
 A few things worth noting:
 
@@ -78,9 +82,9 @@ A few things worth noting:
   the other 29 chancellors of the chamber, hence why I have distinguished the
   position from the rest of the Elder Council.
 - I’m uncertain whether the King/Queen of Morrowind would be higher up the
-  hierarchy than the Tribunal - I’ve stumbled across a few contradictory sources
-  on this matter (how much political influence the tribunal has in the late 3rd
-  Era - particularly after the armistice - seems debatable). Read the terms of
+  hierarchy than the Tribunal — I’ve stumbled across a few contradictory sources
+  on this matter (how much political influence the tribunal has in the late 3^rd^
+  Era — particularly after the armistice — seems debatable). Read the terms of
   [The Armistice][2] for more details. I’m almost certain I’m missing something
   that a better lore-master would know off the top of their heads!
 
@@ -95,7 +99,8 @@ emergency head of state:
 > under the terms of the Elder Council Charter until Imperial rule could be
 > reestablished, but a reluctant leader is rarely a strong leader.
 >
-> –[Rising Threat, Volume III][3]
+> —[Rising Threat, Volume III][3]
+> {:tag="cite"}
 
 Without a copy of the charter itself, the terms of establishing a Potentate are
 uncertain. One possibility could be that the High Chancellor is to take over the
@@ -106,7 +111,7 @@ Potentate may be elected by the Elder Council.
 
 So, what does this all mean?
 
-Firstly, the jurisdiction of The Empire in the 3rd era is *massive*. With a few
+Firstly, the jurisdiction of The Empire in the 3^rd^ era is *massive*. With a few
 exceptions outlined in treaties such as the armistice with Morrowind, The Empire
 has seemingly full legislative control and incredible influence. Of course, the
 line between specific Empire and Province powers is rather blurred. [The
@@ -133,7 +138,7 @@ three possibilities:
 
 3. Levitation in Skyrim is legal and is used, *we just never see it*. It’s a
    quirk of game design in the same way that we don’t see children in Oblivion
-   - that doesn’t mean that there were no children in Cyrodiil during the
+   — that doesn’t mean that there were no children in Cyrodiil during the
    oblivion crisis. It’s simply out of mind, out of sight, and from the
    developers’ point of view since the last game didn’t include it they may not
    have considered it necessary to explain its absence. Sorry to break the
@@ -154,19 +159,19 @@ almost certainly correct. [A Short History of Morrowind][7] notes that:
 > the Ruling Councils of the Five Great Houses…”
 
 It’s extremely likely that legislating on the use of magic within Morrowind
-falls under “most functions” outlined above - We even have precedent with the
+falls under “most functions” outlined above — We even have precedent with the
 upheld ban of necromancy within the region.
 
-That’s just levitation though - what about the multitude of other offences that
+That’s just levitation though — what about the multitude of other offences that
 exist within the Empire? Tomorrow we’ll explore a multitude of both Empire and
-Provincial crimes - why they exist and the punitive process. We’ll also continue
+Provincial crimes — why they exist and the punitive process. We’ll also continue
 to compare Tamrielic legal doctrine with real-world examples and discuss the
 influence of magic on the law.
 
-**CONTINUED IN PART III - Crime and Punishment in Tamriel** (Tomorrow!)
+**CONTINUED IN PART III — Crime and Punishment in Tamriel** (Tomorrow!)
 
 [0]: ./1l96f2
-[1]: https://imgur.com/cJWr6a8
+[1]: ./1lbrmb/diagram.png
 [2]: https://www.uesp.net/wiki/Lore:Armistice
 [3]: https://www.imperial-library.info/content/rising-threat-vol-iii
 [4]: https://www.uesp.net/wiki/Oblivion:Levitation_Act

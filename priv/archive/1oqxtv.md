@@ -5,11 +5,11 @@ reddit: 1oqxtv
 author: xenoposeidon
 date: 2013-10-18T23:47:23Z
 about: |
-  Author’s Note: I’ve been gathering the motivation to post this thread for a
-  while and am going to attempt to write down my theories about the origin of
-  the Argonian race and the workings of the Hist-Argonian symbiosis. Due to
-  criticism of the previous style of posting of my theories, particularly *The*
-  *Strength and Structure of the Argonian Army- (a thread I agree was
+  I’ve been gathering the motivation to post this thread for a while and am
+  going to attempt to write down my theories about the origin of the Argonian
+  race and the workings of the Hist-Argonian symbiosis. Due to criticism of the
+  previous style of posting of my theories, particularly
+  *The Strength and Structure of the Argonian Army* (a thread I agree was
   sensationalist and am thinking of rewriting) I will be attempting to post my
   theories in a method that better differentiates factual lore from my own
   theory.
@@ -130,7 +130,7 @@ namely the other races.
   was Black Marsh and the Hist that were truly important to them.
 
 As such, it is clear that the Argonians are essential to the Hist’s protection.
-The Hist, being the hyper-intelligent, future-telling, [16th dimensional
+The Hist, being the hyper-intelligent, future-telling, [16^th^ dimensional
 artillery-launching][5] that they are, I predict that the Hist engineered the
 protection device that is the Argonian Race.
 
@@ -148,8 +148,8 @@ effect had already been done.
 
 - Claims against sources:
 
-Many may claim the books used as sources for some of my point distort actual
-lore or are not factual.
+  Many may claim the books used as sources for some of my point distort actual
+  lore or are not factual.
 
 Counter Argument: Firstly the Infernal City is canon and has had a great effect
 on lore seen in TES V. Secondly, regarding the PGE, Argonian Account, and Anuad,

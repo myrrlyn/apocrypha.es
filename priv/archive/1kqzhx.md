@@ -1,7 +1,7 @@
 ---
 series: Mojo’s Commentaries on the Mythic Dawn Commentaries
 part: 2
-title: Mojo’s Commentaries on the Mythic Dawn Commentaries - Part II
+title: Mojo’s Commentaries on the Mythic Dawn Commentaries — Part II
 reddit: 1kqzhx
 author: mojonation1487
 date: 2013-08-20T18:30:40Z
@@ -13,18 +13,18 @@ about: |
   Enjoy!
 ---
 
-> *“Answers are liberations, where the slaves of Malbioge that came to know*
-> *Numantia cast down their jailer king, Maztiak, which the Xarxes Mysterium*
-> *calls the Arkayn. Maztiak, whose carcass was dragged through the streets by*
-> *his own bone-walkers and whose flesh was opened on rocks thereon and those*
-> *angels who loved him no longer did drink from his honeyed ichors screaming*
-> *"Let all know free will and do as they will!”*
+> Answers are liberations, where the slaves of Malbioge that came to know
+> Numantia cast down their jailer king, Maztiak, which the Xarxes Mysterium
+> calls the Arkayn. Maztiak, whose carcass was dragged through the streets by
+> his own bone-walkers and whose flesh was opened on rocks thereon and those
+> angels who loved him no longer did drink from his honeyed ichors screaming
+> “Let all know free will and do as they will!”
 
 Volume 2 starts off with a bang here. We have some names and words here that,
 despite my best efforts, I’m afraid I have come up short on definitions.
 
 First we will start with ‘Malbioge’. After some hunting I found some references
-to Malebolge, the 8th circle of Hell from Dante’s Inferno. Here there are ten
+to Malebolge, the 8^th^ circle of Hell from Dante’s Inferno. Here there are ten
 pits or trenches for sinners to be punished. This can relate to the idea of
 Mundus and Mortality being a prison to be escaped from rather than a gate to
 transcendence.
@@ -40,44 +40,47 @@ the idea of Mundus and mortality, thus could be considered the “jailer-king”
 those that drank in his ichors screamed Padhomeic ideology. Personally, I like
 the Arkay connection more; but I believe this has merit on it’s own as well.
 
-*"Let all know free will and do as they will!"* - Nice little bit of Crowley
+_“Let all know free will and do as they will!”_ — Nice little bit of Crowley
 stuff thrown in at the end. Nothing crazy to add to this, but I love finding
 Crowley references in TES.
 
-> *“Your coming was foretold, my brother, by the Lord Dagon in his book of*
-> *razors. You are to come as Idols drop away from you one by one. You are*
-> *exalted in eyes that have not yet set on you; you, swain to well-travelled*
-> *to shatterer of mantles. You, brother, are to sit with me in Paradise and be*
-> *released of all unknowns. Indeed, I shall show you His book and its*
-> *foul-and-many-feathered rubric so that you can put into symbols what you*
-> *already know: the sphere of destruction is but the milk of the unenslaved. I*
-> *fault not your stumbling, for they are expected and given grace by the Oils.*
-> *I crave not your downfalls, though without them you might surpass me even in*
-> *the coming Earth of all infinities. Lord Dagon wishes you no ills but the*
-> *momentous. And as He wants, you must want, and so learn from the pages of*
-> *God this: the Ritual of Want:”*
+> Your coming was foretold, my brother, by the Lord Dagon in his book of
+> razors. You are to come as Idols drop away from you one by one. You are
+> exalted in eyes that have not yet set on you; you, swain to well-travelled to
+> shatterer of mantles. You, brother, are to sit with me in Paradise and be
+> released of all unknowns. Indeed, I shall show you His book and its
+> foul-and-many-feathered rubric so that you can put into symbols what you
+> already know: the sphere of destruction is but the milk of the unenslaved. I
+> fault not your stumbling, for they are expected and given grace by the Oils. I
+> crave not your downfalls, though without them you might surpass me even in the
+> coming Earth of all infinities. Lord Dagon wishes you no ills but the
+> momentous. And as He wants, you must want, and so learn from the pages of God
+> this: the Ritual of Want:
+{:.text-italic}
 
 This Volume just doesn’t get any easier. Mankar implies that the initiate will
 lose faith in the false gods of Mundus. He further implies that the initiate (or
 the order itself) is destined to break the stranglehold these idols have on the
 Mundus and it’s inhabitants.
 
-> *“the sphere of destruction is but the milk of the unenslaved.”*
+> the sphere of destruction is but the milk of the unenslaved.
+{:.text-italic}
 
 Here Mankar further perverts the definition of Padhomeia (yes I made this word
 up) from simple change or chaos to Dagon’s own sphere of destruction, thus
 implying that the extreme side of change (destruction) is the only path to
 transcendence.
 
-> *“Whisper to earth and earth, where the meddlers take no stones except to*
-> *blood, as blood IS blood, and to the cracking of bone, as bone IS bone, and*
-> *so to crack and answer and fall before the one and one, I call you Dragon as*
-> *brother and king.”*
+> Whisper to earth and earth, where the meddlers take no stones except to blood,
+> as blood IS blood, and to the cracking of bone, as bone IS bone, and so to
+> crack and answer and fall before the one and one, I call you Dragon as brother
+> and king.
+{:.text-italic}
 
 Now this is interesting. We see almost the exact same passage in Vivec’s
 dialogue during his trial:
 
-> “As lord of the middle air I bless these proceedings to **earth and earth,**
+> As lord of the middle air I bless these proceedings to **earth and earth,**
 > **where the meddlers take no stones except to blood, as blood IS blood, and**
 > **to the cracking of bone, as bone IS bone, and so to crack and answer and**
 > **fall before the one and one, I call you Dragon as brother and king**,
@@ -105,18 +108,19 @@ dialogue during his trial:
 > Lock-step, math athlete, theorem-teethed biter, grand answer, stay skyward
 > from your line, symbol-gutter, this is wanted, set sequence, may you trace it
 > for them with string, grim engine JHNAL AE THE EARTH AM, through Eight I bless
-> it EARTH AM AS EARTH AM”
+> it EARTH AM AS EARTH AM
 
 I honestly have no idea what to say about this. Rather than ignore it, I figured
 I would include this since I noticed the cross-over between Mankar and Vivec. If
 anybody has any insight on this, I would greatly appreciate the information on
 this as well as the rest of the ritual.
 
-> *“Enraptured, he who finally goes unrecorded.*
+> “Enraptured, he who finally goes unrecorded.
 >
-> *Recorded, the slaves that without knowing turn the Wheel.*
+> Recorded, the slaves that without knowing turn the Wheel.
 >
-> *Enslaved, all the children of the Aurbis As It Is.”*
+> Enslaved, all the children of the Aurbis As It Is.”
+{:.text-italic}
 
 Let’s look at this in reverse.
 

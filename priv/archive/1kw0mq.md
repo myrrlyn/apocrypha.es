@@ -77,7 +77,7 @@ Mnemoli can only enter Mundus during a Dragon Break.
 > regulation of worship, which are not needed (by which I mean, always there)
 > during breakings of the sideways wheel…”
 >
-> - [Vehk’s Book of Hours, Concerning the Dragon Break][0]
+> —[Vehk’s Book of Hours, Concerning the Dragon Break][0]
 > {:tag="cite"}
 
 During a Dragon Break, eight stars descend in the sky, possibly referencing the
@@ -88,7 +88,7 @@ Hurling Disk:
 > excuse to declare good omens and portents, but unto you it should be known as
 > the Hurling Disk, numbered seventeen…”
 >
-> - [Vehk’s Book of Hours, Concerning the Dragon Break][0]
+> —[Vehk’s Book of Hours, Concerning the Dragon Break][0]
 > {:tag="cite"}
 
 The spokes are removed, thus removing the barrier blocking Mnemoli from visiting
@@ -96,7 +96,7 @@ that which it fled in the Dawn. This is important as it is a way to enter and
 exit Mundus as one would please. Not to mention the Mythic Dawns obsession with
 the Dawn, Middle or otherwise. But that’s not all; to walk in the Middle Dawn
 can be as to walk in the mythic. An empire can span across stars, Cyrodiil can
-become an egg, a war stuck out of time fighting into the 5th era.
+become an egg, a war stuck out of time fighting into the 5^th^ era.
 
 > Once you walk in the Mythic it surrenders its power to you. Myth is nothing
 > more than first wants. Unutterable truth. Ponder this while searching for the

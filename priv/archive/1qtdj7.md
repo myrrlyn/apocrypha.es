@@ -10,11 +10,11 @@ Anu is the Amaranth of this dream. He is the Dreamer but he is not the Godhead.
 I submit that the Godhead is the Original Dreamer from which all Dreams derive.
 There may be additional Dream layers between Anu and the Godhead but for the
 sake of simplicity let’s say that Anu was part of the Godhead’s dream. Anu
-achieved CHIM—he realized that he was a sentient individual in the dream of
+achieved CHIM — he realized that he was a sentient individual in the dream of
 another, that he exists and does not exist. With this realization came the
-possibility of Amaranth—one who achieves CHIM and goes into sensory deprivation
-to sleep eternal and dream a new Dream from within the Dream in which one
-exists. Anu sleeps in the Sun of the Godhead’s dream.
+possibility of Amaranth — one who achieves CHIM and goes into sensory
+deprivation to sleep eternal and dream a new Dream from within the Dream in
+which one exists. Anu sleeps in the Sun of the Godhead’s dream.
 
 The Anu who fought Padomay was a manifestation of the self and Padomay the
 manifestation of the denial of self. I exist and I do not exist. Anu pulled his
@@ -25,8 +25,8 @@ the Amaranth now dreams as an Observer.
 Sub-gradience is the key to creating a new Dream. Amaranth is the final
 sub-gradient. Lorkhan realized this and so sacrificed himself and the Aedra to
 continue the sub-gradience of the then-static et’Ada. In the Loveletter from the
-5th Era Lorkhan is no longer considered the Doom Drum, but rather the Lunar God.
-We’ll get back to the significance of this in a moment.
+5^th^ Era Lorkhan is no longer considered the Doom Drum, but rather the Lunar
+God. We’ll get back to the significance of this in a moment.
 
 Landfall is the end of the Dream. Anu the Amaranth will sleep eternal as the
 connection to the Godhead. His Dream is Void.

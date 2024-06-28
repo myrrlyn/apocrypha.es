@@ -108,29 +108,29 @@ Clavicus Vile is bad bartering to Zenithar’s good, and Peryite is illness and
 death. And so forth.
 
 > - **C** Mara
->>> - **C#^♭^** Namira
->> - **C#** Malacath
->>> - **C#^#^** Vaermina
+> > > - **C#^♭^** Namira
+> > - **C#** Malacath
+> > > - **C#^#^** Vaermina
 > - **D** Zenithar
->>> - **D#^♭^** Clavicus Vile
->> - **D#** Mehrunes Dagon
->>> - **D#^#^** Peryite
+> > > - **D#^♭^** Clavicus Vile
+> > - **D#** Mehrunes Dagon
+> > > - **D#^#^** Peryite
 > - **E** Arkay
->> - **E#** Azura
+> > - **E#** Azura
 > - **F** Kyne
->>> - **F#^♭^** Meridia
->> - **F#** Molag Bal
->>> - **F#^#^** Hircine
+> > > - **F#^♭^** Meridia
+> > - **F#** Molag Bal
+> > > - **F#^#^** Hircine
 > - **G** Stendarr
->>> - **G#^♭^** Sanguine
->> - **G#** Boethiah
->>> - **G#^#^** Nocturnal
+> > > - **G#^♭^** Sanguine
+> > - **G#** Boethiah
+> > > - **G#^#^** Nocturnal
 > - **A** Akatosh
->>> - **A#^♭^** Hermaeus Mora
->> - **A#** Sheogorath
->>> - **A#^#^** Jyggalag
+> > > - **A#^♭^** Hermaeus Mora
+> > - **A#** Sheogorath
+> > > - **A#^#^** Jyggalag
 > - **B** Julianos
->> - **B#** Mephala
+> > - **B#** Mephala
 > - **C** Dibella
 
 Incidentally, if one makes this list into a wheel, with Aedric overtones as the

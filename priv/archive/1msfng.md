@@ -7,10 +7,11 @@ author: Hollymarkie
 date: 2013-09-20T17:41:04Z
 ---
 
-> *Welcome back to the eighteenth and last volume of “On the Species of*
-> *Tamriel”. After covering all of the relatively well documented races, we are*
-> *still left with three lesser described races: the Kothringi, the Lilmothiit,*
-> *and the Imga, which will be covered in this volume.*
+> Welcome back to the eighteenth and last volume of “On the Species of
+> Tamriel”. After covering all of the relatively well documented races, we are
+> still left with three lesser described races: the Kothringi, the Lilmothiit,
+> and the Imga, which will be covered in this volume.
+{:tag="aside" .foreword}
 
 ## Kothringi
 
@@ -41,7 +42,7 @@ full of sick Kothringi set sail during the Flu, seeking shelter. They were
 turned down at every port, including the many ports of Hammerfell. The
 Kothringi, now desperate for refuge, decided to set sail to the west, never to
 be seen again. This came to be known as the Day of Shame in Hammerfell, and even
-to this day, the Redgaurds in Hammerfell do not leave their houses on the 20th
+to this day, the Redgaurds in Hammerfell do not leave their houses on the 20^th^
 of Rains Hand, out of guilt.
 
 ## Lilmothiit
@@ -83,7 +84,7 @@ the Imga try harder, though. While not popular with Altmer, they live peacefully
 with the Bosmer (which is not that strange, as Bosmer accept races and cultures
 of all kinds).
 
-> *While badly documented, these races are included to complete the series. I*
-> *hope that all readers have thoroughly enjoyed the series, and are now better*
-> *accustomed to the various races that dot the continent of Tamriel.*
+> While badly documented, these races are included to complete the series. I
+> hope that all readers have thoroughly enjoyed the series, and are now better
+> accustomed to the various races that dot the continent of Tamriel.
 {:tag="aside" .afterword}

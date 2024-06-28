@@ -1,6 +1,7 @@
 ---
 title: Sewage and the Rustics
 subtitle: A Case Study
+pseudonym: Andren Brentree
 reddit: 1bcgww
 author: abrykwall
 date: 2013-03-31T05:44:24Z
@@ -8,7 +9,7 @@ date: 2013-03-31T05:44:24Z
 
 Imperial Journal of Civil Engineering
 
-4E 207 Rain’s Hand; Volume 351 4th ed.
+4E 207 Rain’s Hand; Volume 351 4^th^ ed.
 
 ## Where’s the Bathroom?
 
@@ -56,8 +57,8 @@ cities like Bravil and Leyawiin have much to learn from the inventiveness of the
 Nords.
 
 The pools of standing water in these cities function more like cesspools than
-reservoirs. In Leyawiin, members of the guard are known to bathe *in the*
-*resevoir itself*, a disgusting proposition for those expected to carry the
+reservoirs. In Leyawiin, members of the guard are known to bathe _in the_
+_resevoir itself_, a disgusting proposition for those expected to carry the
 fouled water back home.
 
 A system of airation like the slopes and falls in Whiterun’s sluice system would

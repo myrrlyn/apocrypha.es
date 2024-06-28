@@ -32,7 +32,7 @@ this could reference the Guardian signs, though they are made of several stars,
 not just one.
 
 Finally, considering what we know from [Return False][2] and the Khajiiti Tower,
-it’s possible that the Mane themself *IS* the third moon and may have been such
+it’s possible that the Mane themself _IS_ the third moon and may have been such
 all along. However, that does raise the question of how the Ayleids knew about
 him, though looking at a statue of Auri-El there looks like [what’s most likely
 a depiction of Alkosh][3]; so the Ayleids may have known more about the Khajiit
@@ -43,14 +43,14 @@ the end of his reign.
 
 ## History and Influence
 
-Despite the possibility of the Ayleid’s knowing about the Mane - and the Ayleids
-having died out in the 1st era - the Mane’s first documented appearance came in
-the 2nd Era, likely in the 300’s as 309 is when Kiergo and Eshita of Anequina
-and Pelletine, respectively, married and unified Elsweyr only for it to fail
-several years later (also, 310 being the date of the report in *Return False*).
-The First Mane being Rid-T’har-ri’Datta, who unified the nation through his
-system of power rotation called the Riddle’Thar, which shifted power between
-Anequina and Pelletine depending on the phases of Jone and Jode.
+Despite the possibility of the Ayleid’s knowing about the Mane — and the Ayleids
+having died out in the 1^st^ era — the Mane’s first documented appearance came
+in the 2^nd^ Era, likely in the 300’s as 309 is when Kiergo and Eshita of
+Anequina and Pelletine, respectively, married and unified Elsweyr only for it to
+fail several years later (also, 310 being the date of the report in _Return_
+_False_). The First Mane being Rid-T’har-ri’Datta, who unified the nation
+through his system of power rotation called the Riddle’Thar, which shifted power
+between Anequina and Pelletine depending on the phases of Jone and Jode.
 
 Whilst Khajiiti society has traditionally been split up into clans, and those
 clans residing within different kingdoms, the Mane has his own clan within
@@ -68,13 +68,13 @@ quite impressive, as it’s documented that one Imperial visitor (representing t
 Empire itself for diplomacy) was chased out of the Mane’s palace in Torval.
 
 Considering that the Mane is essentially a god who (possibly) reincarnates and
-forever watches over Elsweyr both politically and literally, it’s
-understandable that quite a few Khajiit like him. That the Mane even encourages
-Khajiit (of any background, occupation or rank) to visit him shows both the
-public’s love of the Mane and the returned love of the people by the Mane.
-Except for [a clan of scumbags][5] but they don’t necessarily hate the Mane as
-they disobey his teachings and law, plus they’re literally scumbags in Khajiiti
-culture so there’s little worth in even mentioning them.
+forever watches over Elsweyr both politically and literally, it’s understandable
+that quite a few Khajiit like him. That the Mane even encourages Khajiit (of any
+background, occupation or rank) to visit him shows both the public’s love of the
+Mane and the returned love of the people by the Mane. Except for [a clan of
+scumbags][5] but they don’t necessarily hate the Mane as they disobey his
+teachings and law, plus they’re literally scumbags in Khajiiti culture so
+there’s little worth in even mentioning them.
 
 He’s also the Stone of the Khajiit Tower, so he’s got that going for him too.
 
@@ -89,17 +89,17 @@ recording time for Khajiit.
 
 ## His Most Recent Death
 
-The Mane was assassinated in the 4th Era, either in/around 4E 30 or 75 (sources
-conflict); several years before the Void Nights. It’s very suspicious that they
-occurred when the Mane was deceased, even more so considering that it’s said
-that the Thalmor killed him (Infernal City, though TIL doesn’t source it was the
-Thalmor who killed him); the very same group who built up relations with Khajiit
-after the Void Nights. Since the Mane’s death, nothing has been heard or said
-about him. It’s not documented how long Elsweyr has gone without a Mane after he
-dies, if there even is a period (however short) between the Mane’s death and the
-new Mane’s birth, but 150+ years of going without points towards the possibility
-of this most recent death to be the last. What caused the death of the Mane is
-unknown.
+The Mane was assassinated in the 4^th^ Era, either in/around 4E 30 or 75
+(sources conflict); several years before the Void Nights. It’s very suspicious
+that they occurred when the Mane was deceased, even more so considering that
+it’s said that the Thalmor killed him (Infernal City, though TIL doesn’t source
+it was the Thalmor who killed him); the very same group who built up relations
+with Khajiit after the Void Nights. Since the Mane’s death, nothing has been
+heard or said about him. It’s not documented how long Elsweyr has gone without a
+Mane after he dies, if there even is a period (however short) between the Mane’s
+death and the new Mane’s birth, but 150+ years of going without points towards
+the possibility of this most recent death to be the last. What caused the death
+of the Mane is unknown.
 
 ## Connection to Azurah
 
@@ -136,12 +136,13 @@ himself). [Sources][8] conflict between the [two][9]. However, it’s not that
 crazy if it’s both (or that it changes with time); at least not considering the
 places that Vivec has travelled to (even possibly taking the player in Morrowind
 to the Provisional House to train him to use Wraithguard) with ease. Either way,
-sources (even different accounts in one source) conflict with what it looks like.
+sources (even different accounts in one source) conflict with what it looks
+like.
 
 Some say
 
 > a boundless swirl of hair, waving leisurely in pink sucrose vapors like kelp
-in water.
+> in water.
 
 Others say
 
@@ -161,7 +162,7 @@ it’s actually Elsweyr itself, or it’s both at the same time; or it’s yet t
 created (not to ring Amaranth bells, but it’s [a heaven promised by the
 Mane][10] and the only other place that I’ve heard to be “heaven” is Aetherius.
 Just putting that out there, it reminds me of Landfall is all). That it’s called
-“tenders to the Mane” in *Return False* can mean so many things. Is it the
+“tenders to the Mane” in _Return False_ can mean so many things. Is it the
 kingdom of the Mane? is it the paradise that the Mane promised? is it the moon
 colony? is it a part of the Mane’s huge fur ball? Is it all of them at once?
 Knowing Khajiiti language, I wouldn’t be surprised if Lleswer meant all of them.
@@ -175,7 +176,7 @@ and are his personal protectors, whom take to using the prefix “Do” (meaning
 use of Moon Sugar on the job, since the only thing alluding to that is found in
 [The Tale of Dro’Zira][11].
 
-----
+---
 
 In conclusion, the Mane is an unparalleled figure in Khajiiti society with huge
 influence, extra-nirnian travel (hinted through his likely conflict with Tiber
