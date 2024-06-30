@@ -1,7 +1,7 @@
 ---
+title: Root Meditation with Tiber Septim
 series: Root Meditations
 part: 2
-title: Root Meditation with Tiber Septim
 reddit: 1t8srt
 author: Al-Hatoor
 date: 2013-12-19T13:15:24Z
