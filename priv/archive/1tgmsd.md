@@ -20,17 +20,19 @@ Before we start I would just like to put two excerpts/quotes out there this one:
 > descending upon them? All that we can say is that it is both, and neither – a
 > divine mystery.”
 >
-> —*The Book of the Dragonborn, Prior Emelene Madrine, 3E360*{:tag="cite"}
+> —The Book of the Dragonborn, Prior Emelene Madrine, 3E360
+> {:tag="cite"}
 
 And this one:
 
 > “One upon a time, **there were many Dragonborn**, the gift passed down through
 > the generations. Over time, though, the bloodlines faded along with their
 > importance, until all that was left was **the Septims.** Your character in
-> *Skyrim*, though, is from one of the **lost lines of Dragonborn,** maybe even
+> _Skyrim_, though, is from one of the **lost lines of Dragonborn,** maybe even
 > the last one.”
 >
-> —*Gamestop interview with Todd Howard,March 2011*{:tag="cite"}
+> —Gamestop interview with Todd Howard, March 2011
+> {:tag="cite"}
 
 ## The Origins of the Dovah – Sos
 
@@ -38,7 +40,7 @@ For years, we thought that the Septims – The Emperors of Tamriel – were the 
 of the Dragonborn, an apparently once plentiful group of people blessed by
 Akatosh. The term itself was first used when St. Alessia was given the Amulet of
 Kings and the Dragonfires were first lit at the Temple of the One in the
-Imperial City. She was actually the first to be *called* Dragonborn which means
+Imperial City. She was actually the first to be _called_ Dragonborn which means
 there were Dragonborn before her, a well known example of this is Miraak (a.k.a.
 Allegiance Guide.) Now see Mr. Allegiance Guide here was a Dragonborn and a
 Dragon Priest, infact he was the first ever Dragonborn, he was the first one to
@@ -53,7 +55,7 @@ of people with dragonblood at one point, he did go mad once, did you know that?
 Well to be fair he was split by a bunch of Ape cultists called the Marukhati
 Selectives, but that’s not why we are here. Since there were once a bountiful
 amount of dragonborn at one point, you can say that they all led lives of Glory
-and Honor, like a true Nord! *Raaaggghh!!!* but they probably didn’t. They
+and Honor, like a true Nord! _Raaaggghh!!!_ but they probably didn’t. They
 probably lived normal boring lives as traders, farmers, and maybe even soldiers,
 but there is really no way to prove it back then.
 
@@ -67,11 +69,11 @@ men who live in a mountain, and eat preserved food. And the third (and final)
 way to find out if someone is a Dragonborn is The Amulet of Kings, but sadly
 Martin Septim died for you, so no one’s gonna find that thing anymore.
 
-So what does that mean? Being a Dragonborn *IS ABOUT TIME.* Born too late?
+So what does that mean? Being a Dragonborn _IS ABOUT TIME._ Born too late?
 Someone killed of all the dragons, and the Amulet of Kings is gone, so no one
 would know. Born too early? Well sorry bro dragons were wiped out by the
 Dragonguard, oh and you can’t touch the Amulet of Kings cause your not an
-Emperor, go near it and *YOU DIE BITCH.*  So now we know a lot of Dragonborn (or
+Emperor, go near it and _YOU DIE BITCH._ So now we know a lot of Dragonborn (or
 is it Dragonborns?) existed at one point, and the only **known,** – until the
 events of TESV Skyrim of course – were the Septims. Too bad that one guy turned
 into a dragon, I mean damn bro I wasn’t expecting that. And post-Septims we were
@@ -94,29 +96,30 @@ wouldn’t know, would we?
 >
 > The World-Eater wakes, and the Wheel turns upon the Last Dragonborn.”
 >
-> —*Prophecy of the Dragonborn, said to come from an Elder Scroll*{:tag="cite"}
+> —Prophecy of the Dragonborn, said to come from an Elder Scroll
+> {:tag="cite"}
 
-*But the Elder Scrolls Foretold It!* Yeah the scroll foretold it, you know what
+_But the Elder Scrolls Foretold It!_ Yeah the scroll foretold it, you know what
 else they foretold? The sun would disappear, and Alduin (a.k.a. Destroyer Devour
 Master) would win. Which obviously they did not. You see the Elder Scrolls are a
 huge matter of debate and they always tell the truth even if it’s not. The
 Scrolls foretell possibilities, endless possibilities, they are full of
-knowledge that just reading one will *probably* blast you with 10 Billion
+knowledge that just reading one will _probably_ blast you with 10 Billion
 Gigawatts of Knowledge to the face, hence blindness. The Elder Scrolls are
 obscure and the readers are usually blinded after reading them, hell they even
 have a hard time reading the scrolls at times, and you also have to take into
 consideration the sanity of the reader. I’m not saying Moth Priests are mad but
-going through years of training just to blind yourself would probably make me
-go mad. In short The Elder Scrolls record everything that was, is, could be, and
+going through years of training just to blind yourself would probably make me go
+mad. In short The Elder Scrolls record everything that was, is, could be, and
 could have been true, and it also depends on the reader on what they will see.
 Well you see this one particular prophecy is false, and true. Well it’s false in
 a sense that your Player Character in Skyrim -the same guy who stripped clothing
 from someone of the opposite gender and wore it- defeated Alduin, so this means
 it’s not the end of time yet even if Destroyer Devour Master is back from the
-Merethic Era. And it’s true in sense that *in theory* Alduin will keep returning
+Merethic Era. And it’s true in sense that _in theory_ Alduin will keep returning
 and a Dragonborn may or may not face him every time, until Alduin wins, the poor
 guy just wanted to eat Nirn. And when he does finally get to eat Nirn we will
-get a New Kalpa, so *yaaaayy more Indian word things!!!*
+get a New Kalpa, so _yaaaayy more Indian word things!!!_
 
 Now back to the topic at hand, sure all the other things in the prophecy
 happened but are you sure those events are what the prophecy refers to? we are
@@ -132,14 +135,14 @@ And Destroyer Devour Master will return to fight another Dragonborn.
 
 What of the two first Quotes, don’t they contradict? Well the Book of the
 Dragonborn, is written in the Point of View of a Prior studying the Dragonborn,
-also note that she states "it is beyond our understanding exactly how and why it
-is bestowed." Her theory is just that, a theory, subjected to debate,
+also note that she states “it is beyond our understanding exactly how and why it
+is bestowed.” Her theory is just that, a theory, subjected to debate,
 argumentative, and dubious. Though the Dragonborn are blessed by Akatosh, what
-of Miraak? Surely good old Allegiance Guide was a devout follower of Akatosh
-who prayed at the chapel right? Probably not. My theory regarding Miraak is he
-*was* a Dragon Priest, and Dragons are creations of Akatosh, and he also did
-have access to Apocrypha were almost all knowledge is stored. (Those damned
-Skaal!) He could have found a way to somehow become Dragonborn, possibly not via
+of Miraak? Surely good old Allegiance Guide was a devout follower of Akatosh who
+prayed at the chapel right? Probably not. My theory regarding Miraak is he _was_
+a Dragon Priest, and Dragons are creations of Akatosh, and he also did have
+access to Apocrypha were almost all knowledge is stored. (Those damned Skaal!)
+He could have found a way to somehow become Dragonborn, possibly not via
 Akatosh’s blessing. Exactly how is anyone’s guess. And this in-universe
 explanation doesn’t have to contradict with Todd Howard’s words (If you don’t
 know who he is, he’s the Wahlaan) since they can actually support each other in

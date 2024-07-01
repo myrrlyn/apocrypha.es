@@ -108,10 +108,10 @@ the Symbiosis between Hist and Argonian is not commensalism but rather
 mutualism, whereas the benefit the Hist get is protection from external threats,
 namely the other races.
 
-- It is mentioned in the [Annotated_Anuad][2] that "The Hist were bystanders in
+- It is mentioned in the [Annotated_Anuad][2] that “The Hist were bystanders in
   the Ehlnofey war, but most of their realm was destroyed as the war passed over
   it. A small corner of it survived to become Black Marsh in Tamriel, but most
-  of their realm was sunk beneath the sea." In addition, it is stated in [The
+  of their realm was sunk beneath the sea.” In addition, it is stated in [The
   Seed][3] that the Hist were massacred and cut down for their Sap by the
   Dwemer. However, after being massacred by the other races, how could the Hist
   survive? However many times they may alter themselves, the Hist are connected

@@ -12,7 +12,7 @@ echelons of the imperial priesthood, Adabal does not denote the Amulet’s origi
 as a powerful soulgemlike device, but rather refers to the fact that Chim-El,
 the Kings’ Soul, is the Ada ei Bal, the Spirit as Stone. The name can also be
 translated as Star(light)-Made Spiritstone, i.e. either Adabal made by or of
-Starlight/Stars. Or *both*.
+Starlight/Stars. Or _both_.
 
 Chimel[^2] was a Lesser Ada, akin to Morihaus, Pelinal, the Dragons and the
 Lesser Daedra, though among those only the Demi-Princes were comparable to it in
@@ -34,7 +34,7 @@ of other spirits. This Oversoul became a being in its own right, the gem serving
 as a body. Chimel was able to communicate with its wielder and others, the
 individual emperors speaking alone or in concert. It was also able to grant
 those who wielded it visions of the future or the past, or show them its
-memories, memories from the lifes of dead emperors *and* memories  of its own.
+memories, memories from the lifes of dead emperors _and_ memories of its own.
 The abilities of the Dragonblooded were all derived from the power of the
 Amulet. The Emperors were able to tap into its power at will[^3] and thereby had
 access to all the knowledge and power of all prior emperors, and their draconic
@@ -80,10 +80,11 @@ I just noticed that the part on the origin is somewhat ooc, sorry for that.
 
 [^1]: And, perhaps, Dragonblooded Ayleiid Kings?
 [^2]: Note the naming scheme: Anu-i-el, Soul of Anu; Auri-El, Soul of the Soul
-of Anu. Both Spirits and Kings.
-[^3]: Compare the [avatar state][0] from the "Avatar the last airbender" cartoon.
+  of Anu. Both Spirits and Kings.
+[^3]: Compare the [avatar state][0] from the “Avatar the Last Airbender”
+  cartoon.
 [^4]: This explains Reman’s, er, pecularities as detailed in the Shonni Etta.
-Chimel had much in common with Pelinal. In fact, I doubt that *any* spirit can
-be sane at all.
+  Chimel had much in common with Pelinal. In fact, I doubt that _any_ spirit can
+  be sane at all.
 
 [0]: https://www.youtube.com/watch?feature=player_detailpage&v=rWGMCV0lAZg#t=183

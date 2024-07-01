@@ -130,7 +130,7 @@ with their periodic Colors as they are with periodic Tones (the Octaves).
 
 ## Synæsthesia
 
-The mixture of "discrete" senses into single fields is one that features
+The mixture of “discrete” senses into single fields is one that features
 strongly in TES lore. Pure Song is perceived as all of the mortal senses, since
 this Song is what creates the world. Tonal Architecture reshapes the Song and
 sculpts matter. The Thu’um translates Voice into Color and Force. Color and Tone

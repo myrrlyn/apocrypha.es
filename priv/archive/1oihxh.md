@@ -10,7 +10,7 @@ We’ve been hunting this one for a long time, but I am reasonably confident
 
 Now, the first two checks against a Stone solution are a) can this be
 constructed by the original builders of the Tower, and b) was this broken during
-the events of the game featuring the Tower (in this case, *Skyrim*). The High
+the events of the game featuring the Tower (in this case, _Skyrim_). The High
 King, Skyrim’s political state, and other Nord-centric ideas for the Stone were
 ruled out by the first, and the Falmer, the Dragons, and other ancient-era
 thoughts were ruled out by the second.
@@ -42,8 +42,8 @@ Conceptual Stone is within the realm of possibility, if only barely.
 We know the Elven Towers were constructed in mimicry of Ada-Mantia so that the
 Elves might ascend and return to Aetherius as did their god Auri-El. We also
 know that this did not work, and that the Towers in fact served to further
-reinforce the Mundus that they view as their prison. A common question is "Why
-did the Elves who hate Mundus build Towers to reinforce it?", and this bears a
+reinforce the Mundus that they view as their prison. A common question is “Why
+did the Elves who hate Mundus build Towers to reinforce it?”, and this bears a
 striking resemblance to a piece of more modern philosophy (anything past Erasmus
 is modern to me) by Jung: The Cave story.
 
@@ -88,8 +88,8 @@ This is built off of the following dialogue, and I am fully aware that I am
 extrapolating and could be horribly wrong.
 
 > ```plaintext
-> Oct 15 01:46:02 <+myrrlyn>	What is Snow-Throat’s Stone
-> Oct 15 01:46:16 <%Void_Ghost>	The cave
+> Oct 15 01:46:02 <+myrrlyn>    What is Snow-Throat’s Stone
+> Oct 15 01:46:16 <%Void_Ghost> The cave
 > ```
 
 `%Void_Ghost` is Michael Kirkbride.

@@ -36,9 +36,9 @@ warriors who were in the service of the rulers spoke only by the whisper of
 their blades through the air.
 
 I say this, on the topic of pointing out the differences between us and them;
-*don’t* put it to them in the terms of the great ruler over the poor peasant.
+_don’t_ put it to them in the terms of the great ruler over the poor peasant.
 They don’t like that, just like it’s no great joy when some Forebear contrasts
-the "oppressive emperor" with the good little common man. I try not to see
+the “oppressive emperor” with the good little common man. I try not to see
 things in such terms, anyway; the Thalmor see all of us as poor peasants whom
 they did the favor of giving a glimpse of their greatness in person when they
 invaded our land and pillaged our cities. We want to point out simple historical

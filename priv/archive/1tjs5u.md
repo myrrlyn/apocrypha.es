@@ -39,7 +39,7 @@ borders of High Rock. It is a holiday in the honor of Akatosh and is known to be
 celebrated at different times each year, mirroring the Nordic tradition of
 [Kynstears][0].
 
-Probably the most outstanding Father’s Day is the Redguard holiday "Papa’s Day",
+Probably the most outstanding Father’s Day is the Redguard holiday “Papa’s Day”,
 which honors Tall Papa, Ruptga, the chief spirit of the Redguard pantheon and is
 widely considered one of the most important Redguard holidays.
 

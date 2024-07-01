@@ -20,7 +20,7 @@ that come from the deshertsh below Shyrodiil called Elshweyr”
 
 > “What else?”
 
-“Most of them shteal and drink shilly shider they call "Shkooma". They like the
+“Most of them shteal and drink shilly shider they call “Shkooma”. They like the
 moonsh for shome reashon, Jarl Barlgruuf doesn’t let them into the shity because
 they come in gangs but individualsh shometimes come in”
 
@@ -35,13 +35,13 @@ remember, but the point ish they aren’t all bad”
 
 “Ho ho ho, Khashiit cant read shilly”
 
-> “are there books *about*-
+> “are there books _about_-
 
-“No one caresh enough, now shut your eyesh and shleep".
+“No one caresh enough, now shut your eyesh and shleep”.
 
-*He leaves the room passive-aggresively*
+_He leaves the room passive-aggresively_
 
-*A short person (for a Nord) enters the room slowly*
+_A short person (for a Nord) enters the room slowly_
 
 “Little boy, do you wish to know about Khajiit?”
 
@@ -78,7 +78,7 @@ Except the first two were Fadomai and Ahnurrrrr”
 
 “Does jajo wish to hear about Khajiit or not?”
 
-> "who’s jajo?”
+> “who’s jajo?”
 
 “THEN THEY HAD MORE CHILDREN. But before Fadomai died, she gave Azurah greatest
 gift, the secret to the greatest people”

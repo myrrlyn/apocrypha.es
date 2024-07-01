@@ -17,7 +17,7 @@ a stronger connection there, a metaphysical subtext that is not immediately
 obvious.
 
 Later in the 36 Lessons, in Sermon 31, Vivec writes: “[…] he recalled the
-Pomegranate Banquet, where he was forced to marry to Molag Bal with wet
+Pomegranate Banquet, where he was forced to marry to Molag Bal with wet
 scriptures to cement his likeness as Mephala and write with black hands.”
 
 Why was lying with Molag Bal a **requirement** to becoming the anticipation of

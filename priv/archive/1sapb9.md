@@ -59,7 +59,7 @@ once, this could easily include the events of previous kalpas.
 If we look at the timeline as a strip of Videotape that’s been yanked out of the
 case by your little brother, with Convention at start and Alduin om-nomming
 Mundus into nothing at the end, this can make quite a bit of sense. We don’t get
-a "new timeline" like in Back to the Future 2, but instead we get the same
+a “new timeline” like in Back to the Future 2, but instead we get the same
 timeline, just it’s been rewound, and it’s recording over a new show. We don’t
 necessarily know what will happen (or has happened, depending one where you are
 in the tape). The Elder Scrolls seem to have an idea, but they only become fixed
