@@ -7,18 +7,18 @@ reddit: 8k3apu
 author: Jimeee
 date: 2018-05-17T10:46:45Z
 about: |
-  I didn't want to go into too much detail or get too creative with this one, so
+  I didn’t want to go into too much detail or get too creative with this one, so
   I kept it brief. The last part is a little poem that will absolutely be the
   end of this series, as far as texts go.
 
-  In my mind the bloodline of Ysgramor wasn't 100% wiped out. Its likely some
+  In my mind the bloodline of Ysgramor wasn’t 100% wiped out. Its likely some
   small trace lived on, but by the 4th era no one actually knows about it or can
   prove it. There is a quest in Skyrim called [_A Scroll For Anska_] that has a
   woman claiming to be a descendant of Ysgramor, and I like to connect that to
-  Totem-King Heimverlund's fate in High Gate Ruins. But the Skerd — as a House
+  Totem-King Heimverlund’s fate in High Gate Ruins. But the Skerd — as a House
   — is certainly gone.
 
-  I actually forgot all about King Olaf's Verse, and didn't plan to write about
+  I actually forgot all about King Olaf’s Verse, and didn’t plan to write about
   him, but given it apparently happened in the middle of the war, I had to at
   least mention it.
 

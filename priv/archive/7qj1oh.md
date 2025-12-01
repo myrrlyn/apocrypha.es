@@ -96,7 +96,7 @@ desperation, the high priests had began to raise long dead warriors from their
 tombs to fight for them after the slaughter of their standing army. Led by Hans
 the Fox, the Battle of Anthor raged for two days and supposedly enough blood was
 spilled to paint the vast slopes of the mountain red. Many great warriors were
-lost in the battle, but Hans' army emerged victorious.
+lost in the battle, but Hans’ army emerged victorious.
 
 Valdimar laid siege to several strongholds of the priesthood, leading his
 snow-throathed armies against the cities of Ragnvald, Volunruud and Saarthal,

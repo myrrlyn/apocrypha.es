@@ -67,7 +67,8 @@ body {
   color: var(--fg);
 }
 
-main article {
+main article,
+pre code.lang-verse {
   font-family: "Roboto Slab", Garamond, serif;
 }
 
@@ -120,6 +121,10 @@ blockquote {
   padding: 0.5em;
 }
 
+blockquote + blockquote {
+  margin-block-start: 1em;
+}
+
 a {
   color: blue;
 }
@@ -133,15 +138,32 @@ a.footnote {
   font-size: 75%;
 }
 
+a.reversefootnote {
+  display: inline;
+}
+
+a.reversefootnote + p {
+  display: inline-block;
+}
+
+cite::before {
+  content: "—";
+}
+
 code.inline {
   color: fuchsia;
 }
 
-p:not(:first-child) {
+ol, ul {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
+
+li p, p:not(:first-child) {
   margin-block-start: 1em;
 }
 
-p:not(:last-child) {
+li p, p:not(:last-child) {
   margin-block-end: 1em;
 }
 
@@ -168,27 +190,32 @@ p:not(:last-child) {
   font-weight: bold;
 }
 
-[lang="x-daedric"] {
+[lang="x-daedric"],
+pre code.lang-x-daedric {
   font-family: "Daedric";
   text-transform: uppercase;
 }
 
-[lang="x-dovah"] {
+[lang="x-dovah"],
+pre code.lang-x-dovah {
   font-family: "Dovahzul";
   text-transform: uppercase;
 }
 
-[lang="x-dwemer"] {
+[lang="x-dwemer"],
+pre code.lang-x-dwemer {
   font-family: "Dwemeris";
   text-transform: uppercase;
 }
 
-[lang="x-ehlnofex"] {
+[lang="x-ehlnofex"],
+pre code.lang-x-ehlnofex {
   font-family: "Mage Script";
   text-transform: uppercase;
 }
 
-[lang="x-falmer"] {
+[lang="x-falmer"],
+pre code.lang-x-falmer {
   font-family: "Falmeris";
   text-transform: uppercase;
 }
@@ -214,9 +241,15 @@ body {
   margin: 0;
 }
 
+body > header {
+  max-width: 100dvw;
+  /* max-height: 4em; */
+  background-size: cover;
+}
+
 @media screen and (max-width: 23.9em) {
   body > header {
-    height: 4em;
+    /* height: 4em; */
   }
 }
 
@@ -226,8 +259,8 @@ body {
     flex-direction: column;
   }
 
-  body>header {
-    background-size: cover;
+  body > header {
+    /* background-size: cover; */
     flex-grow: 0;
     flex-shrink: 0;
   }

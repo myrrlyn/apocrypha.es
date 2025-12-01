@@ -38,7 +38,7 @@ body. Speaking:
 > *what you know as the spun web could not self sustain and broke, clicking all*
 > *the while. First brass remained forged and awoke on Landfall. The World Egg*
 > *cracked and Aurbis subtracted to bring us here again. For aurals made Keen*
-> *can do little else."*
+> *can do little else.”*
 
 At this, ∅ reached into its chest and ripped the stoney heart out, breaking into
 ash.

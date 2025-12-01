@@ -37,7 +37,7 @@ recited at royal ceremonies and events.
 > [](){:tag="br"}
 > Upon the bones of ten-thousand Orcs was mighty Solitude built.
 > [](){:tag="br"}
-> O mighty [Einarth](./7r9vfv), our kingdom's rule he did increase.
+> O mighty [Einarth](./7r9vfv), our kingdom’s rule he did increase.
 > [](){:tag="br"}
 > Driving back the Ashen Elves he took from them the east.
 > [](){:tag="br"}
@@ -45,7 +45,7 @@ recited at royal ceremonies and events.
 > [](){:tag="br"}
 > Fought long against the Brazen Beasts, westward he made his claim.
 > [](){:tag="br"}
-> O honorable [Bjarfrud](./7siqyt), cunning warlord of the 'kreath.
+> O honorable [Bjarfrud](./7siqyt), cunning warlord of the ‘kreath.
 > [](){:tag="br"}
 > Slain by the Heartland Elves, the forests became his wreath.
 > [](){:tag="br"}
@@ -65,7 +65,7 @@ recited at royal ceremonies and events.
 > [](){:tag="br"}
 > The Exalted Crusade his issue true, indeed it paved the way.
 > [](){:tag="br"}
-> O unworthy [Hjalmer](./82renh), his rule was Skyrim's bane.
+> O unworthy [Hjalmer](./82renh), his rule was Skyrim’s bane.
 > [](){:tag="br"}
 > By grace of Shor his brother own ended the calamitous reign.
 > [](){:tag="br"}
@@ -75,7 +75,7 @@ recited at royal ceremonies and events.
 > [](){:tag="br"}
 > O magnificent [Gellir](./8dnuin), alongside Mor he took White-Gold.
 > [](){:tag="br"}
-> His crushing victory against Brazen Beasts must've been a sight to behold.
+> His crushing victory against Brazen Beasts must’ve been a sight to behold.
 > [](){:tag="br"}
 > O bewitching [Yrsa](./8grtop), her long life she served in full.
 > [](){:tag="br"}

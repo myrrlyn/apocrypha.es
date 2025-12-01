@@ -28,7 +28,7 @@ surface temperature.
 
 **Dualities**: We can think of Mundus and Aetherius as being equivalent and
 symmetric, with all the information of one side giving us all the information on
-the other side, albeit in a scrambled or 'rotated' form. The remnants of the
+the other side, albeit in a scrambled or “rotated” form. The remnants of the
 Magne-Ge are the light filtering in from Aetherius through the white holes
 ripped at the boundary event horizon. See my [previous post][4] and this
 [comment thread][5] for more details.

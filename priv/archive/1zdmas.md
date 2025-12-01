@@ -11,7 +11,7 @@ about: |
   with permission.
 ---
 
-![Artists' depiction of the battle.][0]
+![Artists’ depiction of the battle.][0]
 
 _an account of breaking the siege of Tear during the Arnesian War as it was
 narrated by the honorable serjo Vaalthys Sur-Enaren to his scribe_

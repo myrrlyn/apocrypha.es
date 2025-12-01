@@ -1,5 +1,7 @@
 ---
-title: "Letters from the Wilds: The Solstheim Correspondence, Part I"
+series: Letters from the Wilds
+title: The Solstheim Correspondence
+part: 1
 reddit: 1z8vgk
 author: Blackfyre87
 date: 2014-03-01T06:14:19Z

@@ -45,8 +45,8 @@ than expected. Prince Heimverlund had yet to become a fully anointed dragon
 priest (to do so required the explicit blessings of the Dovah), thus he could
 make no claims of authority. After a power share was negotiated with the
 priesthood, High King Yglar continued to rule his holdings while Heimverlund
-returned to Atmora to undergo the ritual known only as the "Countenance of
-Drah-gkon".
+returned to Atmora to undergo the ritual known only as the “Countenance of
+Drah-gkon”.
 
 ## The Dragon Age
 
@@ -74,10 +74,10 @@ respect of his fellow priests quickly. Staying true to his grandfather’s wish,
 he expanded the empire further west, uprooting Orcish settlements and
 establishing Hjaalmarch Hold and the city of Snowhawk. When the Orcs of the west
 banded together under chief Krul gro-Urdnot and rebelled it resulted in a bloody
-conflict known as the "War of the Marsh". In times of war, the council chose
+conflict known as the “War of the Marsh”. In times of war, the council chose
 from among themselves a priest to lead their troops into battle. More often than
 not, Heimverlund was chosen to lead the charge and would assume the mantle of
-"Konahrik". As legend goes, he rode his sabre cat through the Drajkmyr
+“Konahrik”. As legend goes, he rode his sabre cat through the Drajkmyr
 marshlands of Hjaal directly to the chief’s stronghold and challenged him to
 single combat. Armed with his [golden sword][3] and [tusked mask][4], he slew
 Krul and drove the remaining Orcs into the sea.

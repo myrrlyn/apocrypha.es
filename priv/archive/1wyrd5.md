@@ -49,7 +49,7 @@ Magrus is a bit of a special snowflake because here he is with what are like the
 Aedra and is titled the Cat’s Eye, “for what is brighter than the eye of a
 cat?". I want to look into him for a moment, specifically his name which
 reversed is Surgam; a Latin word for “I shall rise". So clearly, he’s got a fair
-amount of links to the sun (which he was 'gifted’) even before Creation has
+amount of links to the sun (which he was “gifted”) even before Creation has
 occurred. Another thing, Magrus otherwise has no particular link to magic as
 Magnus does, though I think that Magrus being “bright” can also be regarding his
 intelligence.
