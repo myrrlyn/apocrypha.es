@@ -1,6 +1,7 @@
 <h1><%= @metadata.title %></h1>
 
 <%= @content |> raw() %>
+<p>There are <%= Apocrypha.Library.public_posts() |> length() %> articles here.</p>
 <% index = Apocrypha.Library.group_by_date() %>
 <nav>
   <.calendar :for={{y, {c, m}} <- index} year={y} ct_yr={c} months={m}>

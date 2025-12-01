@@ -22,14 +22,16 @@ defmodule Apocrypha.Banners.Banner do
     """
     aspect-ratio: #{width} / #{height};
     background-image: url(#{url});
-    background-position: #{x} #{y};
+    background-position-x: #{x};
+    background-position-y: #{y};
     """
   end
 
   def style_rules(%__MODULE__{url: url, pos: {x, y}, dim: [{:height, height}]}) do
     """
     background-image: url(#{url});
-    background-position: #{x} #{y};
+    background-position-x: #{x};
+    background-position-y: #{y};
     height: #{height}px;
     """
   end

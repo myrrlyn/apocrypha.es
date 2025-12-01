@@ -33,7 +33,7 @@ defmodule Apocrypha.Markdown do
   end
 
   # Rewrite tags if requested.
-  def walker({_, attrs, inner, meta} = node) do
+  def walker({tag, attrs, inner, meta} = node) do
     case List.keytake(attrs, "tag", 0) do
       {{"tag", new_tag}, rest} -> walker({new_tag, rest, inner, meta})
       _ -> node
