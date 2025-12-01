@@ -76,7 +76,7 @@ Big part of the text, backed up by an old MK comment detailing that there were
 > inherently better than another (with the exception of the Mane form, to be
 > described shortly).
 
-This *appears* to be the case through other texts, but is not outright stated in
+This _appears_ to be the case through other texts, but is not outright stated in
 others I’m aware of (that aren’t PGE) at the moment.
 
 > Until relatively recently, the nearly constant insurrection and tribal warfare
@@ -106,8 +106,8 @@ something Khajiit would likely prefer to keep to themselves).
 Next we’ve got some geography info, basic stuff we all know, but then
 
 > The old kingdom of Anequina is its northern section, and has historically
-offered no threat to either the early Cyro-Nords or the later Cyrodiliic \[sic]
-Empires.
+> offered no threat to either the early Cyro-Nords or the later Cyrodiliic
+> \[sic\] Empires.
 
 Considering what we had just read previously about the “Senche-Tiger” AND what
 we’ve read in PGE 3, that sounds like bullshit to me. Next is a line about
@@ -166,7 +166,7 @@ foreigners” thing the IGS has had going for it for some time.
 
 > Therefore, each “breed” of khajiit has its own patron deity
 
-Super unproven and is backed up nowhere. Very interesting *if the case* but also
+Super unproven and is backed up nowhere. Very interesting _if the case_ but also
 highly unlikely.
 
 > the lunar gods of Elsweyr are merely the divinities of the Imperial Pantheon
@@ -228,7 +228,7 @@ markets and drug addicts though I will say that
 Sounds, again, like bullshit propaganda to me. The air being humid is likely due
 to the fact that Senchal is surrounded by the Topal Bay and the Pelletine
 jungle; which tend to be able to get pretty damn humid. Saying that one of, if
-not the, largest port cities in Tamriel is "abandoned or in ruins" sounds like a
+not the, largest port cities in Tamriel is “abandoned or in ruins” sounds like a
 flat out lie. The only probable case of unpleasantness coming in from the air
 would be the corpse sellers and supposed Sload airships holding corpses they got
 from Senchal.

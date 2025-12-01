@@ -17,28 +17,28 @@ expeditious freeze. Sleeplessly, Amar-Sin herded beasts with his right hand
 until the wind was made Sharmatic. The zephyr changed, Amar-Sin began to lead
 his stock with his left hand.
 
-"I wish to dance," Amar-Sin said. "but do not know how."
+“I wish to dance,” Amar-Sin said. “but do not know how.”
 
-"I DANCE TO A HEARTBEAT." the wind replied.
+“I DANCE TO A HEARTBEAT.” the wind replied.
 
-"I wish to write," Amar-Sin said. "but do not know how."
+“I wish to write,” Amar-Sin said. “but do not know how.”
 
-"I SHALL MAKE YOU A POET." the wind replied.
+“I SHALL MAKE YOU A POET.” the wind replied.
 
-"I wish to forge," Amar-Sin said. "but do not know how."
+“I wish to forge,” Amar-Sin said. “but do not know how.”
 
-"I FORGE WALKING BRASS." the wind replied.
+“I FORGE WALKING BRASS.” the wind replied.
 
-"I will follow."
+“I will follow.”
 
 Chasing the whispair, herder now herded, it, then he, stalked deeply Red until
 met with a golden masked song ghost-hot and star blind. Mer turned to beast at
 the sight, skin corpsed and lungs pustular. Amar-Sin fell into a waking sleep as
 the wind spoke once more:
 
-> "WE MARK YOU DOHT SEHT OF SIX. BECOME HEARTHHEAL BOUND. I AM AND YOU ARE ALL
+> “WE MARK YOU DOHT SEHT OF SIX. BECOME HEARTHHEAL BOUND. I AM AND YOU ARE ALL
 > ME. TO THE HALL OF TORQUE WITH YOU. FORGEVER UNDER DOHT VEHK BUT NEVER WITH
-> THE HAMMER. BEAR THE FACE OF THE WORM."
+> THE HAMMER. BEAR THE FACE OF THE WORM.”
 
 As so it was that Doht Seht, precendently Amar-Sin, became adjutant to Vemyn,
 sometimes called the Womb Snake. On first greeting, the ash lord took Doht

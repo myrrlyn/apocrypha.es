@@ -18,7 +18,7 @@ dimension are ill-defined, and I thought perhaps the State Gradient Echo of
 Mundus Centerex might hold some clues.
 
 Then I started researching MRI technologies to answer a few questions for my
-wife, who’s had more than a few MRIs recently. And now I *think* I might know
+wife, who’s had more than a few MRIs recently. And now I _think_ I might know
 what a State Gradient Echo of Mundus Centerex is.
 
 ## What’s a State Gradient Echo?
@@ -34,7 +34,7 @@ A State Gradient Echo is hard to explain, but basically it’s one technique MRI
 operators can use to create a clear image of specific tissues in a human body
 that might otherwise show up as indistinct, out of focus, or not at all.
 
-In terms of the Elder Scrolls, the "Gradient" term *appears* to be
+In terms of the Elder Scrolls, the “Gradient” term _appears_ to be
 interchangeable with the word “creation”, so I think Kirkbride is using the
 concept of MRI photography as the creation of reality. In a way, he’s saying
 that a photograph of an object (say, a flower) is like creating another physical
@@ -74,8 +74,8 @@ image of the fundamental mind behind the Mundus, the nervous system of the
 entire span of physical reality, which the Loveletter names as the “Last
 Existence, The Eternal I”, or the Godhead.
 
-**What’s a Nubian?**
+## What’s a Nubian?
 
 Shut up, Banky.
 
-[0]: https://i.imgur.com/hkMQf.gif "Sagittal section of a human body"
+[0]: ./u4gzg/hkMQf.gif "Sagittal section of a human body"

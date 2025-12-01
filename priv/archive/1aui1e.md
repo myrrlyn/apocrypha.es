@@ -8,8 +8,8 @@ date: 2013-03-23T05:56:55Z
 > “…But above all, beware the Mabrigash, renegade Witch-Warrior women who
 > practice the dark magics.”
 >
-> –Andilo Thelas, Dunmer Savant
-> {:tag="cite"}
+> _Andilo Thelas, Dunmer Savant_{:tag="cite"}
+
 {:.foreword}
 
 Within the bleak and barren climate of the Ashlands, food is scarce and danger

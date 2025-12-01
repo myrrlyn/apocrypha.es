@@ -1,5 +1,5 @@
 ---
-title: "Remanite Metaphysics"
+title: Remanite Metaphysics
 reddit: 1yzgsv
 author: Blackfyre87
 date: 2014-02-26T12:46:15Z
@@ -12,7 +12,7 @@ that I would like to resolve. I have read a number of other pieces on here and
 no one seems to be able to come to one solid answer- though considering the
 topic, that in itself seems fitting.
 
-Scholars are fairly convinced that by virtue of mantling Lorkhan, "Tiber Septim"
+Scholars are fairly convinced that by virtue of mantling Lorkhan, “Tiber Septim”
 (whomsoever that is/they are) ascended to divinity.
 
 But what did Reman do to obtain divinity?

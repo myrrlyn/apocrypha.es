@@ -11,8 +11,7 @@ about: |
 
 ---
 
-> Foreword and translation by Harman Maurus
-> {:tag="cite"}
+> _Foreword and translation by Harman Maurus_{:tag="cite"}
 >
 > The story of Pelinal Whitestrake, the Divine Crusader, is a famous legend from
 > the birth of the Empire. His crusades, or pogroms, swept the Ayleids into

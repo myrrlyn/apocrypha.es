@@ -20,8 +20,7 @@ Before we start I would just like to put two excerpts/quotes out there this one:
 > descending upon them? All that we can say is that it is both, and neither – a
 > divine mystery.”
 >
-> —The Book of the Dragonborn, Prior Emelene Madrine, 3E360
-> {:tag="cite"}
+> _The Book of the Dragonborn, Prior Emelene Madrine, 3E360_{:tag="cite"}
 
 And this one:
 
@@ -31,8 +30,7 @@ And this one:
 > _Skyrim_, though, is from one of the **lost lines of Dragonborn,** maybe even
 > the last one.”
 >
-> —Gamestop interview with Todd Howard, March 2011
-> {:tag="cite"}
+> _Gamestop interview with Todd Howard, March 2011_{:tag="cite"}
 
 ## The Origins of the Dovah – Sos
 
@@ -96,8 +94,7 @@ wouldn’t know, would we?
 >
 > The World-Eater wakes, and the Wheel turns upon the Last Dragonborn.”
 >
-> —Prophecy of the Dragonborn, said to come from an Elder Scroll
-> {:tag="cite"}
+> _Prophecy of the Dragonborn, said to come from an Elder Scroll_{:tag="cite"}
 
 _But the Elder Scrolls Foretold It!_ Yeah the scroll foretold it, you know what
 else they foretold? The sun would disappear, and Alduin (a.k.a. Destroyer Devour

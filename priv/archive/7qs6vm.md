@@ -56,7 +56,7 @@ envoys reported that ever since the priesthood had abandoned Atmora, the clans
 who remained had devolved into a fractured and warring society. He offered each
 and every clan gold and safe passage to Skyrim should they wish to join their
 brethren on the mainland. Given than the situation on Atmora was worsening
-dramatically as the "Freezing of Drekihrim" took hold, almost all remaining
+dramatically as the “Freezing of Drekihrim” took hold, almost all remaining
 clans gladly took up Valdimar’s offer. Their arrival was a boon to Skyrim, as
 many of the old traditions and heritage of High Atmoran culture that had been
 eradicated by the priesthood were revived.

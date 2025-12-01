@@ -20,7 +20,7 @@ a paper on Ysmir, which I feel is appropriate since his name adorns our gates.
 
 ## The Importance of Ysmir.
 
-The famed "Dragon of the North" appears many times in Tamrielic history and
+The famed “Dragon of the North” appears many times in Tamrielic history and
 usually as a bearded hero of Men who massacres the heathen Devils (Elves) in the
 name of Shor and sometimes even over the Cyrodiilic Akatosh. The first mention
 of Ysmir in recorded history is in the book [“Before the Ages of Man”][0] by
@@ -81,7 +81,7 @@ the third and final is decided through Ysmir:
 - YSMIR AS PELINAL: FAILED (for there was no duality)
 - YSMIR as TALOS: SUCCEEDED (for the duality was embraced)
 
-Ysmir as Talos "Reached Heaven by Violence" by which I mean attained Royalty by
+Ysmir as Talos “Reached Heaven by Violence” by which I mean attained Royalty by
 which I mean achieved CHIM. When Talos saw the myth-echo of Ysmir repeating
 throughout Un-Void from Aurbis through Mundus into the Starry Heart, he saw the
 Wheel-Turned Sideways, the I of the Godhead.

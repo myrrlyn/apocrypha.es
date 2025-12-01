@@ -11,6 +11,7 @@ date: 2013-08-29T12:36:13Z
 > thread. That said, I recommend giving it a quick skim over if you haven’t
 > already for a better understanding of the structure of the Empire at the top
 > level.
+
 {:tag="aside" .foreword}
 
 Back in [Part I][0] we explored the roles and relationship between the Emperor
@@ -32,9 +33,9 @@ of Cyrodiil, the “State” and “Federal” parliament equivalents are one an
 same — The Elder Council acts as both, skipping the “State” level altogether.
 
 For the purposes of consistency, I’ll be referring to “federal” law within the
-Empire as *Empire Law*, “state” law as *Province law* and “local” law depending
+Empire as _Empire Law_, “state” law as _Province law_ and “local” law depending
 on the nature of the municipality (For example, in Skyrim “local” law would be
-*Hold Law*, in Morrowind *House Law*, etc). Please note that these are *not*
+_Hold Law_, in Morrowind _House Law_, etc). Please note that these are _not_
 necessarily the terms that would be used in lore, they’re simply what I will be
 using to differentiate between different jurisdictions within Tamriel.
 
@@ -47,6 +48,7 @@ using to differentiate between different jurisdictions within Tamriel.
 > a post-Oblivion Crisis Tamriel a little easier to define, but again, for the
 > sake of consistency and simplicity we’ll stick to the comparisons made above —
 > e.g. Empire = Federal
+
 {:tag="aside"}
 
 With that knowledge under our belt, let’s take a step back for a moment and look
@@ -57,8 +59,8 @@ Here’s a diagram I whipped up for your viewing pleasure
 
 > ![diagram of the Elder Council][1]
 >
-> _Sketch of the Elder Council power devolution_
-> {:tag="figcaption"}
+> _Sketch of the Elder Council power devolution_{:tag="figcaption"}
+
 {:tag="figure"}
 
 Please note that I’ve only included the provinces of Cyrodiil, Morrowind and
@@ -83,10 +85,10 @@ A few things worth noting:
   position from the rest of the Elder Council.
 - I’m uncertain whether the King/Queen of Morrowind would be higher up the
   hierarchy than the Tribunal — I’ve stumbled across a few contradictory sources
-  on this matter (how much political influence the tribunal has in the late 3^rd^
-  Era — particularly after the armistice — seems debatable). Read the terms of
-  [The Armistice][2] for more details. I’m almost certain I’m missing something
-  that a better lore-master would know off the top of their heads!
+  on this matter (how much political influence the tribunal has in the late
+  3^rd^ Era — particularly after the armistice — seems debatable). Read the
+  terms of [The Armistice][2] for more details. I’m almost certain I’m missing
+  something that a better lore-master would know off the top of their heads!
 
 In the event that there is no heir to the throne to succeed an emperor, the top
 of the hierarchy changes somewhat. [Under the terms of the Elder Council
@@ -99,50 +101,50 @@ emergency head of state:
 > under the terms of the Elder Council Charter until Imperial rule could be
 > reestablished, but a reluctant leader is rarely a strong leader.
 >
-> —[Rising Threat, Volume III][3]
-> {:tag="cite"}
+> _[Rising Threat, Volume III][3]_{:tag="cite"}
 
 Without a copy of the charter itself, the terms of establishing a Potentate are
 uncertain. One possibility could be that the High Chancellor is to take over the
 role or resign so another can take his or her place to do so, alternatively the
 Potentate may be elected by the Elder Council.
 
-----
+---
 
 So, what does this all mean?
 
-Firstly, the jurisdiction of The Empire in the 3^rd^ era is *massive*. With a few
-exceptions outlined in treaties such as the armistice with Morrowind, The Empire
-has seemingly full legislative control and incredible influence. Of course, the
-line between specific Empire and Province powers is rather blurred. [The
-Levitation Act of 421][4], however, gives us some hints. Note that Morrowind
-takes place in 427, six years *after* the Levitation Act came in to effect. This
-suggests that the Levitation Act is purely Cyrodilic provincial legislation
-rather than broader Empire law. It wouldn’t be surprising if the majority of
-criminal offences fell under the jurisdiction of each individual province, save
-for high treason and similar crimes against the empire.
+Firstly, the jurisdiction of The Empire in the 3^rd^ era is _massive_. With a
+few exceptions outlined in treaties such as the armistice with Morrowind, The
+Empire has seemingly full legislative control and incredible influence. Of
+course, the line between specific Empire and Province powers is rather blurred.
+[The Levitation Act of 421][4], however, gives us some hints. Note that
+Morrowind takes place in 427, six years _after_ the Levitation Act came in to
+effect. This suggests that the Levitation Act is purely Cyrodilic provincial
+legislation rather than broader Empire law. It wouldn’t be surprising if the
+majority of criminal offences fell under the jurisdiction of each individual
+province, save for high treason and similar crimes against the empire.
 
 But what about Skyrim? If the Legislation Act was passed for by the Elder
 Council for Cyrodiil, then why don’t we see levitation spells in use? There are
 three possibilities:
 
 1. By the events of Skyrim the Elder Council has passed an empire-wide
-  equivalent of The Levitation Act, effectively overriding the provincial
-  Levitation Act and applying it to the few provinces still loyal to the Empire.
+   equivalent of The Levitation Act, effectively overriding the provincial
+   Levitation Act and applying it to the few provinces still loyal to the
+   Empire.
 
 2. Skyrim has passed its own provincial legislation banning the use of
    levitation. This wouldn’t be exactly unlikely, due to the Nords’ distrust of
    wizards and use of magic. If this is the case, it may have been in effect
-   prior to or introduced sometime after [The Oblivion Crisis][5].
-   ~~I personally think this is the most likely scenario.~~
+   prior to or introduced sometime after [The Oblivion Crisis][5]. ~~I
+   personally think this is the most likely scenario.~~
 
-3. Levitation in Skyrim is legal and is used, *we just never see it*. It’s a
-   quirk of game design in the same way that we don’t see children in Oblivion
-   — that doesn’t mean that there were no children in Cyrodiil during the
-   oblivion crisis. It’s simply out of mind, out of sight, and from the
-   developers’ point of view since the last game didn’t include it they may not
-   have considered it necessary to explain its absence. Sorry to break the
-   fourth wall there, so to speak!
+3. Levitation in Skyrim is legal and is used, _we just never see it_. It’s a
+   quirk of game design in the same way that we don’t see children in Oblivion —
+   that doesn’t mean that there were no children in Cyrodiil during the oblivion
+   crisis. It’s simply out of mind, out of sight, and from the developers’ point
+   of view since the last game didn’t include it they may not have considered it
+   necessary to explain its absence. Sorry to break the fourth wall there, so to
+   speak!
 
 **EDIT**: [Anonymous_Mononymous points out that][6]:
 

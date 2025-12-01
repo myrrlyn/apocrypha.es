@@ -77,8 +77,7 @@ Mnemoli can only enter Mundus during a Dragon Break.
 > regulation of worship, which are not needed (by which I mean, always there)
 > during breakings of the sideways wheel…”
 >
-> —[Vehk’s Book of Hours, Concerning the Dragon Break][0]
-> {:tag="cite"}
+> _[Vehk’s Book of Hours, Concerning the Dragon Break][0]_{:tag="cite"}
 
 During a Dragon Break, eight stars descend in the sky, possibly referencing the
 breaking of the spokes of the wheel. The Wheel is a wheel no longer, but a
@@ -88,8 +87,7 @@ Hurling Disk:
 > excuse to declare good omens and portents, but unto you it should be known as
 > the Hurling Disk, numbered seventeen…”
 >
-> —[Vehk’s Book of Hours, Concerning the Dragon Break][0]
-> {:tag="cite"}
+> _Vehk’s Book of Hours, Concerning the Dragon Break_{:tag="cite"}
 
 The spokes are removed, thus removing the barrier blocking Mnemoli from visiting
 that which it fled in the Dawn. This is important as it is a way to enter and

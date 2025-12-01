@@ -13,8 +13,7 @@ about: |
   [0]: ./1en2km
 ---
 
-> Foreword and translation by Harman Maurus
-> {:tag="cite"}
+> _Foreword and translation by Harman Maurus_{:tag="cite"}
 >
 > The Song of Eplear is a Bosmeri epic dating back to the First Era. It tells
 > the story of King Eplear, founder of the Camoran Dynasty and the modern

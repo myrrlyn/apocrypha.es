@@ -39,9 +39,9 @@ multiple witnesses that he had personal knowledge of why it happened, but never
 gave any further elaboration than “love”, on the reason of the ministry’s
 collapse. The theorems of Lathenil of Sunhold have been discussed inside out in
 every bar and bawdyhouse in the Imperial City. The important thing is that the
-ministry *did* fall and very likely caused the eruption of Vvardenfell.
+ministry _did_ fall and very likely caused the eruption of Vvardenfell.
 
-## 4E 5-6  – The Rains of the Marshes
+## 4E 5-6 – The Rains of the Marshes
 
 The tragedy stemming from the eruption of Vvardenfell had been bad; what
 followed could only be described as a great deal worse. Within days, a massive
@@ -57,13 +57,13 @@ My own father fought in the army of House Redoran, though at the time, he
 captained an East Empire Company Galley. He spoke little of his involvement in
 the war. Although he did mention many times that
 
-> *“The Argonians left behind nothing but flooded or burned towns and bloated*
-> *corpses…”*
+> _“The Argonians left behind nothing but flooded or burned towns and bloated_
+> _corpses…”_
 
 When the Argonians did not feel confident of a field victory, they melted away
 and used guerilla tactics to harass the Redoran and Imperial forces they were
 confronted with. At times, some mages suggested that the Saxhleel had command of
-strange and heretofore unknown weather magics (see *Report: Disaster at Ionith*)
+strange and heretofore unknown weather magics (see _Report: Disaster at Ionith_)
 to create new areas of wetland where they would have the advantage. If the
 events at Tear were not caused by the fallout from the eruption of Red Mountain,
 then the devastation of Dres lands suggests the Argonians (or the Hist) could
@@ -71,7 +71,7 @@ command the weather and natural world.
 
 The invasion began with a savage, possibly magical, reduction of the Dres
 districts in the southernmost regions of Morrowind, around Tear. The entire
-district flooded rapidly, as described in Ravel’s *The Red Year*. The city of
+district flooded rapidly, as described in Ravel’s _The Red Year_. The city of
 Tear was largely submerged, in a matter of hours, into the miles and miles of
 new swampland. At a stroke, one of Morrowind’s Great Houses had been reduced to
 a fleeing horde of refugees.
@@ -120,7 +120,7 @@ Curio gave his address to the people of Narsis, in which he informed his public
 of the war and the evacuation, in the nude. Ulen claimed Curio did what he did
 as the eccentric councillor believed that
 
-> *“Morrowind needed inspiration in this pressing time.”*
+> _“Morrowind needed inspiration in this pressing time.”_
 
 Ulen, however, deadpanned that Curio was regularly wont to take at least one
 
@@ -135,8 +135,8 @@ this time, in a stroke of almost unfathomable luck, with his daughter Ilmeni in
 the Imperial City instead of in Ebonheart in Vvardenfell, his usual residence.
 In the closing days of 4E 6, Curio vindicated his leadership position by
 ambushing and then driving back the Argonian raiding party that had been
-shadowing the Dres refugees in a bloody clash beside the banks of the River
-Thir – he was still noted as being stark naked whilst directing battle.
+shadowing the Dres refugees in a bloody clash beside the banks of the River Thir
+– he was still noted as being stark naked whilst directing battle.
 
 At this point, as 4E 7 dawned, Curio marched determinedly toward the hills above
 Kragenmoor to take up what House Hlaalu’s leaders deemed an unassailable
@@ -194,12 +194,14 @@ over a vast area.
 
 A survivor noted:
 
-> *“At Mournhold, the lizards didn’t let none of us sleep none. Their tricks*
-> *kept the mages from casting proper-like and they always kept the fear*
-> *beating in our hearts; like Molag Bal himself were floating above the city,*
-> *beating like a madman on a giant drum and barking out his awful laugh. We*
-> *gave em all hell, I’m proud of that…but they never let us forget they were*
-> *coming for us. And there aren’t none of us what have ever forgot it.”*
+> “At Mournhold, the lizards didn’t let none of us sleep none. Their tricks kept
+> the mages from casting proper-like and they always kept the fear beating in
+> our hearts; like Molag Bal himself were floating above the city, beating like
+> a madman on a giant drum and barking out his awful laugh. We gave em all hell,
+> I’m proud of that…but they never let us forget they were coming for us. And
+> there aren’t none of us what have ever forgot it.”
+
+{:.text-italic}
 
 Giant trebuchets flung both desecrated corpses and living prisoners over
 Mournhold’s walls. By night, the Argonians lit eerie green bonfires that leapt
@@ -227,15 +229,17 @@ capital voluntarily.
 
 My source, Uriel, said
 
-> *"When I woke up in the rubble, I was amazed to be alive. But although I was*
-> *surging with the thrill of survival, I was sad too, on a level that’s hard*
-> *to describe. I cried for a long time, and not just because my brothers in*
-> *arms were gone. There was something poetic about that day. It didn’t matter*
-> *whether you were grey skinned or not or whether you worshipped the Divines*
-> *or the Temple. I knew something special had been and was now vanished.*
-> *Because, for one day, one beautiful moment in Mournhold’s sordid history, we*
-> *weren’t Dunmer, Imperials, Nords or whatever… we were just brothers and*
-> *sisters. Just the people of Morrowind."*
+> “When I woke up in the rubble, I was amazed to be alive. But although I was
+> surging with the thrill of survival, I was sad too, on a level that’s hard to
+> describe. I cried for a long time, and not just because my brothers in arms
+> were gone. There was something poetic about that day. It didn’t matter whether
+> you were grey skinned or not or whether you worshipped the Divines or the
+> Temple. I knew something special had been and was now vanished. Because, for
+> one day, one beautiful moment in Mournhold’s sordid history, we weren’t
+> Dunmer, Imperials, Nords or whatever… we were just brothers and sisters. Just
+> the people of Morrowind.”
+
+{:.text-italic}
 
 It was a very long time ere the sack was completed- this was, according to
 Uriel, a relentless, door to door week long bloodbath.
@@ -253,7 +257,7 @@ Vivec. Emperor Attrebus Mede I, who I had the honour to meet and discuss my
 interest in Eastern Provincial history told me that to this day, the Argonians
 feel that something special happened at the Scathing Bay.
 
-What stands out the most about the siege of Mournhold is that there *were*
+What stands out the most about the siege of Mournhold is that there _were_
 extant Dunmer and Imperial forces in Morrowind, forces that many historians feel
 might have confronted the besiegers and successfully broken their siege of the
 city. Thousands and thousands of Dunmer have, in the years since the Argonian
@@ -386,7 +390,7 @@ Guard to catch up.
 
 And, on the 26^th^ of Mid Year 4E 8, the Redoran Guard **did** catch up. In a
 snowy field east of Kragenmoor, within sight of the fortifications Vedam Dren
-had ordered built, the An-Xileel "Army of Justice" were crushed at the Battle of
+had ordered built, the An-Xileel “Army of Justice” were crushed at the Battle of
 Bloodmoor, which is also called the Battle of the Scarlet Snow. As a violent
 snowstorm raged across the field in the Valus foothills, the Sadras turned to
 fight in a field between two snowy hills. Physically overextended from their
@@ -466,8 +470,8 @@ sickening self-interest.
 
 Secondly, the war signalled the end of the power of the Tribunal Temple and was
 a clarion call a religious reformation among the Dunmer People; this was
-described by Thara of Rihad in *“The Reclamations: The Fall of the Tribunal and*
-*the Rise of the New Temple”*. The struggles of the dissident priests will be
+described by Thara of Rihad in _“The Reclamations: The Fall of the Tribunal and_
+_the Rise of the New Temple”_. The struggles of the dissident priests will be
 discussed in a later entry.
 
 Thirdly, the war showed that Potentate Ocato was not keeping effective control.

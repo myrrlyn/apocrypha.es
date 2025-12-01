@@ -13,6 +13,7 @@ about: |
 > with Nocturnal.
 >
 > 12th of Frostfall, 196^th^ year of the 4^th^ Era, Written by Anonymous
+
 {:tag="aside" .foreword}
 
 ## Author’s Note
@@ -125,5 +126,4 @@ find out.
 > Summerset Isles come 16^th^ of Evening Star. Find him and send him to me.
 > Shadow hide you.
 >
-> —The Grey Fox
-> {:tag="cite"}
+> _The Grey Fox_{:tag="cite"}

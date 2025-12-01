@@ -78,6 +78,8 @@ like the theory. But I wanted to share it. Make of it what you will.
 
 I just noticed that the part on the origin is somewhat ooc, sorry for that.
 
+[0]: https://www.youtube.com/watch?feature=player_detailpage&v=rWGMCV0lAZg#t=183
+
 [^1]: And, perhaps, Dragonblooded Ayleiid Kings?
 [^2]: Note the naming scheme: Anu-i-el, Soul of Anu; Auri-El, Soul of the Soul
   of Anu. Both Spirits and Kings.
@@ -86,5 +88,3 @@ I just noticed that the part on the origin is somewhat ooc, sorry for that.
 [^4]: This explains Reman’s, er, pecularities as detailed in the Shonni Etta.
   Chimel had much in common with Pelinal. In fact, I doubt that _any_ spirit can
   be sane at all.
-
-[0]: https://www.youtube.com/watch?feature=player_detailpage&v=rWGMCV0lAZg#t=183

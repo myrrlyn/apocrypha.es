@@ -22,7 +22,7 @@ about: |
 > **the Striking**. That is the **reptile** wheel, coiled potential,
 > ever-preamble to the never-action.
 >
-> —*36 Lessons of Vivec*{:tag="cite"}
+> _[36 Lessons of Vivec][0]_{:tag="cite"}
 
 <!-- -->
 
@@ -32,7 +32,7 @@ about: |
 > **of old Argonia**. All of these representations possess an innate and
 > constant aspect of transformation.
 >
-> —*More on the Psijic Endeavor*{:tag="cite"}
+> _[More on the Psijic Endeavor][1]_{:tag="cite"}
 
 <!-- -->
 
@@ -43,7 +43,7 @@ about: |
 > sequence learned very cunningly that fragmentation reserved itself to the left
 > eye. Variation realms were the evidence needed.
 >
-> —*The Tsaesci Creation Myth and we ate it to become it*{:tag="cite"}
+> _[The Tsaesci Creation Myth: And We Ate It To Become It][2]_{:tag="cite"}
 
 <!-- -->
 
@@ -55,7 +55,7 @@ about: |
 >   The Hist version of the New Man. Rather, the way *they* would do it.
 > ```
 >
-> —*MK Info-Dumps, part two*{:tag="cite"}
+> _MK Info-Dumps, part two_{:tag="cite"}
 
 For both races, the Striking seems to represent a notion of sudden, swift, but
 very powerful change. The first meeting between Anu (Stasis) and Padomay
@@ -73,7 +73,7 @@ reaching CHIM.
 > themselves and became more eggs, for names are self-maters, and **the Naming**
 > went and went…
 >
-> —*The Tsaesci Creation Myth and we ate it to become it*{:tag="cite"}
+> _The Tsaesci Creation Myth: And We Ate It To Become It_{:tag="cite"}
 
 <!-- -->
 
@@ -84,7 +84,7 @@ reaching CHIM.
 > and into the rest of the kids waiting for their **naming ceremony**. Everyone
 > had a good laugh and the name stuck.
 >
-> —*Traveling-New-Woman*{:tag="cite"}
+> _Traveling-New-Woman_{:tag="cite"}
 
 The usage of names is the second important link between the Tsaesci and the
 Argonians that is worth mentioning. In Black Marsh, every Saxhleel undergoes a
@@ -110,7 +110,7 @@ Everything must have a name.
 
 > There was the Striking, and **the Egg** was split into twelve worlds…
 >
-> —*The Tsaesci Creation Myth and we ate it to become it*{:tag="cite"}
+> _The Tsaesci Creation Myth: And We Ate It To Become It_{:tag="cite"}
 
 <!-- -->
 
@@ -119,13 +119,13 @@ Everything must have a name.
 > An-Xileel had excavated it, room by room, pumping it out and laying magicks to
 > keep the water from returning.
 >
-> —*The Infernal City Lore Notes (Page 35 of the Infernal City)*{:tag="cite"}
+> _The Infernal City Lore Notes (Page 35 of the Infernal City)_{:tag="cite"}
 
 <!-- -->
 
 > **Egg-Brother**.
 >
-> —*Common Word Used By Argonians To One Another*{:tag="cite"}
+> _Common Word Used By Argonians To One Another_{:tag="cite"}
 
 Both the Argonians and the Tsaesci seem to have an egg-based view on the Aurbis,
 and it can be the reason why they use terms such as “Striking”, “Biting”, or
@@ -134,13 +134,13 @@ a result) of both races connections with reptilian creatures.
 
 ## Fourth Reason: Gods
 
-> Bosmeri god of payment in kind. Studies indicate origins in both **Argonian**
-> **and Akaviri mythologies**, perhaps introduced into Valenwood by Kothringi
+> Bosmeri god of payment in kind. Studies indicate origins in both **Argonian
+> and Akaviri mythologies**, perhaps introduced into Valenwood by Kothringi
 > sailors. Ostensibly an agriculture deity, Z’en sometimes proves to be an
 > entity of a much higher cosmic order. His worship died out shortly after the
 > Knahaten Flu.
 >
-> —*About Z’en, God of Toil, from Varieties of Faith*{:tag="cite"}
+> _About Z’en, God of Toil, from [Varieties of Faith][3]_{:tag="cite"}
 
 <!-- -->
 
@@ -149,7 +149,7 @@ a result) of both races connections with reptilian creatures.
 > the Striking. That is the reptile wheel, coiled potential, ever-preamble to
 > the never-action.
 >
-> —*36 Lessons of Vivec*{:tag="cite"}
+> _36 Lessons of Vivec_{:tag="cite"}
 
 Out of all the information present, this is what piques my curiosity the most.
 The Argonian and Tsaesci pantheons are probably the least well known out of all
@@ -168,16 +168,17 @@ deities of both groups.
 > The Worshippers of the Unnamed Lord, know as **“Argonians”** on Nirni, are the
 > **Descendents of Boethiah and the Serpent-men**.”
 >
-> —*On Boethiah’s Summoning Day*{:tag="cite"}
+> _On Boethiah’s Summoning Day_{:tag="cite"}
 
 While not the most trustworthy source, this piece also strongly hints at a
 relationship – this time biological – between the Argonians and the Tsaesci. The
 Unnamed Lord clearly refers to Sithis/Padomay, and the text calls the Saxhleel
 its worshippers (this isn’t that hard to consider, giving the Argonians strong
 view on change in their society). The Serpent-Men are also clearly the Akaviri
-known as the Tsaesci, who share some attributes with the Daedric Prince Boethiah.
+known as the Tsaesci, who share some attributes with the Daedric Prince
+Boethiah.
 
-----
+---
 
 However, the Summoning Day basically states that somehow Boethiah and the
 Tsaesci got together and made little Argonians (essentially). This is weird,
@@ -189,4 +190,10 @@ text implying?
 >
 > My own conjecture: The Hist, Argonians, and Tsaesci all originated on the same
 > fragment of one of the twelve worlds of creation.
+
 {:tag="aside" .afterword}
+
+[0]: https://www.imperial-library.info/content/36-lessons-vivec
+[1]: https://www.imperial-library.info/content/more-psijic-endeavor
+[2]: https://www.imperial-library.info/content/tsaesci-creation-myth-and-we-ate-it-become-it
+[3]: https://www.imperial-library.info/content/varieties-faith-wood-elves

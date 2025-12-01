@@ -26,7 +26,7 @@ narratively written slow introduction that I’m so used to doing:
 
 The Knahaten Flu is a Hist engineered RNA Virus resembling in basic behavior and
 physicality as the real life influenza virus. The Knahaten Flu, which will in
-the rest of this post be referred to as "KF", was created to isolate Black Marsh
+the rest of this post be referred to as “KF”, was created to isolate Black Marsh
 biologically so that everything alive within the Marsh is under the influence of
 the Hist. The Flu in its basic state causes an array of common symptoms that may
 lead eventually to death; however the specific goal of the Hist was to sterilize

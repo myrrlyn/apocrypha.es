@@ -22,7 +22,7 @@ However, as we will soon discover, there is evidence that 18 represents far more
 than just Vivec. Which works out, actually, because Vivec is far more than
 Vivec. It’s easy to prove. I can do it with a pocket calculator.
 
-In numerology, the way you put numbers together means something. 2 + 9 is not
+In numerology, the way you put numbers together means something. `2 + 9` is not
 the same thing as 2 and 9. We’re given 29 as the first number because all the
 numbers collectively are products of the math you can perform with 2 and 9.
 Which thematically makes sense; 2 (divinity) and 9 (mortality) are two very
@@ -35,7 +35,7 @@ Mortality multiplied by Divinity. This is actually an excellent description of
 Vivec. But it could also describe the Amaranth, a mortal who becomes empowered
 with the divine.
 
-From another angle, [thanks to Toesock][0], we can get to 18 with 3 * 6, which
+From another angle, [thanks to Toesock][0], we can get to 18 with `3 × 6`, which
 is the Six Walking Ways times The Invisible Gate, ALMSIVI. This is a reference
 to both reaching Heaven by Violence and the Secret Gate at the center of the
 heart of the Second Serpent, as described in [Sermon 21][1].
@@ -57,9 +57,9 @@ Nerevarine or not is a matter for debate.
 
 ## 9 - 2 = 7
 
-Mortality minus Divinity? Doesn’t make much sense that way, or the other, as 2 -
-9. But if you interpret 9 as "The Missing," a void, it starts to work. Removing
-a void from the Enantiomorph requires a Sword at its Center.
+Mortality minus Divinity? Doesn’t make much sense that way, or the other, as
+`2 - 9`. But if you interpret 9 as “The Missing”, a void, it starts to work.
+Removing a void from the Enantiomorph requires a Sword at its Center.
 
 ## 2 and 9 = 29
 
@@ -101,7 +101,7 @@ Love. Let’s take a bit from the [Loveletter][2]:
 > confirmed that a subject in sensory deprivation begins to hallucinate after
 > only twenty minutes. Scale unto this along the magical spectrum and
 > maintenance of time, which is forever, and you begin to see the Lunar God’s
-> failure as Greatest Gift. As above, “This is the love of God”.
+> failure as Greatest Gift. As above, “This is the love of God”.
 >
 > Why Love?
 >
@@ -127,10 +127,10 @@ repeating symbolic comparison that reoccurs constantly in Kirkbride’s
 metaphysics system. They are identical to all but the most wise. If the two
 worked together, imagine what they could achieve?
 
-1 + 1 = 2. The Enantiomorph. Nerevar plus his opposite, the Sharmat. The echo of
-Anu & Padomay.
+`1 + 1 = 2`. The Enantiomorph. Nerevar plus his opposite, the Sharmat. The echo
+of Anu & Padomay.
 
-1 + -1 = 0. Zero Sum. The Tower plus its negation, or the Tower minus itself.
+`1 + -1 = 0`. Zero Sum. The Tower plus its negation, or the Tower minus itself.
 This is how you zero-sum, if you ain’t got the chops, so to speak.
 
 Next up: Amaranth Candidates. Who qualifies? What do their mothers think? What

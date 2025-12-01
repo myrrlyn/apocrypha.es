@@ -17,8 +17,8 @@ date: 2014-03-01T16:43:22Z
 > thousand Orcish crusaders stormed the gates of the Ashpit and returned,
 > triumphant, with their god Malacath in chains…”*
 >
-> –_A History of the West in the Fourth Era, 3rd Edition_
-> {:tag="cite"}
+> –_A History of the West in the Fourth Era, 3rd Edition_{:tag="cite"}
+
 {:.foreword}
 
 King Gortwog and his aide, Vorga, stood on a dais in the throne room of the Iron

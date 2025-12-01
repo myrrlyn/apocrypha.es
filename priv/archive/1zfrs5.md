@@ -62,10 +62,10 @@ date: 2014-03-03T15:16:39Z
 |Nirni              |The world, Nirn                        |noun               |
 |Nirnijijri         |Nirn’s Skin, the crust of Nirn         |noun               |
 |Pal                |Day                                    |noun               |
-|Qa’khajahk|        |Unknown                                |Unknown            |
+|Qa’khajahk         |Unknown                                |Unknown            |
 |Ra’                |honor                                  |name prefix        |
 |Rabi               |own, mine                              |adjective          |
-|Rabiba|            |Unknown                                |Unknown            |
+|Rabiba             |Unknown                                |Unknown            |
 |Raj                |All                                    |adjective          |
 |Rawl               |Rain                                   |noun               |
 |Rawlith            |raining                                |verb               |
@@ -102,7 +102,7 @@ date: 2014-03-03T15:16:39Z
 |Zwintho            |Yellow (color)                         |adjective          |
 |Zwinthodurrarr     |yellow writing stick                   |concatenated noun  |
 
-1: possibly "sheep-shagger" or "whore"
+1: possibly “sheep-shagger” or “whore”
 2: official name of the language
 
 ## Ta’agra Language Study
@@ -118,15 +118,19 @@ have.)
 
 ### Sentence Structure
 
-Every day I walk for water [](){:tag="br"}
-Raj pal tohei da’khe iit [](){:tag="br"}
-All days go water walk [](){:tag="br"}
-\[adjective]-\[noun]-\[verb]-\[adjective]-\[noun]
+```verse
+Every day I walk for water
+Raj pal tohei da’khe iit
+All days go water walk
+[adjective]-[noun]-[verb]-[adjective]-[noun]
+```
 
-I have a yellow quill [](){:tag="br"}
-Zwinthodurrarr rabi [](){:tag="br"}
-Yellow writing stick mine [](){:tag="br"}
-\[adjective]-\[noun]-\[pronoun]
+```verse
+I have a yellow quill
+Zwinthodurrarr rabi
+Yellow writing stick mine
+[adjective]-[noun]-[pronoun]
+```
 
 ### Vowels
 
@@ -150,8 +154,8 @@ Phrases:
 - Fusozay var var – enjoy life (live life laughingly?)
 - Fusozay var dar – kill without qualm (end life laughingly?)
 - Ahzirr durrarriss – we give freely to the people (-iss|people, durrarr|write.
-- Writing and giving similar?)
+  Writing and giving similar?)
 - Ahzirr trajijazeri – we justly take by force
 - Ahn trajiir – for you
-- Var var var – what will be will be (life lives[v] lives[n]?)
+- Var var var – what will be will be (life lives\[v\] lives\[n\]?)
 - Da aqqa dween (a commendation of sorts)

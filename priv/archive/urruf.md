@@ -10,7 +10,7 @@ date: 2012-06-08T16:33:19Z
 
 This sentence is probably one of the most controversial lines in Skyrim in
 regards to the lore and many people use this line to show that Bethesda no
-longer cares for TESlore and that Skyrim "ruined the lore of TES". So, in
+longer cares for TESlore and that Skyrim “ruined the lore of TES”. So, in
 response to these people I propose an explanation/misinterpretation of the
 Alduin/Akatosh/Auri-el/Aka-Tusk/Bormahu dichotomy.
 
@@ -27,26 +27,27 @@ Time-God and true father of the Dovah.
 > “Happy? No, I am not happy. Zeymahi lost ont du’ul Bormahu. Alduin was once
 > the crown of our father Akatosh’s creation.”
 >
-> — Paarthurnax
-> {:tag="cite"}
+> _Paarthurnax_{:tag="cite"}
+
+<!-- -->
 
 > “His doom was written when he claimed for himself the lordship that properly
 > belongs to Bormahu — our father Akatosh.”
 >
-> — Paarthurnax
-> {:tag="cite"}
+> _Paarthurnax_{:tag="cite"}
+
+<!-- -->
 
 > “You will eat nothing here, aspect Ald,” said the Aka-Tusk, sensing trouble.
 > “Do not forget that it was Heaven itself that shed you from me.”
 >
-> — Aldudagga
-> {:tag="cite"}
+> _Aldudagga_{:tag="cite"}
 
 These are the best quotes out there in regards to the true nature of the
 Time-God. Upon taking a look at the first quote we see 2 sentences, one in
 Dragon Language and the other in normal Cyro-English. They basically say the
 same thing except for one word and that is Akatosh; in Dragon Language
-Paarthurnax says "Zeymahi lost ont du’ul Bormahu." which roughly translates to
+Paarthurnax says “Zeymahi lost ont du’ul Bormahu”. which roughly translates to
 “Brother was once the crown of our Father’s” whilst in Cyrodiilic he says “our
 father Akatosh”. The difference here is that in the Dragon Tongue Akatosh is
 never mentioned and that is very significant. Therefore we can gleam from this
@@ -59,7 +60,7 @@ Bormahu? Yes and No. No, because Akatosh was created during Alessia’s reforms
 and itself was a mix of Alduin and Auri-El and yes, because the new Akatosh of
 Alessia took the place of Bormahu.
 
-**Who are Aka-tusk, Auri-el, Alduin and Alkosh?**
+## Who are Aka-tusk, Auri-el, Alduin and Alkosh?
 
 - Aka-Tusk is another name for Borhamu and therefore Akatosh.
 - Auri-El is the creation aspect of Aka-Tusk. One of the Tusks of Aka.
