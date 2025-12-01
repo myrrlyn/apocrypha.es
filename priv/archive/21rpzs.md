@@ -190,9 +190,9 @@ understanding of precisely what you’re doing. As /u/laurelanthalasa [put it][4
 
 [0]: ./21c4yy
 [1]: ./21fqmi
-[2]: http://old.reddit.com/r/teslore/comments/21fqmi/a_model_of_the_godhead_and_its_contents_part_ii/cgcve9j
-[3]: http://uesp.net/wiki/Lore:Arkay_the_Enemy
-[4]: http://old.reddit.com/r/teslore/comments/21c4yy/a_model_of_the_godhead_and_its_contents_wherein_a/cgcu8fm
+[2]: https://old.reddit.com/r/teslore/comments/21fqmi/a_model_of_the_godhead_and_its_contents_part_ii/cgcve9j
+[3]: https://uesp.net/wiki/Lore:Arkay_the_Enemy
+[4]: https://old.reddit.com/r/teslore/comments/21c4yy/a_model_of_the_godhead_and_its_contents_wherein_a/cgcu8fm
 [5]: ./23lwi6
 [6]: ./250750
 [7]: ./269ad8

@@ -86,4 +86,4 @@ recited at royal ceremonies and events.
 > May Shor deny your soul to walk among true Nords in Sovengarde.
 {:.text-italic}
 
-[Appendix: Family Tree Chart and Timeline](http://en.uesp.net/wiki/User:Jimeee/Fiction/YsgramorDynasty)
+[Appendix: Family Tree Chart and Timeline](https://en.uesp.net/wiki/User:Jimeee/Fiction/YsgramorDynasty)

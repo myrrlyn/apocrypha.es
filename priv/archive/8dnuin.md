@@ -170,5 +170,5 @@ the Jarls named Princess Yrsa Snowblade of House Asbjorn as High Queen.
 
 [0]: ./7ttg7c
 [1]: ./7ri9vn
-[2]: http://en.uesp.net/wiki/Lore:The_Aetherium_Wars
+[2]: https://en.uesp.net/wiki/Lore:The_Aetherium_Wars
 [banner]: ./8dnuin/banner-gellir.png

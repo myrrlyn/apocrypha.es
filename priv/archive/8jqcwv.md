@@ -319,13 +319,13 @@ recover from the conflict, and ultimately it spelled the end of the
 500-year-old, once-proud and fearsome dynasty of Ysgramor the Returned.
 
 [0]: ./7r088c
-[1]: http://en.uesp.net/wiki/Lore:Lake_Canulus
-[2]: http://en.uesp.net/wiki/Online:Dragonfire_Cathedral
-[3]: http://en.uesp.net/wiki/Lore:On_Minotaurs
-[4]: http://en.uesp.net/wiki/Online:Viridian_Watch
-[5]: http://www.dictionary.com/browse/eyas
-[6]: http://en.uesp.net/wiki/Lore:Paarthurnax
-[7]: http://en.uesp.net/wiki/Lore:On_Oblivion
-[8]: http://en.uesp.net/wiki/Lore:Hanse
+[1]: https://en.uesp.net/wiki/Lore:Lake_Canulus
+[2]: https://en.uesp.net/wiki/Online:Dragonfire_Cathedral
+[3]: https://en.uesp.net/wiki/Lore:On_Minotaurs
+[4]: https://en.uesp.net/wiki/Online:Viridian_Watch
+[5]: https://www.dictionary.com/browse/eyas
+[6]: https://en.uesp.net/wiki/Lore:Paarthurnax
+[7]: https://en.uesp.net/wiki/Lore:On_Oblivion
+[8]: https://en.uesp.net/wiki/Lore:Hanse
 [9]: ./89u5f7
 [banner]: ./8jqcwv/banner-borgas.png

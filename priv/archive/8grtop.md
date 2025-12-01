@@ -185,8 +185,8 @@ ascended to the throne of Skyrim itself.
 I am of course alluding to the infamous last monarch of Ysgramor’s Dynasty:
 Borgas, son of Yngnavar Ghost-Bear.
 
-[0]: http://en.uesp.net/wiki/Skyrim:Elemental_Fury#Word_Wall_Translations
-[1]: http://en.uesp.net/wiki/Lore:Belharza
-[2]: http://en.uesp.net/wiki/Online:Behemoth
-[3]: http://en.uesp.net/wiki/Lore:On_Minotaurs
+[0]: https://en.uesp.net/wiki/Skyrim:Elemental_Fury#Word_Wall_Translations
+[1]: https://en.uesp.net/wiki/Lore:Belharza
+[2]: https://en.uesp.net/wiki/Online:Behemoth
+[3]: https://en.uesp.net/wiki/Lore:On_Minotaurs
 [banner]: ./8grtop/banner-yrsa.png

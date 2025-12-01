@@ -22,7 +22,7 @@ about: |
   him, but given it apparently happened in the middle of the war, I had to at
   least mention it.
 
-  [_A Scroll for Anska_]: http://en.uesp.net/wiki/Skyrim:A_Scroll_For_Anska
+  [_A Scroll for Anska_]: https://en.uesp.net/wiki/Skyrim:A_Scroll_For_Anska
 ---
 
 After High King Borgas was killed by the Wild Hunt in 1E 369, a power vacuum was

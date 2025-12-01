@@ -191,8 +191,8 @@ fortify it, by being a Tower of the Third Empire specifically. So, to get to
 Convention, they may have to get control of White-Gold first, which involves
 fighting against Talos’ influence.
 
-[0]: http://old.reddit.com/r/teslore/comments/2xyc9h/a_few_questions_about_the_state_of_the_towers/cp4mowc
+[0]: https://old.reddit.com/r/teslore/comments/2xyc9h/a_few_questions_about_the_state_of_the_towers/cp4mowc
 [1]: ./268egs
 [2]: ./24wmh2
-[3]: http://lagbt.wiwiland.net/wikibiblio/index.php/Landfall:_Day_One
+[3]: https://lagbt.wiwiland.net/wikibiblio/index.php/Landfall:_Day_One
 [4]: ./2un03x
