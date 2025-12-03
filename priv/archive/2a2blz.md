@@ -21,7 +21,7 @@ similar ideas regarding.
 
 > Of all evil I deem you capable: therefore I want the good from you. Verily, I
 > have often laughed at the weaklings who thought themselves good because they
-> had no claws... Watch them clamber, these swift monkeys! They clamber over one
+> had no claws… Watch them clamber, these swift monkeys! They clamber over one
 > another and thus drag one another into the mud and the depth. They all want to
 > get to the throne: that is their madness — as if happiness sat on the throne.
 > Often, mud sits on the throne — and often the throne also on mud. Mad they all
@@ -97,7 +97,7 @@ idea of Nietzsche:
 > possible! This old saint in the forest hath not yet heard of it, that God is
 > dead!_{:tag="q"}
 >
-> ... Who is the great dragon whom the spirit will no longer call lord and god?
+> … Who is the great dragon whom the spirit will no longer call lord and god?
 > “Thou shalt” is the name of the great dragon. But the spirit of the lion says,
 > “I will”. “Thou shalt” lies in his way, sparkling like gold, an animal covered
 > with scales; and on every scale shines a golden “thou shalt.”

@@ -65,7 +65,7 @@ The Direnni elves took advantage of the defenseless Western Reach and took the
 entire region with relative ease in 1E 390. Similarly, the Annals recount the
 Dark Elf rebellion in 1E 396 as follows:
 
-> ...and seeing that the Nords were divided, and weak, the Dunmer took counsel
+> …and seeing that the Nords were divided, and weak, the Dunmer took counsel
 > among themselves, and gathered together in their secret places, and plotted
 > against the kinsmen of Borgas, and suddenly arose, and fell upon the Nords,
 > and drove them from the land of Dunmereth with great slaughter.

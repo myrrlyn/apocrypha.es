@@ -55,7 +55,7 @@ Now, Nerevar and the Nerevarine were sent by Azura. This is a point that
 deserves little argument. Of course the Nerevarine was in no way bound to stay
 loyal to Azura, Morrowind starts and ends with a positive speech by Azura.
 Jubal-lun-Sul, though, is more interesting. He has no stated connection to
-Azura... except his name. In most instances, “Sul” indicates an Azura worshiper.
+Azura… except his name. In most instances, “Sul” indicates an Azura worshiper.
 See: Alandro Sul, Sul-Matuul, Sul-Senipal. The major exception is Arden Sul.
 Given everything we know about him, it stands to reason that he breaks rules.
 
@@ -84,7 +84,7 @@ since Jubal went Amaranth.
 
 ## Mediator
 
-...between the Tribunal and the Good Daedra. I’ve said it before, and I’ll say
+…between the Tribunal and the Good Daedra. I’ve said it before, and I’ll say
 it again: we view those groups to be in a conflict of interest. Since Azura and
 Vivec are the members of those groups who get the most screentime, we see them
 in particular to be at war. But there are two times when, I think, they came

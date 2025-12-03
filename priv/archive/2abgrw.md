@@ -221,8 +221,8 @@ Magic left behind because Magnus gave up on all the things Mundus could be to go
 back to what once was. So Ysmir is whats left, and thats what the Prisoner
 exemplifies. What could be. Free fate, uncertain stars and uncertain parents.
 His actions are unknowable, they could be anything. Magnus may be the Observer
-who deciphers between King and Rebel, but the Prisoner is the Fox who may...idk
-how to phrase it...influence events? It isnt about fate, its about changing
+who deciphers between King and Rebel, but the Prisoner is the Fox who may… idk
+how to phrase it… influence events? It isnt about fate, its about changing
 things. Like, the Prisoner chooses who is the Rebel and who is the King in the
 end. The Observer, he distinguishes it, then he records it in the Elder Scrolls.
 If the Observer discerns the two, without his prescence it would be impossibel

@@ -19,7 +19,7 @@ II’s comments contain the roots of this post!
 The nature of the Dreamsleeve has been one of the most confusing aspects of the
 lore for me for the very beginning. It’s been called a magical internet, it’s
 considered a soul recycling system, it’s theorized to be the Center where the
-Dreamer sleeps...
+Dreamer sleeps…
 
 I think it’s all of these. But maybe not in the way you’re used to thinking of
 it. I fully expect this bit of elaboration will be somewhat controversial,
