@@ -1,0 +1,62 @@
+---
+series: Lesser-Known Peoples of Tamriel
+part: 1
+title: The Coastal Wood Elves
+reddit: 24yvnj
+author: Lord_Hoot
+date: 2014-05-07T17:46:59Z
+---
+
+One of the most curious things that a visitor to Valenwood quickly discovers is
+that the Wood Elves, or Bosmer, are a dizzyingly heterogeneous people. As
+someone familiar with the three-and-thirty principalities of High Rock and the
+moon-forms of the Khajiit, I found the diversity of the Bosmer at once familiar
+and deeply enigmatic. Both in terms of culture and physical form they exhibit
+astonishing variety. A typical (if such a word can be used here) example of this
+would be the Bosmer of the far southern coast of Valenwood, among whom I was
+permitted to reside for several months.
+
+The elves of the south identify themselves as Bosmer, but I distinguish them
+with the name ‘Coast Elves’. Small in form like their neighbours, they tend
+towards the yellower skin of the High Elves with whom they trade by sea.
+Physically isolated by thick tracts of forest, impenetrable even to the
+surefooted Wood Elves, they have developed their own shore-hugging culture. They
+live in small fishing communities and in one larger trade settlement, whose name
+translates as ‘Haven’. They respect the green pact as much as any of their race,
+but maintain that Valenwood Proper ends where the sea begins and thus have
+become skilled farmers of seaweed. Naturally they also fish with great skill,
+and they hunt the great beasts of the sea: leviathans, thunder crabs, whales and
+sea-tigers. Their villages are built of sturdy whalebones around which are woven
+mats of dried seaweed. They cast great nets of cunningly-wrought leviathan
+tendon to catch fish by the thousands, which they eat raw by custom alongside
+sweet or salt-tasting sea plants. Their ships are not the work of woodcarvers,
+but are great hard fruits of enormous size which grow natural sails a little
+like those of the maple seed. These strange vessels are their only mode of
+transport.
+
+The beliefs of the Coastal Elves are unique among the Bosmer. They hold that the
+princes of Oblivion reside not in the sky but in the depths of the ocean, and
+that the land, sea and sky were once one and the same. At some point the air and
+water were divided in a great cataclysm, and their god Y’ffre sacrificed himself
+to become the land so that his children might not perish. As such the coast is a
+holy place to them, the point where three worlds meet, and few of them ever
+leave the shore for long. Their holy warriors wear armour fashioned from
+driftwood and enchanted with carved symbols, and they have made an art of
+battling with net and spear. They keep no books, and sacrifice all forms of
+writing to Herma-Mora by casting them into the waves once they have served their
+immediate purpose.
+
+The strangest thing about these Coast Elves is the hardest for me to describe.
+It can be observed that many Bosmer are born with unusual physical attributes:
+horns, small tails, cat-like eyes and so forth. Among this particular community
+many are born with some aspect of the sea reflected in their bodies. Webbed
+fingers and toes are common, patches of fish-like scales are occasionally seen,
+and I even witnessed one or two warriors with crab-like pincer claws. After I
+had gained the trust of these people I learned that perhaps one in every hundred
+of their kind is born drastically altered. Lacking feet or hands, and with gills
+like a fish, these newborns are cast into the sea as a sacrifice. My hosts only
+revealed this to me after much plying with alcohol, and refused to discuss the
+matter any further. I let the matter lie, but on windless nights I occasionally
+heard strange sounds out on the ocean. Sometimes I would see the elves stiffen
+as they heard it too, before resolutely ignoring it. Naturally this raised more
+questions, but I fear I hadn’t the courage to enquire.
