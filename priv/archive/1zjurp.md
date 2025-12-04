@@ -54,11 +54,11 @@ your mind blazes with yol. I name thee Iizyoldein, and I make you Sonaan!”
 
 With the utterance of those words, Vokunmahfass grabbed Iizyoldein and carried
 him to the Throat on the gentle breathes of \[Kaan?\], where he taught him the
-way of the Dovah and his own \[Zul], and the thu’um.
+way of the Dovah and his own \[Zul\], and the Thu’um.
 
 With these teachings, Iizyoldein grew from Kiir to Jul, and his \[power?\]
 became legendary. Nowhere else in Keizaal did one have such \[control and
-mastery\] of the talents of the Iizyol, the thu’um of combined frost and flame.
+mastery\] of the talents of the Iizyol, the Thu’um of combined frost and flame.
 
 But nowhere else either was there a Joor who was ruled with such bruniik. His
 city of Bo Od, dedicated to his lady Kaan, ran red with \[sos?\] from the toil
@@ -68,11 +68,11 @@ eventually his power became to threaten those of the other Sonaan and \[they\]
 hunted him.
 
 Enraged, Iizyoldein screamed a strun of Iizyol around his small \[Junaar\], and
-his enemies found themselves unable to cross the barrier, his thu’um was so
+his enemies found themselves unable to cross the barrier, his Thu’um was so
 powerful. It was then that the Sonaan and their In turned to Vokunmahfass, who
 forged Iizyoldein on frostbitten night.
 
-“Vokunmahfass, who creates the shadows of fear, only your thu’um can truly match
+“Vokunmahfass, who creates the shadows of fear, only your Thu’um can truly match
 that of your student. Lower his strun, and we will kill Iizyoldein. That is all
 we ask!”
 

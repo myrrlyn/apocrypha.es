@@ -99,7 +99,7 @@ such event was Olaf One-Eye’s battle with the great Dragon Numinex.
 Around 1E 415 Jarl Lokheim of Whiterun was killed when Numinex unexpectedly
 attacked the city. Lokheim was succeeded by a fearsome warrior named Olaf
 One-Eye who vowed to seek out the wyrm. Olaf purportedly confronted the dragon
-atop Mount Anthor, where he used the thu’um to defeat him. Olaf then conveyed
+atop Mount Anthor, where he used the Thu’um to defeat him. Olaf then conveyed
 the dragon back to Whiterun where he imprisoned it in his castle, dubbed
 Dragonsreach in honor of this task. King Olaf’s Verse famously challenges this
 account and claims Olaf was a fraud who was the one truly responsible for the

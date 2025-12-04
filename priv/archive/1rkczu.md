@@ -44,7 +44,7 @@ which meant he was the Dragonborn.”
 
 “Who’s telling the story here? Talos went to Cyrodiil, where he (as Tiber
 Septim) became King Cuhlecain’s general. He was a brilliant general whose Voice
-was only matched by his thu’um, his most famous feat being the reclamation of
+was only matched by his Thu’um, his most famous feat being the reclamation of
 Old H’roldan—”
 
 > “By striking a deal with the ghost of an ancient Nordic king at night.”

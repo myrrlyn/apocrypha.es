@@ -107,7 +107,7 @@ possessed him. He immediately tore off his prized Stalhrim breastplate and ran
 half-naked up the Jerall mountains Shouting Vukeinziivul’s name, interjected
 with expletives and profanities. According to legend, when he reached
 Vukeinziivul’s roost, Haknir single-handedly fought with both the priest and his
-master in an unrelenting battle of Thu’ums. The skies above were said to have
+master in an unrelenting battle of Thu’umme. The skies above were said to have
 rumbled with a deafening thunder for two days and nights and several avalanches
 were triggered all across the mighty Jeralls, engulfing soldiers from both
 sides.
