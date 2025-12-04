@@ -1,0 +1,101 @@
+---
+series: Naval Battles of the Great War
+part: 3
+title: Naval Battles of the Great War, Volume III
+hide_series: true
+reddit: 20rrao
+author: OCVLAR
+date: 2014-03-19T01:08:05Z
+pseudonym:
+  Captain Arsenius Silvanus, Vice Commodore of the Imperial Naval Institute
+---
+
+## Chapter 3: The Battle of Anvil Harbor
+
+The aftermath of the Battle of the Chain left the coastlines of western Cyrodiil
+and southern Hammerfell completely vulnerable to the amphibious Aldmeri
+invasions. While Commodore Orelius was fighting the corsairs in Cespar and
+Herne, the Altmer commanders split the army and assaulted the Empire from three
+fronts. On the 4th of Sun’s Dusk, 4E 171, Lady Arannelya crossed into West
+Colovia and marched towards Anvil. The Imperial Legion was aware of the Aldmeri
+presence in Valenwood through Penitus Oculatus contacts with anti-Thalmor Bosmer
+resistance groups, and as soon as General Darius Pontus received the
+intelligence, he immediately fortified Anvil for an assault. When the scouts
+reported a large troop movement across Strid River, General Pontus and his
+Legion prepared to meet the Aldmeri army. While most of the officers in the
+Imperial Legion expected to easily defeat the Old Mary, General Pontus was a
+cautious man. In addition to the force coming out of Valenwood, he expected an
+amphibious invasion on the city of Anvil itself. If the Legion met the Aldmeri
+troops outside Anvil, the city would be left vulnerable. Further, he could not
+underestimate the combined power of infamous Altmer mages and the legendary
+Bosmer rangers of Valenwood. Direct engagement in open battle would decimate the
+Legion before they could even get close. General Pontus decided instead to
+defend and hold Anvil through a siege and buy time for the rest of the Imperial
+Legion to consolidate its forces and coordinate a proper counter-offensive.
+
+While General Pontus was certainly not wrong in his assessment and strategy, his
+wariness would prove to be disastrous for the Empire. When the Aldmeri forces
+actually assaulted Anvil, it was by sea and not by land. In preparation for a
+siege, the every Imperial Navy ship in Anvil was moored in the harbor. Instead
+of landing the troops to assault the city itself, the Altmeri ships simply
+sailed along the harbor and bombarded the moored Imperial vessels from a safe
+distance from Imperial archers and battlemages. When all the ships in the harbor
+were destroyed, the Aldmeri Navy bombarded Anvil all night before leaving as
+suddenly as they had arrived. By the time General Pontus realized what was going
+on, he received a message from scouts reporting that the Aldmeri army from
+Valenwood was now preparing to cross Brena River. Lady Arannelya had completely
+bypassed Anvil and Kvatch, and having been played for a fool and lost the entire
+Gold Coast Fleet, infuriated General Pontus took all his troops from Anvil and
+pursued the Aldmeri army hoping to defeat them before they could cross into
+Hammerfell. But once he reached the river, the Aldmeri army was nowhere to be
+found except a large number of Altmeri ships sailing out into the Abecean Sea.
+
+## Chapter 4: The Battle of Lainebon Beach
+
+Meanwhile, a smaller Aldmeri force under the command of Lord Tyrandil landed at
+the eastern bank of Irk River. The Imperial Legion in Gilane was quickly
+alerted, and General Edwyn Baro of the Imperial Legion sent envoys to Sentinel
+and Taneth to coordinate a defense from a town east of Alik’r Desert called
+Riverview. The armies in Taneth will hold the city while the Imperial Legion and
+Redguard armies attacked the Aldmeri army from the north. To their surprise,
+however, the Aldmeri army crossed over to the western bank and began to march
+towards Lainebon. The sudden turn of events drew out the armies from Gilane and
+Taneth into pursuit. The Forebears of Taneth and the Crowns of Gilane raced
+between themselves expecting to win an easy victory against the Aldmeri Dominion
+despite the warnings from General Baro. If the Forebears defeated the elves,
+they would have the upper hand in the politics of Hammerfell over the Crowns,
+and vice-versa. The army from Sentinel was only crossing through Dak’fron when
+the disunited armies from Taneth and Gilane engaged the Aldmeri force under Lord
+Tyrandil just outside the city of Lainebon along Hew’s Bay.
+
+The Redguard commanders ordered a direct assault on the Aldmeri army that was
+waiting at Lainebon Beach, and despite suffering heavy casualties, the soldiers
+of Hammerfell pushed through forcing Lord Tyrandil to move his troops out of the
+beach. When the soldiers saw the Aldmeri troops retreating, they began to pursue
+the elves. Suddenly, Lord Tyrandil ordered his troops to turn around and hold
+position at the beachfront. Though the Redguards did not understand his tactics
+at first, they quickly realized a large fleet of Aldmeri ships approaching the
+beach. The fleet was under the command of Lady Arannelya, and it was carrying
+the troops that had escaped General Pontus in Colovia. The magickal bombardment
+from both sides of the beach quickly threw the Redguard army into chaos and some
+of the Forebears and the Crowns even resorted to fighting amongst themselves to
+escape the inferno. Only General Baro was able to rally the legionnaires and
+safely retreat to Riverview in order to reinforce the Imperial Legion from
+Sentinel. In a matter of few hours, the Redguard army was defeated and
+completely scattered, and Lord Tyrandil and Lady Arannelya consolidated their
+armies to meet the Empire at the eastern edge of Alik’r Desert in another battle
+that would result in the now-famous March of Thirst.
+
+Taking full advantage of their naval superiority over Abecean Sea, the Aldmeri
+Dominion was able to effectively maneuver its troops across the entire western
+coastline of Tamriel. Although the Aldmeri armies were both outnumbered and
+outmatched on land, the clever strategies of Lady Arannelya and Lord Tyrandil
+allowed the Dominion to divide and defeat one-by-one the larger and more
+powerful armies of the Imperial Legion. The Imperial defeat at the eastern edge
+of Alik’r Desert following the Battle of Lainebon Beach shocked the Empire and
+forced the Imperial Legion to commit more troops to the Colovian Highlands to
+defend Cyrodiil from the Aldmeri army in Hammerfell. But it only ended up
+dividing and overextending the Imperial Legion across Cyrodiil allowing the main
+Aldmeri army under Lord Naarifin waiting in Elsweyr to capture Leyawiin at the
+long and bloody Battle of Topal Bay where the fate of the Empire would be
+sealed.

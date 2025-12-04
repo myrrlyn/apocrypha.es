@@ -1,7 +1,7 @@
 ---
-series: Letters from the Wilds
-title: The Solstheim Correspondence
+series: The Solstheim Correspondence
 part: 1
+title: Letters from the Wilds
 reddit: 1z8vgk
 author: Blackfyre87
 date: 2014-03-01T06:14:19Z
@@ -15,8 +15,10 @@ date: 2014-03-01T06:14:19Z
 >
 > They were so interesting, I felt I simply had to collate them.
 >
-> Intendant Bero, Penitus Oculatus
+> _Intendant Bero, Penitus Oculatus_{:tag="cite"}
 {:tag="aside" .foreword}
+
+---
 
 Mogrul,
 
@@ -145,5 +147,3 @@ position, others can. Lleril isn’t as universally loved as you islanders like 
 think. Consider this a formal warning from House Redoran.
 
 Dralis Rorlen
-
----

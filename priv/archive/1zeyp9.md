@@ -1,14 +1,14 @@
 ---
-title: Naval Battles of the Great War, Volume I
 series: Naval Battles of the Great War
 part: 1
+title: Naval Battles of the Great War, Volume I
 hide_series: true
 reddit: 1zeyp9
 author: OCVLAR
 date: 2014-03-03T06:40:06Z
+pseudonym:
+  Captain Arsenius Silvanus, Vice Commodore of the Imperial Naval Institute
 ---
-
-by Captain Arsenius Silvanus, Vice Commodore of the Imperial Naval Institute
 
 ## Preface
 
