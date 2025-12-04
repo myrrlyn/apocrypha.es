@@ -14,6 +14,7 @@
     <.live_title prefix={@metadata[:tab_prefix]} suffix={@metadata[:tab_suffix] || " · Apocrypha"}>
       <%= @metadata[:tab_title] || @metadata.title %>
     </.live_title>
+    <link rel="icon" href={~p"/images/vivec.png"} />
     <link phx-track-static rel="stylesheet" href={~p"/assets/app.css"} />
     <script defer phx-track-static type="text/javascript" src={~p"/assets/app.js"}>
     </script>
