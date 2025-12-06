@@ -1,7 +1,7 @@
 ---
-title: Root Meditation with Ysgramor
 series: Root Meditations
 part: 5
+title: Ysgramor
 reddit: 1zkg3c
 author: Al-Hatoor
 date: 2014-03-04T21:53:06Z

@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 17
-title: Day 21, Cycle B
+title: Captain’s Log, Day 21, Cycle B
 reddit: 26vnqj
 author: Jaridase_Zasmyocl
 date: 2014-05-30T15:03:16Z

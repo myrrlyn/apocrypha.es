@@ -1,7 +1,7 @@
 ---
-title: Root Meditation With The Mane
 series: Root Meditations
 part: 7
+title: The Mane
 reddit: 2dnh6w
 author: Al-Hatoor
 date: 2014-08-15T17:41:59Z

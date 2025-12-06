@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 1
-title: Day 0, Cycle A
+title: Captain’s Log, Day 0, Cycle A
 reddit: 25ecbh
 author: Jaridase_Zasmyocl
 date: 2014-05-12T22:23:39Z

@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 8
-title: Day 11, Cycle B
+title: Captain’s Log, Day 11, Cycle B
 reddit: 25yasc
 author: Jaridase_Zasmyocl
 date: 2014-05-19T16:36:52Z

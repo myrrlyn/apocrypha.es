@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 26
-title: Day 35, Cycle A
+title: Captain’s Log, Day 35, Cycle A
 reddit: 28jyvy
 author: Jaridase_Zasmyocl
 date: 2014-06-19T14:43:27Z

@@ -1,11 +1,10 @@
 ---
 series: Moon-Meetings
 part: 4
-title: Moon-Meeting with Sotha Sil
+title: Sotha Sil
 reddit: 1sbgqr
 author: Mr_Flippers
 date: 2013-12-07T14:51:33Z
-hide_series: true
 ---
 
 Over a rotational vellus cycle, under a false logic cube, between semi-coherent

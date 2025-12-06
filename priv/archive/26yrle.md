@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 18
-title: Day 24, Cycle A
+title: Captain’s Log, Day 24, Cycle A
 reddit: 26yrle
 author: Jaridase_Zasmyocl
 date: 2014-05-31T16:33:08Z

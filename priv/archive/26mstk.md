@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 14
-title: Day 18, Cycle B
+title: Captain’s Log, Day 18, Cycle B
 reddit: 26mstk
 author: Jaridase_Zasmyocl
 date: 2014-05-27T19:56:57Z

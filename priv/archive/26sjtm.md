@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 16
-title: Day 20, Cycle A
+title: Captain’s Log, Day 20, Cycle A
 reddit: 26sjtm
 author: Jaridase_Zasmyocl
 date: 2014-05-29T15:28:41Z

@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 13
-title: Day 16, Cycle A
+title: Captain’s Log, Day 16, Cycle A
 reddit: 26dwkq
 author: Jaridase_Zasmyocl
 date: 2014-05-24T17:01:56Z

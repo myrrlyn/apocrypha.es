@@ -1,7 +1,7 @@
 ---
-title: Root Meditation with Topal The Pilot
 series: Root Meditations
 part: 4
+title: Topal the Pilot
 reddit: 1zkemv
 author: Al-Hatoor
 date: 2014-03-04T21:40:38Z

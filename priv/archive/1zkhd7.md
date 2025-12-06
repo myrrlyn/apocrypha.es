@@ -1,7 +1,7 @@
 ---
-title: Root Meditation with Numidium
 series: Root Meditations
 part: 6
+title: Numidium
 reddit: 1zkhd7
 author: Al-Hatoor
 date: 2014-03-04T22:04:12Z

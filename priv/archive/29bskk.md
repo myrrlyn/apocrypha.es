@@ -1,5 +1,5 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 31
 title: Discourse Notes
 reddit: 29bskk

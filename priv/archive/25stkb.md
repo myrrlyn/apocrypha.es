@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 6
-title: Day 7, Cycle B
+title: Captain’s Log, Day 7, Cycle B
 reddit: 25stkb
 author: Jaridase_Zasmyocl
 date: 2014-05-17T16:43:31Z

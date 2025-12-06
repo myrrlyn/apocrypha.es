@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 4
-title: Day 4, Cycle C
+title: Captain’s Log, Day 4, Cycle C
 reddit: 25mtii
 author: Jaridase_Zasmyocl
 date: 2014-05-15T15:53:10Z

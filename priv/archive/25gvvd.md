@@ -1,7 +1,7 @@
 ---
-series: Mission Akatouch, Captain’s Log
+series: Mission Akatouch
 part: 2
-title: Day 3, Cycle A
+title: Captain’s Log, Day 3, Cycle A
 reddit: 25gvvd
 author: Jaridase_Zasmyocl
 date: 2014-05-13T18:26:00Z
