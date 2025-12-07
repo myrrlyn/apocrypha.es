@@ -1,7 +1,7 @@
 ---
-title: Peryite Creates Diseases
 series: The Eight Anecdotes of Perakeluin
 part: 6
+title: Peryite Creates Diseases
 reddit: 1zpyxs
 author: Al-Hatoor
 date: 2014-03-06T14:39:56Z

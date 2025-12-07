@@ -1,0 +1,5 @@
+{
+    "markdown.copyFiles.destination": {
+        "priv/archive/*.md": "${documentDirName}/${documentBaseName}/${fileName}"
+    }
+}
