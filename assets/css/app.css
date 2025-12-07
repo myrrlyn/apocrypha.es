@@ -345,3 +345,14 @@ table.calendar td, table.calendar th {
   text-align: center;
   border: 1px solid var(--fg);
 }
+
+p.censored:has(> del) {
+  text-decoration-line: line-through;
+  text-decoration-thickness: 4px;
+  color: red;
+}
+
+p.censored > del {
+  color: var(--fg);
+  text-decoration: none;
+}
