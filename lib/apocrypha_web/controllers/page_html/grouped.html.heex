@@ -4,9 +4,10 @@
 <nav>
   <ol>
     <li :for={{title, posts} <- @all_groups}>
-      <.link href={"##{Apocrypha.to_ident(title)}"} class={@class}>
+      <.link href={"#" <> Apocrypha.to_ident(title)} class={@class}>
         <%= title %>
-      </.link> (<%= posts |> length %>)
+      </.link>
+      (<%= length(posts) %>)
     </li>
   </ol>
 </nav>
@@ -18,7 +19,7 @@
   </h2>
   <ol>
     <li :for={{post, idx} <- Stream.with_index(posts, 1)} id={"#{grp_id}-n#{idx}"}>
-      <.link_article post={post} />
+      <.link_article post={post} show_series={@series_in_title} show_author={@show_author} />
     </li>
   </ol>
 </section>

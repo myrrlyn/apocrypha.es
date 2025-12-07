@@ -12,11 +12,10 @@ defmodule Apocrypha.Frontmatter.Page do
   def new(map) do
     {title, map} = Map.pop!(map, "title")
     {tab_title, map} = Map.pop(map, "tab_title")
+
     %__MODULE__{
       title: title,
-
       tab_title: tab_title,
-
       rest: map
     }
   end
@@ -41,15 +40,16 @@ defmodule Apocrypha.Frontmatter.Post do
   defstruct [:series, :part, :title, :subtitle, :reddit, :author, :date, :about, {:rest, %{}}]
 
   @type t :: %__MODULE__{
-    series: String.t() | nil,
-    part: pos_integer() | nil,
-    title: String.t(),
-    subtitle: String.t() | nil,
-    reddit: String.t(),
-    author: String.t(),
-    date: DateTime.t(),
-    about: String.t() | nil,
-  }
+          series: String.t() | nil,
+          part: pos_integer() | nil,
+          title: String.t(),
+          subtitle: String.t() | nil,
+          reddit: String.t(),
+          author: String.t(),
+          date: DateTime.t(),
+          about: String.t() | nil,
+          rest: %{}
+        }
 
   @doc """
   Processes an arbitrary map into a Frontmatter structure.
@@ -70,12 +70,10 @@ defmodule Apocrypha.Frontmatter.Post do
       reddit: reddit |> to_string(),
       author: author,
       date: date |> Timex.parse!("{RFC3339z}"),
-
       series: series,
       part: part,
       subtitle: subtitle,
       about: about,
-
       rest: map
     }
   end

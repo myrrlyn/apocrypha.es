@@ -10,7 +10,7 @@ defmodule Apocrypha.Banners.Banner do
       caption: caption,
       pos: pos,
       dim: dim,
-      url: Path.join(["/images", "banners", file]),
+      url: Path.join(["/images", "banners", file])
     }
   end
 

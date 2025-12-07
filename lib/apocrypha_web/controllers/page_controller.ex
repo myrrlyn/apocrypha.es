@@ -19,14 +19,19 @@ defmodule ApocryphaWeb.PageController do
 
     text =
       Apocrypha.Page.render(page) <>
-        "<hr /><section><pre><code>" <>
+        "<hr /><section><pre class=\"lang-markdown\"><code>" <>
         (File.read!("priv/pages/style-guide.md")
          |> String.trim()
          |> Phoenix.HTML.html_escape()
          |> Phoenix.HTML.safe_to_string()) <>
         "</code></pre></section>"
 
-    render(conn, :page, classes: ["style-guide"], content: text, metadata: meta, show_about: false)
+    render(conn, :page,
+      classes: ["style-guide"],
+      content: text,
+      metadata: meta,
+      show_about: false
+    )
   end
 
   def random(conn, _params) do
@@ -47,7 +52,8 @@ defmodule ApocryphaWeb.PageController do
         show_about: false,
         content: Apocrypha.Page.render(page),
         metadata: page.meta,
-        show_about: false
+        show_about: false,
+        series_in_title: true
       )
 
     Task.await(index)
@@ -76,6 +82,8 @@ defmodule ApocryphaWeb.PageController do
         classes: ["series-index"],
         class: ["text-title"],
         show_about: false,
+        show_author: true,
+        series_in_title: false,
         content: Apocrypha.Page.render(page),
         metadata: page.meta,
         all_groups: all_series
@@ -95,6 +103,8 @@ defmodule ApocryphaWeb.PageController do
         classes: ["authors-index"],
         class: [],
         show_about: false,
+        series_in_title: true,
+        show_author: false,
         content: Apocrypha.Page.render(page),
         metadata: page.meta,
         all_groups: all_authors

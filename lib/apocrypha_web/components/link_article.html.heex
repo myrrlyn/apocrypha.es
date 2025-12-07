@@ -1,3 +1,5 @@
-<.link href={~p"/a/#{@post.reddit}"}>
-  <span class="text-title"><%= @post.title %></span>
-</.link> by /u/<%= @post.author %>
+<span :if={@show_series && @post.series && !@post.rest["hide_series"]} class="text-title">
+  <%= @post.series %><%= if @post.part, do: " #{@post.part}", else: "" %>:
+</span>
+<.link href={~p"/a/#{@post.reddit}"}><span class="text-title"><%= @post.title %></span></.link>
+<span :if={@show_author}>by /u/<%= @post.author %></span>

@@ -30,8 +30,9 @@ defmodule Apocrypha.Application do
 
     case out do
       {:ok, _pid} -> Apocrypha.Library.build_index()
-        _ -> nil
+      _ -> nil
     end
+
     Logger.notice("boot complete")
 
     out

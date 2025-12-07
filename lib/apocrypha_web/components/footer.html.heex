@@ -1,10 +1,13 @@
 <footer class="screen-only">
   <span class="text-center">
-    Served with
-    <.link href="//elixir-lang.org/">Elixir <%= System.version %></.link>
+    Served with <.link href="//elixir-lang.org/">Elixir <%= System.version() %></.link>
     and
-    <.link href="//www.phoenixframework.org/">Phoenix <%= :application.get_key(:phoenix, :vsn) |> elem(1) %></.link>
+    <.link href="//www.phoenixframework.org/">
+      Phoenix <%= :application.get_key(:phoenix, :vsn) |> elem(1) %>
+    </.link>
   </span>
-  <span class="text-center">Mirrored from <.link href="//reddit.com/r/teslore">/r/teslore</.link></span>
+  <span class="text-center">
+    Mirrored from <.link href="//reddit.com/r/teslore">/r/teslore</.link>
+  </span>
   <!-- <span class="text-center">Not hosted anywhere yet</span> -->
 </footer>

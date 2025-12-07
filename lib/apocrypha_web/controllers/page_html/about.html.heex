@@ -5,7 +5,8 @@
     <.link href={"//old.reddit.com/r/teslore/comments/" <> @metadata.reddit}>
       posted to /r/teslore
     </.link>
-    on <time datetime={Timex.format!(@metadata.date, "{RFC3339z}")}>
+    on
+    <time datetime={Timex.format!(@metadata.date, "{RFC3339z}")}>
       <%= Timex.format!(@metadata.date, "{YYYY}, {Mshort} {D} at {h24}:{m} UTC") %>
     </time>
     by <.link href={"//reddit.com/u/" <> @metadata.author}>
@@ -13,7 +14,7 @@
   </p>
   <div :if={about = @metadata.about}>
     <hr />
-    <%= about |> Earmark.as_html!() |> raw() %>
+    <%= about |> Apocrypha.Markdown.render() |> raw() %>
     <hr />
   </div>
   <p>

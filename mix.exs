@@ -76,7 +76,7 @@ defmodule Apocrypha.MixProject do
       "assets.deploy": [
         "tailwind default --minify",
         "esbuild default --minify",
-        "cmd cp -R assets/static/* priv/static/",
+        "cmd cp -r assets/static/ priv/",
         "phx.digest"
       ],
       serve: [

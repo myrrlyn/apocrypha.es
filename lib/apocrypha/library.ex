@@ -78,9 +78,24 @@ defmodule Apocrypha.Library do
     end)
     # Convert each bucket into a date-sorted list
     |> par_map(fn {author, posts} -> {author, date_sorter(posts)} end)
-    # Sort the buckets by author name, case-insensitively
-    |> Enum.sort_by(&elem(&1, 0), &(String.downcase(&1) < String.downcase(&2)))
+    # Cluster author/oeuvre buckets by count of works
+    |> Enum.group_by(&length(elem(&1, 1)))
+    # Sort the work-count buckets in descending order
+    |> Enum.sort_by(&elem(&1, 0), :desc)
+    # Within each bucket, sort authors by case-insensitive name, and flatten.
+    |> Stream.flat_map(fn {_, oeuvre} ->
+      Enum.sort_by(oeuvre, &elem(&1, 0), &(String.downcase(&1) < String.downcase(&2)))
+    end)
   end
+
+  @spec lookup_by_author(String.t()) :: posts()
+  def lookup_by_author(username)
+
+  def lookup_by_author(username) when is_binary(username) do
+    snapshot_values() |> Stream.filter(&(&1.author == username)) |> date_sorter()
+  end
+
+  def lookup_by_author(_), do: []
 
   @doc """
   Clusters articles by year, then by month.
