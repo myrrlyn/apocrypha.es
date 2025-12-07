@@ -1,5 +1,6 @@
 ---
 series: Bedtime Stories
+part: 5
 title: An Alehouse Story About Sload
 reddit: 1rjlha
 author: OPGreenback

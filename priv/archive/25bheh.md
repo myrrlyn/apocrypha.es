@@ -1,0 +1,150 @@
+---
+title: Reymon Ebonarm
+subtitle: The Once and Future King
+reddit: 25bheh
+author: Sythirius
+date: 2014-05-12T00:11:34Z
+---
+
+For millennia, scholars have debated the existence of the folk god Ebonarm, and
+where particularly he fits within the Cult of the Nine. Some say he is simply
+the Breton version of Stendarr, while others say that he is related to Trinimac.
+And there are others who have the strange idea that his ebony armor is sign of
+the dunmeri god Boethiah manifesting. Many of his devotees will even tell you
+that the Divines themselves were moved by his actions as a man, and rewarded him
+with minor godhood. The truth, if there is any however, has been difficult to
+pin down. No doubt due to the extreme variations of tales and legends referring
+to Ebonarm. The stories of the god’s appearance are so many that I won’t be
+dealing with them in this particular work, but instead focusing on what scholars
+hold to be the general consensus for the god’s origin.
+
+Reymon of Evermor was a Dunlish woodcutter who plied his goods up the Bjoulsae
+towards Hammerfell, trading with the dwarf-orcs who lived in the mountains as
+well as the tribes around the river banks. Again and again, he would roll the
+bone-timber into the roaring rapids and [stand upon them][0], beaming with the
+gaze of the sun upon him. He was not known as a wealthy man, but he was
+successful in being one of the sole traders willing to not only cut down the
+bone-trees, but also to take them many miles from their source. The difficulty
+of this can not be understated, as the bleeding trees attract wild animals, and
+it is likely that Reymon had to fight off many a foe to keep his prize.
+
+[![][1]][0]
+
+If Reymon had chosen some other profession, who knows what would have
+transpired. But it so happened that on a cheery spring morning, the rapids
+lashed up and buried him under the curtain of logs. He battled the waters and
+his wares to get to return to Kynareth’s blessing, but he was ultimately unable
+to do so. The fickle Bjoulsae would claim another beneath its watery domain.
+
+It is not known how much of the next part of the story is true, but it is said
+that he was saved by the merrish folk living in the river. He awoke upon the
+banks of the river, far from home and any supplies with the strange river folk
+gazing upon him. They blessed him, calling him Ebonarm, and kissed his nine
+apertures with river muck, and glazed his forehead with mud, which would come to
+be known as a symbol of priesthood. Then from among their company, it is said
+that a [she-fish][2] of very regal stature approached him, carrying aloft in her
+fins the black armor that would christen him with his new name. [Some say it is
+the armor of Trinimac, others Boethiah’s ebony mail, while the skeptics believe
+that it was just regular old tarnished armor.][4] Whatever the truth, it is at
+this point the historical records become unclear. Some indicate that Reymon
+returned to Evermor, where his people rejected him, saying he smelled of dung,
+while others say he wandered aimlessly, contemplating the meaning of life.
+Whatever the case, the records begin again with him ascending Wrothgar to the
+very peak of her highest mountain.
+
+[![][3]][2]
+
+[![][5]][4]
+
+Fighting through Orcs with naught but fists, the bloodied warrior reached the
+peak and received the embrace of her Holiness, the Blue Star. She came unto him
+and granted him Memory, teaching of him the portents of fate as well as the
+nature of men. She anointed him as her once and forever champion, and he
+descended Wrothgar under the alignment of 108 stars, conquering and to conquer.
+
+Through some strange luck, scholars have found no record of the specific dates,
+which means it is likely that they did not survive the passage of time. Many
+records are contradictory with the dates they do indicate, making it possible
+that he ruled during the “Lost Era” of 1008 years that some scholars lecture on.
+It is traditionally taught that within 13 years, he had conquered High Rock,
+becoming the supreme ruler of all Bretons, and instilling worship of Mnemoli and
+the Magne-ge as the national religion of High Rock.
+
+Some scholars blame him for his lack of initiative against the Redguard
+insurgents near the borders, but this may be a tad unfair. Reymon had turned his
+focus on ruling and giving his subjects a peaceful High Rock, while sending a
+trusted general to deal with the borders as he pleased. While this may be
+strange for what most may consider a god of war, it should be noted that Ebonarm
+historically always fought with a clear end in mind. He would unmercifully
+slaughter a single village to prevent the others from rising against him, for
+the purpose of it leading to less war and less death in the end. As a king, his
+focus was always on peace, which explains his lack of expansionist policy
+against the Ra’ga, which until the Miracle of Peace, was unheard of.
+
+His ambitious commander however, went too far, and plunged into Hammerfell
+seeking to bring the Redguards under foot. This may seem like a betrayal against
+his liege, but the general probably assumed he would be forgiven for his
+success. His military victories were quick and successful but incited the full
+wrath of Hammerfell. In his final battle, south of what is now Sentinel, the
+strongest god of the Redguards, the Hoon Ding, came out to battle and crushed
+his army entirely. Immediately after, the Redguard horde pushed towards High
+Rock.
+
+By the time Reymon had heard the news of his trusted general’s defeat, the
+Redguards were already in High Rock. Mustering an army as quickly as he could,
+the black-mailed war savant rode out to meet them, in the hopes to limit
+casualties. Most consider it a mistake, and unlikely of him, that he rode with
+the cavalry ahead of the infantry, but it was probably to draw out the enemy
+army into a trap.
+
+Not much is known about the actual strategy used, but we do know that the battle
+raged for days,
+[with Ebonarm taking the field to meet the Hoon Ding each time.](https://www.youtube.com/watch?v=Ak3Nd7h3ox0&list=FLxA7-J2h26Z1Uuy1eGZ8ylQ&index=18)
+The Alik’r hold that it was three days that Reymon stopped their god of
+Make-Way’s blows on his shield. On the final day, it is said that the armies sat
+and watched, seeing that the victor between the two would decide the other
+side’s fate. According to Alik’r tradition, on the fourth day, Ebonarm’s shield
+was broken, and he was struck down. The wound proved quickly fatal, and Reymon
+Ebonarm died, in sight of all of his men, the rays of High Rock shining down
+through the clouds upon him. This is a very lofty depiction, and likely not
+factual, although the occasional scholar will surmise that perhaps the Hoon
+Ding’s blow parted the skies. Strange Yoku mysticism of the relation between the
+sword saints and Tava besides, this is clearly an over-glorified portrayal of
+the mighty king brought low. Bretons have a flair for the dramatic to be found
+in every corner of their culture after all.
+
+What happens next is again graciously described by the tribes of the Alik’r. It
+is said that their god was so moved by the strength of Reymon that he carried
+his body himself from the field and brought it to his generals. A truce was
+called, and the Redguards returned to Hammerfell while the grieving Bretons
+buried their King. He was buried in the place of his birth, Evermor, but it was
+seen as disgraceful that he could no longer be connected to Wrothgar, so a
+tradition began, which would later become the Pilgrim’s Path for entering
+priesthoods. A pilgrim would walk from Evermor to Normar, around the mountain of
+Wrothgar, from where they would take some soil, and empty it on Reymon’s tomb.
+It is a tradition for whom the ordinary citizens of High Rock have forgotten the
+purpose, and many mounds of earth may be found in Evermor’s cemetery.
+
+Strangely enough, history does not leave off here. Legend has it that a certain
+Cyrod noble had a crest which was believed to be one that the descendants of
+Reymon later adopted. A Ra’ga sword piercing a black stone set upon a bright
+green hill. The noble in question is believed by many to be the parent of a
+certain Reman, who later become the Emperor of Tamriel. There is even a
+tradition in Evermor where dirt from Reman’s hill is stacked up upon a shrine to
+him there. From here, the connection continues to Talos, and Ebonarm falls into
+obscurity, becoming a small, local god of whom even many Bretons are ignorant.
+His aim for a unified and peaceful High Rock was a failure and never truly came
+to fruition, and he is now ironically a god of war to bloodthirsty barbarians
+wishing to become a new “King upon the Mountain”. For many however, he will
+forever be the Rock of Altbal. Always ready to defend her, when he is needed.
+
+> Credit to Yoshitaka Amano and Thunderbr for the artwork.
+
+{:tag="aside" .afterword}
+
+[0]: https://www.krisweb.com/krisbigriver/krisdb/html/krisweb/history/hpbig30.jpg
+[1]: ./25bheh/hpbig30.jpg
+[2]: https://www.deviantart.com/thunderbr/art/Fish-Woman-Smudge-367319530
+[3]: ./25bheh/d62oxka.png
+[4]: https://img2.wikia.nocookie.net/__cb20120706130530/finalfantasy/images/5/5e/4a-cecil_harvey_v2.jpg
+[5]: ./25bheh/cecil-harvey.jpg

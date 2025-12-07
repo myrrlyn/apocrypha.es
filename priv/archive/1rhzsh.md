@@ -1,5 +1,6 @@
 ---
 series: Bedtime Stories
+part: 2
 title: A Bed Time Story About Men
 reddit: 1rhzsh
 author: Hollymarkie

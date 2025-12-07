@@ -1,5 +1,6 @@
 ---
 series: Bedtime Stories
+part: 1
 title: A Bedtime Story About the Elves
 reddit: 1rhg1f
 author: myrrlyn

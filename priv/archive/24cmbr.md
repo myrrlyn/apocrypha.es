@@ -27,7 +27,7 @@ knowledge came to be recorded. Rather, marvel that it exists at all.
 “I was at ground zero. Alinor. Within seconds, most of the city did not exist
 anymore. Wherever It looked, was not. It didn’t just destroy, it unmade. How do
 you fight physical uncertainty? Can a sword dent armor that only exists when
-you're not looking? Is there even a way to combat an enemy that, should you
+you’re not looking? Is there even a way to combat an enemy that, should you
 acknowledge it, rejects you so utterly that it changes the fact of you? I had
 friends die in that battle. I know I did. Do I know who they were? Of course
 not. They never existed. All I know for certain is that I held my mirror so
@@ -69,7 +69,7 @@ Beast for centuries.”
 
 ## Divayth Fyr, Dunmer, Corprusorcerer
 
-“If you're asking where I was when the Numidium “returned”, you're asking the
+“If you’re asking where I was when the Numidium “returned”, you’re asking the
 wrong question. Because the truth is that _it never left_. You were just too
 busy ignoring it. How could you not? To look at something so terrible is to
 invite cessation. To hear its alarum is to risk waking up from your dream. You

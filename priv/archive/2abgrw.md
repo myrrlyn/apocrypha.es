@@ -47,7 +47,7 @@ merge peacefully. The proof is in the Arcturian Heresy.
 
 > The Numidium, while not the god Tiber Septim and the Dwemer hoped for (the
 > Underking was not exactly Lorkhan, after all), it does the job. After its work
-> on Summerset Isle a new threat appears -- a rotting undead wizard who controls
+> on Summerset Isle a new threat appears – a rotting undead wizard who controls
 > the skies. He blows the Numidium apart. But it pounds him into the ground with
 > its last flailings, leaving only a black splotch.
 

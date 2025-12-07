@@ -1,5 +1,6 @@
 ---
 series: Bedtime Stories
+part: 4
 title: A Bedtime Story about Bedtime Stories
 reddit: 1rimhq
 author: lebiro

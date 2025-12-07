@@ -1,5 +1,6 @@
 ---
 series: Bedtime Stories
+part: 6
 title: A Campfire Story about Tiber Septim
 reddit: 1rkczu
 author: Asotil

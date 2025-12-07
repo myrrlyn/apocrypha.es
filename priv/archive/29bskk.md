@@ -48,7 +48,7 @@ D: Aye, but they’re getting better.
 
 R: If they’re still alive, you mean.
 
-S: I would think they are. Why -- ---
+S: I would think they are. Why – ---
 
 D: --- ----------
 
@@ -113,7 +113,7 @@ J: You don’t think they reached him then?
 
 S: No, they probably got off course in time.
 
-D: Imagine, little knots of ---- -- ----------
+D: Imagine, little knots of ---- – ----------
 
 ---
 

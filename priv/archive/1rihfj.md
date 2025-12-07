@@ -1,5 +1,6 @@
 ---
 series: Bedtime Stories
+part: 3
 title: A Bedtime Story About the Lizard-Men
 reddit: 1rihfj
 author: Al-Hatoor

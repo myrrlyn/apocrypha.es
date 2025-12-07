@@ -1,5 +1,6 @@
 ---
 series: Bedtime Stories
+part: 7
 title: A Bedtime Story about Cat-Men
 reddit: 1rkdzn
 author: Mr_Flippers
