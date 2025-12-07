@@ -1,7 +1,7 @@
 ---
-series: A Report on the Bloodlines of Tamriel's Vampires
+series: A Report on the Bloodlines of Tamriel’s Vampires
 part: 2
-title: A Report on the Bloodlines of Tamriel's Vampires, Vol II
+title: A Report on the Bloodlines of Tamriel’s Vampires, Vol II
 reddit: 25icqh
 author: Zoeyface
 date: 2014-05-14T03:34:31Z
