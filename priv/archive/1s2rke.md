@@ -1,7 +1,7 @@
 ---
-title: Peryite Lies for Alduin
 series: The Eight Anecdotes of Perakeluin
 part: 2
+title: Peryite Lies for Alduin
 reddit: 1s2rke
 author: Al-Hatoor
 date: 2013-12-04T13:34:18Z
