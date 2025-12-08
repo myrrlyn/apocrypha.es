@@ -1,0 +1,27 @@
+---
+title: Pay the Price and I’ll Make the Way
+reddit: 2dbfc7
+author: Kurufinve
+date: 2014-08-12T07:38:30Z
+---
+
+Good evening, what do you need? To bring you to the right place? But do you even
+know your destination? So, you do, but you don’t see the way. Y’know, just
+follow the Warrior and everything will be g… OK, got it: I shall bring you to
+whereever you want, but money first - money are the religion of unbelievers and
+infidels, the lifeblood of the world. They say, once upon a time an evil spirit
+has used the giant ruby (or was it a diamond?) to bribe a king into… But that’s
+the long story, just pay your fees and go onboard. Whoa! That’s too much, where
+did you get it? With that amount you could buy the living statue from the
+distant lands. But I’m the fair captain, I know all the sorts of honor and have
+no need for extra coins. Don’t mistake me with those pirates and black
+merchants. Did you see that midget with a pet? He would take the last trousers
+from you, then give you a boat with a hole and point you to the opposite
+direction. I’m not that sort of man, but every deed should be fairly paid. There
+are people who try to sail on my ship for free, they hide themself in the
+shadowed corners and shake in uncertainty. But they are always revealed by the
+starlight when I take out my astrolabe. Now I just have to find my map… where
+did I put it? Maybe it’s already non-exist yet? Oh, found it, here it shall for
+now. And you can go to rest, you’ve worked hard to earn these money you gave me,
+I will take care about everything else. Don’t worry, there will be no cays of
+bad luck for I always win. I’ve made the way, let’s go.
