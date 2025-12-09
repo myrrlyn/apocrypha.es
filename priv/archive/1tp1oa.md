@@ -1,8 +1,11 @@
 ---
+series: The Proctor
+part: 1
 title: The Proctor
 reddit: 1tp1oa
 author: RideTheLine
 date: 2013-12-25T21:38:37Z
+hide_series: true
 ---
 
 This is, obviously, a theory, and I’m probably reaching pretty far for it, but I

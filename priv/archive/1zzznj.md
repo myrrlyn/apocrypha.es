@@ -1,6 +1,7 @@
 ---
-title: The Proctor II
-subtitle: M’aiq’s Revenge
+series: The Proctor
+part: 2
+title: M’aiq’s Revenge
 reddit: 1zzznj
 author: RideTheLine
 date: 2014-03-09T22:38:56Z
