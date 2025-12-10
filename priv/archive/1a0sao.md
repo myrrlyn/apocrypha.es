@@ -1,5 +1,5 @@
 ---
-title: “Khajiit Did Not Steal Anything!”
+title: "Khajiit Did Not Steal Anything!"
 subtitle: A Look Into Why Khajiit Theft is Misunderstood
 reddit: 1a0sao
 author: Mr_Flippers

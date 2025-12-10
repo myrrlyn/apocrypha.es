@@ -1,5 +1,5 @@
 ---
-title: “An Interview with a Cephalo, Volume I”
+title: "An Interview with a Cephalo, Volume I"
 reddit: 2dmma5
 author: phil_hinds
 date: 2014-08-15T12:23:00Z

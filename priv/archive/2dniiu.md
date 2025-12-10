@@ -1,5 +1,5 @@
 ---
-title: “I Couldn’t Do It, But Did I?”
+title: "I Couldn’t Do It, But Did I?"
 subtitle: A Modern Khajiiti tale
 reddit: 2dniiu
 author: Mr_Flippers
