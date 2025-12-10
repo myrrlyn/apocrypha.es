@@ -1,5 +1,5 @@
 ---
-title:
+title: |
   "Magic : the foremost journal for professional wizards : Issue 1 : Theory for
   the Proximate Mechanics of Reading an Elder Scroll"
 reddit: 22wusy

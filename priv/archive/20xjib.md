@@ -1,7 +1,6 @@
 ---
-title:
-  "I Hate Being So Direct, But I Want to Tackle Amaranth: YOU are the Godhead,
-  Amaranth is Free"
+title: I Hate Being So Direct, But I Want to Tackle Amaranth
+subtitle: YOU are the Godhead Amaranth is Free
 reddit: 20xjib
 author: turokman2000
 date: 2014-03-20T19:53:02Z
