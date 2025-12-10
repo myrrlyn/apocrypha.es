@@ -18,6 +18,11 @@
     <link phx-track-static rel="stylesheet" href={~p"/assets/app.css"} />
     <script defer phx-track-static type="text/javascript" src={~p"/assets/app.js"}>
     </script>
+    <meta property="og:title" content={@metadata[:tab_title] || @metadata.title} />
+    <meta property="og:image" content={~p"/images/map-and-logo-1200x600.png"} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Path.join(ApocryphaWeb.Endpoint.url(), @conn.request_path)} />
+    <meta :if={about = assigns[:description]} property="og:description" content={about} />
   </head>
   <body class={@classes}>
     <%= @inner_content %>
