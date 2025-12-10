@@ -14,6 +14,10 @@ defmodule ApocryphaWeb.Router do
     plug :accepts, ["json"]
   end
 
+  scope "/.well-known", ApocryphaWeb do
+    get "/*file", FileController, :well_known
+  end
+
   # Processed Apocrypha
   scope "/a", ApocryphaWeb do
     pipe_through :browser
@@ -44,6 +48,7 @@ defmodule ApocryphaWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :all_authors
+    get "/:user", PageController, :author_page
   end
 
   scope "/", ApocryphaWeb do
