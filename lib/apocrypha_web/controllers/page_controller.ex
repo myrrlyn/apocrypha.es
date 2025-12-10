@@ -127,15 +127,19 @@ defmodule ApocryphaWeb.PageController do
   end
 
   def draft_article(conn, %{"id" => id} = _params) do
-    post = Apocrypha.Page.load_draft!(id <> ".md")
+    try do
+      post = Apocrypha.Page.load_draft!(id <> ".md")
 
-    render(conn, :post,
-      classes: ["draft-post", id],
-      content: Apocrypha.Page.render(post),
-      metadata: post.meta,
-      show_about: true,
-      github_link: "#{@repo_base}/pending/#{id}.md"
-    )
+      render(conn, :post,
+        classes: ["draft-post", id],
+        content: Apocrypha.Page.render(post),
+        metadata: post.meta,
+        show_about: true,
+        github_link: "#{@repo_base}/pending/#{id}.md"
+      )
+    rescue
+      e -> conn |> resp(404, "try looking in /a")
+    end
   end
 
   def asset(conn, %{"id" => id, "asset" => asset}) do
