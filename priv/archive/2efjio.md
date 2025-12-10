@@ -1,11 +1,15 @@
 ---
-title: "A History of Dunmeri Theater: Tamrielic Period"
+series: A History of Dunmeri Theater
+part: 3
+title: Tamrielic Period
 reddit: 2efjio
 author: CreamWafers
 date: 2014-08-24T08:18:30Z
----
+about: |
+  Thank you to anyone who read this text wall. I really appreciate it.
 
-**Tamrielic Period**
+  It’s a long shot, but can you guess what exactly inspired this?
+---
 
 There is no strict border between the Indoril and Tamrielic Periods because the transition was very gradual. Some historians identify the recognition of Nerevar Incarnate as the start of the Tamrielic Period, as this event forced cultural reform and opened the gates to ideological change. Others insist that it began earlier. This time is named as such because it represents the diminishing of Dunmeri isolationism and new open-mindedness towards Imperial customs. These changes could only happen slowly and out of curiosity, as the Dunmer have always been a proud and nationalistic race. If the Empire had forced its customs on the people of Morrowind, they would have been adamantly rejected. Arts were no exception.
 
@@ -59,18 +63,8 @@ We have no more plays from Meryl Othrel, for Red Year cut his life short. We do 
 
 -----------------------------------------------------------
 
-**Conclusion**
+## Conclusion
 
 Dunmeri culture is currently in a nationalist movement and has reverted back to more traditional customs. In drama, the Tamrielic Period came to an abrupt end. While the Dunmer have kept the use of spoken voice and secularism, most plays have a nationalist agenda and are presented for political means. Whether this will pass like a petty phase or give rise to something beautiful is unknown.
 
 Information is limited. Not everything in this report may be truth. Yet as citizens of Tamriel, we cannot deny the influence Dunmeri theater has on us.
-
---------------------------------------------------------
-
-*Thank you to anyone who read this text wall. I really appreciate it.*
-
-*It's a long shot, but can you guess what exactly inspired this?*
-
-*Chapter 1; Velothi Period: http://www.reddit.com/r/teslore/comments/2edfnw/a_history_of_dunmeri_theater_velothi_period/*
-
-*Chapter 2; Indoril Period: http://www.reddit.com/r/teslore/comments/2eedej/a_history_of_dunmeri_theater_indoril_period/*
