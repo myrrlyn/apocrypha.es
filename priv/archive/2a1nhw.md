@@ -23,7 +23,7 @@ date: 2014-07-07T13:09:09Z
 > is true all the same.
 >
 > Quintillius Trebates, Imperial Scribe.
-{:tag="aside” .foreword}
+{:tag="aside" .foreword}
 
 After purchasing a copy of Jouane Errin’s most famous epic, _Attrebus Mede-The
 Saviour of Cyrodiil_, from a bookstore in Blacklight, I was most intrigued to
@@ -42,7 +42,7 @@ disappeared into the crowds as quickly as she had appeared from them.
 > Authors note- In the three weeks I had to wait for the moons to be just right,
 > I met with your most beautiful daughter Morihatha, who was a pleasure to be in
 > the company of. She will make a great Empress one day.
-{:tag="aside” .text-italic}
+{:tag="aside" .text-italic}
 
 After praying to the Eight and One for days on end, the moons co-operated with
 each other and my meeting with the woman was to finally happen. The moonlight
