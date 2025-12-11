@@ -37,7 +37,7 @@ are extremely vulnerable, and can literally be eaten alive or smushed by others,
 because your innermost self is exposed to the rigours of the ocean.
 
 This is an imperfect metaphor for the Protonymic/Neonymic. The Neonymic is the
-shell of the et’ada, keeping them safe and cohesive in hostile environments. The
+shell of the et’Ada, keeping them safe and cohesive in hostile environments. The
 Protonymic lies under the shell, soft, vulnerable, delicious.
 
 So we are now all clear on my basic and imperfect understanding of these

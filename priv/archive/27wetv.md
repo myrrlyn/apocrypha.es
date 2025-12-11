@@ -1,4 +1,6 @@
 ---
+series: Peryite Arcana
+part: 3
 title: Daedra Dossier
 subtitle: Plague Atronach
 reddit: 27wetv
@@ -6,8 +8,6 @@ author: Al-Hatoor
 date: 2014-06-11T19:10:31Z
 pseudonym: Denogorath the Dread Archivist
 ---
-
-**Part of the Peryite Arcana Series**
 
 _\[Attachment: This extremely beneficial text informs us of the existence of the
 dangerous Plague Atronach, as well as the plane they come from. This writing was

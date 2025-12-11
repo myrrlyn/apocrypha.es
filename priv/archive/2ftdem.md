@@ -13,7 +13,7 @@ pseudonym: Azarias, Sage
 > colleague Azarias questioned me about the creation myths of the various races
 > of Tamriel. I told him that they were tales linking us to the Divines who
 > created our world, chronicling how we all came to be. He frowned, wondering
-> why one would want to connect themselves to the ATEDA (et’ada) in such a
+> why one would want to connect themselves to the ATEDA (et’Ada) in such a
 > fashion; sometimes its very easy to forget Azarias has grown skeptical in his
 > old age. Naturally, I asked him if the bat-elves had a creation myth of their
 > own but he dismissed the notion as foolish.
