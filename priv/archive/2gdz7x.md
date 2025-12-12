@@ -1,7 +1,7 @@
 ---
 series: 5E 724
 part: 2
-title: 5E 724
+title: 5E 724, Part 2
 reddit: 2gdz7x
 author: CreamWafers
 date: 2014-09-14T18:36:43Z

@@ -1,4 +1,6 @@
 ---
+series: Interviews
+part: 1
 title: Interview with a Master Blacksmith
 reddit: 2hrvtb
 author: Cyclenophus
