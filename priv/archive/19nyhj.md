@@ -100,43 +100,42 @@ at a local temple[^9].”
 
 In the Fourth Era, the Dunmer were hit by a catastrophe. The eruption of Red
 Mountain demolished most cities on Vvardenfell, and had terrible effects as far
-south as [Tear][0][^10]. Most of Morrowind was ravaged, and many ancestral tombs
+south as Tear[^10]. Most of Morrowind was ravaged, and many ancestral tombs
 were completely destroyed. Following this, the Argonian invasion forced many to
 flee the land[^11].
 
-![][0]
+![Map of Morrowind](./19nyhj/8duPrng.jpg)
 
 The Dunmer have gradually been forced to forgo their culture, but with the advent
 of the New Temple, one can only hope that their previous burial customs will
 begin to return.
 
-[0]: https://i.imgur.com/8duPrng.jpg
-[1]: https://www.imperial-library.info/content/pocket-guide-empire-third-edition-aldmeris
-[2]: https://www.imperial-library.info/content/pocket-guide-empire-third-edition-blessed-isle-alinor-and-summersets
-[3]: https://www.imperial-library.info/content/pocket-guide-empire-first-edition-aldmeri-dominion
-[4]: https://old.reddit.com/r/teslore/comments/19emwn/did_the_altmer_really_kill_nine_out_of_ten_babies/
-[5]: https://www.imperial-library.info/content/preparation-corpse
-[6]: https://imperial-library.info/content/airship-captains-journal
-[7]: https://www.imperial-library.info/content/ancient-tales-dwemer-part-ii-seed
-[8]: https://www.uesp.net/wiki/Skyrim:Unbound#Who_Are_You.3F
-[9]: https://www.imperial-library.info/content/dance-fire-v4
-[10]: https://www.uesp.net/wiki/Lore:Ancestors_and_the_Dunmer
-[11]: https://www.uesp.net/wiki/Lore:The_Red_Year
-[12]: https://www.imperial-library.info/content/fourth-era
+[0]: https://www.imperial-library.info/content/pocket-guide-empire-third-edition-aldmeris
+[1]: https://www.imperial-library.info/content/pocket-guide-empire-third-edition-blessed-isle-alinor-and-summersets
+[2]: https://www.imperial-library.info/content/pocket-guide-empire-first-edition-aldmeri-dominion
+[3]: https://old.reddit.com/r/teslore/comments/19emwn/did_the_altmer_really_kill_nine_out_of_ten_babies/
+[4]: https://www.imperial-library.info/content/preparation-corpse
+[5]: https://imperial-library.info/content/airship-captains-journal
+[6]: https://www.imperial-library.info/content/ancient-tales-dwemer-part-ii-seed
+[7]: https://www.uesp.net/wiki/Skyrim:Unbound#Who_Are_You.3F
+[8]: https://www.imperial-library.info/content/dance-fire-v4
+[9]: https://www.uesp.net/wiki/Lore:Ancestors_and_the_Dunmer
+[10]: https://www.uesp.net/wiki/Lore:The_Red_Year
+[11]: https://www.imperial-library.info/content/fourth-era
 
-[^1]: [*Pocket Guide to the Empire: Third Edition*][1]
-[^2]: [*PGE3: Blessed Isle: Alinor and Summerset*][2]
-[^3]: [*PGE1: Aldmeri Dominion*][3] and [*Did the Altmer Really Kill Nine out of Ten Babies?*][4]
-[^4]: [*Preparation of Corpses*][5]
-[^5]: [*Airship Captain’s Journal*][6]
-[^6]: [*Ancient Tales of the Dwemer, pt 2: Seed*][7]
-[^7]: [Events of *Skyrim*: “Unbounded”][8] (Click \[show] to see the comments Hadvar makes)
-[^8]: [*A Dance in Fire, vol. 4*][9]
-[^9]: [*Ancestors and the Dunmer*][10]. Nearly all of my information on the
+[^1]: [*Pocket Guide to the Empire: Third Edition*][0]
+[^2]: [*PGE3: Blessed Isle: Alinor and Summerset*][1]
+[^3]: [*PGE1: Aldmeri Dominion*][2] and [*Did the Altmer Really Kill Nine out of Ten Babies?*][3]
+[^4]: [*Preparation of Corpses*][4]
+[^5]: [*Airship Captain’s Journal*][5]
+[^6]: [*Ancient Tales of the Dwemer, pt 2: Seed*][6]
+[^7]: [Events of *Skyrim*: “Unbounded”][7] (Click \[show\] to see the comments Hadvar makes)
+[^8]: [*A Dance in Fire, vol. 4*][8]
+[^9]: [*Ancestors and the Dunmer*][9]. Nearly all of my information on the
 Dunmer burial rituals comes from this one book, which is outdated. Seems strange
 that I have the least references for the race whose customs I supposedly know
 the most about.
-[^10]: [*The Red Year*][11]. The destruction caused to Tear was probably because
+[^10]: [*The Red Year*][10]. The destruction caused to Tear was probably because
 it was sitting on a swamp, but even Mournhold was damaged to an extent, so I
 imagine a lot of the tombs would have collapsed.
-[^11]: [*The Fourth Era*][12]
+[^11]: [*The Fourth Era*][11]
