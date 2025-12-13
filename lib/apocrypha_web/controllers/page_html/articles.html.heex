@@ -4,7 +4,7 @@
 <p>There are <%= Apocrypha.Library.public_posts() |> length() %> articles here.</p>
 <% index = Apocrypha.Library.group_by_date() %>
 <nav>
-  <.calendar :for={{y, {c, m}} <- index} year={y} ct_yr={c} months={m}></.calendar>
+  <.calendar_year :for={{y, {c, m}} <- index} year={y} ct_yr={c} months={m} />
 </nav>
 <ol class="listing">
   <%= for {year, {ct, months}} <- index do %>

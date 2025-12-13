@@ -30,7 +30,7 @@ defmodule Apocrypha.Page do
   """
   @spec load_page(Path.t()) :: {:ok, page()} | {:error, any()}
   def load_page(path) do
-    path = Path.join(["priv", "pages", path])
+    path = Path.join(["priv", "archive", path])
 
     with {:ok, meta, text} <- raw_parts(path) do
       {:ok,

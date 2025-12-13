@@ -1,5 +1,8 @@
-<span :if={@show_series && @post.series && !@post.rest["hide_series"]} class="text-title">
-  <%= @post.series %><%= if @post.part, do: " #{@post.part}", else: "" %>:
+<span :if={@show_series && @post.series && !@post.rest["hide_series"]} class="text-title"><!--
+  --><%= @post.series %><%= if @post.part, do: " #{@post.part}", else: "" %>:
 </span>
-<.link href={~p"/a/#{@post.reddit}"}><span class="text-title"><%= @post.title %></span></.link>
+  <.link href={~p"/a/#{@post.reddit}"}><!--
+  --><span class="text-title"><%= @post.title %></span><!--
+  --><span :if={@post.subtitle} class="text-title text-subtitle">: <%= @post.subtitle %></span><!--
+--></.link>
 <span :if={@show_author}>by /u/<%= @post.author %></span>

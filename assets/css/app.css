@@ -227,6 +227,10 @@ pre code.lang-x-falmer {
   line-height: 1.75em;
 }
 
+p img {
+  margin: 0.5em;
+}
+
 img.float-right {
   min-width: 20em;
   width: 33%;
@@ -234,23 +238,10 @@ img.float-right {
   margin: 0.5em;
 }
 
-table.calendar {
+img.img-3 {
   display: inline-block;
-
-  border: 2px solid var(--fg);
-  border-collapse: collapse;
-  margin: 0 0.5em;
-}
-
-table.calendar tbody tr {
-  height: 2em;
-}
-
-table.calendar td, table.calendar th {
-  min-width: 3em;
-  padding: 0 0.25em;
-  text-align: center;
-  border: 1px solid var(--fg);
+  min-width: 10em;
+  max-width: calc(33% - 1em);
 }
 
 p.censored:has(> del) {
@@ -276,12 +267,37 @@ table th, table td {
   padding-inline: 0.5em;
 }
 
-table tr:nth-of-type(4n) {
+table:not(.calendar) tr:nth-of-type(4n) {
   background-color: hsl(from var(--fg) h s l / 10%);
 }
 
-table tr:nth-of-type(4n + 2) {
+table:not(.calendar) tr:nth-of-type(4n + 2) {
   background-color: hsl(from var(--fg) h s l / 15%);
+}
+
+table.calendar {
+  display: inline-block;
+
+  border: 2px solid var(--fg);
+  border-collapse: collapse;
+  margin: 0 0.5em;
+}
+
+table.calendar tbody tr {
+  height: 2em;
+}
+
+table.calendar td, table.calendar th {
+  min-width: 3em;
+  padding: 0 0.25em;
+  text-align: center;
+  border: 1px solid var(--fg);
+}
+
+figure {
+  border-inline: 2px solid var(--fg);
+  margin: 0.5em;
+  padding-inline: 0.5em;
 }
 
 /* layout */
