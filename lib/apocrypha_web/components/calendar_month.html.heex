@@ -1,0 +1,29 @@
+<% {first, 1, 7} = Calendar.ISO.day_of_week(@year, @month, 1, :sunday)
+  last = Calendar.ISO.days_in_month(@year, @month)
+  dead = (1 .. first) |> Enum.take(first - 1) |> Stream.map(fn _ -> {0, nil} end)
+  live = (1 .. last) |> Stream.map(fn d ->
+    ps = @posts
+    |> Stream.with_index()
+    |> Stream.filter(fn {p, _} -> p.date.day == d end)
+    |> Enum.to_list()
+    ct = length(ps)
+    if ct > 0 do
+      fst = ps |> List.first() |> elem(1)
+      {d, fst}
+    else
+      {d, nil}
+    end
+  end)
+  weeks = Stream.concat(dead, live) |> Stream.chunk_every(7, 7, Stream.cycle([{0, nil}])) %>
+<table class="calendar">
+  <thead>
+    <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thr</th><th>Fri</th><th>Sat</th></tr>
+  </thead>
+  <tbody>
+    <tr :for={week <- weeks}>
+      <td :for={{daynum, ident} <- week}>
+        <.link :if={ident} href={"#y#{@year}m#{@month}a#{ident}"}><%= daynum %></.link>
+      </td>
+    </tr>
+  </tbody>
+</table>

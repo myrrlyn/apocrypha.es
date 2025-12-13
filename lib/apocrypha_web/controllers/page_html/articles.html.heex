@@ -24,7 +24,8 @@
       <p>
         <%= Apocrypha.pluralize(ct, "article") %> this month.
       </p>
-      <li :for={post <- posts}>
+      <.calendar_month :if={length(posts) >= Calendar.ISO.days_in_month(year, month)} year={year} month={month} count={ct} posts={posts} />
+      <li :for={{post, idx} <- Enum.with_index(posts)} id={"y#{year}m#{month}a#{idx}"}>
         <.link_article post={post} show_series={@series_in_title} show_author={true} />
       </li>
     <% end %>
