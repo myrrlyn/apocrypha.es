@@ -6,9 +6,9 @@ of notable fan writings.
 It collects text from reddit by scraping the /r/teslore/w/archive page listing.
 Collected texts are stored in `priv/pending`.
 
-The community is encouraged to edit texts in `pending` to make them suitable for
-placement in `priv/library`. The edits required for this process include, but
-are not limited to:
+The community is encouraged to edit texts in `priv/pending` to make them
+suitable for placement in `priv/archive`. The edits required for this process
+include, but are not limited to:
 
 - cutting lines to 80char so that the raw file is nicely readable
 - replacing unsemantic markup with semantic (switching bolds to headings where
@@ -26,3 +26,13 @@ are not limited to:
 
 You will need to install Erlang and Elixir. You can then run the site with
 `mix serve`.
+
+## Future Curation
+
+- Scrape the archive again, detect all deleted posts, collect their identifiers,
+and look them up in <https://undelete.pullpush.io/> to get them back.
+- Create an actual SQL database, not just an in-memory map, for the posts. At
+  minimum the metadata, but possibly the full text after processing. Actually,
+  probably not the text; that should remain editable without difficulty. Or
+  maybe the files could stay in the development repository but the database gets
+  built for the deployed site?
