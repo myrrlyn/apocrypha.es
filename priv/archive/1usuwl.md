@@ -130,6 +130,6 @@ transcendence of mortal form
 That’s about how I see it, anyway, dressed up in perhaps too formal a register.
 Whatcha think?
 
-[0]: /r/GodheadModel
+[0]: https://old.reddit.com/r/GodheadModel
 [1]: https://old.reddit.com/r/teslore/comments/24wmh2/chim_mastery_and_domain_will_and_love/
 [2]: https://old.reddit.com/r/teslore/comments/1usuwl/nirns_divinity_the_missing_ae_and_talos/

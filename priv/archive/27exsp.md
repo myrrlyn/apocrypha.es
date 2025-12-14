@@ -1,6 +1,7 @@
 ---
-title: The Daedric Doctrines
-subtitle: The Lord of the Hunt
+series: The Daedric Doctrines
+part: 1
+title: The Lord of the Hunt
 reddit: 27exsp
 author: RideTheLine
 date: 2014-06-05T20:54:38Z
