@@ -30,40 +30,41 @@ something new, some were uncomfortable with the morbid idea, and others were
 dismissive. Sithis is just The Void, is he not, what could there be to learn
 about nothing?
 
-“As we all know, Sithis is synonymous with The Void. Sithis is no god, no,
-Sithis is one level past any tangible god. We all know of Anu and Padomay, yes?
-The first primordial forces that shaped existence. We have also learned of Aka
-and Lorkhan, who were born as time and space, realizations of Anu and Padomay.
-In between them lies another sub-gradient, the souls of the original two,
-Anui-El and Sithis. As per usual, these two serve as direct opposites, these
-being everything and nothing. Sithis is nothing itself, the infinite emptiness
-too absurd for our perceptions. Within Sithis is nothing, but we, as mere
-mortals, cannot comprehend true nothing. We are too far removed from Sithis to
-understand, I believe the Ada can understand it, but not us. Try and imagine
-nothing. What do you see? An infinite blackness, I assume. But that is not
-nothing, it is still an image of blackness. You cannot imagine nothing, our
-minds are too simple. Sithis, as we’ve said, cannot be directly perceived, but
-the result of it can. Some claim that Sithis was the first, which is a
-believable idea, for what can come before everything but nothing? And the only
-thing that can come before nothing is nothing. Nothing gave way for everything,
-where stasis and change could fuel time and space, and all of the Aurbis could
-function. In the Dawn, we know there was no time, so Sithis came from Padomay,
-but also emerged at the same time. Perhaps Sithis really is the start of the
-house. However, what that damned league of assassins is wrong about is the
-nature of their ‘Dread Father’”.
+> “As we all know, Sithis is synonymous with The Void. Sithis is no god, no,
+> Sithis is one level past any tangible god. We all know of Anu and Padomay,
+> yes? The first primordial forces that shaped existence. We have also learned
+> of Aka and Lorkhan, who were born as time and space, realizations of Anu and
+> Padomay. In between them lies another sub-gradient, the souls of the original
+> two, Anui-El and Sithis. As per usual, these two serve as direct opposites,
+> these being everything and nothing. Sithis is nothing itself, the infinite
+> emptiness too absurd for our perceptions. Within Sithis is nothing, but we, as
+> mere mortals, cannot comprehend true nothing. We are too far removed from
+> Sithis to understand, I believe the Ada can understand it, but not us. Try and
+> imagine nothing. What do you see? An infinite blackness, I assume. But that is
+> not nothing, it is still an image of blackness. You cannot imagine nothing,
+> our minds are too simple. Sithis, as we’ve said, cannot be directly perceived,
+> but the result of it can. Some claim that Sithis was the first, which is a
+> believable idea, for what can come before everything but nothing? And the only
+> thing that can come before nothing is nothing. Nothing gave way for
+> everything, where stasis and change could fuel time and space, and all of the
+> Aurbis could function. In the Dawn, we know there was no time, so Sithis came
+> from Padomay, but also emerged at the same time. Perhaps Sithis really is the
+> start of the house. However, what that damned league of assassins is wrong
+> about is the nature of their ‘Dread Father’”.
 
 A rather rebellious youth, Antoine Marienne, interrupted. “And just what do you
 mean by that? Sithis is a god like any other.”
 
-“And that is where you too are wrong. Sithis is a force, Lorkhan is the first
-being with identity. Remember that the precious ‘Night Mother’ is widely
-regarded as an aspect of Mephala. The way I see it, the assassins are just being
-manipulated by the Webspinner, and the Daedroth needed a being to scapegoat, one
-that does not have a voice of its own. The Sithis of the Dark Brotherhood is
-hardly the Sithis of the Aurbis, it is merely a fabrication. Sithis is a void in
-which nothing can ever be, and nothing will ever be, not the shepard for some
-band of heathens. But, enough about nothing, open your books to chapter 12,
-section 35: On the Nature of Trans-Kalpic Transportation…”
+> “And that is where you too are wrong. Sithis is a force, Lorkhan is the first
+> being with identity. Remember that the precious ‘Night Mother’ is widely
+> regarded as an aspect of Mephala. The way I see it, the assassins are just
+> being manipulated by the Webspinner, and the Daedroth needed a being to
+> scapegoat, one that does not have a voice of its own. The Sithis of the Dark
+> Brotherhood is hardly the Sithis of the Aurbis, it is merely a fabrication.
+> Sithis is a void in which nothing can ever be, and nothing will ever be, not
+> the shepard for some band of heathens. But, enough about nothing, open your
+> books to chapter 12, section 35: On the Nature of Trans-Kalpic
+> Transportation…”
 
 Arlowe sat at his desk and wrote and wrote. If he had nothing left to read, he
 would leave others with new material. He had become fixated on Sithis. How can
