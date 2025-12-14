@@ -22,7 +22,7 @@ In Sermon 10:
 
 In Sermon 20:
 
->This was the birth of the first Whirling School. Before, there had only been
+> This was the birth of the first Whirling School. Before, there had only been
 > the surface thought of fire.
 
 And in Sermon 31:
@@ -44,8 +44,8 @@ share. This Love can take many forms: as small as meditation, as basic as
 washing the dishes, as enormous as marriage, as violent as war.
 
 Love is only real when it is done according to one’s own Will, which is
-something like destiny, and unique to every individual. You guys remember
-[that other essay I wrote][0]? Okay, good.
+something like destiny, and unique to every individual. You guys remember [that
+other essay I wrote][0]? Okay, good.
 
 ## Desire and Reaction
 
@@ -76,9 +76,9 @@ own divine Will. According to some commentaries on the Bhagavad Gita:
 > Perfect knowledge of self and Superself and of their relationship is compared
 > herein to fire. This fire not only burns up all reactions to impious
 > activities, but also all reactions to pious activities, turning them to ashes.
-> \[…] When one is in complete knowledge, all reactions, both a priori and a
-> posteriori, are consumed. In the Vedas it is stated, *ubhe uhaivaisa ete*
-> *taraty amrtah sadhv-asadhuni*: “One overcomes both the pious and impious
+> \\[…\] When one is in complete knowledge, all reactions, both a priori and a
+> posteriori, are consumed. In the Vedas it is stated, _ubhe uhaivaisa ete_
+> _taraty amrtah sadhv-asadhuni_: “One overcomes both the pious and impious
 > interactions of work.”
 
 So from that we can reach the conclusion that Perfect Knowledge arises from the
@@ -147,7 +147,7 @@ And once again we come to the common metaphysical theme of the Elder Scrolls.
 Enantiomorphs, CHIM, ALMSIVI, Talos, Mundus… These are all examples, iterations,
 and products of Love.
 
-----
+---
 
 So just for giggles, let’s go back over some of the mentions of Fire in the
 Lessons and think about what concept is being suggested:
@@ -183,7 +183,7 @@ Perhaps he speaks of the way Fire burns away all desire. He asks that the
 recipient of the prayer let the fire of perfect knowledge consume, absorb,
 purify and change into pure Love, and find rest in the arms of Mother Boethiah.
 
-----
+---
 
 Here’s something interesting I found while researching this:
 

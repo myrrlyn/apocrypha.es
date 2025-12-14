@@ -16,7 +16,7 @@ because Sermon 12 is the first mention of the word “CHIM,” but there seems t
 a stronger connection there, a metaphysical subtext that is not immediately
 obvious.
 
-Later in the 36 Lessons, in Sermon 31, Vivec writes: “[…] he recalled the
+Later in the 36 Lessons, in Sermon 31, Vivec writes: “\[…\] he recalled the
 Pomegranate Banquet, where he was forced to marry to Molag Bal with wet
 scriptures to cement his likeness as Mephala and write with black hands.”
 
@@ -58,11 +58,11 @@ This leads us at last to our connection with CHIM. From [Vehk’s Teaching, “�
 Tower.”][2]
 
 > How to permanently exist beyond duplexity, antithesis, or trouble. This is not
-an easy concept, I know. Imagine being able to feel with all of your senses the
-relentless alien terror that is God and your place in it, which is everywhere
-and therefore nowhere, and realizing that it means the total dissolution of your
-individuality into boundless being. Imagine that and then still being able to
-say “I”. The “I” is the Tower.
+> an easy concept, I know. Imagine being able to feel with all of your senses
+> the relentless alien terror that is God and your place in it, which is
+> everywhere and therefore nowhere, and realizing that it means the total
+> dissolution of your individuality into boundless being. Imagine that and then
+> still being able to say “I”. The “I” is the Tower.
 
 Facing down the Godhead requires incredible bravery because God is armored head
 to toe in terror. Simply being in its presence is terrifying, and commanding all
