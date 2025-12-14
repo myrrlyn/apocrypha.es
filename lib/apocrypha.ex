@@ -78,4 +78,39 @@ defmodule Apocrypha do
   def pluralize(number, singular, plural) do
     if number == 1, do: "#{number} #{singular}", else: "#{number} #{plural}"
   end
+
+  @teslore_url ~r|^(.*reddit\.com)?/r/teslore(/comments)?/([a-z0-9]+)(/(.*))?$|
+
+  def discover_ident(url_path) when is_binary(url_path) do
+    case Regex.run(@teslore_url, url_path) do
+      [_, _site, _comments, ident] ->
+        {:ok, ident}
+
+      [_, _site, _comments, ident, _slash] ->
+        {:ok, ident}
+
+      [_, _site, _comments, ident, _slash, _title] ->
+        {:ok, ident}
+
+      _ ->
+        {:error, :nomatch}
+    end
+  end
+
+  def url_lessthan({lk, lv}, {rk, rv}) when is_binary(lv) and is_binary(rv) do
+    case {lk, rk} do
+      {:reddit, :reddit} -> ident_lessthan(lv, rv)
+      {:reddit, _} -> true
+      {_, :reddit} -> false
+      {_, _} -> lv < rv
+    end
+  end
+
+  def ident_lessthan(left, right) when is_binary(left) and is_binary(right) do
+    if String.length(left) != String.length(right) do
+      String.length(left) < String.length(right)
+    else
+      left < right
+    end
+  end
 end

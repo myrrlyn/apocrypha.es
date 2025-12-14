@@ -1,5 +1,6 @@
 defmodule Apocrypha.Markdown do
   require Logger
+  require OK
 
   @type toc_tree :: [toc_item]
   @type toc_item :: {String.t(), String.t(), toc_tree}
@@ -15,13 +16,33 @@ defmodule Apocrypha.Markdown do
     smartypants: false
   }
 
+  def as_ast(text) when is_binary(text) do
+    case Earmark.Parser.as_ast(text, @opts) do
+      {:ok, ast, deprecations} -> {:ok, {ast, deprecations}}
+      {:error, ast, errors} -> {:error, {ast, errors}}
+    end
+  end
+
+  @spec local_transform({Earmark.ast_node(), map()} | Earmark.Parser.ast()) :: Earmark.ast_node()
+  def local_transform({ast, deprecations}) when is_list(deprecations) do
+    local_transform(ast)
+  end
+
+  def local_transform(ast) do
+    ast
+    |> Earmark.Transform.map_ast(&__MODULE__.walker/1)
+  end
+
   @spec render(String.t()) :: String.t()
-  def render(text) do
+  def render(text) when is_binary(text) do
     text
     |> Earmark.as_ast!(@opts)
     |> Earmark.Transform.map_ast(&__MODULE__.walker/1)
-    |> Earmark.Transform.transform(@opts)
-    |> String.replace("&amp;nbsp;", "&nbsp;")
+    |> render()
+  end
+
+  def render(ast) when is_list(ast) do
+    ast |> Earmark.Transform.transform(@opts) |> String.replace("&amp;nbsp;", "&nbsp;")
   end
 
   def walker(node)

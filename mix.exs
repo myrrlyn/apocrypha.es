@@ -51,6 +51,7 @@ defmodule Apocrypha.MixProject do
       {:earmark, "~> 1.4"},
       {:earmark_parser, "~> 1.4"},
       {:yaml_front_matter, "~> 1.0.0"},
+      {:ok, "~> 2.3"},
       {:timex, "~> 3.7"},
       {:toml, "~> 0.7"},
       {:dialyxir, "~> 1.1", only: [:dev], runtime: false},

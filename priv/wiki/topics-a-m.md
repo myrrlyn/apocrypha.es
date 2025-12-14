@@ -3,91 +3,92 @@ title: "Text Archive: Topics A – M"
 reddit: wiki/archiveam
 ---
 
-^^Last ^^updated ^^12-11-17
+_Last updated 12-11-17_{:tag="small"}
 
-*For concerns and queries regarding the Archive, please message* ***/u/xenoposeidon****!*
+_For concerns and queries regarding the Archive, please message
+**/u/xenoposeidon**!_
 
 ## A
 
 ### Aedra
 
-**Title**| **Author**
-:-----------|:----------
-[The Aedra and the Stars](/r/teslore/1v8yz0/the_aedra_and_the_stars/)|[RideTheLine](/u/RideTheLine)
-[A Gift From Arkay](/r/teslore/comments/2fgsrn/a_gift_from_arkay/)|[phil_hinds](/u/phil_hinds)
-[An in depth Analysis of the Nine Divines](/r/teslore/comments/3q6cf3/an_in_depth_analysis_of_the_nine_divines/)|[LurkingHarris](/u/LurkingHarris)
-[A Priest's old Journal: The Burden of the Empire](/r/teslore/comments/1j44q7/a_priests_old_journal_the_burden_of_the_empire/)|[waldorfwithoutwalnut](/u/waldorfwithoutwalnut)
-[Aurbis: The Musical](/r/teslore/comments/1oybze/aurbis_the_musical/)|[myrrlyn](/u/myrrlyn)
-[Campfire Tales of a Snowtribe: From Ash We Came](/r/teslore/comments/4x187w/campfire_tales_of_a_snowtribe_from_ash_we_came/)|[BuckneyBos](/u/BuckneyBos)
-[Campfire Tales of a Snowtribe: The Prophecy Given](/r/teslore/comments/4yajda/campfire_tales_of_a_snowtribe_the_prophecy_given/)|[BuckneyBos](/u/BuckneyBos)
-[Tales of a Snowtribe: The Viper Dream-Stealer](/r/teslore/comments/4xcm10/tales_of_a_snowtribe_the_viper_dreamstealer/)|[BuckneyBos](/u/BuckneyBos)
-[Cultural Myths of Julianos #1 - The Exodus of Jhunal](/r/teslore/comments/3v22rg/cultural_myths_of_julianos_1_the_exodus_of_jhunal/)|[Alveryn](/u/Alveryn)
-[Cultural Myths of Julianos #2 - The Damned Equation](/r/teslore/comments/3ve1mx/cultural_myths_of_julianos_2_the_damned_equation/)|[Alveryn](/u/Alveryn)
-[C0DA Chapter 1: Audience](/r/teslore/comments/1yy8pt/c0da_chapter_1_audience/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Dibellan Worldflesh](/r/teslore/comments/28l5ex/the_dibellan_worldflesh/)|[Al-Gemha](/u/Al-Gemha)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (IV)](/r/teslore/comments/1t8t91/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFireWarden)
-[Femininity in Tamrielic Faith Part 1: Mara](/r/teslore/comments/1zw5p0/femininity_in_tamrielic_faith_part_1_mara/)|[laurelanthalasa](/u/laurelanthalasa)
-[Femininity in Tamrielic Faith Part 2: Kyne](/r/teslore/comments/205cnu/femininity_in_tamrielic_faith_part_2_kyne/)|[laurelanthalasa](/u/laurelanthalasa)
-[Femininity in Tamrielic Faith Part 3: Dibella](/r/teslore/comments/20kfc7/femininity_in_tamrielic_faith_part_3_dibella/)|[laurelanthalasa](/u/laurelanthala)
-[Femininity in Tamrielic Faith Part 4: Nordic Goddesses beyond Shor Son of Shor](/r/teslore/comments/20u6zt/femininity_in_tamrielic_faith_part_4_nordic/)|[laurelanthalasa](/u/laurelanthala)
-[Gradience, Creation, Divinity](/r/teslore/comments/1r0ln5/gradience_creation_divinity/)|[Mdnthrvst](/u/Mdnthrvst)
-[The Great Power of the Aedra](/r/teslore/comments/3pnyc8/the_great_power_of_the_aedra/)|[LurkingHarris](/u/LurkingHarris)
-[Hymn to Mora](/r/teslore/7hvigw)|[AsukaRyou](/u/AsukaRyou)
-[Letter from a Dibellan Initiate](/r/teslore/comments/37atuw/letter_from_a_dibellan_initiate/)|[elderscroll_dot_pdf](/u/elderscroll_dot_pdf)
-[The Noisy Serpent Loves his War Speech](/r/teslore/comments/1j3c5x/the_noisy_serpent_loves_his_war_speech/)|[Mr_Flippers](/u/Mr_Flippers)
-[On Kyne](/r/teslore/comments/3l711a/on_kyne/)|[Val_Ritz](/u/Val_Ritz)
-[On Our Tarot](/r/teslore/comments/1zdlda/on_our_tarot/)|[RideTheLine](/u/RideTheLine)
-[On the Aedra, their origins and forms](/r/teslore/comments/1uh94q/on_the_aedra_their_origins_and_forms/)|[TESJaxt](/u/TESJaxt)
-[On the Nature of Lorkhan and the Aka](/r/teslore/782pln)|[DLBAM](/u/DLBAM)
-[On the Walkabout](/r/teslore/comments/1wehbi/on_the_walkabout/)|[Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)
-[On the Felling of the Oak-Father](/r/teslore/comments/2moi73/on_the_felling_of_the_oakfather/)|[Omn1](/u/Omn1)
-[Oracle Bone Transcription – Maormeri Text](/r/teslore/comments/174ejg/oracle_bone_transcription_maormeri_text/)|[OPGreenback](/u/OPGreenback)
-[Princes of Mundus: Philosophy of the Eight](/r/teslore/comments/44n4gp/princes_of_mundus_philosophy_of_the_eight/)|[OtakuOfMe](/u/OtakuOfMe)
-[RASHA GIVER WORDS BIG](/r/teslore/comments/18oouk/rasha_giver_words_big/)|[Mr_Flippers](/u/Mr_Flippers)
-[Sermons of a breton priest addressing the inner conflict of the empire](/r/teslore/comments/2odebr/sermons_of_a_breton_priest_addressing_the_inner/)|[Thekidwiththedogs](/u/Thekidwiththedogs)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[The time gods of Imperial Faith](/r/teslore/comments/1u73qz/the_time_gods_of_imperial_faith/)|[TESJaxt](/u/TESJaxt)
-[The Time God's Whiskers and Other Khajiiti Myths Explored](/r/teslore/comments/11zpv9/the_time_gods_whiskers_and_other_khajiiti_myths/)|[Voryn](/u/Voryn)
-[Vaermina, Dibella, Mara, Kyne](/r/teslore/comments/264zgo/vaermina_dibella_mara_kyne/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[We, Aedra](/r/teslore/comments/1nzkqh/we_aedra/)|[Hollymarkie](/u/Hollymarkie)
-[The Worship of Zenithar in Cyrodill](/r/teslore/comments/44khzg/the_worship_of_zenithar_in_cyrodill/)|[Dreadnautilus](/u/Dreadnautilus)
-[Zenithar: The Divine Reaper](/r/teslore/comments/337ruq/zenithar_the_divine_reaper/)|[MalakTheOrc](/u/MalakTheOrc)
+| **Title**                                                                                                                                                 | **Author**                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| [The Aedra and the Stars](/r/teslore/comments/1v8yz0/the_aedra_and_the_stars/)                                                                            | [RideTheLine](/u/RideTheLine)                   |
+| [A Gift From Arkay](/r/teslore/comments/2fgsrn/a_gift_from_arkay/)                                                                                        | [phil_hinds](/u/phil_hinds)                     |
+| [An in depth Analysis of the Nine Divines](/r/teslore/comments/3q6cf3/an_in_depth_analysis_of_the_nine_divines/)                                          | [LurkingHarris](/u/LurkingHarris)               |
+| [A Priest's old Journal: The Burden of the Empire](/r/teslore/comments/1j44q7/a_priests_old_journal_the_burden_of_the_empire/)                            | [waldorfwithoutwalnut](/u/waldorfwithoutwalnut) |
+| [Aurbis: The Musical](/r/teslore/comments/1oybze/aurbis_the_musical/)                                                                                     | [myrrlyn](/u/myrrlyn)                           |
+| [Campfire Tales of a Snowtribe: From Ash We Came](/r/teslore/comments/4x187w/campfire_tales_of_a_snowtribe_from_ash_we_came/)                             | [BuckneyBos](/u/BuckneyBos)                     |
+| [Campfire Tales of a Snowtribe: The Prophecy Given](/r/teslore/comments/4yajda/campfire_tales_of_a_snowtribe_the_prophecy_given/)                         | [BuckneyBos](/u/BuckneyBos)                     |
+| [Tales of a Snowtribe: The Viper Dream-Stealer](/r/teslore/comments/4xcm10/tales_of_a_snowtribe_the_viper_dreamstealer/)                                  | [BuckneyBos](/u/BuckneyBos)                     |
+| [Cultural Myths of Julianos #1 - The Exodus of Jhunal](/r/teslore/comments/3v22rg/cultural_myths_of_julianos_1_the_exodus_of_jhunal/)                     | [Alveryn](/u/Alveryn)                           |
+| [Cultural Myths of Julianos #2 - The Damned Equation](/r/teslore/comments/3ve1mx/cultural_myths_of_julianos_2_the_damned_equation/)                       | [Alveryn](/u/Alveryn)                           |
+| [C0DA Chapter 1: Audience](/r/teslore/comments/1yy8pt/c0da_chapter_1_audience/)                                                                           | [laurelanthalasa](/u/laurelanthalasa)           |
+| [The Dibellan Worldflesh](/r/teslore/comments/28l5ex/the_dibellan_worldflesh/)                                                                            | [Al-Gemha](/u/Al-Gemha)                         |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (IV)](/r/teslore/comments/1t8t91/the_eight_anecdotes_of_perakeluin_the_songs_of/)    | [IceFireWarden](/u/IceFireWarden)               |
+| [Femininity in Tamrielic Faith Part 1: Mara](/r/teslore/comments/1zw5p0/femininity_in_tamrielic_faith_part_1_mara/)                                       | [laurelanthalasa](/u/laurelanthalasa)           |
+| [Femininity in Tamrielic Faith Part 2: Kyne](/r/teslore/comments/205cnu/femininity_in_tamrielic_faith_part_2_kyne/)                                       | [laurelanthalasa](/u/laurelanthalasa)           |
+| [Femininity in Tamrielic Faith Part 3: Dibella](/r/teslore/comments/20kfc7/femininity_in_tamrielic_faith_part_3_dibella/)                                 | [laurelanthalasa](/u/laurelanthala)             |
+| [Femininity in Tamrielic Faith Part 4: Nordic Goddesses beyond Shor Son of Shor](/r/teslore/comments/20u6zt/femininity_in_tamrielic_faith_part_4_nordic/) | [laurelanthalasa](/u/laurelanthala)             |
+| [Gradience, Creation, Divinity](/r/teslore/comments/1r0ln5/gradience_creation_divinity/)                                                                  | [Mdnthrvst](/u/Mdnthrvst)                       |
+| [The Great Power of the Aedra](/r/teslore/comments/3pnyc8/the_great_power_of_the_aedra/)                                                                  | [LurkingHarris](/u/LurkingHarris)               |
+| [Hymn to Mora](/r/teslore/comments/7hvigw/hymn_to_mora/)                                                                                                  | [AsukaRyou](/u/AsukaRyou)                       |
+| [Letter from a Dibellan Initiate](/r/teslore/comments/37atuw/letter_from_a_dibellan_initiate/)                                                            | [elderscroll_dot_pdf](/u/elderscroll_dot_pdf)   |
+| [The Noisy Serpent Loves his War Speech](/r/teslore/comments/1j3c5x/the_noisy_serpent_loves_his_war_speech/)                                              | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [On Kyne](/r/teslore/comments/3l711a/on_kyne/)                                                                                                            | [Val_Ritz](/u/Val_Ritz)                         |
+| [On Our Tarot](/r/teslore/comments/1zdlda/on_our_tarot/)                                                                                                  | [RideTheLine](/u/RideTheLine)                   |
+| [On the Aedra, their origins and forms](/r/teslore/comments/1uh94q/on_the_aedra_their_origins_and_forms/)                                                 | [TESJaxt](/u/TESJaxt)                           |
+| [On the Nature of Lorkhan and the Aka](/r/teslore/comments/782pln/on_the_nature_of_lorkhan_and_the_aka/)                                                  | [DLBAM](/u/DLBAM)                               |
+| [On the Walkabout](/r/teslore/comments/1wehbi/on_the_walkabout/)                                                                                          | [Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)         |
+| [On the Felling of the Oak-Father](/r/teslore/comments/2moi73/on_the_felling_of_the_oakfather/)                                                           | [Omn1](/u/Omn1)                                 |
+| [Oracle Bone Transcription – Maormeri Text](/r/teslore/comments/174ejg/oracle_bone_transcription_maormeri_text/)                                          | [OPGreenback](/u/OPGreenback)                   |
+| [Princes of Mundus: Philosophy of the Eight](/r/teslore/comments/44n4gp/princes_of_mundus_philosophy_of_the_eight/)                                       | [OtakuOfMe](/u/OtakuOfMe)                       |
+| [RASHA GIVER WORDS BIG](/r/teslore/comments/18oouk/rasha_giver_words_big/)                                                                                | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Sermons of a breton priest addressing the inner conflict of the empire](/r/teslore/comments/2odebr/sermons_of_a_breton_priest_addressing_the_inner/)     | [Thekidwiththedogs](/u/Thekidwiththedogs)       |
+| [The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)                                                                  | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [The time gods of Imperial Faith](/r/teslore/comments/1u73qz/the_time_gods_of_imperial_faith/)                                                            | [TESJaxt](/u/TESJaxt)                           |
+| [The Time God's Whiskers and Other Khajiiti Myths Explored](/r/teslore/comments/11zpv9/the_time_gods_whiskers_and_other_khajiiti_myths/)                  | [Voryn](/u/Voryn)                               |
+| [Vaermina, Dibella, Mara, Kyne](/r/teslore/comments/264zgo/vaermina_dibella_mara_kyne/)                                                                   | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)       |
+| [We, Aedra](/r/teslore/comments/1nzkqh/we_aedra/)                                                                                                         | [Hollymarkie](/u/Hollymarkie)                   |
+| [The Worship of Zenithar in Cyrodill](/r/teslore/comments/44khzg/the_worship_of_zenithar_in_cyrodill/)                                                    | [Dreadnautilus](/u/Dreadnautilus)               |
+| [Zenithar: The Divine Reaper](/r/teslore/comments/337ruq/zenithar_the_divine_reaper/)                                                                     | [MalakTheOrc](/u/MalakTheOrc)                   |
 
 ### Aka
 
-**Title**| **Author**
-:-----------|:----------
-[The Aedra and the Stars](/r/teslore/comments/1v8yz0/the_aedra_and_the_stars/)|[RideTheLine](/u/RideTheLine)
-[AkaLorkh as Spacetime: Two Sides of the Same Coin](/r/teslore/comments/1w616i/akalorkh_as_spacetime_two_sides_of_the_same_coin/)|[FranklyEarnest](/u/FranklyEarnest)
-[Akavir As Akatosh's Insanity Cured](/r/teslore/comments/20zd5w/akavir_as_akatoshs_insanity_cured/)|[turokman2000](/u/turokman2000)
-[Akel is Akatosh? The Three Become One. Towers](/r/teslore/comments/24jizf/akel_is_akatosh_the_three_become_one_towers/)|[turokman2000](/u/turokman2000)
-[Alkosh the unending!](/r/teslore/comments/192aam/alkosh_the_unending/)|[Mr_Flippers](/u/Mr_Flippers)
-[A Priest's old Journal: The Burden of the Empire](/r/teslore/comments/1j44q7/a_priests_old_journal_the_burden_of_the_empire/)|[waldorfwithoutwalnut](/u/waldorfwithoutwalnut)
-[The Bite of the Menders](/r/teslore/comments/1797ch/the_bite_of_the_mender)|[dbcification](/u/salivific)
-[Bormahu Aka-Tusk, father of the Dovah](/r/teslore/comments/urruf/bormahu_akatusk_father_of_the_dovah/)|[lilrhys](/u/lilrhys)
-[The Cult of Agamanus](/r/teslore/comments/24gy83/the_cult_of_agamanus/)|[Asotil](/u/Asotil)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh](/r/teslore/comments/1rzoac/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFireWarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (Part II)](/r/teslore/comments/1s2rke/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFireWarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (V)](/r/teslore/comments/1x9ti0/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFirewarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VI)](/r/teslore/comments/1zpyxs/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFirewarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VII)](/r/teslore/comments/1zq0c5/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFirewarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VIII)](/r/teslore/comments/1zq1k3/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFirewarden)
-[The God of Mankind: A Sermon](/r/teslore/comments/1ypia1/the_god_of_mankind_a_sermon/)|[Welmora](/u/Welmora)
-[The Metafictional Origin of Aka: A Brief Analysis](/r/teslore/comments/3qi5wl/the_metafictional_origin_of_aka_a_brief_analysis/)|[midwinter-sun](/u/midwinter-sun)
-[Moon Meeting with Pelinal Whitestrake](/r/teslore/comments/1n8g2a/moon_meeting_with_pelinal_whitestrake/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Only True Time God! Rejoice, He is Here!](/r/teslore/comments/2mfmba/the_only_true_time_god_rejoice_he_is_here/)|[jmaynard57](/u/jmaynard57)
-[On the Nature of Lorkhan and the Aka](/r/teslore/782pln)|[DLBAM](/u/DLBAM)
-[Peryite Is Akatosh, Who Is Aka-Tusk](/r/teslore/comments/1vrcg2/peryite_is_akatosh_who_is_akatusk/)|[IceFireWarden](/u/IceFireWarden)
-[Peryite: The Shadow of Aka](/r/teslore/comments/28wbhd/peryite_the_shadow_of_aka/)|[IceFireWarden](/u/IceFireWarden)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[The Return of Alduin is the Work of Akatosh](/r/teslore/comments/3nv7s4/the_return_of_alduin_is_the_work_of_akatosh/)|[LurkingHarris](/u/LurkingHarris)
-[The Whispered Web](/r/teslore/comments/1l3vzl/the_whispered_web/)|[Mr_Flippers](/u/Mr_Flippers)
+| **Title**                                                                                                                                                   | **Author**                                                                                                                                |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [The Aedra and the Stars](/r/teslore/comments/1v8yz0/the_aedra_and_the_stars/)                                                                              | [RideTheLine](/u/RideTheLine)                                                                                                             |
+| [AkaLorkh as Spacetime: Two Sides of the Same Coin](/r/teslore/comments/1w616i/akalorkh_as_spacetime_two_sides_of_the_same_coin/)                           | [FranklyEarnest](/u/FranklyEarnest)                                                                                                       |
+| [Akavir As Akatosh's Insanity Cured](/r/teslore/comments/20zd5w/akavir_as_akatoshs_insanity_cured/)                                                         | [turokman2000](/u/turokman2000)                                                                                                           |
+| [Akel is Akatosh? The Three Become One. Towers](/r/teslore/comments/24jizf/akel_is_akatosh_the_three_become_one_towers/)                                    | [turokman2000](/u/turokman2000)                                                                                                           |
+| [Alkosh the unending!](/r/teslore/comments/192aam/alkosh_the_unending/)                                                                                     | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [A Priest's old Journal: The Burden of the Empire](/r/teslore/comments/1j44q7/a_priests_old_journal_the_burden_of_the_empire/)                              | [waldorfwithoutwalnut](/u/waldorfwithoutwalnut)                                                                                           |
+| [The Bite of the Menders](/r/teslore/comments/1797ch/the_bite_of_the_mender)                                                                                | [dbcification](/u/salivific)                                                                                                              |
+| [Bormahu Aka-Tusk, father of the Dovah](/r/teslore/comments/urruf/bormahu_akatusk_father_of_the_dovah/)                                                     | [lilrhys](/u/lilrhys)                                                                                                                     |
+| [The Cult of Agamanus](/r/teslore/comments/24gy83/the_cult_of_agamanus/)                                                                                    | [Asotil](/u/Asotil)                                                                                                                       |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh](/r/teslore/comments/1rzoac/the_eight_anecdotes_of_perakeluin_the_songs_of/)           | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (Part II)](/r/teslore/comments/1s2rke/the_eight_anecdotes_of_perakeluin_the_songs_of/) | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (V)](/r/teslore/comments/1x9ti0/the_eight_anecdotes_of_perakeluin_the_songs_of/)       | [IceFireWarden](/u/IceFirewarden)                                                                                                         |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VI)](/r/teslore/comments/1zpyxs/the_eight_anecdotes_of_perakeluin_the_songs_of/)      | [IceFireWarden](/u/IceFirewarden)                                                                                                         |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VII)](/r/teslore/comments/1zq0c5/the_eight_anecdotes_of_perakeluin_the_songs_of/)     | [IceFireWarden](/u/IceFirewarden)                                                                                                         |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VIII)](/r/teslore/comments/1zq1k3/the_eight_anecdotes_of_perakeluin_the_songs_of/)    | [IceFireWarden](/u/IceFirewarden)                                                                                                         |
+| [The God of Mankind: A Sermon](/r/teslore/comments/1ypia1/the_god_of_mankind_a_sermon/)                                                                     | [Welmora](/u/Welmora)                                                                                                                     |
+| [The Metafictional Origin of Aka: A Brief Analysis](/r/teslore/comments/3qi5wl/the_metafictional_origin_of_aka_a_brief_analysis/)                           | [midwinter-sun](/u/midwinter-sun)                                                                                                         |
+| [Moon Meeting with Pelinal Whitestrake](/r/teslore/comments/1n8g2a/moon_meeting_with_pelinal_whitestrake/)                                                  | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Only True Time God! Rejoice, He is Here!](/r/teslore/comments/2mfmba/the_only_true_time_god_rejoice_he_is_here/)                                       | [jmaynard57](/u/jmaynard57)                                                                                                               |
+| [On the Nature of Lorkhan and the Aka](/r/teslore/comments/782pln/on_the_nature_of_lorkhan_and_the_aka/)                                                    | [DLBAM](/u/DLBAM)                                                                                                                         |
+| [Peryite Is Akatosh, Who Is Aka-Tusk](/r/teslore/comments/1vrcg2/peryite_is_akatosh_who_is_akatusk/)                                                        | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Peryite: The Shadow of Aka](/r/teslore/comments/28wbhd/peryite_the_shadow_of_aka/)                                                                         | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)                                        | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [The Return of Alduin is the Work of Akatosh](/r/teslore/comments/3nv7s4/the_return_of_alduin_is_the_work_of_akatosh/)                                      | [LurkingHarris](/u/LurkingHarris)                                                                                                         |
+| [The Whispered Web](/r/teslore/comments/1l3vzl/the_whispered_web/)                                                                                          | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
 
 ### Akavir
 
-**Title**| **Author**
-:-----------|:----------
-[Akavir As Akatosh's Insanity Cured](/r/teslore/comments/20zd5w/akavir_as_akatoshs_insanity_cured/)|[turokman2000](/u/turokman2000)
+| **Title**                                                                                                                                                    | **Author**                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [Akavir As Akatosh's Insanity Cured](/r/teslore/comments/20zd5w/akavir_as_akatoshs_insanity_cured/)                                                          | [turokman2000](/u/turokman2000)               |
 [Akavir Explained: Tsaesci](/r/teslore/comments/3t0oic/akavir_explained_tsaesci/)|[WesaRa](/u/WesaRa)
 [Akavir Is Full of Beast People Because of "Evolution"](/r/teslore/comments/2142f6/akavir_is_full_of_beast_people_because_of/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
 [Assassination of Empress Mohi-Titona!? (Akavir-Calling)](/r/teslore/72vkkk)|[ShadowDestroyerTime](/u/ShadowDestroyerTime)
@@ -120,8 +121,8 @@ reddit: wiki/archiveam
 
 ### Alchemy
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                                                     | **Author**                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
 [A collection of alchemists' papers, discovered in an abandoned house somewhere in Leyawiin](/r/teslore/comments/271iij/a_collection_of_alchemists_papers_discovered_in/)|[Asotil](/u/Asotil)
 [Admonition against Nirnroot Wine](/r/teslore/comments/4neyd7/admonition_against_nirnroot_wine/)|[Nagaialor](/u/Nagaialor)
 [Alchemic Codex of Skyrim [201] VOLUME I](/r/teslore/comments/2qz5l4/alchemic_codex_of_skyrim_201_volume_i/)|[MrFahrenheit39](/u/MrFahrenheit39)
@@ -148,8 +149,8 @@ reddit: wiki/archiveam
 
 ### Aldmer
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                 | **Author**                                    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
 [A Bedtime Story About the Elves](/r/teslore/comments/1rhg1f/a_bedtime_story_about_the_elves/)|[myrrlyn](/u/myrrlyn)
 [A Concise Report on the Various Types of Mer, Introduction](/r/teslore/comments/3iygbq/a_concise_report_on_the_various_types_of_mer/)|[BrynjarIsenbana](/u/BrynjarIsenbana)
 [A Concise Report on the Various Types of Mer, Chapter I and II](/r/teslore/comments/3iygbq/a_concise_report_on_the_various_types_of_mer/)|[BrynjarIsenbana](/u/BrynjarIsenbana)
@@ -167,8 +168,8 @@ reddit: wiki/archiveam
 
 ### Aldmeris
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                         | **Author**                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------- |
 [Aldmeris, the ever-changing land, a description](/r/teslore/comments/3735t1/aldmeris_the_everchanging_land_a_description/)|[zbzszzzt123](/u/zbzszzzt123)
 [Aldmeris very much exists - and the Elves are dying for a reason](/r/teslore/comments/3qpvny/aldmeris_very_much_exists_and_the_elves_are_dying/)|[LurkingHarris](/u/LurkingHarris)
 [The Lost Song Of Aldmeris: Book Seven](/r/teslore/comments/5ijqms/the_lost_song_of_aldmeris_book_seven/)|[imgaharambe](/u/imgaharambe)
@@ -178,8 +179,8 @@ reddit: wiki/archiveam
 
 ### Alduin
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                               | **Author**                                                                                                                                |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 [Alduin is dead](/r/teslore/comments/1sxapc/alduin_is_dead/)|[ckorkos](/u/ckorkos)
 [Alduin was NOT the World Eater](/r/teslore/comments/3kp9wp/alduin_was_not_the_world_eater/)|[Rakem-Eem](/u/Rakem-Eem)
 [Alternate Explanation for Alduin's Presence at Helgen](/r/teslore/comments/2v0330/alternate_explanation_for_alduins_presence_at/)|[MareloRyan](/u/MareloRyan)
@@ -196,8 +197,8 @@ reddit: wiki/archiveam
 
 ### Alessian Order
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                         | **Author**                    |
+| :---------------------------------------------------------------------------------------------------------------- | :---------------------------- |
 [Al-Esh, Mother of Cyrod](/r/teslore/comments/5bo89q/alesh_mother_of_cyrod/)|[Zinitrad2](/u/Zinitrad2)
 [Alessia: The Elven Heritage](/r/teslore/comments/5somfc/alessia_the_elven_heritage/)|[Misticsan](/u/Misticsan)
 [Borgas, the Fool King](/r/teslore/comments/15rc90/borgas_the_foolking/)|[dbcification](/u/salivific)
@@ -208,8 +209,8 @@ reddit: wiki/archiveam
 
 ### Almalexia
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                      | **Author**                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------- |
 [A Fairytale for Ayem](/r/teslore/comments/1z2qtg/a_fairytale_for_ayem/)|[Gerenoir](/u/Gerenoir)
 [Almalexia and Sotha Sil have an Argument](/r/teslore/comments/245noy/almalexia_and_sotha_sil_have_an_argument/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
 [Dear Relamus Indoril....](/r/teslore/comments/3672z9/dear_relamus_indoril/)|[twilot_spankle](/u/twilot_spankle)
@@ -220,8 +221,8 @@ reddit: wiki/archiveam
 
 ### Altmer
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                     | **Author**                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
 [A Letter Concerning the Lifespans of Elves](/r/teslore/comments/2isvwk/a_letter_concerning_the_lifespans_of_elves/)|[willxpm](/u/willxpm)
 [Altmeris Language Construction](/r/teslore/comments/193m32/altmeris_language_construction/)|[myrrlyn](/u/myrrlyn)
 [An Altmeri Poem](/r/teslore/comments/3er4p5/an_altmeri_poem/)|[Trials_and_3rrors](/u/Trials_and_3rrors)
@@ -259,15 +260,15 @@ reddit: wiki/archiveam
 
 ### Anatomy
 
-**Title**| **Author**
-:-----------|:----------
-[On the Significance of Ears in Elven Culture Part I: Wood Elves](/r/teslore/7bvxeh)|[Eleithenya_of_Magna](/u/Eleithenya_of_Magna)
-[On the Significance of Ears in Elven Culture Part II: Dark Elves](/r/teslore/7cm76p)|[Eleithenya_of_Magna](/u/Eleithenya_of_Magna)
+| **Title**                                                                             | **Author**                                    |
+| :------------------------------------------------------------------------------------ | :-------------------------------------------- |
+| [On the Significance of Ears in Elven Culture Part I: Wood Elves](/r/teslore/7bvxeh)  | [Eleithenya_of_Magna](/u/Eleithenya_of_Magna) |
+| [On the Significance of Ears in Elven Culture Part II: Dark Elves](/r/teslore/7cm76p) | [Eleithenya_of_Magna](/u/Eleithenya_of_Magna) |
 
 ### Animals
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                             | **Author**                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
 [A History of Horsemanship](/r/teslore/comments/wntff/a_history_of_horsemanship/)|[lebiro](/u/lebiro)
 [A Hunter's Guide to: The Netch](https://www.reddit.com/r/teslore/comments/5ywb00/a_hunters_guide_to_the_netch/)|[Vitamin_gun](/u/Vitamin_gun)
 [A Look at Vvardenfell's Noteworthy Creatures](/r/teslore/comments/1853lh/)|[Undoer](/u/Undoer)
@@ -315,8 +316,8 @@ reddit: wiki/archiveam
 
 ### Architecture
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                   | **Author**                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------- |
 [Cultures of Morrowind: The Great Houses (Part 1- Architecture)](/r/teslore/comments/3hg0k0/cultures_of_morrowind_the_great_houses_part_1/)|[nmd453](/u/nmd453)
 [History of Altmeri Architecture, 1st Extract](/r/teslore/comments/3cbkk0/history_of_altmeri_architecture_1st_extract/)|[neknotes](/u/neknotes)
 [HAA: Second Era Reconstruction, Sunbirds, Ada-Mantia](/r/teslore/comments/3ghjs6/haa_second_era_reconstruction_sunbirds_adamantia/)|[neknotes](/u/neknotes)
@@ -324,8 +325,8 @@ reddit: wiki/archiveam
 
 ### Argonians
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                                                 | **Author**                                                                                                                                |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 [A Bedtime Story About the Lizard-Men](/r/teslore/comments/1rihfj/a_bedtime_story_about_the_lizardmen/)|[IceFireWarden](/u/IceFireWarden)
 [A Drunken Treatise on Water, Memory, and Culture](/r/teslore/comments/261zs1/a_drunken_treatise_on_water_memory_and_culture/)|[AMFKing](/u/AMFKing)
 [The Adventurer’s Companion To Black Marsh: Soulrest](/r/teslore/comments/1xaedm/the_adventurers_companion_to_black_marsh_soulrest/)|[IceFireWarden](/u/IceFireWarden)
@@ -396,8 +397,8 @@ reddit: wiki/archiveam
 
 ### Art
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                      | **Author**                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
 [Art as Propaganda: Toys](/r/teslore/comments/5brgjm/art_as_propaganda_toys/)|[rocketmantan](/u/rocketmantan)
 [Artistic Catalogue of Tamriel, 3E 433, First edition](/r/teslore/comments/4r7vym/artistic_catalogue_of_tamriel_3e_433_first_edition/?st=iqgwmkit&sh=7ec2f7a9)|[Rosario_Di_Spada](/u/Rosario_Di_Spada)
 [Arts and Artistry of the Modern Age](/r/teslore/78tsuo)|[STRiPESandShades](/u/STRiPESandShades)
@@ -412,8 +413,8 @@ reddit: wiki/archiveam
 
 ### Ashlanders
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                | **Author**                                    |
+| :----------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
 [An intercepted letter](/r/teslore/comments/1n9jby/an_intercepted_letter/)|[Hollymarkie](/u/Hollymarkie)
 [Ash and Magic](https://reddit.com/r/teslore/comments/5hmelf/ash_and_magic/)|[imgaharambe](/u/imgaharambe)
 [A Snowtribe Fairytale: Little Blue T’lonya](/r/teslore/comments/53oeei/a_snowtribe_fairytale_little_blue_tlonya/)|BuckneyBos](/u/BuckneyBos)
@@ -429,8 +430,8 @@ reddit: wiki/archiveam
 
 ### Astronomy
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                                | **Author**                                                                                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 [A Concise Description of the Khajiiti Lunisolar Calendar](/r/teslore/comments/3iligp/a_concise_description_of_the_khajiiti_lunisolar/)|[Samphire](/u/Samphire)
 [Analyzing the ja-Kha'jay](/r/teslore/comments/1rnyrg/analyzing_the_jakhajay/)|[myrrlyn](/u/myrrlyn)
 [An Evaluation Of The Rogue Planes](/r/teslore/comments/1zjcr1/an_evaluation_of_the_rogue_planes/)|[IceFireWarden](/u/IceFireWarden)
@@ -505,8 +506,8 @@ reddit: wiki/archiveam
 
 ### Atmora
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                              | **Author**                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
 [Atmoran Manuscript Translation: Dagga, Annihilation-Axiom](/r/teslore/comments/5m8ine/atmoran_manuscript_translation_dagga/)|[HamSandLich](/u/HamSandLich)
 [Atmora, "The Land Frozen In Time", a description and explanation](/r/teslore/comments/36rg0e/atmora_the_land_frozen_in_time_a_description_and/)|[zbzszzzt123](/u/zbzszzzt123)
 [Atmora's Whispers, Part 2: Storming Gales & Ancient Fey-Tales](/r/teslore/comments/38h1xn/atmoras_whispers_part_2_storming_gales_ancient/)|[Maven_of_Minecraft](/u/Maven_of_Minecraft)
@@ -526,8 +527,8 @@ reddit: wiki/archiveam
 
 ### Ayleids
 
-**Title**| **Author**
-:-----------|:----------
+| **Title**                                                                                                                                                                 | **Author**                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------- |
 [The Account of Nilichi, King of Flowers](/r/teslore/comments/4bpzzc/the_account_of_nilichi_king_of_flowers/)|[Anumaril](/u/Anumaril)
 [An Ayleid Excerpt](/r/teslore/comments/5cbrnz/an_ayleid_excerpt/)|[Redditfortress](/u/Redditfortress)
 [An Overview of 9th Century Ayleids and their place in the Aurbis](/r/teslore/comments/2ygtwg/an_overview_of_9th_century_ayleids_and_their/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)

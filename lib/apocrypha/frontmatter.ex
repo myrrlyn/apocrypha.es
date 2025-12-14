@@ -55,24 +55,24 @@ defmodule Apocrypha.Frontmatter.Post do
   Processes an arbitrary map into a Frontmatter structure.
   """
   def new(map) do
+    {series, map} = Map.pop(map, "series")
+    {part, map} = Map.pop(map, "part")
     {title, map} = Map.pop!(map, "title")
+    {subtitle, map} = Map.pop(map, "subtitle")
+
     {reddit, map} = Map.pop!(map, "reddit")
     {author, map} = Map.pop!(map, "author")
     {date, map} = Map.pop!(map, "date")
-
-    {series, map} = Map.pop(map, "series")
-    {part, map} = Map.pop(map, "part")
-    {subtitle, map} = Map.pop(map, "subtitle")
     {about, map} = Map.pop(map, "about")
 
     %__MODULE__{
+      series: series,
+      part: part,
       title: title,
+      subtitle: subtitle,
       reddit: reddit |> to_string(),
       author: author,
       date: date |> Timex.parse!("{RFC3339z}"),
-      series: series,
-      part: part,
-      subtitle: subtitle,
       about: about,
       rest: map
     }
@@ -94,4 +94,14 @@ defmodule Apocrypha.Frontmatter do
 
   def new_page(meta), do: __MODULE__.Page.new(meta)
   def new_post(meta), do: __MODULE__.Post.new(meta)
+
+  @doc """
+  Wraps `YamlFrontMatter` and converts its output into the monadic form.
+  """
+  def parse(text) when is_binary(text) do
+    case YamlFrontMatter.parse(text) do
+      {:ok, %{} = meta, rest} -> {:ok, {meta, rest}}
+      {:error, error} -> {:error, error}
+    end
+  end
 end
