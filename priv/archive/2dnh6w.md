@@ -1,6 +1,6 @@
 ---
 series: Root Meditations
-part: 7
+part: 8
 title: The Mane
 reddit: 2dnh6w
 author: Al-Hatoor
