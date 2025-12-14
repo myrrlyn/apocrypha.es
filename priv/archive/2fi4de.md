@@ -6,9 +6,7 @@ date: 2014-09-04T23:40:52Z
 about: |
   [For this.][0]
 
-  (Link is to a now-deleted post, presumably a community theme prompt.)
-
-  [0]: https://old.reddit.com/r/teslore/comments/2fgdbu/teslore_challenge_1_spirit_of_the_ancient_warrior/
+  [0]: ./2fgdbu
 ---
 
 As I walked through the pale rim of the snowy sky, I came upon an ancient shrine
