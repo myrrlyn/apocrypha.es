@@ -3,15 +3,15 @@ title: "Text Archive: Topics N – Z"
 reddit: wiki/archivenz
 ---
 
-^^Last ^^updated ^^12-11-17
+_Last updated 12-11-17_{:tag="small"}
 
-*For concerns and queries regarding the Archive, please message* ***/u/xenoposeidon****!*
+_For concerns and queries regarding the Archive, please message **/u/xenoposeidon**!_
 
 ## N
 
 ### Namira
 
-**Title**| **Author**
+| **Title**                                                                                                                                                                                 | **Author**                                  |
 :-----------|:----------
 [An Alehouse Story About Sload](/r/teslore/comments/1rjlha/an_alehouse_story_about_sload/)|[OPGreenback](/u/OPGreenback)
 [Boots Upon the Snow: An Invocation of Namira](/r/teslore/comments/3vw66d/boots_upon_the_snow_an_invocation_of_namira/)|[wry_not_dead](/u/wry_not_dead)
