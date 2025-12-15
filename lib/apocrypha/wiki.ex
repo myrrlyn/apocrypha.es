@@ -5,10 +5,37 @@ defmodule Apocrypha.Wiki do
   The reference files live in `priv/wiki/`.
   """
 
+  require Logger
   require OK
 
-  def load_index() do
-    nil
+  def load_index(filename) do
+    path = Path.join(["priv", "wiki", filename])
+
+    OK.for do
+      text <- File.read(path)
+      Logger.info("loaded indexfile")
+      {yaml, text} <- Apocrypha.Frontmatter.parse(text)
+      {ast, deprs} <- Apocrypha.Markdown.as_ast(text)
+    after
+      Logger.info("parsed indexfile")
+
+      ast
+      |> Apocrypha.Markdown.local_transform()
+      |> query_table_tbody_tr_tdfirst_a_href()
+      |> Stream.flat_map(fn
+        {"href", href} ->
+          case Apocrypha.discover_ident(href) do
+            {:ok, ident} -> [{:reddit, ident}]
+            _ -> [{:href, href}]
+          end
+
+        _ ->
+          []
+      end)
+      |> Stream.map(&IO.inspect/1)
+
+      # |> Enum.to_list()
+    end
   end
 
   def load_tagfile(name) do
@@ -26,27 +53,9 @@ defmodule Apocrypha.Wiki do
       # never hurts
       |> Apocrypha.Markdown.local_transform()
       # we only care about h3 and tables, since that's where the data lives
-      |> Stream.filter(fn {tag, attrs, children, meta} -> Enum.member?(["h3", "table"], tag) end)
-      # and in a table, we only actually care about its contents
-      |> Stream.flat_map(fn
-        {"table", attrs, children, meta} -> children
-        other -> [other]
-      end)
-      # specifically, not the header, only the body
-      |> Stream.reject(fn
-        {"thead", _, _, _} -> true
-        _ -> false
-      end)
-      # and in the body, only the <tr>s
-      |> Stream.flat_map(fn
-        {"tbody", _, rows, _} -> rows
-        other -> [other]
-      end)
-      # and in the <tr>, only the first <td><a>'s attributes
-      |> Stream.flat_map(fn
-        {"tr", _, [{"td", _, [{"a", attrs, _, _} | _], _} | _], _} -> attrs
-        other -> [other]
-      end)
+      |> Stream.filter(fn {tag, _, _, _} -> Enum.member?(["h3", "table"], tag) end)
+      # and in a table, we only actually care about its post links
+      |> query_table_tbody_tr_tdfirst_a_href()
       # now that the stream is only <h3> and the attrs of `tbody tr td:first-child a`, get the data
       |> Stream.flat_map(fn
         # headings are the tag names
@@ -79,5 +88,44 @@ defmodule Apocrypha.Wiki do
       |> (&elem(&1, 1)).()
       |> Stream.map(fn {k, vs} -> {k, Enum.sort_by(vs, & &1, &Apocrypha.url_lessthan/2)} end)
     end
+  end
+
+  # We know that the index tables are all laid out as
+  # `<tr><td><a href="the post">...</a></td>...</tr>`, so this function extracts
+  # just the hrefs from an index table, and passes through other AST nodes
+  # unchanged
+  defp query_table_tbody_tr_tdfirst_a_href(ast) do
+    ast
+    |> Stream.flat_map(fn
+      {"table", _, table_parts, _} ->
+        table_parts
+        |> Stream.filter(fn
+          {"tbody", _, _, _} -> true
+          _ -> false
+        end)
+        |> Stream.flat_map(fn
+          {"tbody", _, trs, _} -> trs
+          _ -> []
+        end)
+        |> Stream.flat_map(fn
+          {"tr", _, [td | _], _} -> [td]
+          _ -> []
+        end)
+        |> Stream.flat_map(fn
+          {"td", _, cell, _} -> cell
+          _ -> []
+        end)
+        |> Stream.flat_map(fn
+          {"a", attrs, _, _} -> attrs
+          _ -> []
+        end)
+        |> Stream.filter(fn
+          {"href", _} -> true
+          _ -> false
+        end)
+
+      other ->
+        [other]
+    end)
   end
 end

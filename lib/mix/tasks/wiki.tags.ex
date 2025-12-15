@@ -1,9 +1,3 @@
-defmodule Mix.Tasks.Wiki do
-  @moduledoc """
-  Processes /r/teslore wiki files stored in `priv/wiki/`.
-  """
-end
-
 defmodule Mix.Tasks.Wiki.Tags do
   @moduledoc """
   Evaluates `priv/wiki/topics-*.md` files and emits an `{ident, tag}` stream.
@@ -12,7 +6,7 @@ defmodule Mix.Tasks.Wiki.Tags do
   require OK
   use Mix.Task
 
-  @requirements ["app.config", "app.start"]
+  @requirements ["app.config"]
 
   @impl Mix.Task
   def run(args) do
