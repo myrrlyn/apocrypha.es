@@ -5,789 +5,790 @@ reddit: wiki/archivenz
 
 _Last updated 12-11-17_{:tag="small"}
 
-_For concerns and queries regarding the Archive, please message **/u/xenoposeidon**!_
+_For concerns and queries regarding the Archive, please message
+**/u/xenoposeidon**!_
 
 ## N
 
 ### Namira
 
-| **Title**                                                                                                                                                                                 | **Author**                                  |
-:-----------|:----------
-[An Alehouse Story About Sload](/r/teslore/comments/1rjlha/an_alehouse_story_about_sload/)|[OPGreenback](/u/OPGreenback)
-[Boots Upon the Snow: An Invocation of Namira](/r/teslore/comments/3vw66d/boots_upon_the_snow_an_invocation_of_namira/)|[wry_not_dead](/u/wry_not_dead)
-[The Great Darkness and Namiira](/r/teslore/comments/2ubr9c/the_great_darkness_and_namiira/)|[TuMadreEsMiCorazon](/u/TuMadreEsMiCorazon)
-[Namira, Spirit Daedra](/r/teslore/comments/2v3tnt/namira_spirit_daedra/)|[TuMadreEsMiCorazon](/u/TuMadreEsMiCorazon)
-[The philosophic monologue: Namira](/r/teslore/comments/45xvx5/the_philosophic_monologue_namira/)|[OtakuOfMe](/u/OtakuOfMe)
-[Tinfoil hat time. The green pact was actually made with the Deadric prince Namira, not the Aedra Y'ffre!](/r/teslore/comments/4nopkf/tinfoil_hat_time_the_green_pact_was_actually_made/)|[legolizard](/u/legolizard)
-[The Ways of The Princes. The Teller of Truth Discomfort](/r/teslore/comments/2cpj6g/the_ways_of_the_princes_the_teller_of_truth/)|[bnmbnm0](/u/bnmbnm0)
-[16 Accords of Madness: Namira's Tale](/r/teslore/6wnp62/)|[BlackRated](/u/BlackRated)
+| **Title**                                                                                                                     | **Author**                                  |
+| :---------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
+| [An Alehouse Story About Sload](/r/teslore/1rjlha)                                                                            | [OPGreenback](/u/OPGreenback)               |
+| [Boots Upon the Snow: An Invocation of Namira](/r/teslore/3vw66d)                                                             | [wry_not_dead](/u/wry_not_dead)             |
+| [The Great Darkness and Namiira](/r/teslore/2ubr9c)                                                                           | [TuMadreEsMiCorazon](/u/TuMadreEsMiCorazon) |
+| [Namira, Spirit Daedra](/r/teslore/2v3tnt)                                                                                    | [TuMadreEsMiCorazon](/u/TuMadreEsMiCorazon) |
+| [The philosophic monologue: Namira](/r/teslore/45xvx5)                                                                        | [OtakuOfMe](/u/OtakuOfMe)                   |
+| [Tinfoil hat time. The green pact was actually made with the Deadric prince Namira, not the Aedra Y'ffre!](/r/teslore/4nopkf) | [legolizard](/u/legolizard)                 |
+| [The Ways of The Princes. The Teller of Truth Discomfort](/r/teslore/2cpj6g)                                                  | [bnmbnm0](/u/bnmbnm0)                       |
+| [16 Accords of Madness: Namira's Tale](/r/teslore/6wnp62/)                                                                    | [BlackRated](/u/BlackRated)                 |
 
 ### Nedes
 
-**Title**| **Author**
-:-----------|:----------
-[A Bed Time Story About Men](/r/teslore/comments/1rhzsh/a_bed_time_story_about_men/)|[Hollymarkie](/u/Hollymarkie)
-[An Archaeologist's Guide to Nedic Ruins](/r/teslore/comments/2rm1na/an_archaeologists_guide_to_nedic_ruins/)|[ZizZizZiz](/u/ZizZizZiz)
-[The Histories of the Star-Children](/r/teslore/comments/2tm0wr/the_histories_of_the_starchildren/)|[ZizZizZiz](/u/ZizZizZiz)
-[History of the Nedes of Hammerfell](/r/teslore/comments/5b4b71/history_of_the_nedes_of_hammerfell/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Names of Mother Cyrod](/r/teslore/comments/1ptadr/names_of_mother_cyrod/)|[ppitm](/u/ppitm)
-[Nedes Ent Nords!](/r/teslore/comments/3115ml/nedes_ent_nords/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[On Nedes and Nords](/r/teslore/comments/194uhp/on_nedes_and_nords/)|[lebiro](/u/lebiro)
-[On The Species Of Tamriel, Volume X: The Wanderers and the Nedes: the Ancestry of Men](/r/teslore/comments/1ko62c/on_the_species_of_tamriel_volume_x_the_wanderers/)|[Hollymarkie](/u/Hollymarkie)
-[The Origin of a False Theory](/r/teslore/comments/1tj47l/the_origin_of_a_false_theory/)|[Hollymarkie](/u/Hollymarkie)
-[Poetry With my Da: About Butterflies](/r/teslore/comments/2ypxig/poetry_with_my_da_about_butterflies/)|[PenguinPeng1](/u/PenguinPeng1)
-[Rise, Children of Atmora! – Man and Gods](/r/teslore/79xqo9)|[RancidTrombone](/u/RancidTrombone)
+| **Title**                                                                                                  | **Author**                                    |
+| :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [A Bed Time Story About Men](/r/teslore/1rhzsh)                                                            | [Hollymarkie](/u/Hollymarkie)                 |
+| [An Archaeologist's Guide to Nedic Ruins](/r/teslore/2rm1na)                                               | [ZizZizZiz](/u/ZizZizZiz)                     |
+| [The Histories of the Star-Children](/r/teslore/2tm0wr)                                                    | [ZizZizZiz](/u/ZizZizZiz)                     |
+| [History of the Nedes of Hammerfell](/r/teslore/5b4b71)                                                    | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [Names of Mother Cyrod](/r/teslore/1ptadr)                                                                 | [ppitm](/u/ppitm)                             |
+| [Nedes Ent Nords!](/r/teslore/3115ml)                                                                      | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [On Nedes and Nords](/r/teslore/194uhp)                                                                    | [lebiro](/u/lebiro)                           |
+| [On The Species Of Tamriel, Volume X: The Wanderers and the Nedes: the Ancestry of Men](/r/teslore/1ko62c) | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Origin of a False Theory](/r/teslore/1tj47l)                                                          | [Hollymarkie](/u/Hollymarkie)                 |
+| [Poetry With my Da: About Butterflies](/r/teslore/2ypxig)                                                  | [PenguinPeng1](/u/PenguinPeng1)               |
+| [Rise, Children of Atmora! – Man and Gods](/r/teslore/79xqo9)                                              | [RancidTrombone](/u/RancidTrombone)           |
 
 ### Nerevar
 
-**Title**| **Author**
-:-----------|:----------
-[A Red Dusk Before Dawn](http://docs.google.com/document/d/1PDrGUCnESi4qoEBVa1MpoGa5JsnnjoXF9zZG57sc3zg/edit)|[kaydet](/u/kaydet)
-[Banished from Memory, part 1](/r/teslore/comments/2w9mo2/banished_from_memory_part_1/)|[willxpm](/u/willxpm)
-[Banished from Memory, part 2](/r/teslore/comments/2we1f8/banished_from_memory_part_2/)|[willxpm](/u/willxpm)
-[Banished from Memory, part 3](/r/teslore/comments/2wh8n8/banished_from_memory_part_3/)|[willxpm](/u/willxpm)
-[Banished from Memory, part 4](/r/teslore/comments/2wmrzr/banished_from_memory_part_4/)|[willxpm](/u/willxpm)
-[Banished from Memory, part 5 (final)](/r/teslore/comments/2wq0i2/banished_from_memory_part_5_final/)|[willxpm](/u/willxpm)
-[Betrayal](/r/teslore/comments/2nxbn8/betrayal/)|[Asotil](/u/Asotil)
-[The Forbidden Journal of Indoril Nerevar Entry #1](/r/teslore/comments/5ej7nk/the_forbidden_journal_of_indoril_nerevar_entry_1/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #2](/r/teslore/comments/5enwp2/the_forbidden_journal_of_indoril_nerevar_entry_2/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #3](/r/teslore/comments/5eup7p/the_forbidden_journal_of_indoril_nerevar_entry_3/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar Entry #4](/r/teslore/comments/5f5oq1/the_forbidden_journal_of_indoril_nerevar_entry_4/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #5](/r/teslore/comments/5fcpa5/thr_forbidden_journal_of_indoril_nerevar_entry_5/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #6](https://reddit.com/r/teslore/comments/5h2heo/the_forbidden_journal_of_indoril_nerevar_entry_6/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #7](/r/teslore/comments/5jhar9/the_forbidden_journal_of_indoril_nerevar_entry_7/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #8](/r/teslore/comments/5jrmzz/the_forbidden_journal_of_indoril_nerevar_entry_8/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #9](/r/teslore/comments/5k4gzq/the_forbidden_journal_of_indoril_nerevar_entry_9/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #10](/r/teslore/comments/5l7glb/the_forbidden_journal_of_indoril_nerevar_entry_10/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #11](/r/teslore/comments/5n9016/the_forbidden_journal_of_indoril_nerevar_entry_11/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #12](/r/teslore/comments/5nktoe/the_forbidden_journal_of_indoril_nerevar_entry_12/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #13](/r/teslore/comments/5nvfa4/the_forbidden_journal_of_indoril_nerevar_entry_13/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #14](https://reddit.com/r/teslore/comments/5oq2it/the_forbidden_journal_of_indoril_nerevar_entry_14/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Fobidden Journal of Indoril Nerevar: Entry #15](/r/teslore/comments/5pwkvn/the_fobidden_journal_of_indoril_nerevar_entry_15/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Fobidden Journal of Indoril Nerevar: Entry #16](/r/teslore/comments/5q6dle/the_forbidden_journal_of_indoril_nerevar_entry_16/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Fobidden Journal of Indoril Nerevar: Entry #17](/r/teslore/comments/5qcsmf/the_forbidden_journal_of_indoril_nerevar_entry_17/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #18](/r/teslore/comments/5r9k0b/the_forbidden_journal_of_indoril_nerevar_entry_18/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #19](/r/teslore/comments/5rp12q/the_forbidden_journal_of_indoril_nerevar_entry_19/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #20](/r/teslore/comments/5u0iq4/the_forbidden_journal_of_indoril_nerevar_entry_20/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #21](/r/teslore/comments/5ufeev/the_forbidden_journal_of_indoril_nerevar_entry_21/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #22](/r/teslore/comments/5ur6yl/the_forbidden_journal_of_indoril_nerevar_entry22/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #23](/r/teslore/comments/5vd2oo/the_forbidden_journal_of_indoril_nerevar_entry_23/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #24](/r/teslore/comments/5w6mxw/the_forbidden_journal_of_indoril_nerevar_entry_24/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #25](/r/teslore/comments/5wjvyc/the_forbidden_journal_of_indoril_nerevar_entry_25/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #26](/r/teslore/comments/5x0yci/the_forbidden_journal_of_indoril_nerevar_entry_26/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #27](/r/teslore/comments/5xj7dc/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #28](/r/teslore/comments/5xxtxh/the_forbidden_journal_of_indoril_nerevar_entry_28/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #29](/r/teslore/comments/5yfyra/the_forbidden_journal_of_indoril_nerevar_entry_29/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #30](/r/teslore/comments/5zm9ej/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #31](/r/teslore/comments/605p8n/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #32](/r/teslore/comments/60pry3/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #33](/r/teslore/comments/60vmc0/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #34](/r/teslore/comments/6215g9/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #35](/r/teslore/comments/62grec/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Forbidden Journal of Indoril Nerevar: Entry #36](/r/teslore/comments/63f7a6/)|[laurelanthalasa](/u/laurelanthalasa)
-[Hortator and Sharmat, Konahrik and Miraak, 1 and 1](/r/teslore/comments/1pcss6/hortator_and_sharmat_konahrik_and_miraak_1_and_1/)|[Mr_Flippers](/u/Mr_Flippers)
-[The People vs. Nerevar Reborn](/r/teslore/comments/369wm2/the_people_vs_nerevar_reborn/)|[Junoncross](/u/Junoncross)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[Speculation on Nerevar, the Nerevarine and Jubal-lun-Sul](/r/teslore/comments/2aher8/speculation_on_nerevar_the_nerevarine_and/)|[willxpm](/u/willxpm)
+| **Title**                                                                                                      | **Author**                            |
+| :------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
+| [A Red Dusk Before Dawn](https://docs.google.com/document/d/1PDrGUCnESi4qoEBVa1MpoGa5JsnnjoXF9zZG57sc3zg/edit) | [kaydet](/u/kaydet)                   |
+| [Banished from Memory, part 1](/r/teslore/2w9mo2)                                                              | [willxpm](/u/willxpm)                 |
+| [Banished from Memory, part 2](/r/teslore/2we1f8)                                                              | [willxpm](/u/willxpm)                 |
+| [Banished from Memory, part 3](/r/teslore/2wh8n8)                                                              | [willxpm](/u/willxpm)                 |
+| [Banished from Memory, part 4](/r/teslore/2wmrzr)                                                              | [willxpm](/u/willxpm)                 |
+| [Banished from Memory, part 5 (final)](/r/teslore/2wq0i2)                                                      | [willxpm](/u/willxpm)                 |
+| [Betrayal](/r/teslore/2nxbn8)                                                                                  | [Asotil](/u/Asotil)                   |
+| [The Forbidden Journal of Indoril Nerevar Entry #1](/r/teslore/5ej7nk)                                         | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #2](/r/teslore/5enwp2)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #3](/r/teslore/5eup7p)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar Entry #4](/r/teslore/5f5oq1)                                         | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #5](/r/teslore/5fcpa5)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #6](/r/teslore/5h2heo)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #7](/r/teslore/5jhar9)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #8](/r/teslore/5jrmzz)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #9](/r/teslore/5k4gzq)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #10](/r/teslore/5l7glb)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #11](/r/teslore/5n9016)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #12](/r/teslore/5nktoe)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #13](/r/teslore/5nvfa4)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #14](/r/teslore/5oq2it)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Fobidden Journal of Indoril Nerevar: Entry #15](/r/teslore/5pwkvn)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Fobidden Journal of Indoril Nerevar: Entry #16](/r/teslore/5q6dle)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Fobidden Journal of Indoril Nerevar: Entry #17](/r/teslore/5qcsmf)                                        | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #18](/r/teslore/5r9k0b)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #19](/r/teslore/5rp12q)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #20](/r/teslore/5u0iq4)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #21](/r/teslore/5ufeev)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #22](/r/teslore/5ur6yl)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #23](/r/teslore/5vd2oo)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #24](/r/teslore/5w6mxw)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #25](/r/teslore/5wjvyc)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #26](/r/teslore/5x0yci)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #27](/r/teslore/5xj7dc)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #28](/r/teslore/5xxtxh)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #29](/r/teslore/5yfyra)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #30](/r/teslore/5zm9ej)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #31](/r/teslore/605p8n)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #32](/r/teslore/60pry3)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #33](/r/teslore/60vmc0)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #34](/r/teslore/6215g9)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #35](/r/teslore/62grec)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [The Forbidden Journal of Indoril Nerevar: Entry #36](/r/teslore/63f7a6)                                       | [laurelanthalasa](/u/laurelanthalasa) |
+| [Hortator and Sharmat, Konahrik and Miraak, 1 and 1](/r/teslore/1pcss6)                                        | [Mr_Flippers](/u/Mr_Flippers)         |
+| [The People vs. Nerevar Reborn](/r/teslore/369wm2)                                                             | [Junoncross](/u/Junoncross)           |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                                              | [Mr_Flippers](/u/Mr_Flippers)         |
+| [Speculation on Nerevar, the Nerevarine and Jubal-lun-Sul](/r/teslore/2aher8)                                  | [willxpm](/u/willxpm)                 |
 
 ### Nocturnal
 
-**Title**| **Author**
-:-----------|:----------
-[A Nocturnal Emission](/r/teslore/comments/3b1cir/a_nocturnal_emission/)|[Sakazwal](/u/Sakazwal)
-[On Nocturnal](/r/teslore/comments/3kssv7/on_nocturnal/)|[Val_Ritz](/u/Val_Ritz)
-[Invocation of Nocturnal](/r/teslore/comments/3xiiwp/invocation_of_nocturnal/)|[Val_Ritz](/u/Val_Ritz)
-[The Ways of the Princes. The Prince Called Ur](/r/teslore/comments/25k1qj/the_ways_of_the_princes_the_prince_called_ur/)|[bnmbnm0](/u/bnmbnm0)
+| **Title**                                                          | **Author**              |
+| :----------------------------------------------------------------- | :---------------------- |
+| [A Nocturnal Emission](/r/teslore/3b1cir)                          | [Sakazwal](/u/Sakazwal) |
+| [On Nocturnal](/r/teslore/3kssv7)                                  | [Val_Ritz](/u/Val_Ritz) |
+| [Invocation of Nocturnal](/r/teslore/3xiiwp)                       | [Val_Ritz](/u/Val_Ritz) |
+| [The Ways of the Princes. The Prince Called Ur](/r/teslore/25k1qj) | [bnmbnm0](/u/bnmbnm0)   |
 
 ### Nords
 
-**Title**| **Author**
-:-----------|:----------
-[A Brief Guide To Skyrim's Jarls, And Their Clothes](/r/teslore/comments/3cone9/a_brief_guide_to_skyrims_jarls_and_their_clothes/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[A Concise Biography of High King Torygg, Volume I](/r/teslore/comments/22uinz/a_concise_biography_of_high_king_torygg_volume_i/)|[phil_hinds](/u/phil_hinds)
-[A Concise Biography of High King Torygg, Volume II](/r/teslore/comments/22vi12/a_concise_biography_of_high_king_torygg_volume_ii/)|[phil_hinds](/u/phil_hinds)
-[A Concise Biography of High King Torygg, Volume III](/r/teslore/comments/22wxrt/a_concise_biography_of_high_king_torygg_volume_iii/)|[phil_hinds](/u/phil_hinds)
-[A Drunken Treatise on Water, Memory, and Culture](/r/teslore/comments/261zs1/a_drunken_treatise_on_water_memory_and_culture/)|[AMFKing](/u/AMFKing)
-[A Hearth-Fire Tale](/r/teslore/comments/3x54en/a_hearthfire_tale/)|[BrynjarIsenbana](/u/BrynjarIsenbana)
-[Ancient Nord Culture and Religion](/r/teslore/comments/sayyx/ancient_nord_culture_and_religion/)|[lilrhys](/u/lilrhys)
-[A Nordic prayer](/r/teslore/comments/4250fu/a_nordic_prayer/)|[Heliomance](/u/Heliomance)
-[A Nord's Guide To Morrowind: Clan Ra'athim](/r/teslore/76wbfd)|[bitchwhoreofastorm](/u/bitchwhoreofastorm)
-[An unplanned post about Ulfric Stormcloak](/r/teslore/comments/16ozps/an_unplanned_post_about_ulfric_stormcloak/)|[dbcification](/u/salivific)
-[A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Cover & Foreword)](/r/teslore/comments/26pw8p/a_pocket_guide_to_skyrim_and_its_environs/)|[IceFireWarden](/u/IceFireWarden)
-[A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 1)](/r/teslore/comments/26pxho/a_pocket_guide_to_skyrim_and_its_environs/)|[IceFireWarden](/u/IceFireWarden)
-[A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 3)](/r/teslore/comments/2i3543/a_pocket_guide_to_skyrim_and_its_environs/)|[IceFireWarden](/u/IceFireWarden)
-[A Report to Your Highness the Emperor from Mikavel Silver-Tongue](/r/teslore/comments/1kazf5/a_report_to_your_highness_the_emperor_from/)|[Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)
-[A Scholarly Assessment of the Motive, Nature, and Construction of Ancient Nord Cities from Observations of the Modern Ruins](/r/teslore/comments/5bgbb2/a_scholarly_assessment_of_the_motive_nature_and/)|[A_Puddle](/u/A_Puddle)
-[A Theory upon Bromjunaar, and Nordic Ruins in General](/r/teslore/comments/3d59zb/a_theory_upon_bromjunaar_and_nordic_ruins_in/)|[SorenxD123](/u/SorenxD123)
-[A True Account of the Battle of Moesring](/r/teslore/comments/26kqz3/a_true_account_of_the_battle_of_moesring/)|[Porotinaus](/u/Porotinaus)
-[Audhr's Despair: A short (ish) story about Nords and CHIM](/r/teslore/comments/2svmwx/audhrs_despair_a_short_ish_story_about_nords_and/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Ballad of Harald Hand-Free: Part I](/r/teslore/comments/5blqsc/the_ballad_of_harald_handfree_part_i/)|[TheOutOfWorld](/u/TheOutOfWorld)
-[Birth of the Dragon Cult. Part One, Hark! A Prophet from the East!](/r/teslore/comments/2i16am/birth_of_the_dragon_cult_part_one_hark_a_prophet/)|[bnmbnm0](/u/bnmbnm0)
-[Borgas, the Fool King](/r/teslore/comments/15rc90/borgas_the_foolking/)|[dbcification](/u/salivific)
-[Correcting Cyrod Mistakes: Why Male Nords Have Breasts](/r/teslore/comments/3dpxyx/correcting_cyrod_mistakes_why_male_nords_have/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Cultural Phenomena of Tamriel: The Stormcloak Rebellion](/r/teslore/comments/38khmg/cultural_phenomena_of_tamriel_the_stormcloak/)|[ddaybones](/u/ddaybones)
-[Dragon's Wall and the Year of Sun's Death, Inveiw 1: the Nordic Perspective](/r/teslore/comments/5qt29d/dragons_wall_and_the_year_of_suns_death_inveiw_1/)|[BuckneyBos](/u/BuckneyBos)
-[Elf Slayer, a traditional Nordic children's game](https://www.reddit.com/r/teslore/comments/5za19y/elf_slayer_a_traditional_nordic_childrens_game/)|[Vitamin_gun](/u/Vitamin_gun)
-[Femininity in Tamrielic Faith Part 3: Dibella](/r/teslore/comments/20kfc7/femininity_in_tamrielic_faith_part_3_dibella/)|[laurelanthalasa](/u/laurelanthala)
-[Femininity in Tamrielic Faith Part 4: Nordic Goddesses beyond Shor Son of Shor](/r/teslore/comments/20u6zt/femininity_in_tamrielic_faith_part_4_nordic/)|[laurelanthalasa](/u/laurelanthala)
-[The Form of the Atronachs](/r/teslore/comments/1455tg/the_form_of_the_atronachs/)|[Ishullanu](/u/Ishullanu)
-[Gnorir the Cleverman: The Devouring of Foes](/r/teslore/comments/5k12lg/gnorir_the_cleverman_the_devouring_of_foes/)|[HamSandLich](/u/HamSandLich)
-[The House is Salvation](/r/teslore/comments/1eotgh/the_house_is_salvation/)|[Mr_Flippers](/u/Mr_Flippers)
-[How Nords Invented Alchemy](/r/teslore/747mob)|[EoLong](/u/EoLong)
-[I'm Glad I'm Not No Orc](/r/teslore/comments/312fzs/im_glad_im_not_no_orc/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Interview with a Master Blacksmith](/r/teslore/comments/2hrvtb/interview_with_a_master_blacksmith/)|[Cyclenophus](/u/Cyclenophus)
-[Interview with a Nord Papermaker](/r/teslore/comments/3ews58/interview_with_a_nord_papermaker/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Kynstears](/r/teslore/comments/1tjzv5/kynstears/)|[TESJaxt](/u/TESJaxt)
-[The Legend of Bhag Two Tongues](/r/teslore/comments/1zxmxa/the_legend_of_bhag_two_tongues/)|[Lord_Hoot](/u/Lord_Hoot)
-[Lesser-Known Peoples of Tamriel III: The Ildringr or Island Nords](/r/teslore/comments/25uwy6/lesserknown_peoples_of_tamriel_iii_the_ildringr/)|[Lord_Hoot](/u/Lord_Hoot)
-[The Lie of the Dovahkiin](/r/teslore/comments/284gvi/the_lie_of_the_dovahkiin/)|[Mathemagics15](/u/Mathemagics15)
-[The Lore of Law - Part II: Jurisdiction and Inter-Province Law](/r/teslore/comments/1lbrmb/the_lore_of_law_part_ii_jurisdiction_and/)|[kilcunda](/u/kilcunda)
-[Nedes Ent Nords!](/r/teslore/comments/3115ml/nedes_ent_nords/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Nord Combat after the Civil War](/r/teslore/comments/3mfsbr/nord_combat_after_the_civil_war/)|[supermelon928](/u/supermelon928)
-[The Nordic Rite of Wraith-Hunting](/r/teslore/comments/3wf1q4/the_nordic_rite_of_wraithhunting/)|[BrynjarIsenbana](/u/BrynjarIsenbana)
-[Nordic Speaking Stones](/r/teslore/6l6udw/)|[EoLong](/u/EoLong)
-[Nords, trust your blood!](/r/teslore/comments/5g5lf8/nords_trust_your_blood/)|[Black_Eagle78](/u/Black_Eagle78)
-[The Nords and the Giants](/r/teslore/comments/1bzq5i/the_nords_and_the_giants/)|[Morganmarz](/u/Morganmarz)
-[Nords, trust your blood!](/r/teslore/comments/5g5lf8/nords_trust_your_blood/)|[Black_Eagle78](/u/Black_Eagle78)
-[Nord Totems for the Daedra](/r/teslore/comments/5y4z1y/nord_totems_for_the_daedra/)|[Phantasmak](/u/Phantasmak)
-[On Military Ranks](/r/teslore/comments/21z6py/on_military_ranks/)|[willxpm](/u/willxpm)
-[On Milk](/r/teslore/comments/3ek2n8/on_milk/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[On Nedes and Nords](/r/teslore/comments/194uhp/on_nedes_and_nords/)|[lebiro](/u/lebiro)
-[On the Origins of the Nordic Totemic Religion](/r/teslore/comments/427npj/on_the_origins_of_the_nordic_totemic_religion/)|[Heliomance](/u/Heliomance)
-[On The Species Of Tamriel, Volume XIV: The Sons of the Snow](/r/teslore/comments/1lvjq0/on_the_species_of_tamriel_volume_xiv_the_sons_of/)|[Hollymarkie](/u/Hollymarkie)
-[Personal thoughts and reports on Northern Tamriel](/r/teslore/comments/1tc7q5/personal_thoughts_and_reports_on_northern_tamriel/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[Poetry of the Races, Part II](/r/teslore/comments/1ze447/poetry_of_the_races_part_ii/)|[wkuechen](/u/wkuechen)
-[Racial Variations in Interrogation: Nords](/r/teslore/comments/3wjetw/racial_variations_in_interrogation_nords/)|[nulldusk](/u/nulldusk)
-[Rationalizing the Ebonheart Pact, Part II](/r/teslore/comments/26hno3/rationalizing_the_ebonheart_pact_part_ii/)|[willxpm](/u/willxpm)
-[The Saga of Olmgerd the Outlaw](/r/teslore/6f9zib/)|[MrMcfetlock](/u/MrMcfetlock)
-[Saga of the Dragon War: Part One, Skyrim in Those Days](/r/teslore/comments/2i364d/saga_of_the_dragon_war_part_one_skyrim_in_those/)|[EFG567](/u/EFG567)
-[Saga of the Dragon War: Part Two, Of The First Tongues](/r/teslore/comments/2i3tl2/saga_of_the_dragon_war_part_two_of_the_first/)|[EFG567](/u/EFG567)
-[Soldier's Prayer to Perrif](/r/teslore/comments/2c7o07/soldiers_prayer_to_perrif/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Song of Silverdrift](/r/teslore/comments/3zakrr/song_of_silverdrift/)|[SignOfTheHorns](/u/SignOfTheHorns)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[Songs of the Return, Volumes 38 & 39](/r/teslore/comments/2i340g/songs_of_the_return_volumes_38_39/)|[IceFireWarden](/u/IceFireWarden)
-[The Spider Totem](/r/teslore/comments/3pojp9/the_spider_totem/)|[BrynjarIsenbana](/u/BrynjarIsenbana)
-[Tales of Old Tamriel ##2 - Prayers of Sed-Yenna](/r/teslore/comments/2boj3y/tales_of_old_tamriel_2_prayers_of_sedyenna/)|[Cyclenophus](/u/Cyclenophus)
-[Tales of Old Tamriel ##4 - The Last One](/r/teslore/comments/2ckmpj/tales_of_old_tamriel_4_the_last_one/)|[Cyclenophus](/u/Cyclenophus)
-[Tamrielic Insults, Curses, Cusses and Name-Calling VOL. I](/r/teslore/comments/2ors54/tamrielic_insults_curses_cusses_and_namecalling/)|[DarthNarwhals](/u/DarthNarwhals)
-["The Teachings of Stuhn to Mortals" as told by Aeda Branch-Hand](/r/teslore/comments/5lwjj0/the_teachings_of_stuhn_to_mortals_as_told_by_aeda/)|[BCM_00](/u/BCM_00)
-[Tribes of Tamriel, Volume I: The Skaal of Solstheim](/r/teslore/comments/2c6ivi/tribes_of_tamriel_volume_i_the_skaal_of_solstheim/)|[Hollymarkie](/u/Hollymarkie)
-[Valor Eternal](/r/teslore/comments/61b2vd/)|[avakinumibus](/u/avakinumibus)
-[The Value of Beards](/r/teslore/comments/38vwwu/the_value_of_beards/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Verse of the Jagged Crown](/r/teslore/comments/4nju5r/verse_of_the_jagged_crown/)|[Archiphres](/u/Archiphres)
-[What Nords (True Nords!) see when they look upon Shor](/r/teslore/6hzbqk/)|[Phantasmak](/u/Phantasmak)
+| **Title**                                                                                                                                        | **Author**                                                                                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [A Brief Guide To Skyrim's Jarls, And Their Clothes](/r/teslore/3cone9)                                                                          | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [A Concise Biography of High King Torygg, Volume I](/r/teslore/22uinz)                                                                           | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [A Concise Biography of High King Torygg, Volume II](/r/teslore/22vi12)                                                                          | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [A Concise Biography of High King Torygg, Volume III](/r/teslore/22wxrt)                                                                         | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [A Drunken Treatise on Water, Memory, and Culture](/r/teslore/261zs1)                                                                            | [AMFKing](/u/AMFKing)                                                                                                                     |
+| [A Hearth-Fire Tale](/r/teslore/3x54en)                                                                                                          | [BrynjarIsenbana](/u/BrynjarIsenbana)                                                                                                     |
+| [Ancient Nord Culture and Religion](/r/teslore/sayyx)                                                                                            | [lilrhys](/u/lilrhys)                                                                                                                     |
+| [A Nordic prayer](/r/teslore/4250fu)                                                                                                             | [Heliomance](/u/Heliomance)                                                                                                               |
+| [A Nord's Guide To Morrowind: Clan Ra'athim](/r/teslore/76wbfd)                                                                                  | [bitchwhoreofastorm](/u/bitchwhoreofastorm)                                                                                               |
+| [An unplanned post about Ulfric Stormcloak](/r/teslore/16ozps)                                                                                   | [dbcification](/u/salivific)                                                                                                              |
+| [A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Cover & Foreword)](/r/teslore/26pw8p)                                     | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 1)](/r/teslore/26pxho)                                            | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 3)](/r/teslore/2i3543)                                            | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [A Report to Your Highness the Emperor from Mikavel Silver-Tongue](/r/teslore/1kazf5)                                                            | [Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)                                                                                                   |
+| [A Scholarly Assessment of the Motive, Nature, and Construction of Ancient Nord Cities from Observations of the Modern Ruins](/r/teslore/5bgbb2) | [A_Puddle](/u/A_Puddle)                                                                                                                   |
+| [A Theory upon Bromjunaar, and Nordic Ruins in General](/r/teslore/3d59zb)                                                                       | [SorenxD123](/u/SorenxD123)                                                                                                               |
+| [A True Account of the Battle of Moesring](/r/teslore/26kqz3)                                                                                    | [Porotinaus](/u/Porotinaus)                                                                                                               |
+| [Audhr's Despair: A short (ish) story about Nords and CHIM](/r/teslore/2svmwx)                                                                   | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [The Ballad of Harald Hand-Free: Part I](/r/teslore/5blqsc)                                                                                      | [TheOutOfWorld](/u/TheOutOfWorld)                                                                                                         |
+| [Birth of the Dragon Cult. Part One, Hark! A Prophet from the East!](/r/teslore/2i16am)                                                          | [bnmbnm0](/u/bnmbnm0)                                                                                                                     |
+| [Borgas, the Fool King](/r/teslore/15rc90)                                                                                                       | [dbcification](/u/salivific)                                                                                                              |
+| [Correcting Cyrod Mistakes: Why Male Nords Have Breasts](/r/teslore/3dpxyx)                                                                      | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [Cultural Phenomena of Tamriel: The Stormcloak Rebellion](/r/teslore/38khmg)                                                                     | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Dragon's Wall and the Year of Sun's Death, Inveiw 1: the Nordic Perspective](/r/teslore/5qt29d)                                                 | [BuckneyBos](/u/BuckneyBos)                                                                                                               |
+| [Elf Slayer, a traditional Nordic children's game](/r/teslore/5za19y)                                                                            | [Vitamin_gun](/u/Vitamin_gun)                                                                                                             |
+| [Femininity in Tamrielic Faith Part 3: Dibella](/r/teslore/20kfc7)                                                                               | [laurelanthalasa](/u/laurelanthala)                                                                                                       |
+| [Femininity in Tamrielic Faith Part 4: Nordic Goddesses beyond Shor Son of Shor](/r/teslore/20u6zt)                                              | [laurelanthalasa](/u/laurelanthala)                                                                                                       |
+| [The Form of the Atronachs](/r/teslore/1455tg)                                                                                                   | [Ishullanu](/u/Ishullanu)                                                                                                                 |
+| [Gnorir the Cleverman: The Devouring of Foes](/r/teslore/5k12lg)                                                                                 | [HamSandLich](/u/HamSandLich)                                                                                                             |
+| [The House is Salvation](/r/teslore/1eotgh)                                                                                                      | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [How Nords Invented Alchemy](/r/teslore/747mob)                                                                                                  | [EoLong](/u/EoLong)                                                                                                                       |
+| [I'm Glad I'm Not No Orc](/r/teslore/312fzs)                                                                                                     | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [Interview with a Master Blacksmith](/r/teslore/2hrvtb)                                                                                          | [Cyclenophus](/u/Cyclenophus)                                                                                                             |
+| [Interview with a Nord Papermaker](/r/teslore/3ews58)                                                                                            | [Anonymous_Mononymous](/u/Anonymous_Mononymous)                                                                                           |
+| [Kynstears](/r/teslore/1tjzv5)                                                                                                                   | [TESJaxt](/u/TESJaxt)                                                                                                                     |
+| [The Legend of Bhag Two Tongues](/r/teslore/1zxmxa)                                                                                              | [Lord_Hoot](/u/Lord_Hoot)                                                                                                                 |
+| [Lesser-Known Peoples of Tamriel III: The Ildringr or Island Nords](/r/teslore/25uwy6)                                                           | [Lord_Hoot](/u/Lord_Hoot)                                                                                                                 |
+| [The Lie of the Dovahkiin](/r/teslore/284gvi)                                                                                                    | [Mathemagics15](/u/Mathemagics15)                                                                                                         |
+| [The Lore of Law - Part II: Jurisdiction and Inter-Province Law](/r/teslore/1lbrmb)                                                              | [kilcunda](/u/kilcunda)                                                                                                                   |
+| [Nedes Ent Nords!](/r/teslore/3115ml)                                                                                                            | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [Nord Combat after the Civil War](/r/teslore/3mfsbr)                                                                                             | [supermelon928](/u/supermelon928)                                                                                                         |
+| [The Nordic Rite of Wraith-Hunting](/r/teslore/3wf1q4)                                                                                           | [BrynjarIsenbana](/u/BrynjarIsenbana)                                                                                                     |
+| [Nordic Speaking Stones](/r/teslore/6l6udw/)                                                                                                     | [EoLong](/u/EoLong)                                                                                                                       |
+| [Nords, trust your blood!](/r/teslore/5g5lf8)                                                                                                    | [Black_Eagle78](/u/Black_Eagle78)                                                                                                         |
+| [The Nords and the Giants](/r/teslore/1bzq5i)                                                                                                    | [Morganmarz](/u/Morganmarz)                                                                                                               |
+| [Nords, trust your blood!](/r/teslore/5g5lf8)                                                                                                    | [Black_Eagle78](/u/Black_Eagle78)                                                                                                         |
+| [Nord Totems for the Daedra](/r/teslore/5y4z1y)                                                                                                  | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [On Military Ranks](/r/teslore/21z6py)                                                                                                           | [willxpm](/u/willxpm)                                                                                                                     |
+| [On Milk](/r/teslore/3ek2n8)                                                                                                                     | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [On Nedes and Nords](/r/teslore/194uhp)                                                                                                          | [lebiro](/u/lebiro)                                                                                                                       |
+| [On the Origins of the Nordic Totemic Religion](/r/teslore/427npj)                                                                               | [Heliomance](/u/Heliomance)                                                                                                               |
+| [On The Species Of Tamriel, Volume XIV: The Sons of the Snow](/r/teslore/1lvjq0)                                                                 | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Personal thoughts and reports on Northern Tamriel](/r/teslore/1tc7q5)                                                                           | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)                             | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [Poetry of the Races, Part II](/r/teslore/1ze447)                                                                                                | [wkuechen](/u/wkuechen)                                                                                                                   |
+| [Racial Variations in Interrogation: Nords](/r/teslore/3wjetw)                                                                                   | [nulldusk](/u/nulldusk)                                                                                                                   |
+| [Rationalizing the Ebonheart Pact, Part II](/r/teslore/26hno3)                                                                                   | [willxpm](/u/willxpm)                                                                                                                     |
+| [The Saga of Olmgerd the Outlaw](/r/teslore/6f9zib/)                                                                                             | [MrMcfetlock](/u/MrMcfetlock)                                                                                                             |
+| [Saga of the Dragon War: Part One, Skyrim in Those Days](/r/teslore/2i364d)                                                                      | [EFG567](/u/EFG567)                                                                                                                       |
+| [Saga of the Dragon War: Part Two, Of The First Tongues](/r/teslore/2i3tl2)                                                                      | [EFG567](/u/EFG567)                                                                                                                       |
+| [Soldier's Prayer to Perrif](/r/teslore/2c7o07)                                                                                                  | [Anonymous_Mononymous](/u/Anonymous_Mononymous)                                                                                           |
+| [Song of Silverdrift](/r/teslore/3zakrr)                                                                                                         | [SignOfTheHorns](/u/SignOfTheHorns)                                                                                                       |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                                                                                | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [Songs of the Return, Volumes 38 & 39](/r/teslore/2i340g)                                                                                        | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Spider Totem](/r/teslore/3pojp9)                                                                                                            | [BrynjarIsenbana](/u/BrynjarIsenbana)                                                                                                     |
+| [Tales of Old Tamriel ##2 - Prayers of Sed-Yenna](/r/teslore/2boj3y)                                                                             | [Cyclenophus](/u/Cyclenophus)                                                                                                             |
+| [Tales of Old Tamriel ##4 - The Last One](/r/teslore/2ckmpj)                                                                                     | [Cyclenophus](/u/Cyclenophus)                                                                                                             |
+| [Tamrielic Insults, Curses, Cusses and Name-Calling VOL. I](/r/teslore/2ors54)                                                                   | [DarthNarwhals](/u/DarthNarwhals)                                                                                                         |
+| ["The Teachings of Stuhn to Mortals" as told by Aeda Branch-Hand](/r/teslore/5lwjj0)                                                             | [BCM_00](/u/BCM_00)                                                                                                                       |
+| [Tribes of Tamriel, Volume I: The Skaal of Solstheim](/r/teslore/2c6ivi)                                                                         | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Valor Eternal](/r/teslore/61b2vd)                                                                                                               | [avakinumibus](/u/avakinumibus)                                                                                                           |
+| [The Value of Beards](/r/teslore/38vwwu)                                                                                                         | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [Verse of the Jagged Crown](/r/teslore/4nju5r)                                                                                                   | [Archiphres](/u/Archiphres)                                                                                                               |
+| [What Nords (True Nords!) see when they look upon Shor](/r/teslore/6hzbqk/)                                                                      | [Phantasmak](/u/Phantasmak)                                                                                                               |
 
 ### Numidium
 
-**Title**| **Author**
-:-----------|:----------
-[Aftershock, Volume I: Rubble](/r/teslore/comments/1rf722/aftershock_volume_i_rubble/)|[IceFireWarden](/u/IceFireWarden)
-[A Moment Of Reflection](https://reddit.com/r/teslore/comments/5p5n5i/a_moment_of_reflection/)|[docclox](/u/docclox)
-[Cercetus Etonhualla, Imperial Moth Ambassador's Special Report to the Council Concerning the Brass Golem's Return](/r/teslore/comments/24u3xh/cercetus_etonhualla_imperial_moth_ambassadors/)|[turokman2000](/u/turokman2000)
-[How to Outsmart a Numidium](/r/teslore/comments/5ketfm/how_to_outsmart_a_numidium/)|[brinehammer](/u/brinehammer)
-[I, Numidium](/r/teslore/comments/5cfk0c/ldz_i_numidium/)|[scourgicus](/u/scourgicus)
-[Musings on Akulakhan, Numidium and Dagoth Ur](/r/teslore/comments/4ssyjz/musings_on_akulakhan_numidium_and_dagoth_ur/)|[docclox](/u/docclox)
-[The Numidiad: Part I](/r/teslore/comments/1rgnjn/the_numidiad_part_i/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part II](/r/teslore/comments/1rgnjn/the_numidiad_part_ii/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part III](/r/teslore/comments/1rgnjn/the_numidiad_part_iii/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part IV](/r/teslore/comments/1rgnjn/the_numidiad_part_iv/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part V](/r/teslore/comments/1rgnjn/the_numidiad_part_v/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part VI](/r/teslore/comments/1zbi1b/the_numidiad_part_vi/)|[myrrlyn](/u/myrrlyn)
-[Numidium and the Battle of Red Mountain as a Competitive Reverse Mantling of Creation and Convention](/r/teslore/comments/38073t/numidium_and_the_battle_of_red_mountain_as_a/)|[DaSaw](/u/DaSaw)
-[Numidium's Skin](/r/teslore/comments/1ycjhf/numidiums_skin/)|[laurelanthalasa](/u/laurelanthalasa)
-[Numidium the Prisoner](/r/teslore/comments/2osikn/numidium_the_prisoner/)|[IceFireWarden](/u/IceFireWarden)
-[RASHA GIVER WORDS BIG](/r/teslore/comments/18oouk/rasha_giver_words_big/)|[Mr_Flippers](/u/Mr_Flippers)
-[Root Meditation with Numidium](/r/teslore/comments/1zkhd7/root_meditation_with_numidium/)|[IceFireWarden](/u/IceFirewarden)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[The two giant demigods are both caught frozen in mid-punch, like kaiju-killers about to pound each other into hell. Part I](/r/teslore/comments/1yume0/the_two_giant_demigods_are_both_caught_frozen_in/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[The two giant demigods are both caught frozen in mid-punch, like kaiju-killers about to pound each other into hell. Part II](/r/teslore/comments/1z0yvd/the_two_giant_demigods_are_both_caught_frozen_in/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[The two giant demigods are both caught frozen in mid-punch, like kaiju-killers about to pound each other into hell. Part III](/r/teslore/comments/1zd6cy/the_two_giant_demigods_are_both_caught_frozen_in/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[The two giant demigods are both caught frozen in mid-punch, like kaiju-killers about to pound each other into hell. Part IV](/r/teslore/comments/3hc230/the_two_giant_demigods_are_both_caught_frozen_in/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
+| **Title**                                                                                                                                         | **Author**                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------- |
+| [Aftershock, Volume I: Rubble](/r/teslore/1rf722)                                                                                                 | [IceFireWarden](/u/IceFireWarden)         |
+| [A Moment Of Reflection](/r/teslore/5p5n5i)                                                                                                       | [docclox](/u/docclox)                     |
+| [Cercetus Etonhualla, Imperial Moth Ambassador's Special Report to the Council Concerning the Brass Golem's Return](/r/teslore/24u3xh)            | [turokman2000](/u/turokman2000)           |
+| [How to Outsmart a Numidium](/r/teslore/5ketfm)                                                                                                   | [brinehammer](/u/brinehammer)             |
+| [I, Numidium](/r/teslore/5cfk0c)                                                                                                                  | [scourgicus](/u/scourgicus)               |
+| [Musings on Akulakhan, Numidium and Dagoth Ur](/r/teslore/4ssyjz)                                                                                 | [docclox](/u/docclox)                     |
+| [The Numidiad: Part I](/r/teslore/1rgnjn)                                                                                                         | [myrrlyn](/u/myrrlyn)                     |
+| [The Numidiad: Part II](/r/teslore/1rgnjn)                                                                                                        | [myrrlyn](/u/myrrlyn)                     |
+| [The Numidiad: Part III](/r/teslore/1rgnjn)                                                                                                       | [myrrlyn](/u/myrrlyn)                     |
+| [The Numidiad: Part IV](/r/teslore/1rgnjn)                                                                                                        | [myrrlyn](/u/myrrlyn)                     |
+| [The Numidiad: Part V](/r/teslore/1rgnjn)                                                                                                         | [myrrlyn](/u/myrrlyn)                     |
+| [The Numidiad: Part VI](/r/teslore/1zbi1b)                                                                                                        | [myrrlyn](/u/myrrlyn)                     |
+| [Numidium and the Battle of Red Mountain as a Competitive Reverse Mantling of Creation and Convention](/r/teslore/38073t)                         | [DaSaw](/u/DaSaw)                         |
+| [Numidium's Skin](/r/teslore/1ycjhf)                                                                                                              | [laurelanthalasa](/u/laurelanthalasa)     |
+| [Numidium the Prisoner](/r/teslore/2osikn)                                                                                                        | [IceFireWarden](/u/IceFireWarden)         |
+| [RASHA GIVER WORDS BIG](/r/teslore/18oouk)                                                                                                        | [Mr_Flippers](/u/Mr_Flippers)             |
+| [Root Meditation with Numidium](/r/teslore/1zkhd7)                                                                                                | [IceFireWarden](/u/IceFirewarden)         |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                                                                                 | [Mr_Flippers](/u/Mr_Flippers)             |
+| [The two giant demigods are both caught frozen in mid-punch, like kaiju-killers about to pound each other into hell. Part I](/r/teslore/1yume0)   | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl) |
+| [The two giant demigods are both caught frozen in mid-punch, like kaiju-killers about to pound each other into hell. Part II](/r/teslore/1z0yvd)  | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl) |
+| [The two giant demigods are both caught frozen in mid-punch, like kaiju-killers about to pound each other into hell. Part III](/r/teslore/1zd6cy) | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl) |
+| [The two giant demigods are both caught frozen in mid-punch, like kaiju-killers about to pound each other into hell. Part IV](/r/teslore/3hc230)  | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl) |
 
 ## O
 
 ### Oblivion
 
-**Title**| **Author**
-:-----------|:----------
-[A Journey Into Oblivion, Volume I: Peryite's Pits by Acarelos Detelories](/r/teslore/comments/12ydi9/a_journey_into_oblivion_volume_i_peryites_pits_by/)|[b-rad-oleary](/u/b-rad-oleary)
-[A Journey Into Oblivion, Volume II: Coldharbour by Demories Acarelos](/r/teslore/comments/13ft8u/a_journey_into_oblivion_volume_ii_coldharbour_by/)|[b-rad-oleary](/u/b-rad-oleary)
-[A Journey into Oblivion, Volume III: Meridia's Colored Rooms](/r/teslore/comments/163zs3/a_journey_into_oblivion_volume_iii_meridias/)|[b-rad-oleary](/u/b-rad-oleary)
-[A treatise of the effects of trans-liminal passage on local space-time](/r/teslore/comments/1q07pv/a_treatise_of_the_effects_of_transliminal_passage/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[A Pocket Guide to the Aurbis and its Firmaments, Third Edition: Introduction & Exordium [Part I]](/r/teslore/comments/2uj7zw/a_pocket_guide_to_the_aurbis_and_its_firmaments/)|[IceFireWarden](/u/IceFireWarden)
-[A Pocket Guide to the Aurbis and its Firmaments, Third Edition: Into The Beyond – The History of the New Void Navy [Part II]](/r/teslore/comments/2ujbve/a_pocket_guide_to_the_aurbis_and_its_firmaments/)|[IceFireWarden](/u/IceFireWarden)
-[A Pocket Guide to the Aurbis and its Firmaments, Third Edition: Here But There – Methods of Transliminal Travel [Part III]](/r/teslore/comments/2ujda9/a_pocket_guide_to_the_aurbis_and_its_firmaments/)|[IceFireWarden](/u/IceFireWarden)
-[Blackwych: The Realm of Namira](/r/teslore/comments/4r31ip/blackwych_the_realm_of_namira/?st=iqgwmuyp&sh=6bdfee00)|[swedishplayer97](/u/swedishplayer97)
-[Chim-El Adabal! Speaks to YOU!](/r/teslore/comments/46n89x/chimel_adabal_speaks_to_you/)|[LiquidHurlant](/u/LiquidHurlant)
-[Discerning the Transfinite](/r/teslore/comments/22kifv/discerning_the_transfinite/)|[sha-3-512](/u/sha-3-512)
-[Don't Panic!](/r/teslore/comments/2toukc/dont_panic/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[Eternity, Peace, and Love: Lore-Mining the Soul Cairn](/r/teslore/comments/5czjnq/eternity_peace_and_love_loremining_the_soul_cairn/)|[BanditoWalrus](/u/BanditoWalrus)
-[Exploration of the Planes of the Mundus: MHARA System](/r/teslore/comments/1vlncm/exploration_of_the_planes_of_the_mundus_mhara/)|[TwistingWagoo](/u/TwistingWagoo)
-[The Form of the Atronachs](/r/teslore/comments/1455tg/the_form_of_the_atronachs/)|[Ishullanu](/u/Ishullanu)
-["From the deserts of rust and wounds to Camoran's paradise" a translation and interpretation of the Mysterium Xarxes, Vol. I](/r/teslore/comments/15gbha/from_the_deserts_of_rust_and_wounds_to_camorans/)|[Rileyman360](/u/Rileyman360)
-["From the deserts of rust and wounds to Camoran's paradise" a translation and interpretation of the Mysterium Xarxes Vol. II](/r/teslore/comments/15qn36/from_the_deserts_of_rust_and_wounds_to_camorans/)|[Rileyman360](/u/Rileyman360)
-[Hierographa of Azura II, The Creation of Moonshadow](/r/teslore/comments/283mh8/hierographa_of_azura_ii_the_creation_of_moonshadow/)|[willxpm](/u/willxpm)
-[In Defense of Mankar Camoran's Erroneous Speech](/r/teslore/comments/4ir902/in_defense_of_mankar_camorans_erroneous_speech/)|[Alarialas](/u/Alarialas)
-[Loci of The Pits: The Purulent Abyss](/r/teslore/comments/27wdm3/loci_of_the_pits_the_purulent_abyss/)|[IceFireWarden](/u/IceFireWarden)
-[Mapping Oblivion](/r/teslore/comments/5b6zcx/mapping_oblivion/)|[PhilosophicalPickle](/u/PhilosophicalPickle)
-[Oblivion is IN The Sea, Continents Are Past/Future Timelines](/r/teslore/comments/20xple/oblivion_is_in_the_sea_continents_are_pastfuture/)|[turokman2000](/u/turokman2000)
-[On Oblivion](/r/teslore/comments/3ko7w6/on_oblivion/)|[BrynjarIsenbana](/u/BrynjarIsenbana)
-[RASHA GIVER WORDS BIG](/r/teslore/comments/18oouk/rasha_giver_words_big/)|[Mr_Flippers](/u/Mr_Flippers)
-[Sheogoraths Sheogorad](/r/teslore/comments/3hybax/sheogoraths_sheogorad/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[Things You Might Need on Your Travels](/r/teslore/comments/2tozuo/things_you_might_need_on_your_travels/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Time God Conspiracy](/r/teslore/comments/11iqga/the_time_god_conspiracy/)|[regalnerd](/u/regalnerd)
-[The Undiscovered Aurbis: The Founding of Oblivion, The Gates of Night, and the Daedric Interest in Mundus](/r/teslore/comments/26pkrw/the_undiscovered_aurbis_the_founding_of_oblivion/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The Undiscovered Aurbis: HYAET CHIM AE EKUA; The Princes of Victory, Mutation, and Gambling](/r/teslore/comments/271798/the_undiscovered_aurbis_hyaet_chim_ae_ekua_the/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The Undiscovered Aurbis-Introductions to Varasieth, Nagrom Meferan, and The Courts of Sred Toc](/r/teslore/comments/26e9dw/the_undiscovered_aurbisintroductions_to_varasieth/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The Undiscovered Aurbis-The World River, Anu, Padomay, and the Mundus Whirlpool](/r/teslore/comments/26bkjp/the_undiscovered_aurbisthe_world_river_anu/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The Undiscovered Worlds of The Universe-A Letter from The Prince of Discovery](/r/teslore/comments/268gan/the_undiscovered_worlds_of_the_universea_letter/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[Vade Mecum Oblivisci: A Dremora’s Pocket Guide To Oblivion](/r/teslore/comments/218hzn/vade_mecum_oblivisci_a_dremoras_pocket_guide_to/)|[IceFireWarden](/u/IceFireWarden)
-[Vassals of The Pits](/r/teslore/comments/27wigw/vassals_of_the_pits/)|[IceFireWarden](/u/IceFireWarden)
-[Voyage into the Waters of Oblivion, Part three, the remnants of Tatterdemalion and Lleswer](/r/teslore/comments/2px8zn/voyage_into_the_waters_of_oblivion_part_three_the/)|[bnmbnm0](/u/bnmbnm0)
-[Voyage into the Waters of Oblivion, Part four, The Lost Magne-Ge](/r/teslore/comments/2qbg4t/voyage_into_the_waters_of_oblivion_part_four_the/)|[bnmbnm0](/u/bnmbnm0)
-[Voyage into the Waters of Oblivion, Part Five, Rape Beasts, Sex Parts, and Darkness. [Evergloam pt.1]](/r/teslore/comments/2qfl7o/voyage_into_the_waters_of_oblivion_part_five_rape/)|[bnmbnm0](/u/bnmbnm0)
+| **Title**                                                                                                                                         | **Author**                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------- |
+| [A Journey Into Oblivion, Volume I: Peryite's Pits by Acarelos Detelories](/r/teslore/12ydi9)                                                     | [b-rad-oleary](/u/b-rad-oleary)                 |
+| [A Journey Into Oblivion, Volume II: Coldharbour by Demories Acarelos](/r/teslore/13ft8u)                                                         | [b-rad-oleary](/u/b-rad-oleary)                 |
+| [A Journey into Oblivion, Volume III: Meridia's Colored Rooms](/r/teslore/163zs3)                                                                 | [b-rad-oleary](/u/b-rad-oleary)                 |
+| [A treatise of the effects of trans-liminal passage on local space-time](/r/teslore/1q07pv)                                                       | [Anonymous_Mononymous](/u/Anonymous_Mononymous) |
+| [A Pocket Guide to the Aurbis and its Firmaments, Third Edition: Introduction & Exordium [Part I]](/r/teslore/2uj7zw)                             | [IceFireWarden](/u/IceFireWarden)               |
+| [A Pocket Guide to the Aurbis and its Firmaments, Third Edition: Into The Beyond – The History of the New Void Navy [Part II]](/r/teslore/2ujbve) | [IceFireWarden](/u/IceFireWarden)               |
+| [A Pocket Guide to the Aurbis and its Firmaments, Third Edition: Here But There – Methods of Transliminal Travel [Part III]](/r/teslore/2ujda9)   | [IceFireWarden](/u/IceFireWarden)               |
+| [Blackwych: The Realm of Namira](/r/teslore/4r31ip)                                                                                               | [swedishplayer97](/u/swedishplayer97)           |
+| [Chim-El Adabal! Speaks to YOU!](/r/teslore/46n89x)                                                                                               | [LiquidHurlant](/u/LiquidHurlant)               |
+| [Discerning the Transfinite](/r/teslore/22kifv)                                                                                                   | [sha-3-512](/u/sha-3-512)                       |
+| [Don't Panic!](/r/teslore/2toukc)                                                                                                                 | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)       |
+| [Eternity, Peace, and Love: Lore-Mining the Soul Cairn](/r/teslore/5czjnq)                                                                        | [BanditoWalrus](/u/BanditoWalrus)               |
+| [Exploration of the Planes of the Mundus: MHARA System](/r/teslore/1vlncm)                                                                        | [TwistingWagoo](/u/TwistingWagoo)               |
+| [The Form of the Atronachs](/r/teslore/1455tg)                                                                                                    | [Ishullanu](/u/Ishullanu)                       |
+| ["From the deserts of rust and wounds to Camoran's paradise" a translation and interpretation of the Mysterium Xarxes, Vol. I](/r/teslore/15gbha) | [Rileyman360](/u/Rileyman360)                   |
+| ["From the deserts of rust and wounds to Camoran's paradise" a translation and interpretation of the Mysterium Xarxes Vol. II](/r/teslore/15qn36) | [Rileyman360](/u/Rileyman360)                   |
+| [Hierographa of Azura II, The Creation of Moonshadow](/r/teslore/283mh8)                                                                          | [willxpm](/u/willxpm)                           |
+| [In Defense of Mankar Camoran's Erroneous Speech](/r/teslore/4ir902)                                                                              | [Alarialas](/u/Alarialas)                       |
+| [Loci of The Pits: The Purulent Abyss](/r/teslore/27wdm3)                                                                                         | [IceFireWarden](/u/IceFireWarden)               |
+| [Mapping Oblivion](/r/teslore/5b6zcx)                                                                                                             | [PhilosophicalPickle](/u/PhilosophicalPickle)   |
+| [Oblivion is IN The Sea, Continents Are Past/Future Timelines](/r/teslore/20xple)                                                                 | [turokman2000](/u/turokman2000)                 |
+| [On Oblivion](/r/teslore/3ko7w6)                                                                                                                  | [BrynjarIsenbana](/u/BrynjarIsenbana)           |
+| [RASHA GIVER WORDS BIG](/r/teslore/18oouk)                                                                                                        | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Sheogoraths Sheogorad](/r/teslore/3hybax)                                                                                                        | [Mathieu-Bellamont](/u/Mathieu-Bellamont)       |
+| [Things You Might Need on Your Travels](/r/teslore/2tozuo)                                                                                        | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)       |
+| [The Time God Conspiracy](/r/teslore/11iqga)                                                                                                      | [regalnerd](/u/regalnerd)                       |
+| [The Undiscovered Aurbis: The Founding of Oblivion, The Gates of Night, and the Daedric Interest in Mundus](/r/teslore/26pkrw)                    | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [The Undiscovered Aurbis: HYAET CHIM AE EKUA; The Princes of Victory, Mutation, and Gambling](/r/teslore/271798)                                  | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [The Undiscovered Aurbis-Introductions to Varasieth, Nagrom Meferan, and The Courts of Sred Toc](/r/teslore/26e9dw)                               | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [The Undiscovered Aurbis-The World River, Anu, Padomay, and the Mundus Whirlpool](/r/teslore/26bkjp)                                              | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [The Undiscovered Worlds of The Universe-A Letter from The Prince of Discovery](/r/teslore/268gan)                                                | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [Vade Mecum Oblivisci: A Dremora’s Pocket Guide To Oblivion](/r/teslore/218hzn)                                                                   | [IceFireWarden](/u/IceFireWarden)               |
+| [Vassals of The Pits](/r/teslore/27wigw)                                                                                                          | [IceFireWarden](/u/IceFireWarden)               |
+| [Voyage into the Waters of Oblivion, Part three, the remnants of Tatterdemalion and Lleswer](/r/teslore/2px8zn)                                   | [bnmbnm0](/u/bnmbnm0)                           |
+| [Voyage into the Waters of Oblivion, Part four, The Lost Magne-Ge](/r/teslore/2qbg4t)                                                             | [bnmbnm0](/u/bnmbnm0)                           |
+| [Voyage into the Waters of Oblivion, Part Five, Rape Beasts, Sex Parts, and Darkness. [Evergloam pt.1]](/r/teslore/2qfl7o)                        | [bnmbnm0](/u/bnmbnm0)                           |
 
 ### Oblivion Crisis
 
-**Title**| **Author**
-:-----------|:----------
-[A Letter Concerning The Dragonfires and The Oblivion Crisis](/r/teslore/comments/373ho6/a_letter_concerning_the_dragonfires_and_the/)|[Etienne_Marlon](/u/Etienne_Marlon)
-[Correspondence Between Refugees: On the Oblivion Crisis and the Void Nights](/r/teslore/comments/3t78xy/correspondence_between_refugees_on_the_oblivion/)|[craftycthonius](/u/craftycthonius)
-[The Day of the Daedra! By Inius Gravius – Feature Article of the Skingrad Informer for 24th Second Seed 1E 2839](/r/teslore/comments/3bvbti/the_day_of_the_daedra_by_inius_gravius_feature/)|[Trials_and_3rrors](/u/Trials_and_3rrors)
-[Erasing the Past](/r/teslore/comments/25qd5k/erasing_the_past/)|[Luinithil](/u/Luinithil)
-[The Fall of Snowhawk](/r/teslore/comments/23chin/the_fall_of_snowhawk/)|[phil_hinds](/u/Phil_hinds)
-[The Fall of Valenwood](/r/teslore/comments/2k0qz0/the_fall_of_valenwood/)|[kingjoe64](/u/kingjoe64)
-["From the deserts of rust and wounds to Camoran's paradise" a translation and interpretation of the Mysterium Xarxes, Vol. I](/r/teslore/comments/15gbha/from_the_deserts_of_rust_and_wounds_to_camorans/)|[Rileyman360](/u/Rileyman360)
-["From the deserts of rust and wounds to Camoran's paradise" a translation and interpretation of the Mysterium Xarxes Vol. II](/r/teslore/comments/15qn36/from_the_deserts_of_rust_and_wounds_to_camorans/)|[Rileyman360](/u/Rileyman360)
-[How Mehrunes Dagon Sealed the Fate of the Empire](/r/teslore/comments/1s521k/how_mehrunes_dagon_sealed_the_fate_of_the_empire/)|[Vulamond](/u/Vulamond)
-[The Oblivion Crisis Scrutinized](/r/teslore/comments/2epx3s/the_oblivion_crisis_scrutinized/)|[IceFireWarden](/u/IceFireWarden)
-[Post-Crisis Analysis on the State of Cyrodiil](/r/teslore/comments/1to32d/postcrisis_analysis_on_the_state_of_cyrodiil/)|[ppitm](/u/ppitm)
-[The Sad Tale of Slythe Seringi](/r/teslore/comments/2rqqpl/the_sad_tale_of_slythe_seringi/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Telvanni tactics during the Oblivion Crisis](/r/teslore/comments/2ccjf6/telvanni_tactics_during_the_oblivion_crisis/)|[Lord_Hoot](/u/Lord_Hoot)
-[The Time God Conspiracy](/r/teslore/comments/11iqga/the_time_god_conspiracy/)|[regalnerd](/u/regalnerd)
-[433, Last Year of the Third Era: Book 1, Morning Star](/r/teslore/comments/1rxajh/433_last_year_of_the_third_era_book_1_morning_star/)|[IceFireWarden](/u/IceFireWarden)
-[433, Last Year of the Third Era: Book 2, Sun's Dawn](/r/teslore/comments/1s2qxh/433_last_year_of_the_third_era_book_2_suns_dawn/)|[IceFireWarden](/u/IceFireWarden)
-[433, Last Year of the Third Era: Book 3, First Seed](/r/teslore/comments/1sjsbp/433_last_year_of_the_third_era_book_3_first_seed/)|[IceFireWarden](/u/IceFireWarden)
-[433, The Last Year of the Third era. Volume 1, part 1](/r/teslore/comments/2d4xlu/433_the_last_year_of_the_third_era_volume_1_part_1/)|[Kurufinve](/u/Kurufinve)
+| **Title**                                                                                                                                         | **Author**                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------- |
+| [A Letter Concerning The Dragonfires and The Oblivion Crisis](/r/teslore/373ho6)                                                                  | [Etienne_Marlon](/u/Etienne_Marlon)           |
+| [Correspondence Between Refugees: On the Oblivion Crisis and the Void Nights](/r/teslore/3t78xy)                                                  | [craftycthonius](/u/craftycthonius)           |
+| [The Day of the Daedra! By Inius Gravius – Feature Article of the Skingrad Informer for 24th Second Seed 1E 2839](/r/teslore/3bvbti)              | [Trials_and_3rrors](/u/Trials_and_3rrors)     |
+| [Erasing the Past](/r/teslore/25qd5k)                                                                                                             | [Luinithil](/u/Luinithil)                     |
+| [The Fall of Snowhawk](/r/teslore/23chin)                                                                                                         | [phil_hinds](/u/Phil_hinds)                   |
+| [The Fall of Valenwood](/r/teslore/2k0qz0)                                                                                                        | [kingjoe64](/u/kingjoe64)                     |
+| ["From the deserts of rust and wounds to Camoran's paradise" a translation and interpretation of the Mysterium Xarxes, Vol. I](/r/teslore/15gbha) | [Rileyman360](/u/Rileyman360)                 |
+| ["From the deserts of rust and wounds to Camoran's paradise" a translation and interpretation of the Mysterium Xarxes Vol. II](/r/teslore/15qn36) | [Rileyman360](/u/Rileyman360)                 |
+| [How Mehrunes Dagon Sealed the Fate of the Empire](/r/teslore/1s521k)                                                                             | [Vulamond](/u/Vulamond)                       |
+| [The Oblivion Crisis Scrutinized](/r/teslore/2epx3s)                                                                                              | [IceFireWarden](/u/IceFireWarden)             |
+| [Post-Crisis Analysis on the State of Cyrodiil](/r/teslore/1to32d)                                                                                | [ppitm](/u/ppitm)                             |
+| [The Sad Tale of Slythe Seringi](/r/teslore/2rqqpl)                                                                                               | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [Telvanni tactics during the Oblivion Crisis](/r/teslore/2ccjf6)                                                                                  | [Lord_Hoot](/u/Lord_Hoot)                     |
+| [The Time God Conspiracy](/r/teslore/11iqga)                                                                                                      | [regalnerd](/u/regalnerd)                     |
+| [433, Last Year of the Third Era: Book 1, Morning Star](/r/teslore/1rxajh)                                                                        | [IceFireWarden](/u/IceFireWarden)             |
+| [433, Last Year of the Third Era: Book 2, Sun's Dawn](/r/teslore/1s2qxh)                                                                          | [IceFireWarden](/u/IceFireWarden)             |
+| [433, Last Year of the Third Era: Book 3, First Seed](/r/teslore/1sjsbp)                                                                          | [IceFireWarden](/u/IceFireWarden)             |
+| [433, The Last Year of the Third era. Volume 1, part 1](/r/teslore/2d4xlu)                                                                        | [Kurufinve](/u/Kurufinve)                     |
 
 ### Obscure
 
-**Title**| **Author**
-:-----------|:----------
-["A Space Falmer C0DA" - theories and apocrypha](/r/teslore/comments/3pr391/a_space_falmer_c0da_theories_and_apocrypha/)|[Hans-the-Fox](/u/Hans-the-Fox)
-["They are not all dead"](/r/teslore/comments/52vslk/ldz_they_are_not_all_dead/)|[scourgicus](/u/scourgicus)
-[5E 274, p3](/r/teslore/comments/2j2c8n/5e_274_p3/)|[CreamWafers](/u/CreamWafers)
-[5E 724](/r/teslore/comments/2g5g3e/5e_724/)|[CreamWafers](/u/CreamWafers)
-[A Discourse](/r/teslore/comments/4ii207/a_discourse/)|[NagaiaAgea](/u/NagaiaAgea)
-[Admonition on sanctioned murder and Merethic hubris](/r/teslore/comments/3fidmv/admonition_on_sanctioned_murder_and_merethic/)|[Hejtman_Tsaerodel](/u/Hejtman_Tsaerodel)
-[A dream of Almalexia](/r/teslore/comments/20wqk0/a_dream_of_almalexia/)|[gustavokrm](/u/gustavokrm)
-[Aem's Dream](/r/teslore/comments/2f4gzg/aems_dream/)|[Rajti](/u/Rajti)
-[A Firelight Tale](/r/teslore/comments/5me9oz/ldz_a_firelight_tale/)|[scourgicus](/u/scourgicus)
-[A Floater's Encyclopaedia of Some Feelings of Some Creatures of Tamriel](/r/teslore/comments/2evs2h/a_floaters_encyclopaedia_of_some_feelings_of_some/)|[Breathes-Under-Nerve](/u/Breathes-Under-Nerve)
-[A Gift from a Stranger](/r/teslore/comments/2vv1mr/a_gift_from_a_stranger/)|[Cyclenophus](/u/Cyclenophus)
-[A Heretical Letter to House Sul, on Neravar's Shadowed Anticipation](/r/teslore/comments/4ynj7x/a_heretical_letter_to_house_sul_on_neravars/)|[BuckneyBos](/u/BuckneyBos)
-[A Hist Story: The Im-Kilaya](/r/teslore/comments/20rnxg/a_hist_story_the_imkilaya/)|[NudeProvided](/u/NudeProvided)
-[A Hist Story: The Saxhleel](/r/teslore/comments/246jgt/a_hist_story_the_saxhleel/)|[IceFireWarden](/u/IceFireWarden)
-[A letter: From Me, into the ocean of you](/r/teslore/comments/4nbgpq/a_letter_from_me_into_the_ocean_of_you/)|[Faulgor](/u/Faulgor)
-[All this Time and Still They do not See](/r/teslore/comments/2h0rqd/all_this_time_and_still_they_do_not_see/)|[EbonAE](/u/EbonAE)
-[A lullaby from the slopes of Eton Nir](/r/teslore/comments/3z7ctv/a_lullaby_from_the_slopes_of_eton_nir/)|[OldResdayn](/u/OldResdayn)
-[a madman's pamphlet](/r/teslore/comments/5rri6h/a_madmans_pamphlet/)|[GNerano](/u/GNerano)
-[A Meditation on Royalty: Sigma(0)/0](/r/teslore/comments/20w2pl/a_meditation_on_royalty_sigma00/)|[sheably](/u/sheably)
-[a moldy page](/r/teslore/comments/5rto66/a_moldy_page/)|[GNerano](/u/GNerano)
-[A most interesting encounter, High Rock, 4th Era](/r/teslore/comments/3ifwbb/a_most_interesting_encounter_high_rock_4th_era/)|[jalba9](/u/jalba9)
-[An Accounting of the Scorching of Pale Pass, Chapter Three](/r/teslore/comments/5ulvn8/ldz_an_accounting_of_the_scorching_of_pale_pass/)|[scourgicus](/u/scourgicus)
-[An Accounting of the Scorching of Pale Pass, Chapter Two](https://reddit.com/r/teslore/comments/5p46wj/ldz_an_accounting_of_the_scorching_of_pale_pass/)|[scourgicus](/u/scourgicus)
-[An Argonian who travelled to think on his own mind and find the dance in his heart](/r/teslore/comments/4auz9q/an_argonian_who_travelled_to_think_on_his_own/)|[OtakuOfMe](/u/OtakuOfMe)
-[Anchors Aweigh](/r/teslore/comments/1y9jxz/anchors_aweigh/)|[A_Vestige](/u/A_Vestige)
-[And Then He Fled](/r/teslore/comments/292wey/and_then_he_fled/)|[IceFireWarden](/u/IceFireWarden)
-[An Excerpt from a Recovered Thalmor Text, Annotated and Assessed by the Synod](/r/teslore/comments/3pgp76/an_excerpt_from_a_recovered_thalmor_text/)|[Val_Ritz](/u/Val_Ritz)
-[An Excerpt of Writing Translated from the Eye of Magnus](/r/teslore/comments/63ajmd/)|[Arandure](/u/Arandure)
-[An Interview With Uupse Fyr](/r/teslore/comments/5u1si3/nsfw_an_interview_with_uupse_fyr/)|[Varanu](/u/Varanu)
-[An Introduction to Aelseny](/r/teslore/comments/292tur/an_introduction_to_aelseny/)|[IceFireWarden](/u/IceFireWarden)
-[An Old Man's Musings](/r/teslore/comments/2k7xml/an_old_mans_musings/)|[Asotil](/u/Asotil)
-[An old story about Faces and Time](/r/teslore/comments/2v0p7f/an_old_story_about_faces_and_time/)|[Ushankaclock](/u/Ushankaclock)
-[A Note found at Fort _________](/r/teslore/comments/4cj255/a_note_found_at_fort/)|[Sevatar___](/u/Sevatar___)
-[An Understanding](/r/teslore/comments/2kljfy/an_understanding/)|[andyysplash](/u/andyysplash)
-[A Palaver in The Tower’s Crater :: The Second Iteration of Red Mountain](/r/teslore/comments/531jii/a_palaver_in_the_towers_crater_the_second/)|[CHOIR_9_SLEEVESHELL](/u/CHOIR_9_SLEEVESHELL)
-[A Passage Transcribed from an Old Sea-Stone](/r/teslore/comments/40pzlc/a_passage_transcribed_from_an_old_seastone/)|[SoggyPorridge](/u/SoggyPorridge)
-[Apocryphal Letters of Aldmeris](/r/teslore/comments/4horl5/apocryphal_letters_of_aldmeris/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Apologues of At-Hatoor](/r/teslore/comments/6afogn/)|[Al-Hatoor](/u/Al-Hatoor)
-[A Prelude to a C0DA](/r/teslore/comments/1ywb74/a_prelude_to_a_c0da/)|[laurelanthalasa](/u/laurelanthalasa)
-[A reiteration of the 9 Nymics of Ghost Choir 9](/r/teslore/comments/423x1f/a_reiteration_of_the_9_nymics_of_ghost_choir_9/)|[potatosaurosrex](/u/potatosaurosrex)
-[A reiteration of the 9 Nymics of Ghost Choir 9](/r/teslore/comments/423x1f/a_reiteration_of_the_9_nymics_of_ghost_choir_9/)|[potatosaurosrex](/u/potatosaurosrex)
-[A Report on the Workings of the Wonderweir and its Current Whereabouts](/r/teslore/comments/59uvxc/a_report_on_the_workings_of_the_wonderweir_and/)|[mojonation1487](/u/mojonation1487)
-[Article 16 from the Legion's Report on the "Sleeping Sickness"](/r/teslore/comments/21fox4/article_16_from_the_legions_report_on_the/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[A Ruddy Awakening](/r/teslore/comments/3m9c76/a_ruddy_awakening/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[a scrap of paper](/r/teslore/comments/5rqrdt/a_scrap_of_paper/)|[GNerano](/u/GNerano)
-[A scribbled note, found near a stream](https://reddit.com/r/teslore/comments/5oi68a/a_scribbled_note_found_near_a_stream/)|[lepemetus](/u/lepemetus)
-[A Shortened Flippers C0DA. Part 2: Kids (Chapter 1: Blue Mer from Red Moon)](/r/teslore/comments/2omz01/a_shortened_flippers_c0da_part_2_kids_chapter_1/)|[Mr_Flippers](/u/Mr_Flippers)
-[A Shortened Flippers C0DA. Part 2: Kids (Chapter 2: Balance)](/r/teslore/comments/2oqqjs/a_shortened_flippers_c0da_part_2_kids_chapter_2/)|[Mr_Flippers](/u/Mr_Flippers)
-[A Strider's Lament](/r/teslore/comments/4tg70q/a_striders_lament/)|[Poison-Song](/u/Poison-Song)
-[A Thalmor Tragedy in Vilewood](/r/teslore/comments/2itul6/a_thalmor_tragedy_in_vilewood/)|[kingjoe64](/u/kingjoe64)
-[A Third-tier Progenia](/r/teslore/73q613)|[scourgicus](/u/scourgicus)
-[Atmora's Whispers, Part 1: Cursed Sky of Ancient Bitter Shroud](/r/teslore/comments/2z3s01/atmoras_whispers_part_1_cursed_sky_of_ancient/)|[Maven_of_Minecraft](/u/Maven_of_Minecraft)
-[A treatise of the effects of trans-liminal passage on local space-time](/r/teslore/comments/1q07pv/a_treatise_of_the_effects_of_transliminal_passage/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Ayleids All The Way Down](/r/teslore/comments/3oe03v/ayleids_all_the_way_down/)|[WW1305](/u/WW1305)
-[Ayrenn Bobs Her Hair](/r/teslore/comments/57ea9w/ayrenn_bobs_her_hair/)|[dinwenel](/u/dinwenel)
-[Beginning Ends](/r/teslore/comments/2vhfot/beginning_ends/)|[Lord_Jeebus](/u/Lord_Jeebus)
-[Betrayal: Full + Final Transmissions](/r/teslore/comments/5iyt5v/betrayal_full_final_transmissions/)|[ClarentaviousValisi](/u/ClarentaviousValisi)
-[Betrayal: New Transmission II](/r/teslore/comments/4drwan/betrayal_new_transmission_ii/)|[ClarentaviousValisi](/u/ClarentaviousValisi)
-[Betrayal: New Transmission I](/r/teslore/comments/4c4p1s/betrayal_new_transmission_i/)|[ClarentaviousValisi](/u/ClarentaviousValisi)
-[Betryal: New Transmission III](/r/teslore/comments/4nwd3v/betryal_new_transmission_iii/)|[ClarentaviousValisi](/u/ClarentaviousValisi)
-[BEWARE THE HÖRME!!](/r/teslore/comments/4co5jh/beware_the_h%C3%B6rme/)|[Sevatar___](/u/Sevatar___)
-[Beware the Revenant](/r/teslore/comments/1v1gl0/beware_the_revenant/)|[TwistingWagoo](/u/TwistingWagoo)
-[Black Book: Fallacious Vainglory (The Unvoiced Saga of Miraak)](/r/teslore/comments/2os9al/black_book_fallacious_vainglory_the_unvoiced_saga/)|[ddaybones](/u/ddaybones)
-[Black Book: Tacit Perturbation (The Unvoiced Saga of Miraak)](/r/teslore/comments/2ow7uh/black_book_tacit_perturbation_the_unvoiced_saga/)|[ddaybones](/u/ddaybones)
-[Blood-Made-Glorious, & Her Golden Tone: Almalexia, Mother of Madness](/r/teslore/comments/4ve8cd/bloodmadeglorious_her_golden_tone_almalexia/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[Book of the Wheels of Heaven](/r/teslore/comments/5tq636/book_of_the_wheels_of_heaven/)|[Al-Hatoor](/u/Al-Hatoor)
-[Brase](/r/teslore/comments/2amfbl/brase/)|[Nextmastermind](/u/Nextmastermind)
-[Breach Report CCCLXVI [One Night in the Velothiid]](/r/teslore/comments/1y5wcz/breach_report_ccclxvi_one_night_in_the_velothiid/)|[Lord_Hoot](/u/Lord_Hoot)
-[Break the Mythic into Abstract: A Manifesto](/r/teslore/comments/20l10c/break_the_mythic_into_abstract_a_manifesto/)|[NudeProvided](/u/NudeProvided)
-[Bump In The Night: A Page Found Between the Pages](/r/teslore/comments/29vvrp/bump_in_the_night_a_page_found_between_the_pages/)|[Impetrong](/u/Impetrong)
-[C0DA: Paradise Found - Part One](/r/teslore/comments/1z4web/c0da_paradise_found_part_one/)|[Jordoom](/u/Jordoom)
-[Commentary From the Fifth Era, The True Purpose of Tamriel](/r/teslore/comments/1zh1xt/commentary_from_the_fifth_era_the_true_purpose_of/)|[mojonation1487](/u/mojonation1487)
-[Conference With the Ancient Atmeri Tribe-Clans: Part III](/r/teslore/comments/3l1p9m/c0da_conference_with_the_ancient_atmeri/)|[Xhylorekihel](/u/Xhylorekihel)
-[Conference With the Ancient Atmeri Tribe-Clans: Part II](/r/teslore/comments/3kwusy/c0da_conference_with_the_ancient_atmeri/)|[Xhylorekihel](/u/Xhylorekihel)
-[Conference With The Ancient Atmeri Tribe-Clans: Part IV](/r/teslore/comments/3lalue/c0da_conference_with_the_ancient_atmeri/)|[Xhylorekihel](/u/Xhylorekihel)
-[Conference with the Ancient Atmeri Tribe-Clans: Part I](/r/teslore/comments/3kohr2/conference_with_the_ancient_atmeri_tribeclans/)|[Xhylorekihel](/u/Xhylorekihel)
-[Conference with the Ancient Atmeri Tribe-Clans: Part V](/r/teslore/comments/3ljomm/c0da_conference_with_the_ancient_atmeri/)|[Xhylorekihel](/u/Xhylorekihel)
-[Conversation with Simulacrum](/r/teslore/comments/3hco8r/conversation_with_simulacrum/)|[neknotes](/u/neknotes)
-[Copper](/r/teslore/comments/59vast/ldz_copper/)|[Al-Hatoor](/u/Al-Hatoor)
-[Corprus: Divine Skin of the New Man](/r/teslore/comments/44x1dy/corprus_divine_skin_of_the_new_man/)|[LiquidHurlant](/u/LiquidHurlant)
-[Cracked- Note by a Madman](/r/teslore/comments/32q1ws/cracked_note_by_a_madman/)|[Vuldilviin](/u/Vuldilviin)
-[Daighsenn's proclamation to the Faithful](/r/teslore/comments/4nwhe3/apocrypha_daighsenns_proclamation_to_the_faithful/)|[Blackcoldren](/u/Blackcoldren)
-[The Death of History - Something like C0DA](/r/teslore/6cpccj/)|[TheWoodenplank](/u/TheWoodenplank)
-[Deception of the Gods](/r/teslore/comments/3lzfoi/deception_of_the_gods/)|[Sothas](/u/Sothas)
-[Diary of a Confused Bandit](/r/teslore/comments/1ulhwx/diary_of_a_confused_bandit/)|[RideTheLine](/u/RideTheLine)
-[Diary of a Confused Bounty Hunter](/r/teslore/comments/1uupre/diary_of_a_confused_bounty_hunter/)|[RideTheLine](/u/RideTheLine)
-[Diary of a Confused Cultist](/r/teslore/comments/1urjem/diary_of_a_confused_cultist/)|[RideTheLine](/u/RideTheLine)
-[Diasporic Faith, Post-Landfall: "We Met Our Gods"](/r/teslore/comments/3p0rx6/diasporic_faith_postlandfall_we_met_our_gods/)|[scourgicus](/u/scourgicus)
-[dioV gnilttucS ehT morF egasseM A](/r/teslore/comments/2l2jhd/diov_gnilttucs_eht_morf_egassem_a/)|[phil_hinds](/u/phil_hinds)
-[Djaf- The Bleeding Arena](/r/teslore/comments/1ukcx6/djaf_the_bleeding_arena/)|[mojonation1487](/u/mojonation1487)
-[The Dreamer's Song](/r/teslore/76yorx)|[Underkiing](/u/Underkiing)
-[Dreaming dreamers](/r/teslore/comments/2m36kh/dreaming_dreamers/)|[TigerHall](/u/TigerHall)
-[Dreamseeing The War With The Nu-Man](/r/teslore/6li9cn/)|[ArcaneAnouki](/u/ArcaneAnouki)
-[Dreamsleeve Transcript: Tamriel, I'm Sorry](/r/teslore/comments/38fdy6/dreamsleeve_transcript_tamriel_im_sorry/)|[neknotes](/u/neknotes)
-[Dust Flow](/r/teslore/comments/4t29th/dust_flow/)|[RottenDeadite](/u/RottenDeadite)
-[Dwemer Confession](/r/teslore/comments/3sgv7v/dwemer_confession/)|[scourgicus](/u/scourgicus)
-[Earwyrm](/r/teslore/comments/57g4ts/earwyrm/)|[docclox](/u/docclox)
-[Ebne-Tragga and the Hagraven](/r/teslore/comments/3kjfnw/ebnetragga_and_the_hagraven/)|[gro-Muluk](/u/gro-Muluk)
-[Echoes of Mer and Man](/r/teslore/comments/4fpzv3/echoes_of_mer_and_man/)|[WW1305](/u/WW1305)
-[Emergency Transmission: Still-Light Outpost](/r/teslore/comments/4cs858/emergency_transmission_stilllight_outpost/)|[Sevatar___](/u/Sevatar___)
-[The Enantechomorph](/r/teslore/7cfii7)|[ArcaneAnouki](/u/ArcaneAnouki)
-[Entry 0: Command the Fools Idol](/r/teslore/comments/1rqzfj/entry_0_command_the_fools_idol/)|[TheFalseFather](/u/TheFalseFather)
-[Epiphany: Chapters 1-10](/r/teslore/comments/3cyovg/epiphany_chapters_110/)|[dinwenel](/u/dinwenel)
-[Eton Nir and the coral of Cloudrest pt.1: Prolouge](/r/teslore/comments/2mpb4j/eton_nir_and_the_coral_of_cloudrest_pt1_prolouge/)|[Vampire_Sun_Bandit_](/u/Vampire_Sun_Bandit_)
-[Excerpt from the Journal of Amaya](/r/teslore/comments/2pzziz/excerpt_from_the_journal_of_amaya/)|[Rajti](/u/Rajti)
-[Faal Grunzahro Unslaad Wundun Zeim Vennesetiid](/r/teslore/comments/65psiw/)|[Al-Hatoor](/u/Al-Hatoor)
-[Final Assessment on the NVN Transient](/r/teslore/comments/2ujlfn/final_assessment_on_the_nvn_transient/)|[IceFireWarden](/u/IceFireWarden)
-[Findings in Endusal: Thoughts](/r/teslore/comments/6afox8/)|[Al-Hatoor](/u/Al-Hatoor)
-[Fishing With The Bard](/r/teslore/comments/32cmyl/fishing_with_the_bard/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[For Caius Cosades](/r/teslore/comments/333ovj/for_caius_cosades/)|[fabricofspacetime](/u/fabricofspacetime)
-[For Whom the Sixth House Tolls](/r/teslore/comments/48smv3/for_whom_the_sixth_house_tolls/)|[LiquidHurlant](/u/LiquidHurlant)
-[Foundations of the Nu-Diocese or: How to Find Us](/r/teslore/comments/5hv6o7/foundations_of_the_nudiocese_or_how_to_find_us/)|[Anumaril](/u/Anumaril)
-[Four Signals, Four Mechanisms, a Message from a Dying Nirn](/r/teslore/comments/2lqhou/four_signals_four_mechanisms_a_message_from_a/)|[BewareOfTentacles](/u/BewareOfTentacles)
-[Fragments from the private records of Jonathan Voryn, medical caretaker to the Royal House of Mons Pavonis in exile](/r/teslore/comments/2ov7hs/fragments_from_the_private_records_of_jonathan/)|[grelphy](/u/grelphy)
-[From The Liar's Mouth II](/r/teslore/comments/1z51qf/from_the_liars_mouth_ii/)|[RideTheLine](/u/RideTheLine)
-[From The Liar's Mouth](/r/teslore/comments/1yxy0t/from_the_liars_mouth/)|[RideTheLine](/u/RideTheLine)
-[From The Memories of Xozartan-Ek, Demiprince](/r/teslore/comments/58uj4z/from_the_memories_of_xozartanek_demiprince/)|[Al-Hatoor](/u/Al-Hatoor)
-[FSL Professor Numinatus! Meanwhile, Lyg Falls: Issue One](http://anachronisle.com/lygfalls-issue1.pdf)|[mojonation1487](/u/mojonation1487)
-[Ghost](/r/teslore/comments/2r78cd/ghost/)|[FelineErotica](/u/FelineErotica)
-[Hear Ye: I begin with nothing](/r/teslore/comments/23fao7/hear_ye_i_begin_with_nothing/)|[Kim_Shlong_Il](/u/Kim_Shlong_Il)
-[Heirarchical Ranks of the Crustacean-Folk](/r/teslore/comments/4m25l0/heirarchical_ranks_of_the_crustaceanfolk/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Heretical Memospore: The Lastborn Children of Kynth](/r/teslore/comments/5yuouq/heretical_memospore_the_lastborn_children_of_kynth/)|[HamSandLich](/u/HamSandLich)
-[I am all you are me](/r/teslore/comments/2objrv/i_am_all_you_are_me/)|[MashgashtheWise](/u/MashgashtheWise)
-[I am Kynval](/r/teslore/comments/2q999w/i_am_kynval/)|[Orcberserker](/u/Orcberserker)
-[I came this far to look at hell. [You must go the rest, my Son.]](/r/teslore/comments/474eu4/i_came_this_far_to_look_at_hell_you_must_go_the/)|[LiquidHurlant](/u/LiquidHurlant)
-[Identifying Fa-Nuit-Hen](/r/teslore/comments/34plg2/identifying_fanuithen/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Imaginary Colours](/r/teslore/comments/65pt7z/)|[Al-Hatoor](/u/Al-Hatoor)
-[Imago Storm : Change is coming](/r/teslore/comments/46z4qd/imago_storm_change_is_coming/)|[LiquidHurlant](/u/LiquidHurlant)
-[Implications of Ghost Choir Personalities](/r/teslore/comments/5f7801/ldz_implications_of_ghost_choir_personalities/)|[scourgicus](/u/scourgicus)
-[Impossipoint: Adversary](/r/teslore/comments/5dlv8b/ldz_impossipoint_adversary/)|[scourgicus](/u/scourgicus)
-[Intercepted Dreamsleeve Transmission from the Parliament of Spume](/r/teslore/6tiv7b/)|[TheOutOfWorld](/u/TheOutOfWorld)
-[Interview with one of the Lastborn](/r/teslore/comments/60c036/)|[HamSandLich](/u/HamSandLich)
-[It Was the Place, the Time](/r/teslore/comments/58r7p6/ldz_it_was_the_place_the_time/)|[scourgicus](/u/scourgicus)
-[Journeys through Sybandis, the Nirn That Never Was, as related by Imperial Mage Cocius Ratori](/r/teslore/comments/2gurr1/journeys_through_sybandis_the_nirn_that_never_was/)|[Trainwiz](/u/Trainwiz)
-[Last message of an Imperial Mananaut](/r/teslore/comments/2qqjy2/last_message_of_an_imperial_mananaut/)|[nonoman12](/u/nonoman12)
-[Last Moments of the Last Septim](/r/teslore/comments/4yiqrs/apocrypha_last_moments_of_the_last_septim/)|[Remanite](/u/Remanite)
-[Learnings of an Imperial Mananaut and Dimensionrider](/r/teslore/comments/40rouu/learnings_of_an_imperial_mananaut_and/)|[swedishplayer97](/u/swedishplayer97)
-[Letter to Berahzic from Lanali, her sister](/r/teslore/comments/2bz9tf/letter_to_berahzic_from_lanali_her_sister/)|[RottenDeadite](/u/RottenDeadite)
-[Little Yonnir of Bravil](/r/teslore/comments/2xl751/little_yonnir_of_bravil/)|[PinkDohnuts](/u/PinkDohnuts)
-[Lorkhaj Rests Beneath S'ren-ja](/r/teslore/comments/4tsv4e/lorkhaj_rests_beneath_srenja/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Love Letter of the Merethic's End](/r/teslore/7gwhe4)|[Archivist_Fielers](/u/Archivist_Fielers)
-[The Maiden Terrene and Her Celibacy: Commentaries on God, Volume I](/r/teslore/6fairp/)|[Al-Hatoor](/u/Al-Hatoor)
-[Magic : the foremost journal for professional wizards : Issue 1 : Theory for the Proximate Mechanics of Reading an Elder Scroll](/r/teslore/comments/22wusy/magic_the_foremost_journal_for_professional/)|[JohnJacobsJingle](/u/JohnJacobsJingle)
-[The Maiden Terrene and Her Celibacy: Commentaries on God, Volume I](/r/teslore/6fairp/)|[Al-Hatoor](/u/Al-Hatoor)
-[Memospore Zed-9: A Story of the Last War (II)](/r/teslore/comments/4q37db/memospore_zed9_a_story_of_the_last_war_ii/)|[SellusDemosthenes](/u/SellusDemosthenes)
-[Memospore Zed-9: A Story of the Last War (III)](/r/teslore/comments/4qf5rw/memospore_zed9_a_story_of_the_last_war_iii/)|[SellusDemosthenes](/u/SellusDemosthenes)
-[Memospore Zed-9: A Story of the Last War (IV - Final)](/r/teslore/comments/4qr4hq/memospore_zed9_a_story_of_the_last_war_iv_final/)|[SellusDemosthenes](/u/SellusDemosthenes)
-[Missive From The Fifth Era, The True Purpose of Tamriel](/r/teslore/comments/23p090/missive_from_the_fifth_era_the_true_purpose_of/)|[IceFireWarden](/u/IceFireWarden)
-[Mnemic Recapitulation and the Death of Nirn](/r/teslore/comments/4kuqfk/mnemic_recapitulation_and_the_death_of_nirn/)|[scourgicus](/u/scourgicus)
-[Monograph of a Waterless Netch](/r/teslore/comments/3m1qmk/monograph_of_a_waterless_netch/)|[Va_Krin](/u/Va_Krin)
-[Monomyth from Lyg: Vermaean, The Maker's Lament](/r/teslore/comments/2a5jb6/monomyth_from_lyg_vermaean_the_makers_lament/)|[mojonation1487](/u/mojonation1487)
-[Musings of the Clockwork City](/r/teslore/comments/4dwdyr/musings_of_the_clockwork_city/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[My Love in a Miser's Purse- for those fair'st out There](/r/teslore/comments/4ibadr/my_love_in_a_misers_purse_for_those_fairst_out/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[Mysterious Putaro](/r/teslore/comments/4ykl7c/mysterious_putaro/)|[Rusty_Shakalford](/u/Rusty_Shakalford)
-[Mythic Dawn Artifact, small locked chest](/r/teslore/comments/4chufh/mythic_dawn_artifact_small_locked_chest/)|[ShadowDestroyerTime](/u/ShadowDestroyerTime)
-[Nalihhidroth](/r/teslore/comments/4t2553/nalihhidroth/)|[RottenDeadite](/u/RottenDeadite)
-[Nchardak Pilgramage](/r/teslore/comments/5ps520/nchardak_pilgramage/)|[UnwoundTime](/u/UnwoundTime)
-[Negatio](/r/teslore/comments/5g38f7/ldz_negatio/)|[scourgicus](/u/scourgicus)
-[Nightmares of a Dream Forgotten. Part one: On Love](/r/teslore/comments/3zbi0k/apocrypha_nightmares_of_a_dream_forgotten_part/)|[Ayleidsornothing](/u/Ayleidsornothing)
-[Nine nymics of the Ghost Choir](/r/teslore/comments/2q6l1l/nine_nymics_of_the_ghost_choir/)|[RottenDeadite](/u/RottenDeadite)
-[Nirn ent drowning, ets groing!](/r/teslore/comments/4kek7x/nirn_ent_drowning_ets_groing/)|[Minor_Edits](/u/Minor_Edits)
-[Notes on the Western Hemisphere Information Network](/r/teslore/comments/65ps41/)|[Al-Hatoor](/u/Al-Hatoor)
-[NUL Entry 02](/r/teslore/comments/1yg2pu/nul_entry_02_apocrypha/)|[AlyxDinas](/u/AlyxDinas)
-[NUL Entry 03](/r/teslore/comments/1z405s/nul_entry_03_apocrypha/)|[AlyxDinas](/u/AlyxDinas)
-[NUL Entry 04](/r/teslore/comments/24fm5c/nul_entry_04_apocrypha/)|[AlyxDinas](/u/AlyxDinas)
-[NUL Entry 05](/r/teslore/comments/24iefs/nul_entry_05_apocrypha/)|[AlyxDinas](/u/AlyxDinas)
-[NUL Entry 06](/r/teslore/comments/24jyka/nul_entry_06_end/)|[AlyxDinas](/u/AlyxDinas)
-[NUL](/r/teslore/comments/1yaiwj/nul_apocrypha/)|[AlyxDinas](/u/AlyxDinas)
-[On Milk](/r/teslore/6fmnx1/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[On the Nature of Puns Concerning the Ilyadi So-Called Fairy Giants](/r/teslore/comments/3u1y24/on_the_nature_of_puns_concerning_the_ilyadi/)|[18plus1](/u/18plus1)
-[On the Urmer](/r/teslore/comments/3i0b8n/on_the_urmer/)|[gro-Muluk](/u/gro-Muluk)
-[Origin of the Unhuntables](/r/teslore/comments/3kaf0g/origin_of_the_unhuntables/)|[gro-Muluk](/u/gro-Muluk)
-[O.Y.A.R.S.A. and the Meaning of the Last War](/r/teslore/7frupz)|[scourgicus](/u/scourgicus)
-[Paradise is Returning](/r/teslore/comments/2827jf/paradise_is_returning/)|[mojonation1487](/u/mojonation1487)
-[The paideutic palillogy of TRNMC [children]](/r/teslore/6pa0n3/)|[Pelinal-Whitestrake](/u/Pelinal-Whitestrake)
-[Personae](/r/teslore/comments/5l3kay/ldz_personae/)|[scourgicus](/u/scourgicus)
-[Peryite Is Akatosh, Who Is Aka-Tusk](/r/teslore/comments/1vrcg2/peryite_is_akatosh_who_is_akatusk/)|[IceFireWarden](/u/IceFireWarden)
-[Prophetia](/r/teslore/comments/5t79yk/ldz_prophetia/)|[scourgicus](/u/scourgicus)
-[The Pyandea Crisis: History and Legend](/r/teslore/6loi79/)|[Tyermali](/u/Tyermali)
-[Query, Part II: Background on Altmeri Ideology](/r/teslore/comments/3hys36/query_part_ii_background_on_altmeri_ideology/)|[neknotes](/u/neknotes)
-[Query, Part I](/r/teslore/comments/3hr33b/query_part_i/)|[neknotes](/u/neknotes)
-[Ramblings of an Insane Prisoner](/r/teslore/6h0s9r/)|[Vitamin_gun](/u/Vitamin_gun)
-[Ravings For Your Pleasure](/r/teslore/comments/311nd2/apocrypharavings_for_your_pleasure/)|[WalkBrass](/u/WalkBrass)
-[Rebirth](/r/teslore/comments/5evnng/ldz_rebirth/)|[scourgicus](/u/scourgicus)
-[Reconvene - A Tribute to Shor](/r/teslore/comments/1y4m6v/reconvene_a_tribute_to_shor/)|[william_door](/u/william_door)
-[Recorded Correspondence Between the Lords of Misrule](/r/teslore/comments/5xktmb/recorded_correspondence_between_the_lords_of/)|[Al-Hatoor](/u/Al-Hatoor)
-[Recorded Thoughts and Memories of a Baron-Who-Moves-Like-This](/r/teslore/comments/4rvkjw/recorded_thoughts_and_memories_of_a/?st=iqgwkfg3&sh=7d41969e)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Recorded Thoughts of Harmonic Auditor Razakngamz](/r/teslore/comments/4fisnm/recorded_thoughts_of_harmonic_auditor_razakngamz/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Redanni - The bound hands of asc](/r/teslore/comments/2smes2/redanni_the_bound_hands_of_asc/)|[Nodus_Cursorius](/u/Nodus_Cursorius)
-[Red Cabal- the Blood-Dome Revisited](/r/teslore/comments/4vgfam/red_cabal_the_blooddome_revisited/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[Red Cabal- The Son Buried](/r/teslore/comments/4wrx9d/red_cabal_the_son_buried/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[Red Cabal- Underdome](/r/teslore/comments/4vrah8/red_cabal_underdome/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[Reman was born from a Mountain and a Pile of Mud](/r/teslore/comments/1pauyd/reman_was_born_from_a_mountain_and_a_pile_of_mud/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[REN0- The Beginning](/r/teslore/comments/2vs3le/ren0_the_beginning/)|[DynamisEberhard](/u/DynamisEberhard)
-[Report to High Potentate Surtat-Fehri on Revelations Concerning the Dark Conspiracy](/r/teslore/comments/1xz3lp/report_to_high_potentate_surtatfehri_on/)|[turokman2000](/u/turokman2000)
-[Return. No Change. Wait](/r/teslore/comments/1w39lu/return_no_change_wait/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[RETURN:TRUE; A(nother) Numantian Manifesto](/r/teslore/comments/52tql4/returntrue_another_numantian_manifesto/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[Revelata](/r/teslore/comments/5b58qb/ldz_revelata/)|[scourgicus](/u/scourgicus)
-[Ripples on the Water](/r/teslore/comments/2p27d2/ripples_on_the_water/)|[ZizZizZiz](/u/ZizZizZiz)
-[Rotten letters - Ser Ald Meylis last will?](/r/teslore/comments/479gtf/rotten_letters_ser_ald_meylis_last_will/)|[OtakuOfMe](/u/OtakuOfMe)
-[Ruminations & Retrospections: On Alma, Her flickering Husband-State, & Foul Murder](/r/teslore/comments/4v2edp/ruminations_retrospections_on_alma_her_flickering/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[Safe Copy: Announcement of the Seal of the Chrysalids](/r/teslore/comments/2soot6/safe_copy_announcement_of_the_seal_of_the/)|[tamrielpropaganda](/u/tamrielpropaganda)
-[Scale-Archives, wherein We found Unknown Yokudan Calligraphy](/r/teslore/comments/4akmeh/scalearchives_wherein_we_found_unknown_yokudan/)|[BaronVolag](/u/BaronVolag)
-[Sees-Many-Mysteries and the Most-Flat Pool](/r/teslore/comments/1zadnm/seesmanymysteries_and_the_mostflat_pool/)|[XAYAH](/u/XAYAH)
-[Selected Minutes of The First Ecumagickal Council of Nu Corrup, 30th of Rain’s Hand, 4E 87](/r/teslore/comments/1uzvlc/selected_minutes_of_the_first_ecumagickal_council/)|[lebiro](/u/lebiro)
-[Sermon of The Prophet of Landfall](/r/teslore/comments/2qf35q/sermon_of_the_prophet_of_landfall/)|[Gwynthryn](/u/Gwynthryn)
-[Silent Whispers of the Ancestor Moths](/r/teslore/comments/4db6fi/silent_whispers_of_the_ancestor_moths/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Sky's Death](/r/teslore/comments/5788r4/skys_death/)|[Semblio](/u/Semblio)
-[Soles of Almalexia, Madness- Addendum](/r/teslore/comments/4w1n2t/soles_of_almalexia_madness_addendum/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[So you want to be a Minute Minder...](/r/teslore/comments/2hzscz/so_you_want_to_be_a_minute_minder/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[Stories from Lyg Part I: Deadite Scourge](/r/teslore/comments/27zdwr/stories_from_lyg_part_i_deadite_scourge/)|[mojonation1487](/u/mojonation1487)
-[Sul the Hunter's Chronicles of Super-Mundial Principalities](/r/teslore/7hl2l4/)|[thuynder](/u/thuynder)
-[Sum](/r/teslore/comments/2e28yt/sum/)|[QuixoticTendencies](/u/QuixoticTendencies)
-[Sunna Agea Av Edeis](/r/teslore/comments/47omft/sunna_agea_av_edeis/)|[AnonChimer](/u/AnonChimer)
-[Temperance](/r/teslore/comments/3jt2dr/temperance/)|[Milkpulp](/u/Milkpulp)
-[Ten Little Known Facts of Tamriel (and the people who live there)](/r/teslore/comments/2n60xh/apocrypha_ten_little_known_facts_of_tamriel_and/)|[Blackcoldren](/u/Blackcoldren)
-[Textus Numantius, fragment one](/r/teslore/comments/5pemya/textus_numantius_fragment_one/)|[scourgicus](/u/scourgicus)
-[The Aftermath: Entry ##1](/r/teslore/comments/2cx8v6/the_aftermath_entry_1/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##2](/r/teslore/comments/2czppf/the_aftermath_entry_2/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##3](/r/teslore/comments/2d2k6b/the_aftermath_entry_3/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##4](/r/teslore/comments/2d3w1x/the_aftermath_entry_4/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##5](/r/teslore/comments/2d64kl/the_aftermath_entry_5/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##6](/r/teslore/comments/2d9k3g/the_aftermath_entry_6/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##7](/r/teslore/comments/2daiyv/the_aftermath_entry_7/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##8](/r/teslore/comments/2dcf2t/the_aftermath_entry_8/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##9](/r/teslore/comments/2ddu5x/the_aftermath_entry_9/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##10](/r/teslore/comments/2dmjp4/the_aftermath_entry_10/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##11](/r/teslore/comments/2dnsgl/the_aftermath_entry_11/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##12](/r/teslore/comments/2ds9kr/the_aftermath_entry_12/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##13](/r/teslore/comments/2dsbgi/the_aftermath_entry_13/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##14](/r/teslore/comments/2dsjiu/the_aftermath_entry_14/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##15](/r/teslore/comments/2dtpys/the_aftermath_entry_15/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##16](/r/teslore/comments/2dyn32/the_aftermath_entry_16/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##17](/r/teslore/comments/2dzdn7/the_aftermath_entry_17/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##18](/r/teslore/comments/2e03oq/the_aftermath_entry_18/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Entry ##19](/r/teslore/comments/2e0hqx/the_aftermath_entry_19/)|[CreamWafers](/u/CreamWafers)
-[The Aftermath: Final Entry](/r/teslore/comments/2e3o1d/the_aftermath_final_entry/)|[CreamWafers](/u/CreamWafers)
-[The Annotated Ballad](/r/teslore/comments/421gh3/the_annotated_ballad/)|[BrynjarIsenbana](/u/BrynjarIsenbana)
-[The Apocryphon of Tosh](/r/teslore/comments/2q3hrn/the_apocryphon_of_tosh/)|[eyeofgames](/u/eyeofgames)
-[The Aurbic Mirror, I by Chimere Greyman 4E 197](/r/teslore/comments/52x220/the_aurbic_mirror_i_by_chimere_greyman_4e_197/)|[thetonalcypher](/u/thetonalcypher)
-[The Basics: The Bs'rii](/r/teslore/comments/3k37t7/the_basics_the_bsrii/)|[gro-Muluk](/u/gro-Muluk)
-[The blood is a better vessel](/r/teslore/comments/4uo80c/the_blood_is_a_better_vessel/)|[KingBeron](/u/KingBeron)
-[The Bug Folk - A journal entry](/r/teslore/comments/3hqrc2/the_bug_folk_a_journal_entry/)|[gro-Muluk](/u/gro-Muluk)
-[The Color of Time](/r/teslore/comments/1rqia7/the_color_of_time/)|[TESJaxt](/u/TESJaxt)
-[The Cripple Queen of Reach Rock](/r/teslore/comments/544gqn/the_cripple_queen_of_reach_rock/)|[CHOIR_9_SLEEVESHELL](/u/CHOIR_9_SLEEVESHELL)
-[The Crowing in Resdayn](/r/teslore/comments/57g0ey/the_crowing_in_resdayn/)|[CHOIR_9_SLEEVESHELL](/u/CHOIR_9_SLEEVESHELL)
-[The Crowing](https://reddit.com/r/teslore/comments/5hdwjq/ldz_the_crowing/)|[scourgicus](/u/scourgicus)
-[The Dataworm](/r/teslore/comments/3bzh55/the_dataworm/)|[Xhylorekihel](/u/Xhylorekihel)
-[The Doors of Heaven](www.reddit.com/r/teslore/comments/5ru00i/ldz_the_doors_of_heaven/)|[scourgicus](/u/scourgicus)
-[The Dunmer Culture of Anti-Victimhood; Ranis is an All-Right Flaming Bitch; Why There Are No Children, a Prelude to Additional Sins; How to Look for Home; Am I the Nerevarine or Is the Nerevarine Me?](/r/teslore/comments/401ln3/the_dunmer_culture_of_antivictimhood_ranis_is_an/)|[Carrickfergus-](/u/Carrickfergus-)
-[The Eight Wheel-Bones of The Spiral Skein; Apocrypha borne from one long-ass eight hour reply](/r/teslore/comments/3a6al1/the_eight_wheelbones_of_the_spiral_skein/)|[KilikShardai](/u/KilikShardai)
-[The Elder Wood: Part 1](/r/teslore/comments/4g6s0d/the_elder_wood_part_1/)|[Xhylorekihel](/u/Xhylorekihel)
-[The Elder Wood: Part 2](/r/teslore/comments/4gudes/the_elder_wood_part_2/)|[Xhylorekihel](/u/Xhylorekihel)
-[The Elt Chronicles – Chapter 1, Origins](/r/teslore/comments/2mk7y5/the_elt_chronicles_chapter_1_origins/)|[crikeylol](/u/crikeylol)
-[The Epithalamium of Arimatha](/r/teslore/comments/1sloal/the_epithalamium_of_arimatha/)|[dinmenel](/u/purveyoropulchritude)
-[The Fall of Valerian Sinchmoor](/r/teslore/comments/2tvxub/the_fall_of_valerian_sinchmoor/)|[TigerHall](/u/TigerHall)
-[The First of First Mate’s Void-Navy Conscription Speech](/r/teslore/comments/1ka495/the_first_of_first_mates_voidnavy_conscription/)|[mojonation1487](/u/mojonation1487)
-[The First Who Shall Enter Shall Enter Last: The Grove of Fallen Dreams](/r/teslore/comments/1xm6po/the_first_who_shall_enter_shall_enter_last_the/)|[IceFireWarden](/u/IceFireWarden)
-[The Four Door Riddle](/r/teslore/comments/2xec8s/the_four_door_riddle_story_and_puzzle/)|[Anemonean](/u/Anemonean)
-[The gods will die](/r/teslore/comments/3khopz/the_gods_will_die/)|[_BarbasTheDog](/u/_BarbasTheDog)
-[The Gosling Heresy of the All From Score and Five Plus more](/r/teslore/comments/320ouw/the_gosling_heresy_of_the_all_from_score_and_five/)|[Speaks_falsehoods](/u/Speaks_falsehoods)
-[The Greatest Lie or: The Ramblings of an Impossibly Madmer](/r/teslore/comments/2yggmc/the_greatest_lie_or_the_ramblings_of_an/)|[Whytesmoke](/u/Whytesmoke)
-[The History of Dreamsleeve Technology](/r/teslore/comments/1v1fkd/the_history_of_dreamsleeve_technology/)|[XAYAH](/u/XAYAH)
-[The Kalpas plan B](/r/teslore/comments/3h6sez/the_kalpas_plan_b/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[The last of us Does](/r/teslore/comments/1xxvtx/the_last_of_us_does/)|[lebiro](/u/lebiro)
-[The Lonely Tree](/r/teslore/comments/2m7t2n/the_lonely_tree/)|[crikeylol](/u/crikeylol)
-[The Musings of a 5th-Era Falmer](/r/teslore/comments/46lw9g/the_musings_of_a_5thera_falmer/)|[The_White_Guar](/u/The_White_Guar)
-[The Nautican: "Oceans of Time"](/r/teslore/comments/224xmi/the_nautican_oceans_of_time/)|[DoctorDestructo](/u/DoctorDestructo)
-[The Omens, Vol. 1](/r/teslore/comments/2h77ms/the_omens_vol_1/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Parable of the Starving Man and the Striped Flower[BLACK BOOK]](/r/teslore/comments/2gsz21/the_parable_of_the_starving_man_and_the_striped/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The Principles of Mastery](/r/teslore/comments/5zl6gj/)|[HugoLuman](/u/HugoLuman)
-[The Proctor II: M'aiq's Revenge](/r/teslore/comments/1zzznj/the_proctor_ii_maiqs_revenge/)|[RideTheLine](/u/RideTheLine)
-[The Proctor III: WE Ain't Lyin'](/r/teslore/comments/21yxxa/the_proctor_iii_we_aint_lyin/)|[RideTheLine](/u/RideTheLine)
-[The Proctor](/r/teslore/comments/1tp1oa/the_proctor/)|[RideTheLine](/u/RideTheLine)
-[The Rise of the Zero Empire](/r/teslore/comments/50or54/the_rise_of_the_zero_empire/)|[scourgicus](/u/scourgicus)
-[The Road to Hell](/r/teslore/comments/5qhi8s/ldz_the_road_to_hell/)|[scourgicus](/u/scourgicus)
-[The Sanctum](/r/teslore/comments/5nr5bs/ldz_the_sanctum/)|[scourgicus](/u/scourgicus)
-[The Singular Lesson of an Old Man](/r/teslore/comments/66fqrr/)|[TheTimeSquid](/u/TheTimeSquid)
-[The Static Decay Field](/r/teslore/comments/4t27jk/the_static_decay_field/)|[RottenDeadite](/u/RottenDeadite)
-[The Surprisingly Coherent Ramblings of a Soul Shriven](/r/teslore/comments/2jug01/the_surprisingly_coherent_ramblings_of_a_soul/)|[willxpm](/u/willxpm)
-[The Torn Apart Queen](/r/teslore/comments/5lzso4/the_torn_apart_queen/)|[Erethor](/u/Erethor)
-[The Wail of the First Void](/r/teslore/comments/27apce/the_wail_of_the_first_void/)|[mojonation1487](/u/mojonation1487)
-[Timeless Radicals In Flowing Rivers Of Equations: A Rogue Hist Tree's Final Thoughts As It Is Purged From The Great Root](/r/teslore/comments/1pw9zv/timeless_radicals_in_flowing_rivers_of_equations/)|[IceFireWarden](/u/IceFireWarden)
-[To King Naemon, King of Summerset](/r/teslore/comments/4f1ycc/to_king_naemon_king_of_summerset/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Tonal Fasces of the Ancient Nords- & Others](/r/teslore/comments/4n9d7j/tonal_fasces_of_the_ancient_nords_others/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[To Tamriel of Nirn Actual: A Missive From Talk For Your Salvation](/r/teslore/comments/246zg0/to_tamriel_of_nirn_actual_a_missive_from_talk_for/)|[IceFireWarden](/u/IceFireWarden)
-[Trapped](/r/teslore/comments/2kjw1h/trapped/)|[FelineErotica](/u/FelineErotica)
-[Tsirelsyn's Bound](/r/teslore/comments/18ozrr/tsirelsyns_bound/)|[dinmenel](/u/purveyoropulchritude)
-[Until my heart no longer beats - Part 1](/r/teslore/72rqnf)|[Sawbones194](/u/Sawbones194)
-[Until my heart no longer beats - Part 2](/r/teslore/72zpvi)|[Sawbones194](/u/Sawbones194)
-[Until my heart no longer beats - Part 3](/r/teslore/72ztt0)|[Sawbones194](/u/Sawbones194)
-[Until my heart no longer beats - Part 4](/r/teslore/736vnq)|[Sawbones194](/u/Sawbones194)
-[Until my heart no longer beats - Part 5](/r/teslore/737l95)|[Sawbones194](/u/Sawbones194)
-[Uutak: HRAHNDEYL](/r/teslore/comments/1y5boc/uutak_hrahndeyl/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak: Lecture From Talk-Fabulist Ykut To His Apprentice](/r/teslore/comments/1xm3ot/uutak_lecture_from_talkfabulist_ykut_to_his/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak: The Neglected Missives](/r/teslore/comments/1y5cky/uutak_the_neglected_missives/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak: The Truth-Lies of HRAHNDEYL](/r/teslore/comments/21c0pr/uutak_the_truthlies_of_hrahndeyl/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak: Within The Chimera Ambit](/r/teslore/comments/246xfu/uutak_within_the_chimera_ambit/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Mythos Factions: The H?dan Cwellan](/r/teslore/comments/6afrzj/)|[Al-Hatoor](/u/Al-Hatoor)
-[Vaermina's Arena: Keeper's Bane](/r/teslore/comments/286as0/vaerminas_arena_keepers_bane/)|[Impetrong](/u/Impetrong)
-[Velothiid Come #1 - Page 5](/r/teslore/comments/4q4cb3/velothiid_come_1_page_5/)|[mojonation1487](/u/mojonation1487)
-[Velóthi Exodus: The Adversarium of House Dwemer](/r/teslore/comments/4w7zlk/vel%C3%B3thi_exodus_the_adversarium_of_house_dwemer/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[W-GN#38: Wyrding Stones](/r/teslore/comments/4q5i7v/wgn38_wyrding_stones/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[WARNING: Unauthorized Dreamsleeve Transmission - Date:?E???](/r/teslore/comments/2tsofd/warning_unauthorized_dreamsleeve_transmission/)|[Sakazwal](/u/Sakazwal)
-[We will be limitless](/r/teslore/comments/3imd6d/we_will_be_limitless/)|[Sothas](/u/Sothas)
-[What The Flower Told Me](/r/teslore/comments/51czim/apocrypha_what_the_flower_told_me/)|[TheRoseThief](/u/TheRoseThief)
-[When the Dwemer were removed, the Tribunal ate their ashes](/r/teslore/comments/1jjhjk/when_the_dwemer_were_removed_the_tribunal_ate/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Where the Grabbers Roam (I:I)](/r/teslore/comments/5vxhy7/ldz_where_the_grabbers_roam_ii/)|[scourgicus](/u/scourgicus)
-[Where Were You When the Dragon Healed?](/r/teslore/comments/5vbq8m/ldz_where_were_you_when_the_dragon_healed/)|[scourgicus](/u/scourgicus)
-[Whispers On Two Creations To Ears Young and Shells Soft](/r/teslore/comments/20woh5/whispers_on_two_creations_to_ears_young_and/)|[turokman2000](/u/turokman2000)
-[Why the Snakes have no Legs](/r/teslore/7bux9d)|[Sawbones194](/u/Sawbones194)
-[Winterhold Forthrow Headway-Bewrit](/r/teslore/comments/18p3cd/winterhold_forthrow_headwaybewrit/)|[HaughtyQuail](/u/HaughtyQuail)
-[Words of the Hidden: Behind the Facade](/r/teslore/comments/5v1384/words_of_the_hidden_behind_the_facade/)|[OldResdayn](/u/OldResdayn)
-[Wy-Naught and Her Own Good](/r/teslore/comments/2c8r68/wynaught_and_her_own_good/)|[dinmenel](/u/purveyoropulchritude)
-[Wy-Naught and the Many Mothers](/r/teslore/comments/1ynr0c/wynaught_and_the_many_mothers/)|[dinmenel](/u/purveyoropulchritude)
-[Wy-Naught and the Sands of Solace](http://dropbox.com/s/syspbo19sno5yu4/WyNaughtandtheSandsofSolace.pdf)|[dinmenel](/u/purveyoropulchritude)
-[Your hell is broken](/r/teslore/comments/29br4u/your_hell_is_broken/)|[mojonation1487](/u/mojonation1487)
-[[Fragment] The Eighth Algorithm](/r/teslore/comments/2nhybp/fragment_the_eighth_algorithm/)|[mojonation1487](/u/mojonation1487)
-[[Second Seed 6th, 4E 433] Only the Sec'nds and Spaces 'twixt Spaces-](/r/teslore/comments/4i8w9h/second_seed_6th_4e_433_only_the_secnds_and_spaces/)|[Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)
-[[Warden's Archive] Al-Hatoor, Spirit of Meaning](/r/teslore/comments/4ivrdy/wardens_archive_alhatoor_spirit_of_meaning/)|[Al-Hatoor](/u/Al-Hatoor)
+| **Title**                                                                                                                                                                                                                    | **Author**                                      |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| ["A Space Falmer C0DA" - theories and apocrypha](/r/teslore/3pr391)                                                                                                                                                          | [Hans-the-Fox](/u/Hans-the-Fox)                 |
+| ["They are not all dead"](/r/teslore/52vslk)                                                                                                                                                                                 | [scourgicus](/u/scourgicus)                     |
+| [5E 274, p3](/r/teslore/2j2c8n)                                                                                                                                                                                              | [CreamWafers](/u/CreamWafers)                   |
+| [5E 724](/r/teslore/2g5g3e)                                                                                                                                                                                                  | [CreamWafers](/u/CreamWafers)                   |
+| [A Discourse](/r/teslore/4ii207)                                                                                                                                                                                             | [NagaiaAgea](/u/NagaiaAgea)                     |
+| [Admonition on sanctioned murder and Merethic hubris](/r/teslore/3fidmv)                                                                                                                                                     | [Hejtman_Tsaerodel](/u/Hejtman_Tsaerodel)       |
+| [A dream of Almalexia](/r/teslore/20wqk0)                                                                                                                                                                                    | [gustavokrm](/u/gustavokrm)                     |
+| [Aem's Dream](/r/teslore/2f4gzg)                                                                                                                                                                                             | [Rajti](/u/Rajti)                               |
+| [A Firelight Tale](/r/teslore/5me9oz)                                                                                                                                                                                        | [scourgicus](/u/scourgicus)                     |
+| [A Floater's Encyclopaedia of Some Feelings of Some Creatures of Tamriel](/r/teslore/2evs2h)                                                                                                                                 | [Breathes-Under-Nerve](/u/Breathes-Under-Nerve) |
+| [A Gift from a Stranger](/r/teslore/2vv1mr)                                                                                                                                                                                  | [Cyclenophus](/u/Cyclenophus)                   |
+| [A Heretical Letter to House Sul, on Neravar's Shadowed Anticipation](/r/teslore/4ynj7x)                                                                                                                                     | [BuckneyBos](/u/BuckneyBos)                     |
+| [A Hist Story: The Im-Kilaya](/r/teslore/20rnxg)                                                                                                                                                                             | [NudeProvided](/u/NudeProvided)                 |
+| [A Hist Story: The Saxhleel](/r/teslore/246jgt)                                                                                                                                                                              | [IceFireWarden](/u/IceFireWarden)               |
+| [A letter: From Me, into the ocean of you](/r/teslore/4nbgpq)                                                                                                                                                                | [Faulgor](/u/Faulgor)                           |
+| [All this Time and Still They do not See](/r/teslore/2h0rqd)                                                                                                                                                                 | [EbonAE](/u/EbonAE)                             |
+| [A lullaby from the slopes of Eton Nir](/r/teslore/3z7ctv)                                                                                                                                                                   | [OldResdayn](/u/OldResdayn)                     |
+| [a madman's pamphlet](/r/teslore/5rri6h)                                                                                                                                                                                     | [GNerano](/u/GNerano)                           |
+| [A Meditation on Royalty: Sigma(0)/0](/r/teslore/20w2pl)                                                                                                                                                                     | [sheably](/u/sheably)                           |
+| [a moldy page](/r/teslore/5rto66)                                                                                                                                                                                            | [GNerano](/u/GNerano)                           |
+| [A most interesting encounter, High Rock, 4th Era](/r/teslore/3ifwbb)                                                                                                                                                        | [jalba9](/u/jalba9)                             |
+| [An Accounting of the Scorching of Pale Pass, Chapter Three](/r/teslore/5ulvn8)                                                                                                                                              | [scourgicus](/u/scourgicus)                     |
+| [An Accounting of the Scorching of Pale Pass, Chapter Two](/r/teslore/5p46wj)                                                                                                                                                | [scourgicus](/u/scourgicus)                     |
+| [An Argonian who travelled to think on his own mind and find the dance in his heart](/r/teslore/4auz9q)                                                                                                                      | [OtakuOfMe](/u/OtakuOfMe)                       |
+| [Anchors Aweigh](/r/teslore/1y9jxz)                                                                                                                                                                                          | [A_Vestige](/u/A_Vestige)                       |
+| [And Then He Fled](/r/teslore/292wey)                                                                                                                                                                                        | [IceFireWarden](/u/IceFireWarden)               |
+| [An Excerpt from a Recovered Thalmor Text, Annotated and Assessed by the Synod](/r/teslore/3pgp76)                                                                                                                           | [Val_Ritz](/u/Val_Ritz)                         |
+| [An Excerpt of Writing Translated from the Eye of Magnus](/r/teslore/63ajmd)                                                                                                                                                 | [Arandure](/u/Arandure)                         |
+| [An Interview With Uupse Fyr](/r/teslore/5u1si3)                                                                                                                                                                             | [Varanu](/u/Varanu)                             |
+| [An Introduction to Aelseny](/r/teslore/292tur)                                                                                                                                                                              | [IceFireWarden](/u/IceFireWarden)               |
+| [An Old Man's Musings](/r/teslore/2k7xml)                                                                                                                                                                                    | [Asotil](/u/Asotil)                             |
+| [An old story about Faces and Time](/r/teslore/2v0p7f)                                                                                                                                                                       | [Ushankaclock](/u/Ushankaclock)                 |
+| [A Note found at Fort \***\*\_\*\***](/r/teslore/4cj255)                                                                                                                                                                     | [Sevatar\_\_\_](/u/Sevatar___)                  |
+| [An Understanding](/r/teslore/2kljfy)                                                                                                                                                                                        | [andyysplash](/u/andyysplash)                   |
+| [A Palaver in The Tower’s Crater :: The Second Iteration of Red Mountain](/r/teslore/531jii)                                                                                                                                 | [CHOIR_9_SLEEVESHELL](/u/CHOIR_9_SLEEVESHELL)   |
+| [A Passage Transcribed from an Old Sea-Stone](/r/teslore/40pzlc)                                                                                                                                                             | [SoggyPorridge](/u/SoggyPorridge)               |
+| [Apocryphal Letters of Aldmeris](/r/teslore/4horl5)                                                                                                                                                                          | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [Apologues of At-Hatoor](/r/teslore/6afogn)                                                                                                                                                                                  | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [A Prelude to a C0DA](/r/teslore/1ywb74)                                                                                                                                                                                     | [laurelanthalasa](/u/laurelanthalasa)           |
+| [A reiteration of the 9 Nymics of Ghost Choir 9](/r/teslore/423x1f)                                                                                                                                                          | [potatosaurosrex](/u/potatosaurosrex)           |
+| [A reiteration of the 9 Nymics of Ghost Choir 9](/r/teslore/423x1f)                                                                                                                                                          | [potatosaurosrex](/u/potatosaurosrex)           |
+| [A Report on the Workings of the Wonderweir and its Current Whereabouts](/r/teslore/59uvxc)                                                                                                                                  | [mojonation1487](/u/mojonation1487)             |
+| [Article 16 from the Legion's Report on the "Sleeping Sickness"](/r/teslore/21fox4)                                                                                                                                          | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)       |
+| [A Ruddy Awakening](/r/teslore/3m9c76)                                                                                                                                                                                       | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)       |
+| [a scrap of paper](/r/teslore/5rqrdt)                                                                                                                                                                                        | [GNerano](/u/GNerano)                           |
+| [A scribbled note, found near a stream](/r/teslore/5oi68a)                                                                                                                                                                   | [lepemetus](/u/lepemetus)                       |
+| [A Shortened Flippers C0DA. Part 2: Kids (Chapter 1: Blue Mer from Red Moon)](/r/teslore/2omz01)                                                                                                                             | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [A Shortened Flippers C0DA. Part 2: Kids (Chapter 2: Balance)](/r/teslore/2oqqjs)                                                                                                                                            | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [A Strider's Lament](/r/teslore/4tg70q)                                                                                                                                                                                      | [Poison-Song](/u/Poison-Song)                   |
+| [A Thalmor Tragedy in Vilewood](/r/teslore/2itul6)                                                                                                                                                                           | [kingjoe64](/u/kingjoe64)                       |
+| [A Third-tier Progenia](/r/teslore/73q613)                                                                                                                                                                                   | [scourgicus](/u/scourgicus)                     |
+| [Atmora's Whispers, Part 1: Cursed Sky of Ancient Bitter Shroud](/r/teslore/2z3s01)                                                                                                                                          | [Maven_of_Minecraft](/u/Maven_of_Minecraft)     |
+| [A treatise of the effects of trans-liminal passage on local space-time](/r/teslore/1q07pv)                                                                                                                                  | [Anonymous_Mononymous](/u/Anonymous_Mononymous) |
+| [Ayleids All The Way Down](/r/teslore/3oe03v)                                                                                                                                                                                | [WW1305](/u/WW1305)                             |
+| [Ayrenn Bobs Her Hair](/r/teslore/57ea9w)                                                                                                                                                                                    | [dinwenel](/u/dinwenel)                         |
+| [Beginning Ends](/r/teslore/2vhfot)                                                                                                                                                                                          | [Lord_Jeebus](/u/Lord_Jeebus)                   |
+| [Betrayal: Full + Final Transmissions](/r/teslore/5iyt5v)                                                                                                                                                                    | [ClarentaviousValisi](/u/ClarentaviousValisi)   |
+| [Betrayal: New Transmission II](/r/teslore/4drwan)                                                                                                                                                                           | [ClarentaviousValisi](/u/ClarentaviousValisi)   |
+| [Betrayal: New Transmission I](/r/teslore/4c4p1s)                                                                                                                                                                            | [ClarentaviousValisi](/u/ClarentaviousValisi)   |
+| [Betryal: New Transmission III](/r/teslore/4nwd3v)                                                                                                                                                                           | [ClarentaviousValisi](/u/ClarentaviousValisi)   |
+| [BEWARE THE HÖRME!!](/r/teslore/4co5jh)                                                                                                                                                                                      | [Sevatar\_\_\_](/u/Sevatar___)                  |
+| [Beware the Revenant](/r/teslore/1v1gl0)                                                                                                                                                                                     | [TwistingWagoo](/u/TwistingWagoo)               |
+| [Black Book: Fallacious Vainglory (The Unvoiced Saga of Miraak)](/r/teslore/2os9al)                                                                                                                                          | [ddaybones](/u/ddaybones)                       |
+| [Black Book: Tacit Perturbation (The Unvoiced Saga of Miraak)](/r/teslore/2ow7uh)                                                                                                                                            | [ddaybones](/u/ddaybones)                       |
+| [Blood-Made-Glorious, & Her Golden Tone: Almalexia, Mother of Madness](/r/teslore/4ve8cd)                                                                                                                                    | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [Book of the Wheels of Heaven](/r/teslore/5tq636)                                                                                                                                                                            | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Brase](/r/teslore/2amfbl)                                                                                                                                                                                                   | [Nextmastermind](/u/Nextmastermind)             |
+| [Breach Report CCCLXVI [One Night in the Velothiid]](/r/teslore/1y5wcz)                                                                                                                                                      | [Lord_Hoot](/u/Lord_Hoot)                       |
+| [Break the Mythic into Abstract: A Manifesto](/r/teslore/20l10c)                                                                                                                                                             | [NudeProvided](/u/NudeProvided)                 |
+| [Bump In The Night: A Page Found Between the Pages](/r/teslore/29vvrp)                                                                                                                                                       | [Impetrong](/u/Impetrong)                       |
+| [C0DA: Paradise Found - Part One](/r/teslore/1z4web)                                                                                                                                                                         | [Jordoom](/u/Jordoom)                           |
+| [Commentary From the Fifth Era, The True Purpose of Tamriel](/r/teslore/1zh1xt)                                                                                                                                              | [mojonation1487](/u/mojonation1487)             |
+| [Conference With the Ancient Atmeri Tribe-Clans: Part III](/r/teslore/3l1p9m)                                                                                                                                                | [Xhylorekihel](/u/Xhylorekihel)                 |
+| [Conference With the Ancient Atmeri Tribe-Clans: Part II](/r/teslore/3kwusy)                                                                                                                                                 | [Xhylorekihel](/u/Xhylorekihel)                 |
+| [Conference With The Ancient Atmeri Tribe-Clans: Part IV](/r/teslore/3lalue)                                                                                                                                                 | [Xhylorekihel](/u/Xhylorekihel)                 |
+| [Conference with the Ancient Atmeri Tribe-Clans: Part I](/r/teslore/3kohr2)                                                                                                                                                  | [Xhylorekihel](/u/Xhylorekihel)                 |
+| [Conference with the Ancient Atmeri Tribe-Clans: Part V](/r/teslore/3ljomm)                                                                                                                                                  | [Xhylorekihel](/u/Xhylorekihel)                 |
+| [Conversation with Simulacrum](/r/teslore/3hco8r)                                                                                                                                                                            | [neknotes](/u/neknotes)                         |
+| [Copper](/r/teslore/59vast)                                                                                                                                                                                                  | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Corprus: Divine Skin of the New Man](/r/teslore/44x1dy)                                                                                                                                                                     | [LiquidHurlant](/u/LiquidHurlant)               |
+| [Cracked- Note by a Madman](/r/teslore/32q1ws)                                                                                                                                                                               | [Vuldilviin](/u/Vuldilviin)                     |
+| [Daighsenn's proclamation to the Faithful](/r/teslore/4nwhe3)                                                                                                                                                                | [Blackcoldren](/u/Blackcoldren)                 |
+| [The Death of History - Something like C0DA](/r/teslore/6cpccj/)                                                                                                                                                             | [TheWoodenplank](/u/TheWoodenplank)             |
+| [Deception of the Gods](/r/teslore/3lzfoi)                                                                                                                                                                                   | [Sothas](/u/Sothas)                             |
+| [Diary of a Confused Bandit](/r/teslore/1ulhwx)                                                                                                                                                                              | [RideTheLine](/u/RideTheLine)                   |
+| [Diary of a Confused Bounty Hunter](/r/teslore/1uupre)                                                                                                                                                                       | [RideTheLine](/u/RideTheLine)                   |
+| [Diary of a Confused Cultist](/r/teslore/1urjem)                                                                                                                                                                             | [RideTheLine](/u/RideTheLine)                   |
+| [Diasporic Faith, Post-Landfall: "We Met Our Gods"](/r/teslore/3p0rx6)                                                                                                                                                       | [scourgicus](/u/scourgicus)                     |
+| [dioV gnilttucS ehT morF egasseM A](/r/teslore/2l2jhd)                                                                                                                                                                       | [phil_hinds](/u/phil_hinds)                     |
+| [Djaf- The Bleeding Arena](/r/teslore/1ukcx6)                                                                                                                                                                                | [mojonation1487](/u/mojonation1487)             |
+| [The Dreamer's Song](/r/teslore/76yorx)                                                                                                                                                                                      | [Underkiing](/u/Underkiing)                     |
+| [Dreaming dreamers](/r/teslore/2m36kh)                                                                                                                                                                                       | [TigerHall](/u/TigerHall)                       |
+| [Dreamseeing The War With The Nu-Man](/r/teslore/6li9cn/)                                                                                                                                                                    | [ArcaneAnouki](/u/ArcaneAnouki)                 |
+| [Dreamsleeve Transcript: Tamriel, I'm Sorry](/r/teslore/38fdy6)                                                                                                                                                              | [neknotes](/u/neknotes)                         |
+| [Dust Flow](/r/teslore/4t29th)                                                                                                                                                                                               | [RottenDeadite](/u/RottenDeadite)               |
+| [Dwemer Confession](/r/teslore/3sgv7v)                                                                                                                                                                                       | [scourgicus](/u/scourgicus)                     |
+| [Earwyrm](/r/teslore/57g4ts)                                                                                                                                                                                                 | [docclox](/u/docclox)                           |
+| [Ebne-Tragga and the Hagraven](/r/teslore/3kjfnw)                                                                                                                                                                            | [gro-Muluk](/u/gro-Muluk)                       |
+| [Echoes of Mer and Man](/r/teslore/4fpzv3)                                                                                                                                                                                   | [WW1305](/u/WW1305)                             |
+| [Emergency Transmission: Still-Light Outpost](/r/teslore/4cs858)                                                                                                                                                             | [Sevatar\_\_\_](/u/Sevatar___)                  |
+| [The Enantechomorph](/r/teslore/7cfii7)                                                                                                                                                                                      | [ArcaneAnouki](/u/ArcaneAnouki)                 |
+| [Entry 0: Command the Fools Idol](/r/teslore/1rqzfj)                                                                                                                                                                         | [TheFalseFather](/u/TheFalseFather)             |
+| [Epiphany: Chapters 1-10](/r/teslore/3cyovg)                                                                                                                                                                                 | [dinwenel](/u/dinwenel)                         |
+| [Eton Nir and the coral of Cloudrest pt.1: Prolouge](/r/teslore/2mpb4j)                                                                                                                                                      | [Vampire*Sun_Bandit*](/u/Vampire_Sun_Bandit_)   |
+| [Excerpt from the Journal of Amaya](/r/teslore/2pzziz)                                                                                                                                                                       | [Rajti](/u/Rajti)                               |
+| [Faal Grunzahro Unslaad Wundun Zeim Vennesetiid](/r/teslore/65psiw)                                                                                                                                                          | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Final Assessment on the NVN Transient](/r/teslore/2ujlfn)                                                                                                                                                                   | [IceFireWarden](/u/IceFireWarden)               |
+| [Findings in Endusal: Thoughts](/r/teslore/6afox8)                                                                                                                                                                           | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Fishing With The Bard](/r/teslore/32cmyl)                                                                                                                                                                                   | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)   |
+| [For Caius Cosades](/r/teslore/333ovj)                                                                                                                                                                                       | [fabricofspacetime](/u/fabricofspacetime)       |
+| [For Whom the Sixth House Tolls](/r/teslore/48smv3)                                                                                                                                                                          | [LiquidHurlant](/u/LiquidHurlant)               |
+| [Foundations of the Nu-Diocese or: How to Find Us](/r/teslore/5hv6o7)                                                                                                                                                        | [Anumaril](/u/Anumaril)                         |
+| [Four Signals, Four Mechanisms, a Message from a Dying Nirn](/r/teslore/2lqhou)                                                                                                                                              | [BewareOfTentacles](/u/BewareOfTentacles)       |
+| [Fragments from the private records of Jonathan Voryn, medical caretaker to the Royal House of Mons Pavonis in exile](/r/teslore/2ov7hs)                                                                                     | [grelphy](/u/grelphy)                           |
+| [From The Liar's Mouth II](/r/teslore/1z51qf)                                                                                                                                                                                | [RideTheLine](/u/RideTheLine)                   |
+| [From The Liar's Mouth](/r/teslore/1yxy0t)                                                                                                                                                                                   | [RideTheLine](/u/RideTheLine)                   |
+| [From The Memories of Xozartan-Ek, Demiprince](/r/teslore/58uj4z)                                                                                                                                                            | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [FSL Professor Numinatus! Meanwhile, Lyg Falls: Issue One](https://anachronisle.com/lygfalls-issue1.pdf)                                                                                                                     | [mojonation1487](/u/mojonation1487)             |
+| [Ghost](/r/teslore/2r78cd)                                                                                                                                                                                                   | [FelineErotica](/u/FelineErotica)               |
+| [Hear Ye: I begin with nothing](/r/teslore/23fao7)                                                                                                                                                                           | [Kim_Shlong_Il](/u/Kim_Shlong_Il)               |
+| [Heirarchical Ranks of the Crustacean-Folk](/r/teslore/4m25l0)                                                                                                                                                               | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)   |
+| [Heretical Memospore: The Lastborn Children of Kynth](/r/teslore/5yuouq)                                                                                                                                                     | [HamSandLich](/u/HamSandLich)                   |
+| [I am all you are me](/r/teslore/2objrv)                                                                                                                                                                                     | [MashgashtheWise](/u/MashgashtheWise)           |
+| [I am Kynval](/r/teslore/2q999w)                                                                                                                                                                                             | [Orcberserker](/u/Orcberserker)                 |
+| [I came this far to look at hell. [You must go the rest, my Son.]](/r/teslore/474eu4)                                                                                                                                        | [LiquidHurlant](/u/LiquidHurlant)               |
+| [Identifying Fa-Nuit-Hen](/r/teslore/34plg2)                                                                                                                                                                                 | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)   |
+| [Imaginary Colours](/r/teslore/65pt7z)                                                                                                                                                                                       | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Imago Storm : Change is coming](/r/teslore/46z4qd)                                                                                                                                                                          | [LiquidHurlant](/u/LiquidHurlant)               |
+| [Implications of Ghost Choir Personalities](/r/teslore/5f7801)                                                                                                                                                               | [scourgicus](/u/scourgicus)                     |
+| [Impossipoint: Adversary](/r/teslore/5dlv8b)                                                                                                                                                                                 | [scourgicus](/u/scourgicus)                     |
+| [Intercepted Dreamsleeve Transmission from the Parliament of Spume](/r/teslore/6tiv7b/)                                                                                                                                      | [TheOutOfWorld](/u/TheOutOfWorld)               |
+| [Interview with one of the Lastborn](/r/teslore/60c036)                                                                                                                                                                      | [HamSandLich](/u/HamSandLich)                   |
+| [It Was the Place, the Time](/r/teslore/58r7p6)                                                                                                                                                                              | [scourgicus](/u/scourgicus)                     |
+| [Journeys through Sybandis, the Nirn That Never Was, as related by Imperial Mage Cocius Ratori](/r/teslore/2gurr1)                                                                                                           | [Trainwiz](/u/Trainwiz)                         |
+| [Last message of an Imperial Mananaut](/r/teslore/2qqjy2)                                                                                                                                                                    | [nonoman12](/u/nonoman12)                       |
+| [Last Moments of the Last Septim](/r/teslore/4yiqrs)                                                                                                                                                                         | [Remanite](/u/Remanite)                         |
+| [Learnings of an Imperial Mananaut and Dimensionrider](/r/teslore/40rouu)                                                                                                                                                    | [swedishplayer97](/u/swedishplayer97)           |
+| [Letter to Berahzic from Lanali, her sister](/r/teslore/2bz9tf)                                                                                                                                                              | [RottenDeadite](/u/RottenDeadite)               |
+| [Little Yonnir of Bravil](/r/teslore/2xl751)                                                                                                                                                                                 | [PinkDohnuts](/u/PinkDohnuts)                   |
+| [Lorkhaj Rests Beneath S'ren-ja](/r/teslore/4tsv4e)                                                                                                                                                                          | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [Love Letter of the Merethic's End](/r/teslore/7gwhe4)                                                                                                                                                                       | [Archivist_Fielers](/u/Archivist_Fielers)       |
+| [The Maiden Terrene and Her Celibacy: Commentaries on God, Volume I](/r/teslore/6fairp/)                                                                                                                                     | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Magic : the foremost journal for professional wizards : Issue 1 : Theory for the Proximate Mechanics of Reading an Elder Scroll](/r/teslore/22wusy)                                                                         | [JohnJacobsJingle](/u/JohnJacobsJingle)         |
+| [The Maiden Terrene and Her Celibacy: Commentaries on God, Volume I](/r/teslore/6fairp/)                                                                                                                                     | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Memospore Zed-9: A Story of the Last War (II)](/r/teslore/4q37db)                                                                                                                                                           | [SellusDemosthenes](/u/SellusDemosthenes)       |
+| [Memospore Zed-9: A Story of the Last War (III)](/r/teslore/4qf5rw)                                                                                                                                                          | [SellusDemosthenes](/u/SellusDemosthenes)       |
+| [Memospore Zed-9: A Story of the Last War (IV - Final)](/r/teslore/4qr4hq)                                                                                                                                                   | [SellusDemosthenes](/u/SellusDemosthenes)       |
+| [Missive From The Fifth Era, The True Purpose of Tamriel](/r/teslore/23p090)                                                                                                                                                 | [IceFireWarden](/u/IceFireWarden)               |
+| [Mnemic Recapitulation and the Death of Nirn](/r/teslore/4kuqfk)                                                                                                                                                             | [scourgicus](/u/scourgicus)                     |
+| [Monograph of a Waterless Netch](/r/teslore/3m1qmk)                                                                                                                                                                          | [Va_Krin](/u/Va_Krin)                           |
+| [Monomyth from Lyg: Vermaean, The Maker's Lament](/r/teslore/2a5jb6)                                                                                                                                                         | [mojonation1487](/u/mojonation1487)             |
+| [Musings of the Clockwork City](/r/teslore/4dwdyr)                                                                                                                                                                           | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [My Love in a Miser's Purse- for those fair'st out There](/r/teslore/4ibadr)                                                                                                                                                 | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [Mysterious Putaro](/r/teslore/4ykl7c)                                                                                                                                                                                       | [Rusty_Shakalford](/u/Rusty_Shakalford)         |
+| [Mythic Dawn Artifact, small locked chest](/r/teslore/4chufh)                                                                                                                                                                | [ShadowDestroyerTime](/u/ShadowDestroyerTime)   |
+| [Nalihhidroth](/r/teslore/4t2553)                                                                                                                                                                                            | [RottenDeadite](/u/RottenDeadite)               |
+| [Nchardak Pilgramage](/r/teslore/5ps520)                                                                                                                                                                                     | [UnwoundTime](/u/UnwoundTime)                   |
+| [Negatio](/r/teslore/5g38f7)                                                                                                                                                                                                 | [scourgicus](/u/scourgicus)                     |
+| [Nightmares of a Dream Forgotten. Part one: On Love](/r/teslore/3zbi0k)                                                                                                                                                      | [Ayleidsornothing](/u/Ayleidsornothing)         |
+| [Nine nymics of the Ghost Choir](/r/teslore/2q6l1l)                                                                                                                                                                          | [RottenDeadite](/u/RottenDeadite)               |
+| [Nirn ent drowning, ets groing!](/r/teslore/4kek7x)                                                                                                                                                                          | [Minor_Edits](/u/Minor_Edits)                   |
+| [Notes on the Western Hemisphere Information Network](/r/teslore/65ps41)                                                                                                                                                     | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [NUL Entry 02](/r/teslore/1yg2pu)                                                                                                                                                                                            | [AlyxDinas](/u/AlyxDinas)                       |
+| [NUL Entry 03](/r/teslore/1z405s)                                                                                                                                                                                            | [AlyxDinas](/u/AlyxDinas)                       |
+| [NUL Entry 04](/r/teslore/24fm5c)                                                                                                                                                                                            | [AlyxDinas](/u/AlyxDinas)                       |
+| [NUL Entry 05](/r/teslore/24iefs)                                                                                                                                                                                            | [AlyxDinas](/u/AlyxDinas)                       |
+| [NUL Entry 06](/r/teslore/24jyka)                                                                                                                                                                                            | [AlyxDinas](/u/AlyxDinas)                       |
+| [NUL](/r/teslore/1yaiwj)                                                                                                                                                                                                     | [AlyxDinas](/u/AlyxDinas)                       |
+| [On Milk](/r/teslore/6fmnx1/)                                                                                                                                                                                                | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)   |
+| [On the Nature of Puns Concerning the Ilyadi So-Called Fairy Giants](/r/teslore/3u1y24)                                                                                                                                      | [18plus1](/u/18plus1)                           |
+| [On the Urmer](/r/teslore/3i0b8n)                                                                                                                                                                                            | [gro-Muluk](/u/gro-Muluk)                       |
+| [Origin of the Unhuntables](/r/teslore/3kaf0g)                                                                                                                                                                               | [gro-Muluk](/u/gro-Muluk)                       |
+| [O.Y.A.R.S.A. and the Meaning of the Last War](/r/teslore/7frupz)                                                                                                                                                            | [scourgicus](/u/scourgicus)                     |
+| [Paradise is Returning](/r/teslore/2827jf)                                                                                                                                                                                   | [mojonation1487](/u/mojonation1487)             |
+| [The paideutic palillogy of TRNMC [children]](/r/teslore/6pa0n3/)                                                                                                                                                            | [Pelinal-Whitestrake](/u/Pelinal-Whitestrake)   |
+| [Personae](/r/teslore/5l3kay)                                                                                                                                                                                                | [scourgicus](/u/scourgicus)                     |
+| [Peryite Is Akatosh, Who Is Aka-Tusk](/r/teslore/1vrcg2)                                                                                                                                                                     | [IceFireWarden](/u/IceFireWarden)               |
+| [Prophetia](/r/teslore/5t79yk)                                                                                                                                                                                               | [scourgicus](/u/scourgicus)                     |
+| [The Pyandea Crisis: History and Legend](/r/teslore/6loi79/)                                                                                                                                                                 | [Tyermali](/u/Tyermali)                         |
+| [Query, Part II: Background on Altmeri Ideology](/r/teslore/3hys36)                                                                                                                                                          | [neknotes](/u/neknotes)                         |
+| [Query, Part I](/r/teslore/3hr33b)                                                                                                                                                                                           | [neknotes](/u/neknotes)                         |
+| [Ramblings of an Insane Prisoner](/r/teslore/6h0s9r/)                                                                                                                                                                        | [Vitamin_gun](/u/Vitamin_gun)                   |
+| [Ravings For Your Pleasure](/r/teslore/311nd2)                                                                                                                                                                               | [WalkBrass](/u/WalkBrass)                       |
+| [Rebirth](/r/teslore/5evnng)                                                                                                                                                                                                 | [scourgicus](/u/scourgicus)                     |
+| [Reconvene - A Tribute to Shor](/r/teslore/1y4m6v)                                                                                                                                                                           | [william_door](/u/william_door)                 |
+| [Recorded Correspondence Between the Lords of Misrule](/r/teslore/5xktmb)                                                                                                                                                    | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Recorded Thoughts and Memories of a Baron-Who-Moves-Like-This](/r/teslore/4rvkjw)                                                                                                                                           | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [Recorded Thoughts of Harmonic Auditor Razakngamz](/r/teslore/4fisnm)                                                                                                                                                        | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [Redanni - The bound hands of asc](/r/teslore/2smes2)                                                                                                                                                                        | [Nodus_Cursorius](/u/Nodus_Cursorius)           |
+| [Red Cabal- the Blood-Dome Revisited](/r/teslore/4vgfam)                                                                                                                                                                     | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [Red Cabal- The Son Buried](/r/teslore/4wrx9d)                                                                                                                                                                               | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [Red Cabal- Underdome](/r/teslore/4vrah8)                                                                                                                                                                                    | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [Reman was born from a Mountain and a Pile of Mud](/r/teslore/1pauyd)                                                                                                                                                        | [Anonymous_Mononymous](/u/Anonymous_Mononymous) |
+| [REN0- The Beginning](/r/teslore/2vs3le)                                                                                                                                                                                     | [DynamisEberhard](/u/DynamisEberhard)           |
+| [Report to High Potentate Surtat-Fehri on Revelations Concerning the Dark Conspiracy](/r/teslore/1xz3lp)                                                                                                                     | [turokman2000](/u/turokman2000)                 |
+| [Return. No Change. Wait](/r/teslore/1w39lu)                                                                                                                                                                                 | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)       |
+| [RETURN:TRUE; A(nother) Numantian Manifesto](/r/teslore/52tql4)                                                                                                                                                              | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [Revelata](/r/teslore/5b58qb)                                                                                                                                                                                                | [scourgicus](/u/scourgicus)                     |
+| [Ripples on the Water](/r/teslore/2p27d2)                                                                                                                                                                                    | [ZizZizZiz](/u/ZizZizZiz)                       |
+| [Rotten letters - Ser Ald Meylis last will?](/r/teslore/479gtf)                                                                                                                                                              | [OtakuOfMe](/u/OtakuOfMe)                       |
+| [Ruminations & Retrospections: On Alma, Her flickering Husband-State, & Foul Murder](/r/teslore/4v2edp)                                                                                                                      | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [Safe Copy: Announcement of the Seal of the Chrysalids](/r/teslore/2soot6)                                                                                                                                                   | [tamrielpropaganda](/u/tamrielpropaganda)       |
+| [Scale-Archives, wherein We found Unknown Yokudan Calligraphy](/r/teslore/4akmeh)                                                                                                                                            | [BaronVolag](/u/BaronVolag)                     |
+| [Sees-Many-Mysteries and the Most-Flat Pool](/r/teslore/1zadnm)                                                                                                                                                              | [XAYAH](/u/XAYAH)                               |
+| [Selected Minutes of The First Ecumagickal Council of Nu Corrup, 30th of Rain’s Hand, 4E 87](/r/teslore/1uzvlc)                                                                                                              | [lebiro](/u/lebiro)                             |
+| [Sermon of The Prophet of Landfall](/r/teslore/2qf35q)                                                                                                                                                                       | [Gwynthryn](/u/Gwynthryn)                       |
+| [Silent Whispers of the Ancestor Moths](/r/teslore/4db6fi)                                                                                                                                                                   | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [Sky's Death](/r/teslore/5788r4)                                                                                                                                                                                             | [Semblio](/u/Semblio)                           |
+| [Soles of Almalexia, Madness- Addendum](/r/teslore/4w1n2t)                                                                                                                                                                   | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [So you want to be a Minute Minder...](/r/teslore/2hzscz)                                                                                                                                                                    | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)       |
+| [Stories from Lyg Part I: Deadite Scourge](/r/teslore/27zdwr)                                                                                                                                                                | [mojonation1487](/u/mojonation1487)             |
+| [Sul the Hunter's Chronicles of Super-Mundial Principalities](/r/teslore/7hl2l4/)                                                                                                                                            | [thuynder](/u/thuynder)                         |
+| [Sum](/r/teslore/2e28yt)                                                                                                                                                                                                     | [QuixoticTendencies](/u/QuixoticTendencies)     |
+| [Sunna Agea Av Edeis](/r/teslore/47omft)                                                                                                                                                                                     | [AnonChimer](/u/AnonChimer)                     |
+| [Temperance](/r/teslore/3jt2dr)                                                                                                                                                                                              | [Milkpulp](/u/Milkpulp)                         |
+| [Ten Little Known Facts of Tamriel (and the people who live there)](/r/teslore/2n60xh)                                                                                                                                       | [Blackcoldren](/u/Blackcoldren)                 |
+| [Textus Numantius, fragment one](/r/teslore/5pemya)                                                                                                                                                                          | [scourgicus](/u/scourgicus)                     |
+| [The Aftermath: Entry ##1](/r/teslore/2cx8v6)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##2](/r/teslore/2czppf)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##3](/r/teslore/2d2k6b)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##4](/r/teslore/2d3w1x)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##5](/r/teslore/2d64kl)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##6](/r/teslore/2d9k3g)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##7](/r/teslore/2daiyv)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##8](/r/teslore/2dcf2t)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##9](/r/teslore/2ddu5x)                                                                                                                                                                                | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##10](/r/teslore/2dmjp4)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##11](/r/teslore/2dnsgl)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##12](/r/teslore/2ds9kr)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##13](/r/teslore/2dsbgi)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##14](/r/teslore/2dsjiu)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##15](/r/teslore/2dtpys)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##16](/r/teslore/2dyn32)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##17](/r/teslore/2dzdn7)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##18](/r/teslore/2e03oq)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Entry ##19](/r/teslore/2e0hqx)                                                                                                                                                                               | [CreamWafers](/u/CreamWafers)                   |
+| [The Aftermath: Final Entry](/r/teslore/2e3o1d)                                                                                                                                                                              | [CreamWafers](/u/CreamWafers)                   |
+| [The Annotated Ballad](/r/teslore/421gh3)                                                                                                                                                                                    | [BrynjarIsenbana](/u/BrynjarIsenbana)           |
+| [The Apocryphon of Tosh](/r/teslore/2q3hrn)                                                                                                                                                                                  | [eyeofgames](/u/eyeofgames)                     |
+| [The Aurbic Mirror, I by Chimere Greyman 4E 197](/r/teslore/52x220)                                                                                                                                                          | [thetonalcypher](/u/thetonalcypher)             |
+| [The Basics: The Bs'rii](/r/teslore/3k37t7)                                                                                                                                                                                  | [gro-Muluk](/u/gro-Muluk)                       |
+| [The blood is a better vessel](/r/teslore/4uo80c)                                                                                                                                                                            | [KingBeron](/u/KingBeron)                       |
+| [The Bug Folk - A journal entry](/r/teslore/3hqrc2)                                                                                                                                                                          | [gro-Muluk](/u/gro-Muluk)                       |
+| [The Color of Time](/r/teslore/1rqia7)                                                                                                                                                                                       | [TESJaxt](/u/TESJaxt)                           |
+| [The Cripple Queen of Reach Rock](/r/teslore/544gqn)                                                                                                                                                                         | [CHOIR_9_SLEEVESHELL](/u/CHOIR_9_SLEEVESHELL)   |
+| [The Crowing in Resdayn](/r/teslore/57g0ey)                                                                                                                                                                                  | [CHOIR_9_SLEEVESHELL](/u/CHOIR_9_SLEEVESHELL)   |
+| [The Crowing](/r/teslore/5hdwjq)                                                                                                                                                                                             | [scourgicus](/u/scourgicus)                     |
+| [The Dataworm](/r/teslore/3bzh55)                                                                                                                                                                                            | [Xhylorekihel](/u/Xhylorekihel)                 |
+| [The Doors of Heaven](www.reddit.com/r/teslore/5ru00i)                                                                                                                                                                       | [scourgicus](/u/scourgicus)                     |
+| [The Dunmer Culture of Anti-Victimhood; Ranis is an All-Right Flaming Bitch; Why There Are No Children, a Prelude to Additional Sins; How to Look for Home; Am I the Nerevarine or Is the Nerevarine Me?](/r/teslore/401ln3) | [Carrickfergus-](/u/Carrickfergus-)             |
+| [The Eight Wheel-Bones of The Spiral Skein; Apocrypha borne from one long-ass eight hour reply](/r/teslore/3a6al1)                                                                                                           | [KilikShardai](/u/KilikShardai)                 |
+| [The Elder Wood: Part 1](/r/teslore/4g6s0d)                                                                                                                                                                                  | [Xhylorekihel](/u/Xhylorekihel)                 |
+| [The Elder Wood: Part 2](/r/teslore/4gudes)                                                                                                                                                                                  | [Xhylorekihel](/u/Xhylorekihel)                 |
+| [The Elt Chronicles – Chapter 1, Origins](/r/teslore/2mk7y5)                                                                                                                                                                 | [crikeylol](/u/crikeylol)                       |
+| [The Epithalamium of Arimatha](/r/teslore/1sloal)                                                                                                                                                                            | [dinmenel](/u/purveyoropulchritude)             |
+| [The Fall of Valerian Sinchmoor](/r/teslore/2tvxub)                                                                                                                                                                          | [TigerHall](/u/TigerHall)                       |
+| [The First of First Mate’s Void-Navy Conscription Speech](/r/teslore/1ka495)                                                                                                                                                 | [mojonation1487](/u/mojonation1487)             |
+| [The First Who Shall Enter Shall Enter Last: The Grove of Fallen Dreams](/r/teslore/1xm6po)                                                                                                                                  | [IceFireWarden](/u/IceFireWarden)               |
+| [The Four Door Riddle](/r/teslore/2xec8s)                                                                                                                                                                                    | [Anemonean](/u/Anemonean)                       |
+| [The gods will die](/r/teslore/3khopz)                                                                                                                                                                                       | [\_BarbasTheDog](/u/_BarbasTheDog)              |
+| [The Gosling Heresy of the All From Score and Five Plus more](/r/teslore/320ouw)                                                                                                                                             | [Speaks_falsehoods](/u/Speaks_falsehoods)       |
+| [The Greatest Lie or: The Ramblings of an Impossibly Madmer](/r/teslore/2yggmc)                                                                                                                                              | [Whytesmoke](/u/Whytesmoke)                     |
+| [The History of Dreamsleeve Technology](/r/teslore/1v1fkd)                                                                                                                                                                   | [XAYAH](/u/XAYAH)                               |
+| [The Kalpas plan B](/r/teslore/3h6sez)                                                                                                                                                                                       | [Mathieu-Bellamont](/u/Mathieu-Bellamont)       |
+| [The last of us Does](/r/teslore/1xxvtx)                                                                                                                                                                                     | [lebiro](/u/lebiro)                             |
+| [The Lonely Tree](/r/teslore/2m7t2n)                                                                                                                                                                                         | [crikeylol](/u/crikeylol)                       |
+| [The Musings of a 5th-Era Falmer](/r/teslore/46lw9g)                                                                                                                                                                         | [The_White_Guar](/u/The_White_Guar)             |
+| [The Nautican: "Oceans of Time"](/r/teslore/224xmi)                                                                                                                                                                          | [DoctorDestructo](/u/DoctorDestructo)           |
+| [The Omens, Vol. 1](/r/teslore/2h77ms)                                                                                                                                                                                       | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)       |
+| [The Parable of the Starving Man and the Striped Flower[BLACK BOOK]](/r/teslore/2gsz21)                                                                                                                                      | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [The Principles of Mastery](/r/teslore/5zl6gj)                                                                                                                                                                               | [HugoLuman](/u/HugoLuman)                       |
+| [The Proctor II: M'aiq's Revenge](/r/teslore/1zzznj)                                                                                                                                                                         | [RideTheLine](/u/RideTheLine)                   |
+| [The Proctor III: WE Ain't Lyin'](/r/teslore/21yxxa)                                                                                                                                                                         | [RideTheLine](/u/RideTheLine)                   |
+| [The Proctor](/r/teslore/1tp1oa)                                                                                                                                                                                             | [RideTheLine](/u/RideTheLine)                   |
+| [The Rise of the Zero Empire](/r/teslore/50or54)                                                                                                                                                                             | [scourgicus](/u/scourgicus)                     |
+| [The Road to Hell](/r/teslore/5qhi8s)                                                                                                                                                                                        | [scourgicus](/u/scourgicus)                     |
+| [The Sanctum](/r/teslore/5nr5bs)                                                                                                                                                                                             | [scourgicus](/u/scourgicus)                     |
+| [The Singular Lesson of an Old Man](/r/teslore/66fqrr)                                                                                                                                                                       | [TheTimeSquid](/u/TheTimeSquid)                 |
+| [The Static Decay Field](/r/teslore/4t27jk)                                                                                                                                                                                  | [RottenDeadite](/u/RottenDeadite)               |
+| [The Surprisingly Coherent Ramblings of a Soul Shriven](/r/teslore/2jug01)                                                                                                                                                   | [willxpm](/u/willxpm)                           |
+| [The Torn Apart Queen](/r/teslore/5lzso4)                                                                                                                                                                                    | [Erethor](/u/Erethor)                           |
+| [The Wail of the First Void](/r/teslore/27apce)                                                                                                                                                                              | [mojonation1487](/u/mojonation1487)             |
+| [Timeless Radicals In Flowing Rivers Of Equations: A Rogue Hist Tree's Final Thoughts As It Is Purged From The Great Root](/r/teslore/1pw9zv)                                                                                | [IceFireWarden](/u/IceFireWarden)               |
+| [To King Naemon, King of Summerset](/r/teslore/4f1ycc)                                                                                                                                                                       | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [Tonal Fasces of the Ancient Nords- & Others](/r/teslore/4n9d7j)                                                                                                                                                             | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [To Tamriel of Nirn Actual: A Missive From Talk For Your Salvation](/r/teslore/246zg0)                                                                                                                                       | [IceFireWarden](/u/IceFireWarden)               |
+| [Trapped](/r/teslore/2kjw1h)                                                                                                                                                                                                 | [FelineErotica](/u/FelineErotica)               |
+| [Tsirelsyn's Bound](/r/teslore/18ozrr)                                                                                                                                                                                       | [dinmenel](/u/purveyoropulchritude)             |
+| [Until my heart no longer beats - Part 1](/r/teslore/72rqnf)                                                                                                                                                                 | [Sawbones194](/u/Sawbones194)                   |
+| [Until my heart no longer beats - Part 2](/r/teslore/72zpvi)                                                                                                                                                                 | [Sawbones194](/u/Sawbones194)                   |
+| [Until my heart no longer beats - Part 3](/r/teslore/72ztt0)                                                                                                                                                                 | [Sawbones194](/u/Sawbones194)                   |
+| [Until my heart no longer beats - Part 4](/r/teslore/736vnq)                                                                                                                                                                 | [Sawbones194](/u/Sawbones194)                   |
+| [Until my heart no longer beats - Part 5](/r/teslore/737l95)                                                                                                                                                                 | [Sawbones194](/u/Sawbones194)                   |
+| [Uutak: HRAHNDEYL](/r/teslore/1y5boc)                                                                                                                                                                                        | [IceFireWarden](/u/IceFireWarden)               |
+| [Uutak: Lecture From Talk-Fabulist Ykut To His Apprentice](/r/teslore/1xm3ot)                                                                                                                                                | [IceFireWarden](/u/IceFireWarden)               |
+| [Uutak: The Neglected Missives](/r/teslore/1y5cky)                                                                                                                                                                           | [IceFireWarden](/u/IceFireWarden)               |
+| [Uutak: The Truth-Lies of HRAHNDEYL](/r/teslore/21c0pr)                                                                                                                                                                      | [IceFireWarden](/u/IceFireWarden)               |
+| [Uutak: Within The Chimera Ambit](/r/teslore/246xfu)                                                                                                                                                                         | [IceFireWarden](/u/IceFireWarden)               |
+| [Uutak Mythos Factions: The H?dan Cwellan](/r/teslore/6afrzj)                                                                                                                                                                | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Vaermina's Arena: Keeper's Bane](/r/teslore/286as0)                                                                                                                                                                         | [Impetrong](/u/Impetrong)                       |
+| [Velothiid Come #1 - Page 5](/r/teslore/4q4cb3)                                                                                                                                                                              | [mojonation1487](/u/mojonation1487)             |
+| [Velóthi Exodus: The Adversarium of House Dwemer](/r/teslore/4w7zlk)                                                                                                                                                         | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [W-GN#38: Wyrding Stones](/r/teslore/4q5i7v)                                                                                                                                                                                 | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [WARNING: Unauthorized Dreamsleeve Transmission - Date:?E???](/r/teslore/2tsofd)                                                                                                                                             | [Sakazwal](/u/Sakazwal)                         |
+| [We will be limitless](/r/teslore/3imd6d)                                                                                                                                                                                    | [Sothas](/u/Sothas)                             |
+| [What The Flower Told Me](/r/teslore/51czim)                                                                                                                                                                                 | [TheRoseThief](/u/TheRoseThief)                 |
+| [When the Dwemer were removed, the Tribunal ate their ashes](/r/teslore/1jjhjk)                                                                                                                                              | [Anonymous_Mononymous](/u/Anonymous_Mononymous) |
+| [Where the Grabbers Roam (I:I)](/r/teslore/5vxhy7)                                                                                                                                                                           | [scourgicus](/u/scourgicus)                     |
+| [Where Were You When the Dragon Healed?](/r/teslore/5vbq8m)                                                                                                                                                                  | [scourgicus](/u/scourgicus)                     |
+| [Whispers On Two Creations To Ears Young and Shells Soft](/r/teslore/20woh5)                                                                                                                                                 | [turokman2000](/u/turokman2000)                 |
+| [Why the Snakes have no Legs](/r/teslore/7bux9d)                                                                                                                                                                             | [Sawbones194](/u/Sawbones194)                   |
+| [Winterhold Forthrow Headway-Bewrit](/r/teslore/18p3cd)                                                                                                                                                                      | [HaughtyQuail](/u/HaughtyQuail)                 |
+| [Words of the Hidden: Behind the Facade](/r/teslore/5v1384)                                                                                                                                                                  | [OldResdayn](/u/OldResdayn)                     |
+| [Wy-Naught and Her Own Good](/r/teslore/2c8r68)                                                                                                                                                                              | [dinmenel](/u/purveyoropulchritude)             |
+| [Wy-Naught and the Many Mothers](/r/teslore/1ynr0c)                                                                                                                                                                          | [dinmenel](/u/purveyoropulchritude)             |
+| [Wy-Naught and the Sands of Solace](https://dropbox.com/s/syspbo19sno5yu4/WyNaughtandtheSandsofSolace.pdf)                                                                                                                   | [dinmenel](/u/purveyoropulchritude)             |
+| [Your hell is broken](/r/teslore/29br4u)                                                                                                                                                                                     | [mojonation1487](/u/mojonation1487)             |
+| [[Fragment] The Eighth Algorithm](/r/teslore/2nhybp)                                                                                                                                                                         | [mojonation1487](/u/mojonation1487)             |
+| [[Second Seed 6th, 4E 433] Only the Sec'nds and Spaces 'twixt Spaces-](/r/teslore/4i8w9h)                                                                                                                                    | [Serjo_Relas_Andrano](/u/Serjo_Relas_Andrano)   |
+| [[Warden's Archive] Al-Hatoor, Spirit of Meaning](/r/teslore/4ivrdy)                                                                                                                                                         | [Al-Hatoor](/u/Al-Hatoor)                       |
 
 ### Orsimer
 
-**Title**| **Author**
-:-----------|:----------
-[A Breton's Guide to Orc Clans volume I: Wrothgarian Mountains and the Frozen Bay](/r/teslore/comments/42njbh/a_bretons_guide_to_orc_clans_volume_i_wrothgarian/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[A Clan Orc's Thoughts on the Bretons and the Daggerfall Covenant](/r/teslore/comments/51gxi2/a_clan_orcs_thoughts_on_the_bretons_and_the/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[A Concise Report on the Various Types of Mer, Chapter V](/r/teslore/comments/4ne4nn/a_concise_report_on_the_various_types_of_mer/)|[BrynjarIsenbana](/u/BrynjarIsenbana)
-[An Archaeologist's Guide to Orcish Tombs](/r/teslore/comments/2sjj7e/an_archaeologists_guide_to_orcish_tombs/)|[ZizZizZiz](/u/ZizZizZiz)
-[An Introductory Report on the Orcish Language](/r/teslore/comments/2052ht/an_introductory_report_on_the_orcish_language/)|[myrrlyn](/u/myrrlyn)
-[An orc among philosophers](/r/teslore/comments/4xsvan/apokrypha_an_orc_among_philosophers/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[A Wood Orc's Notes on Falinesti](/r/teslore/comments/4lf5zz/a_wood_orcs_notes_on_falinesti/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Birth of an Orc](/r/teslore/comments/4ijuj2/apocrypha_birth_of_an_orc/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[The Birth of Savages](/r/teslore/comments/5mommo/the_birth_of_savages/)|[myrrlyn](/u/myrrlyn)
-[The Black Horse Courier: Legions of Orsinium March on Wayrest](/r/teslore/comments/2gvpfq/the_black_horse_courier_legions_of_orsinium_march/)|[Blackfyre87](/u/Blackfyre87)
-[The Blessed Crucible, a History of Fire and Blood](/r/teslore/comments/52y7in/the_blessed_crucible_a_history_of_fire_and_blood/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Breton Head in Breton Bed, an Orcish Poem](/r/teslore/comments/5pj31s/breton_head_in_breton_bed_an_orcish_poem/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Bys Oridun - The language of the Wood Orcs](/r/teslore/comments/3z5rqk/b%C8%B3s_orid%C5%ABn_the_language_of_the_wood_orcs/)|[ShotgunSeat](/u/ShotgunSeat)
-[Conjecture on the Codes of Malacath](/r/teslore/comments/15j34k/conjecture_on_the_codes_of_malacath/)|[myrrlyn](/u/myrrlyn)
-[Cities of Tamriel: Orsinium](/r/teslore/comments/1uybhq/cities_of_tamriel_orsinium/)|[myrrlyn](/u/myrrlyn)
-[Dancing in Orsinium](/r/teslore/comments/2xa4c8/dancing_in_orsinium/)|[gro-Muluk](/u/gro-Muluk)
-[The Definitive Dwarf-Orc Theory, Part II: Two Creations and the Dragon God](/r/teslore/comments/2cidln/the_definitive_dwarforc_theory_part_ii_two/)|[turokman2000](/u/turokman2000)
-[The Disappearance of the Orcs, Part One](/r/teslore/comments/1z724o/the_disappearance_of_the_orcs_part_one/)|[Lord_Hoot](/u/Lord_Hoot)
-[The Disappearance of the Orcs, Part Two](/r/teslore/comments/1z9vem/the_disappearance_of_the_orcs_part_two/)|[Lord_Hoot](/u/Lord_Hoot)
-[The Disappearance of the Orcs, Part Three](/r/teslore/comments/1zjsyy/the_disappearance_of_the_orcs_part_three/)|[Lord_Hoot](/u/Lord_Hoot)
-[Exodus](/r/teslore/comments/3bh8oi/exodus/)|[WodinazDeKoos](/u/WodinazDeKoos)
-[The Forbidden Theory: The Definitive Dwarf-Orc Argument Part I - Xarxinimorcay](/r/teslore/comments/2ch4qg/the_forbidden_theory_the_definitive_dwarforc/)|[turokman2000](/u/turokman2000)
-[The Forbidden Theory: The Definitive Dwarf-Orc Argument Part III - Divergence and Convergence](/r/teslore/comments/2ck8jr/the_forbidden_theory_the_definitive_dwarforc/)|[turokman2000](/u/turokman2000)
-[The Forbidden Theory: The Definitive Dwarf-Orc Argument SUMMARIZED](/r/teslore/comments/2cub2s/the_forbidden_theory_the_definitive_dwarforc/)|[turokman2000](/u/turokman2000)
-[The Forbidden Theory's Conclusion: Dumalacath the Betrayed. Part A](/r/teslore/comments/2cpngp/the_forbidden_theorys_conclusion_dumalacath_the/)|[turokman2000](/u/turokman2000)
-[The Forbidden Theory's Conclusion: Dumalacath the Betrayed Part B](/r/teslore/comments/2cpoke/the_forbidden_theorys_conclusion_dumalacath_the/)|[turokman2000](/u/turokman2000)
-[The Forbidden Theory's Conclusion: Dumalacath the Betrayed Part C](/r/teslore/comments/2cppo4/the_forbidden_theorys_conclusion_dumalacath_the/)|[turokman2000](/u/turokman2000)
-[The History of Hygiene in Tamriel, vol. III](/r/teslore/comments/1vbtq9/the_history_of_hygiene_in_tamriel_vol_iii/)|[Sythirius](/u/Sythirius)
-[Just Because They Don't Want You, It Doesn't Mean We Do](/r/teslore/comments/36ogvz/just_because_they_dont_want_you_it_doesnt_mean_we/)|[elderscroll_dot_pdf](/u/elderscroll_dot_pdf)
-[The legendary Speak-Singin of Magrul gro-Gorgan](/r/teslore/comments/4lfobb/the_legendary_speaksingin_of_magrul_grogorgan/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[Mortal](/r/teslore/comments/1u4b55/mortal/)|[myrrlyn](/u/myrrlyn)
-[Oath of the Faithful Orcs](/r/teslore/comments/4smy9m/oath_of_the_faithful_orcs/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[On Music in Tamriel: Orsimer](/r/teslore/comments/5xa5ko/on_music_in_tamriel_orsimer/)|[ElderlyOrphan](/u/ElderlyOrphan)
-[On Orcish Casual-wear](/r/teslore/comments/2x4yyw/on_orcish_casualwear/)|[gro-Muluk](/u/gro-Muluk)
-[On Orcish Dining](/r/teslore/comments/3g05rk/on_orcish_dining/)|[gro-Muluk](/u/gro-Muluk)
-[The Orcish Parables of Cartography, Vol. 1](/r/teslore/comments/433jpq/the_orcish_parables_of_cartography_vol_1/)|[MVXre5ajjYP](/u/MVXre5ajjYP)
-[The Orcs of Skyrim, Vol. 1](/r/teslore/comments/5v0c96/the_orcs_of_skyrim_vol_1/)|[Black_Eagle78](/u/Black_Eagle78)
-[The Orcs of Skyrim, Vol. 2](/r/teslore/comments/5v0d0c/the_orcs_of_skyrim_vol_2/)|[Black_Eagle78](/u/Black_Eagle78)
-[Orsimer beliefs, culture, and their homeland Orsinium](/r/teslore/comments/14k7ex/orismer_orc_beliefs_culture_and_their_homeland/)|[A_Generous_Upvote](/u/A_Generous_Upvote)
-[Orsimer C0DA pt. 1](/r/teslore/comments/3wak10/orsimer_c0da_pt_1/)|[Cachaemic_Calix](/u/Cachaemic_Calix)
-[Orsimer C0DA pt. II](/r/teslore/comments/3wcq7l/orsimer_c0da_pt_ii/)|[Cachaemic_Calix](/u/Cachaemic_Calix)
-[The orsimerische Tonal Music](/r/teslore/comments/4jlgsz/c0daapokryphathe_orsimerische_tonal_music/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[The orsimeric time-reckoning](/r/teslore/comments/4jhv1e/c0daapokrypha_the_orsimeric_timereckoning/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[Orsinium and the Orcs: After the Warp in the West](/r/teslore/comments/151r8r/orsinium_and_the_orcs_after_the_warp_in_the_west/)|[myrrlyn](/u/myrrlyn)
-[On Martial Importance in Yokudan and Orcish Culture](/r/teslore/comments/1u2exv/on_martial_importance_in_ypkudan_and_orcish/)|[Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)
-[On Orcish Oaths and Magic](/r/teslore/comments/2eukk7/on_orcish_oaths_and_magic/)|[AMFKing](/u/AMFKing)
-[On Orsimeri Family Life](/r/teslore/comments/1mw7f5/on_orsimeri_family_life/)|[myrrlyn](/u/myrrlyn)
-[On The Species Of Tamriel, Volume VI: The Green-skinned Pariahs](/r/teslore/comments/1k5gxi/on_the_species_of_tamriel_volume_vi_the/)|[Hollymarkie](/u/Hollymarkie)
-[Orcish Chevon](/r/teslore/comments/2fivbv/orcish_chevon/)|[tolomer](/u/tolomer)
-[Orcish Colonies of the Iliac Hinterlands](/r/teslore/comments/2gouvd/orcish_colonies_of_the_iliac_hinterlands/)|[myrrlyn](/u/myrrlyn)
-[Orcish Lessons for Children](/r/teslore/comments/2k7uxm/orcish_lessons_for_children/)|[gro-Muluk](/u/gro-Muluk)
-[Orcish Naming Customs](/r/teslore/comments/15xkxu/orcish_naming_customs/)|[myrrlyn](/u/myrrlyn)
-[Orcs who don't care, don't eat cake](/r/teslore/6wotp0/)|[Moss_the_Boar](/u/Moss_the_Boar)
-[The Orsimeric romance](/r/teslore/comments/5fhz04/the_orsimeric_romance/)|[Sawbones194](/u/Sawbones194)
-[The Orsimeric candle tradition part 1](/r/teslore/comments/5fx7c8/the_orsimeric_candle_tradition_part_1/)|[Sawbones194](/u/Sawbones194)
-[The Orsimeric candle tradition part 2](/r/teslore/comments/5g2ph2/the_orsimeric_candle_tradition_part_2/)|[Sawbones194](/u/Sawbones194)
-[The Orsimeric candle tradition part 3](/r/teslore/comments/5g40od/the_orsimeric_candle_tradition_part_3/)|[Sawbones194](/u/Sawbones194)
-[The Ostracized of the Outcasts - the Orcs that wanted to turn into Aldmers](/r/teslore/comments/36m6er/the_ostracized_of_the_outcasts_the_orcs_that/)|[zbzszzzt123](/u/zbzszzzt123)
-[Poetry of the Races, Part I](/r/teslore/comments/1zdxtn/poetry_of_the_races_part_i/)|[wkuechen](/u/wkuechen)
-[The Pre-Orsimeric-Armor](/r/teslore/comments/5fcf7r/the_preorsimericarmor/)|[Sawbones194](/u/Sawbones194)
-[Racial Variations in Torture and Interrogation: Orcs](/r/teslore/comments/4ci04c/racial_variations_in_torture_and_interrogation/)|[Matobar](/u/Matobar)
-[Remember the Last Goltragga](/r/teslore/comments/4sgdbp/remember_the_last_goltragga/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Rite Makes Might](https://reddit.com/r/teslore/comments/5o0any/rite_makes_might/)|[myrrlyn](/u/myrrlyn)
-[The Sow and the Snake](/r/teslore/comments/1buyn1/the_sow_and_the_snake/)|[OPGreenback](/u/OPGreenback)
-[The study of magical implementations within Tamriel's cultures. Volume 1: The Orcs](/r/teslore/comments/2bdpli/the_study_of_magical_implementations_within/)|[rekkt](/u/rekkt)
-[The tiny tales of Nova-Orsinium](/r/teslore/comments/4y56r7/apocrypha_the_tiny_tales_of_novaorsinium/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[Trinimac The Artemad](/r/teslore/comments/24dc63/trinimac_the_artemad/)|[turokman2000](/u/turokman2000)
-[Uzgra's Guide to Wrothgar, Volume III: On Ogres and Ogrim](/r/teslore/comments/3mvf2s/uzgras_guide_to_wrothgar_volume_iii_on_ogres_and/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Weapon Design for the Modern Orc](/r/teslore/comments/5l6pmz/weapon_design_for_the_modern_orc/)|[HamSandLich](/u/HamSandLich)
-["Why Didn't the Orc Cross the Road?"](/r/teslore/comments/56ez7p/why_didnt_the_orc_cross_the_road/)|[myrrlyn](/u/myrrlyn)
-[Why We Hate Orcs](/r/teslore/6i6dm7/)|[EoLong](/u/EoLong)
-[Why We Love Orcs](/r/teslore/6id6jt/)|[EoLong](/u/EoLong)
+| **Title**                                                                                                          | **Author**                                    |
+| :----------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [A Breton's Guide to Orc Clans volume I: Wrothgarian Mountains and the Frozen Bay](/r/teslore/42njbh)              | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [A Clan Orc's Thoughts on the Bretons and the Daggerfall Covenant](/r/teslore/51gxi2)                              | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [A Concise Report on the Various Types of Mer, Chapter V](/r/teslore/4ne4nn)                                       | [BrynjarIsenbana](/u/BrynjarIsenbana)         |
+| [An Archaeologist's Guide to Orcish Tombs](/r/teslore/2sjj7e)                                                      | [ZizZizZiz](/u/ZizZizZiz)                     |
+| [An Introductory Report on the Orcish Language](/r/teslore/2052ht)                                                 | [myrrlyn](/u/myrrlyn)                         |
+| [An orc among philosophers](/r/teslore/4xsvan)                                                                     | [Mathieu-Bellamont](/u/Mathieu-Bellamont)     |
+| [A Wood Orc's Notes on Falinesti](/r/teslore/4lf5zz)                                                               | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [Birth of an Orc](/r/teslore/4ijuj2)                                                                               | [Mathieu-Bellamont](/u/Mathieu-Bellamont)     |
+| [The Birth of Savages](/r/teslore/5mommo)                                                                          | [myrrlyn](/u/myrrlyn)                         |
+| [The Black Horse Courier: Legions of Orsinium March on Wayrest](/r/teslore/2gvpfq)                                 | [Blackfyre87](/u/Blackfyre87)                 |
+| [The Blessed Crucible, a History of Fire and Blood](/r/teslore/52y7in)                                             | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [Breton Head in Breton Bed, an Orcish Poem](/r/teslore/5pj31s)                                                     | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [Bys Oridun - The language of the Wood Orcs](/r/teslore/3z5rqk)                                                    | [ShotgunSeat](/u/ShotgunSeat)                 |
+| [Conjecture on the Codes of Malacath](/r/teslore/15j34k)                                                           | [myrrlyn](/u/myrrlyn)                         |
+| [Cities of Tamriel: Orsinium](/r/teslore/1uybhq)                                                                   | [myrrlyn](/u/myrrlyn)                         |
+| [Dancing in Orsinium](/r/teslore/2xa4c8)                                                                           | [gro-Muluk](/u/gro-Muluk)                     |
+| [The Definitive Dwarf-Orc Theory, Part II: Two Creations and the Dragon God](/r/teslore/2cidln)                    | [turokman2000](/u/turokman2000)               |
+| [The Disappearance of the Orcs, Part One](/r/teslore/1z724o)                                                       | [Lord_Hoot](/u/Lord_Hoot)                     |
+| [The Disappearance of the Orcs, Part Two](/r/teslore/1z9vem)                                                       | [Lord_Hoot](/u/Lord_Hoot)                     |
+| [The Disappearance of the Orcs, Part Three](/r/teslore/1zjsyy)                                                     | [Lord_Hoot](/u/Lord_Hoot)                     |
+| [Exodus](/r/teslore/3bh8oi)                                                                                        | [WodinazDeKoos](/u/WodinazDeKoos)             |
+| [The Forbidden Theory: The Definitive Dwarf-Orc Argument Part I - Xarxinimorcay](/r/teslore/2ch4qg)                | [turokman2000](/u/turokman2000)               |
+| [The Forbidden Theory: The Definitive Dwarf-Orc Argument Part III - Divergence and Convergence](/r/teslore/2ck8jr) | [turokman2000](/u/turokman2000)               |
+| [The Forbidden Theory: The Definitive Dwarf-Orc Argument SUMMARIZED](/r/teslore/2cub2s)                            | [turokman2000](/u/turokman2000)               |
+| [The Forbidden Theory's Conclusion: Dumalacath the Betrayed. Part A](/r/teslore/2cpngp)                            | [turokman2000](/u/turokman2000)               |
+| [The Forbidden Theory's Conclusion: Dumalacath the Betrayed Part B](/r/teslore/2cpoke)                             | [turokman2000](/u/turokman2000)               |
+| [The Forbidden Theory's Conclusion: Dumalacath the Betrayed Part C](/r/teslore/2cppo4)                             | [turokman2000](/u/turokman2000)               |
+| [The History of Hygiene in Tamriel, vol. III](/r/teslore/1vbtq9)                                                   | [Sythirius](/u/Sythirius)                     |
+| [Just Because They Don't Want You, It Doesn't Mean We Do](/r/teslore/36ogvz)                                       | [elderscroll_dot_pdf](/u/elderscroll_dot_pdf) |
+| [The legendary Speak-Singin of Magrul gro-Gorgan](/r/teslore/4lfobb)                                               | [Mathieu-Bellamont](/u/Mathieu-Bellamont)     |
+| [Mortal](/r/teslore/1u4b55)                                                                                        | [myrrlyn](/u/myrrlyn)                         |
+| [Oath of the Faithful Orcs](/r/teslore/4smy9m)                                                                     | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [On Music in Tamriel: Orsimer](/r/teslore/5xa5ko)                                                                  | [ElderlyOrphan](/u/ElderlyOrphan)             |
+| [On Orcish Casual-wear](/r/teslore/2x4yyw)                                                                         | [gro-Muluk](/u/gro-Muluk)                     |
+| [On Orcish Dining](/r/teslore/3g05rk)                                                                              | [gro-Muluk](/u/gro-Muluk)                     |
+| [The Orcish Parables of Cartography, Vol. 1](/r/teslore/433jpq)                                                    | [MVXre5ajjYP](/u/MVXre5ajjYP)                 |
+| [The Orcs of Skyrim, Vol. 1](/r/teslore/5v0c96)                                                                    | [Black_Eagle78](/u/Black_Eagle78)             |
+| [The Orcs of Skyrim, Vol. 2](/r/teslore/5v0d0c)                                                                    | [Black_Eagle78](/u/Black_Eagle78)             |
+| [Orsimer beliefs, culture, and their homeland Orsinium](/r/teslore/14k7ex)                                         | [A_Generous_Upvote](/u/A_Generous_Upvote)     |
+| [Orsimer C0DA pt. 1](/r/teslore/3wak10)                                                                            | [Cachaemic_Calix](/u/Cachaemic_Calix)         |
+| [Orsimer C0DA pt. II](/r/teslore/3wcq7l)                                                                           | [Cachaemic_Calix](/u/Cachaemic_Calix)         |
+| [The orsimerische Tonal Music](/r/teslore/4jlgsz)                                                                  | [Mathieu-Bellamont](/u/Mathieu-Bellamont)     |
+| [The orsimeric time-reckoning](/r/teslore/4jhv1e)                                                                  | [Mathieu-Bellamont](/u/Mathieu-Bellamont)     |
+| [Orsinium and the Orcs: After the Warp in the West](/r/teslore/151r8r)                                             | [myrrlyn](/u/myrrlyn)                         |
+| [On Martial Importance in Yokudan and Orcish Culture](/r/teslore/1u2exv)                                           | [Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)       |
+| [On Orcish Oaths and Magic](/r/teslore/2eukk7)                                                                     | [AMFKing](/u/AMFKing)                         |
+| [On Orsimeri Family Life](/r/teslore/1mw7f5)                                                                       | [myrrlyn](/u/myrrlyn)                         |
+| [On The Species Of Tamriel, Volume VI: The Green-skinned Pariahs](/r/teslore/1k5gxi)                               | [Hollymarkie](/u/Hollymarkie)                 |
+| [Orcish Chevon](/r/teslore/2fivbv)                                                                                 | [tolomer](/u/tolomer)                         |
+| [Orcish Colonies of the Iliac Hinterlands](/r/teslore/2gouvd)                                                      | [myrrlyn](/u/myrrlyn)                         |
+| [Orcish Lessons for Children](/r/teslore/2k7uxm)                                                                   | [gro-Muluk](/u/gro-Muluk)                     |
+| [Orcish Naming Customs](/r/teslore/15xkxu)                                                                         | [myrrlyn](/u/myrrlyn)                         |
+| [Orcs who don't care, don't eat cake](/r/teslore/6wotp0/)                                                          | [Moss_the_Boar](/u/Moss_the_Boar)             |
+| [The Orsimeric romance](/r/teslore/5fhz04)                                                                         | [Sawbones194](/u/Sawbones194)                 |
+| [The Orsimeric candle tradition part 1](/r/teslore/5fx7c8)                                                         | [Sawbones194](/u/Sawbones194)                 |
+| [The Orsimeric candle tradition part 2](/r/teslore/5g2ph2)                                                         | [Sawbones194](/u/Sawbones194)                 |
+| [The Orsimeric candle tradition part 3](/r/teslore/5g40od)                                                         | [Sawbones194](/u/Sawbones194)                 |
+| [The Ostracized of the Outcasts - the Orcs that wanted to turn into Aldmers](/r/teslore/36m6er)                    | [zbzszzzt123](/u/zbzszzzt123)                 |
+| [Poetry of the Races, Part I](/r/teslore/1zdxtn)                                                                   | [wkuechen](/u/wkuechen)                       |
+| [The Pre-Orsimeric-Armor](/r/teslore/5fcf7r)                                                                       | [Sawbones194](/u/Sawbones194)                 |
+| [Racial Variations in Torture and Interrogation: Orcs](/r/teslore/4ci04c)                                          | [Matobar](/u/Matobar)                         |
+| [Remember the Last Goltragga](/r/teslore/4sgdbp)                                                                   | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [Rite Makes Might](/r/teslore/5o0any)                                                                              | [myrrlyn](/u/myrrlyn)                         |
+| [The Sow and the Snake](/r/teslore/1buyn1)                                                                         | [OPGreenback](/u/OPGreenback)                 |
+| [The study of magical implementations within Tamriel's cultures. Volume 1: The Orcs](/r/teslore/2bdpli)            | [rekkt](/u/rekkt)                             |
+| [The tiny tales of Nova-Orsinium](/r/teslore/4y56r7)                                                               | [Mathieu-Bellamont](/u/Mathieu-Bellamont)     |
+| [Trinimac The Artemad](/r/teslore/24dc63)                                                                          | [turokman2000](/u/turokman2000)               |
+| [Uzgra's Guide to Wrothgar, Volume III: On Ogres and Ogrim](/r/teslore/3mvf2s)                                     | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [Weapon Design for the Modern Orc](/r/teslore/5l6pmz)                                                              | [HamSandLich](/u/HamSandLich)                 |
+| ["Why Didn't the Orc Cross the Road?"](/r/teslore/56ez7p)                                                          | [myrrlyn](/u/myrrlyn)                         |
+| [Why We Hate Orcs](/r/teslore/6i6dm7/)                                                                             | [EoLong](/u/EoLong)                           |
+| [Why We Love Orcs](/r/teslore/6id6jt/)                                                                             | [EoLong](/u/EoLong)                           |
 
 ### Orsinium
 
-**Title**| **Author**
-:-----------|:----------
-[Cities of Tamriel: Orsinium](/r/teslore/comments/1uybhq/cities_of_tamriel_orsinium/)|[myrrlyn](/u/myrrlyn)
-[Clan Drad aka The New Orsinium](/r/teslore/6mqlg8/)|[ScionOfDrad](/u/ScionOfDrad)
-[Conjecture on the Codes of Malacath](/r/teslore/comments/15j34k/conjecture_on_the_codes_of_malacath/)|[myrrlyn](/u/myrrlyn)
-[The First Words of Oztrakos](/r/teslore/comments/2ni654/the_first_words_of_oztrakos/)|[myrrlyn](/u/myrrlyn)
-[The Second Words of Oztrakos](/r/teslore/comments/2nlb35/the_second_words_of_oztrakos/)|[myrrlyn](/u/myrrlyn)
-[The Third Words of Oztrakos](/r/teslore/comments/2nptag/the_third_words_of_oztrakos/)|[myrrlyn](/u/myrrlyn)
-[Orsimer beliefs, culture, and their homeland Orsinium](/r/teslore/comments/14k7ex/orismer_orc_beliefs_culture_and_their_homeland/)|[A_Generous_Upvote](/u/A_Generous_Upvote)
-[Orsinium and the Orcs: After the Warp in the West](/r/teslore/comments/151r8r/orsinium_and_the_orcs_after_the_warp_in_the_west/)|[myrrlyn](/u/myrrlyn)
-[On Orsimeri Family Life](/r/teslore/comments/1mw7f5/on_orsimeri_family_life/)|[myrrlyn](/u/myrrlyn)
-[On The Species Of Tamriel, Volume VI: The Green-skinned Pariahs](/r/teslore/comments/1k5gxi/on_the_species_of_tamriel_volume_vi_the/)|[Hollymarkie](/u/Hollymarkie)
-[Orcish University Drop-Out II](/r/teslore/comments/2px97t/orcish_university_dropout_ii/)|[gro-Muluk](/u/gro-Muluk)
-[People of Tamriel: Gortwog gro-Nagorm](/r/teslore/comments/2gcrd1/people_of_tamriel_gortwog_gronagorm/)|[FelineErotica](/u/FelineErotica)
-[Smoking Traditions of Tamriel: Orsinium](/r/teslore/comments/2g927i/smoking_traditions_of_tamriel_orsinium/)|[OrdoCorvus](/u/OrdoCorvus)
-[Words of Oztrakos vol 1](/r/teslore/comments/2ni654/the_first_words_of_oztrakos/)|[myrrlyn](/u/myrrlyn)
-[Words of Oztrakos vol 2](/r/teslore/comments/2nlb35/the_second_words_of_oztrakos/)|[myrrlyn](/u/myrrlyn)
-[Words of Oztrakos vol 3](/r/teslore/comments/2nptag/the_third_words_of_oztrakos/)|[myrrlyn](/u/myrrlyn)
+| **Title**                                                                            | **Author**                                |
+| :----------------------------------------------------------------------------------- | :---------------------------------------- |
+| [Cities of Tamriel: Orsinium](/r/teslore/1uybhq)                                     | [myrrlyn](/u/myrrlyn)                     |
+| [Clan Drad aka The New Orsinium](/r/teslore/6mqlg8/)                                 | [ScionOfDrad](/u/ScionOfDrad)             |
+| [Conjecture on the Codes of Malacath](/r/teslore/15j34k)                             | [myrrlyn](/u/myrrlyn)                     |
+| [The First Words of Oztrakos](/r/teslore/2ni654)                                     | [myrrlyn](/u/myrrlyn)                     |
+| [The Second Words of Oztrakos](/r/teslore/2nlb35)                                    | [myrrlyn](/u/myrrlyn)                     |
+| [The Third Words of Oztrakos](/r/teslore/2nptag)                                     | [myrrlyn](/u/myrrlyn)                     |
+| [Orsimer beliefs, culture, and their homeland Orsinium](/r/teslore/14k7ex)           | [A_Generous_Upvote](/u/A_Generous_Upvote) |
+| [Orsinium and the Orcs: After the Warp in the West](/r/teslore/151r8r)               | [myrrlyn](/u/myrrlyn)                     |
+| [On Orsimeri Family Life](/r/teslore/1mw7f5)                                         | [myrrlyn](/u/myrrlyn)                     |
+| [On The Species Of Tamriel, Volume VI: The Green-skinned Pariahs](/r/teslore/1k5gxi) | [Hollymarkie](/u/Hollymarkie)             |
+| [Orcish University Drop-Out II](/r/teslore/2px97t)                                   | [gro-Muluk](/u/gro-Muluk)                 |
+| [People of Tamriel: Gortwog gro-Nagorm](/r/teslore/2gcrd1)                           | [FelineErotica](/u/FelineErotica)         |
+| [Smoking Traditions of Tamriel: Orsinium](/r/teslore/2g927i)                         | [OrdoCorvus](/u/OrdoCorvus)               |
+| [Words of Oztrakos vol 1](/r/teslore/2ni654)                                         | [myrrlyn](/u/myrrlyn)                     |
+| [Words of Oztrakos vol 2](/r/teslore/2nlb35)                                         | [myrrlyn](/u/myrrlyn)                     |
+| [Words of Oztrakos vol 3](/r/teslore/2nptag)                                         | [myrrlyn](/u/myrrlyn)                     |
 
 ## P
 
 ### Paarthunax
 
-**Title**| **Author**
-:-----------|:----------
-[Rotmulaag Meditations with Paarthurnax: Gaan](/r/teslore/comments/2r11gh/rotmulaag_meditations_with_paarthurnax_gaan/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Gol](/r/teslore/comments/2rvy46/rotmulaag_meditations_with_paarthurnax_gol/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Laas](/r/teslore/comments/2p0hmp/rotmulaag_meditations_with_paarthurnax_laas/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Lok](/r/teslore/comments/2p3roh/rotmulaag_meditations_with_paarthurnax_lok/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Mid](/r/teslore/comments/2rfd5p/rotmulaag_meditations_with_paarthurnax_mid/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Mul](/r/teslore/comments/2rrpjv/rotmulaag_meditations_with_paarthurnax_mul/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Raan](/r/teslore/comments/2owhcx/rotmulaag_meditations_with_paarthurnax_raan/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Strun](/r/teslore/comments/2q85tc/rotmulaag_meditations_with_paarthurnax_strun/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Tiid](/r/teslore/comments/2q4cq4/rotmulaag_meditations_with_paarthurnax_tiid/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Ven](/r/teslore/comments/2ro9eh/rotmulaag_meditations_with_paarthurnax_ven/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Wuld](/r/teslore/comments/2qy0xs/rotmulaag_meditations_with_paarthurnax_wuld/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Zul](/r/teslore/comments/2qr6l7/rotmulaag_meditations_with_paarthurnax_zul/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Zun](/r/teslore/comments/2p6e4n/rotmulaag_meditations_with_paarthurnax_zun/)|[ddaybones](/u/ddaybones)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
+| **Title**                                                          | **Author**                    |
+| :----------------------------------------------------------------- | :---------------------------- |
+| [Rotmulaag Meditations with Paarthurnax: Gaan](/r/teslore/2r11gh)  | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Gol](/r/teslore/2rvy46)   | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Laas](/r/teslore/2p0hmp)  | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Lok](/r/teslore/2p3roh)   | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Mid](/r/teslore/2rfd5p)   | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Mul](/r/teslore/2rrpjv)   | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Raan](/r/teslore/2owhcx)  | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Strun](/r/teslore/2q85tc) | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Tiid](/r/teslore/2q4cq4)  | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Ven](/r/teslore/2ro9eh)   | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Wuld](/r/teslore/2qy0xs)  | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Zul](/r/teslore/2qr6l7)   | [ddaybones](/u/ddaybones)     |
+| [Rotmulaag Meditations with Paarthurnax: Zun](/r/teslore/2p6e4n)   | [ddaybones](/u/ddaybones)     |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                  | [Mr_Flippers](/u/Mr_Flippers) |
 
 ### Pelinal
 
-**Title**| **Author**
-:-----------|:----------
-[About "Pelinal Reborn"](/r/teslore/comments/53h3bl/about_pelinal_reborn/)|[docclox](/u/docclox)
-[Analysing the Song of Pelinal, v1: On His Name](/r/teslore/comments/34u6xg/analysing_the_song_of_pelinal_v1_on_his_name/)|[Hollymarkie](/u/Hollymarkie)
-[Analysing the Song of Pelinal, v2: On his Coming](/r/teslore/comments/3erris/analysing_the_song_of_pelinal_v2_on_his_coming/)|[Hollymarkie](/u/Hollymarkie)
-[Analysing the Song of Pelinal, v3: On His Enemies](/r/teslore/comments/3es16a/analysing_the_song_of_pelinal_v3_on_his_enemies/)|[Hollymarkie](/u/Hollymarkie)
-[Analysing the Song of Pelinal, v4: On His Deeds](/r/teslore/comments/3f6hhh/analysing_the_song_of_pelinal_v4_on_his_deeds/)|[Hollymarkie](/u/Hollymarkie)
-[Analysing the Song of Pelinal, v5: On His Love of Morihaus](/r/teslore/comments/3f7gii/analysing_the_song_of_pelinal_v5_on_his_love_of/)|[Hollymarkie](/u/Hollymarkie)
-[Analysing the Song of Pelinal, v6: On His Madness](/r/teslore/comments/3fag88/analysing_the_song_of_pelinal_v6_on_his_madness/)|[Hollymarkie](/u/Hollymarkie)
-[Analysing the Song of Pelinal, v7: On His Battle with Umaril and His Dismemberment](/r/teslore/comments/3fb0pb/analysing_the_song_of_pelinal_v7_on_his_battle/)|[Hollymarkie](/u/Hollymarkie)
-[Analysing the Song of Pelinal, v8: On His Revelation at the Death of the Al-Esh](/r/teslore/comments/3fenk1/analysing_the_song_of_pelinal_v8_on_his/)|[Hollymarkie](/u/Hollymarkie)
-[Analysing the Song of Pelinal, Bonus: the Adabal-a](/r/teslore/comments/3ff1cz/analysing_the_song_of_pelinal_bonus_the_adabala/)|[Hollymarkie](/u/Hollymarkie)
-[An Exhaustive Compilation and Analysis of all-known information regarding Pelinal Whitestrake](/r/teslore/comments/4rwnqa/an_exhaustive_compilation_and_analysis_of/?st=iqgwkbtl&sh=481d9de0)|[womack90](/u/womack90)
-[Eplear and Pelinal](/r/teslore/comments/1en2km/eplear_and_pelinal/)|[lebiro](/u/lebiro)
-[The Library of Dust: "Conversations with the Heart of Lorkhan" by Pelinal Whitestrake](/r/teslore/comments/2nyckg/the_library_of_dust_conversations_with_the_heart/)|[RottenDeadite](/u/RottenDeadite)
-[Moon Meeting with Pelinal Whitestrake](/r/teslore/comments/1n8g2a/moon_meeting_with_pelinal_whitestrake/)|[Mr_Flippers](/u/Mr_Flippers)
-[Pelinal is the Godhead](/r/teslore/comments/60gi46/)|[Gogira_Matsukaze](/u/Gogira_Matsukaze)
-[Root Meditations With Pelinal Whitestrake](/r/teslore/comments/1ruu93/root_meditations_with_pelinal_whitestrake/)|[IceFireWarden](/u/IceFireWarden)
-[Words in Death to Pelinal Whitestrake](/r/teslore/comments/2aqwu0/words_in_death_to_pelinal_whitestrake/)|[Aelfgyve](/u/Aelfgyve)
+| **Title**                                                                                                          | **Author**                              |
+| :----------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| [About "Pelinal Reborn"](/r/teslore/53h3bl)                                                                        | [docclox](/u/docclox)                   |
+| [Analysing the Song of Pelinal, v1: On His Name](/r/teslore/34u6xg)                                                | [Hollymarkie](/u/Hollymarkie)           |
+| [Analysing the Song of Pelinal, v2: On his Coming](/r/teslore/3erris)                                              | [Hollymarkie](/u/Hollymarkie)           |
+| [Analysing the Song of Pelinal, v3: On His Enemies](/r/teslore/3es16a)                                             | [Hollymarkie](/u/Hollymarkie)           |
+| [Analysing the Song of Pelinal, v4: On His Deeds](/r/teslore/3f6hhh)                                               | [Hollymarkie](/u/Hollymarkie)           |
+| [Analysing the Song of Pelinal, v5: On His Love of Morihaus](/r/teslore/3f7gii)                                    | [Hollymarkie](/u/Hollymarkie)           |
+| [Analysing the Song of Pelinal, v6: On His Madness](/r/teslore/3fag88)                                             | [Hollymarkie](/u/Hollymarkie)           |
+| [Analysing the Song of Pelinal, v7: On His Battle with Umaril and His Dismemberment](/r/teslore/3fb0pb)            | [Hollymarkie](/u/Hollymarkie)           |
+| [Analysing the Song of Pelinal, v8: On His Revelation at the Death of the Al-Esh](/r/teslore/3fenk1)               | [Hollymarkie](/u/Hollymarkie)           |
+| [Analysing the Song of Pelinal, Bonus: the Adabal-a](/r/teslore/3ff1cz)                                            | [Hollymarkie](/u/Hollymarkie)           |
+| [An Exhaustive Compilation and Analysis of all-known information regarding Pelinal Whitestrake](/r/teslore/4rwnqa) | [womack90](/u/womack90)                 |
+| [Eplear and Pelinal](/r/teslore/1en2km)                                                                            | [lebiro](/u/lebiro)                     |
+| [The Library of Dust: "Conversations with the Heart of Lorkhan" by Pelinal Whitestrake](/r/teslore/2nyckg)         | [RottenDeadite](/u/RottenDeadite)       |
+| [Moon Meeting with Pelinal Whitestrake](/r/teslore/1n8g2a)                                                         | [Mr_Flippers](/u/Mr_Flippers)           |
+| [Pelinal is the Godhead](/r/teslore/60gi46)                                                                        | [Gogira_Matsukaze](/u/Gogira_Matsukaze) |
+| [Root Meditations With Pelinal Whitestrake](/r/teslore/1ruu93)                                                     | [IceFireWarden](/u/IceFireWarden)       |
+| [Words in Death to Pelinal Whitestrake](/r/teslore/2aqwu0)                                                         | [Aelfgyve](/u/Aelfgyve)                 |
 
 ### Peryite
 
-**Title**| **Author**
-:-----------|:----------
-[A Journey Into Oblivion, Volume I: Peryite's Pits by Acarelos Detelories](/r/teslore/comments/12ydi9/a_journey_into_oblivion_volume_i_peryites_pits_by/)|[b-rad-oleary](/u/b-rad-oleary)
-["But Why Worship Peryite?" An Answer](/r/teslore/comments/5zrwpz/)|[Al-Hatoor](/u/Al-Hatoor)
-[Contemplations on the Taskmaster](/r/teslore/comments/5pqhq1/contemplations_on_the_taskmaster/)|[Al-Hatoor](/u/Al-Hatoor)
-[Daedra Dossier: Plague Atronach](/r/teslore/comments/27wetv/daedra_dossier_plague_atronach/)|[IceFireWarden](/u/IceFireWarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh](/r/teslore/comments/1rzoac/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFireWarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (Part II)](/r/teslore/comments/1s2rke/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFireWarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (Part III)](/r/teslore/comments/1sjw66/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFireWarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (IV)](/r/teslore/comments/1t8t91/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFireWarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (V)](/r/teslore/comments/1x9ti0/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFirewarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VI)](/r/teslore/comments/1zpyxs/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFirewarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VII)](/r/teslore/comments/1zq0c5/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFirewarden)
-[The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VIII)](/r/teslore/comments/1zq1k3/the_eight_anecdotes_of_perakeluin_the_songs_of/)|[IceFireWarden](/u/IceFirewarden)
-[The Exempla of the Draconis Peryedeythos: Introduction and Exemplum One](/r/teslore/comments/2ggmwf/the_exempla_of_the_draconis_peryedeythos/)|[IceFireWarden](/u/IceFireWarden)
-[Fragmentum Puteus Draconis Pestis](/r/teslore/comments/26pz8u/fragmentum_puteus_draconis_pestis/)|[IceFireWarden](/u/IceFireWarden)
-[Interrogation of an Afflicted](/r/teslore/comments/2i37hq/interrogation_of_an_afflicted/)|[IceFireWarden](/u/IceFireWarden)
-[Loci of The Pits: The Purulent Abyss](/r/teslore/comments/27wdm3/loci_of_the_pits_the_purulent_abyss/)|[IceFireWarden](/u/IceFireWarden)
-[Peryite Is Akatosh, Who Is Aka-Tusk](/r/teslore/comments/1vrcg2/peryite_is_akatosh_who_is_akatusk/)|[IceFireWarden](/u/IceFireWarden)
-[Peryite: The Shadow of Aka](/r/teslore/comments/28wbhd/peryite_the_shadow_of_aka/)|[IceFireWarden](/u/IceFireWarden)
-[The Requisite Book of Daedra, Peryite Section](/r/teslore/comments/5tq6oh/the_requisite_book_of_daedra_peryite_section/)|[Al-Hatoor](/u/Al-Hatoor)
-[Sixteen Accords of Madness: Volume XIII – Peryite’s Tale](/r/teslore/comments/1x9u82/sixteen_accords_of_madness_volume_xiii_peryites/)|[IceFireWarden](/u/IceFireWarden)
-[The Tale of Denstagmer's Ring](/r/teslore/comments/2dk2ky/the_tale_of_denstagmers_ring/)|[IceFireWarden](/u/IceFireWarden)
-[Tasks of Peryite](/r/teslore/comments/27wc3j/tasks_of_peryite/)|[IceFireWarden](/u/IceFireWarden)
-[Vassals of The Pits](/r/teslore/comments/27wigw/vassals_of_the_pits/)|[IceFireWarden](/u/IceFireWarden)
+| **Title**                                                                                           | **Author**                        |
+| :-------------------------------------------------------------------------------------------------- | :-------------------------------- |
+| [A Journey Into Oblivion, Volume I: Peryite's Pits by Acarelos Detelories](/r/teslore/12ydi9)       | [b-rad-oleary](/u/b-rad-oleary)   |
+| ["But Why Worship Peryite?" An Answer](/r/teslore/5zrwpz)                                           | [Al-Hatoor](/u/Al-Hatoor)         |
+| [Contemplations on the Taskmaster](/r/teslore/5pqhq1)                                               | [Al-Hatoor](/u/Al-Hatoor)         |
+| [Daedra Dossier: Plague Atronach](/r/teslore/27wetv)                                                | [IceFireWarden](/u/IceFireWarden) |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh](/r/teslore/1rzoac)            | [IceFireWarden](/u/IceFireWarden) |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (Part II)](/r/teslore/1s2rke)  | [IceFireWarden](/u/IceFireWarden) |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (Part III)](/r/teslore/1sjw66) | [IceFireWarden](/u/IceFireWarden) |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (IV)](/r/teslore/1t8t91)       | [IceFireWarden](/u/IceFireWarden) |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (V)](/r/teslore/1x9ti0)        | [IceFireWarden](/u/IceFirewarden) |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VI)](/r/teslore/1zpyxs)       | [IceFireWarden](/u/IceFirewarden) |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VII)](/r/teslore/1zq0c5)      | [IceFireWarden](/u/IceFirewarden) |
+| [The Eight Anecdotes of Perakeluin: The Songs of Peryite and Akatosh (VIII)](/r/teslore/1zq1k3)     | [IceFireWarden](/u/IceFirewarden) |
+| [The Exempla of the Draconis Peryedeythos: Introduction and Exemplum One](/r/teslore/2ggmwf)        | [IceFireWarden](/u/IceFireWarden) |
+| [Fragmentum Puteus Draconis Pestis](/r/teslore/26pz8u)                                              | [IceFireWarden](/u/IceFireWarden) |
+| [Interrogation of an Afflicted](/r/teslore/2i37hq)                                                  | [IceFireWarden](/u/IceFireWarden) |
+| [Loci of The Pits: The Purulent Abyss](/r/teslore/27wdm3)                                           | [IceFireWarden](/u/IceFireWarden) |
+| [Peryite Is Akatosh, Who Is Aka-Tusk](/r/teslore/1vrcg2)                                            | [IceFireWarden](/u/IceFireWarden) |
+| [Peryite: The Shadow of Aka](/r/teslore/28wbhd)                                                     | [IceFireWarden](/u/IceFireWarden) |
+| [The Requisite Book of Daedra, Peryite Section](/r/teslore/5tq6oh)                                  | [Al-Hatoor](/u/Al-Hatoor)         |
+| [Sixteen Accords of Madness: Volume XIII – Peryite’s Tale](/r/teslore/1x9u82)                       | [IceFireWarden](/u/IceFireWarden) |
+| [The Tale of Denstagmer's Ring](/r/teslore/2dk2ky)                                                  | [IceFireWarden](/u/IceFireWarden) |
+| [Tasks of Peryite](/r/teslore/27wc3j)                                                               | [IceFireWarden](/u/IceFireWarden) |
+| [Vassals of The Pits](/r/teslore/27wigw)                                                            | [IceFireWarden](/u/IceFireWarden) |
 
 ### Phylogeny
 
-**Title**| **Author**
-:-----------|:----------
-[Notes on Racial Phylogeny, Fourteenth Edition: Paternity and Cerumen (Earwax)](/r/teslore/comments/66ta8k/)|[BuckneyBos](/u/BuckneyBos)
+| **Title**                                                                                          | **Author**                  |
+| :------------------------------------------------------------------------------------------------- | :-------------------------- |
+| [Notes on Racial Phylogeny, Fourteenth Edition: Paternity and Cerumen (Earwax)](/r/teslore/66ta8k) | [BuckneyBos](/u/BuckneyBos) |
 
 ### Psychology
 
-**Title**| **Author**
-:-----------|:----------
-[Psychology I: TES meets C.G.Jung](/r/teslore/comments/45ayan/psychology_i_tes_meets_cgjung/)|[OtakuOfMe](/u/OtakuOfMe)
+| **Title**                                             | **Author**                |
+| :---------------------------------------------------- | :------------------------ |
+| [Psychology I: TES meets C.G.Jung](/r/teslore/45ayan) | [OtakuOfMe](/u/OtakuOfMe) |
 
 ### Pyandonea
 
-**Title**| **Author**
-:-----------|:----------
-[A Summary On The More Obscure Races Of Nirn](/r/teslore/comments/1lva4q/a_summary_on_the_more_obscure_races_of_nirn/)|[Hollymarkie](/u/Hollymarkie)
-[Interview with the Third Eltrutkcom](/r/teslore/comments/2t77fn/interview_with_the_third_eltrutkcom/)|[Ushankaclock](/u/Ushankaclock)
-[The island paradise Pyandonea](/r/teslore/6emh0w/)|[Sawbones194](/u/Sawbones194)
-[On Pyandonea, the Faith of the Maormer, and King Orgnum. Penitus Oculatus Report. Part 1](/r/teslore/comments/2lnkob/on_pyandonea_the_faith_of_the_maormer_and_king/)|[BasqueInGlory](/u/BasqueInGlory)
-[Oracle Bone Transcription – Maormeri Text](/r/teslore/comments/174ejg/oracle_bone_transcription_maormeri_text/)|[OPGreenback](/u/OPGreenback)
-[Pyandonea: An Acquired Detailing From the Times of the Sea Wars](/r/teslore/comments/4sfvyk/pyandonea_an_acquired_detailing_from_the_times_of/)|[swedishplayer97](/u/swedishplayer97)
-[Raid on Pyandonea](/r/teslore/comments/170264/raid_on_pyandonea/)|[OPGreenback](/u/OPGreenback)
+| **Title**                                                                                                     | **Author**                            |
+| :------------------------------------------------------------------------------------------------------------ | :------------------------------------ |
+| [A Summary On The More Obscure Races Of Nirn](/r/teslore/1lva4q)                                              | [Hollymarkie](/u/Hollymarkie)         |
+| [Interview with the Third Eltrutkcom](/r/teslore/2t77fn)                                                      | [Ushankaclock](/u/Ushankaclock)       |
+| [The island paradise Pyandonea](/r/teslore/6emh0w/)                                                           | [Sawbones194](/u/Sawbones194)         |
+| [On Pyandonea, the Faith of the Maormer, and King Orgnum. Penitus Oculatus Report. Part 1](/r/teslore/2lnkob) | [BasqueInGlory](/u/BasqueInGlory)     |
+| [Oracle Bone Transcription – Maormeri Text](/r/teslore/174ejg)                                                | [OPGreenback](/u/OPGreenback)         |
+| [Pyandonea: An Acquired Detailing From the Times of the Sea Wars](/r/teslore/4sfvyk)                          | [swedishplayer97](/u/swedishplayer97) |
+| [Raid on Pyandonea](/r/teslore/170264)                                                                        | [OPGreenback](/u/OPGreenback)         |
 
 ## Q
 
@@ -795,1378 +796,1377 @@ _For concerns and queries regarding the Archive, please message **/u/xenoposeido
 
 ### Reachmen
 
-**Title**| **Author**
-:-----------|:----------
-[Accounts on Reach Hedge-Magic Used in Battle](/r/teslore/comments/5wx6oe/accounts_on_reach_hedgemagic_used_in_battle/)|[slovakiin](/u/slovakiin)
-[A different perspective on Arranius Arrius and 'The Bear of Markarth'](/r/teslore/comments/2sa0k5/a_different_perspective_on_arranius_arrius_and/)|[wfftipwff](/u/wfftipwff)
-[An Invocation Against the Witchmen](https://www.reddit.com/r/teslore/comments/5yyktp/an_invocation_against_the_witchmen/)|[HamSandLich](/u/HamSandLich)
-[A Reach Divided](/r/teslore/comments/25qlil/a_reach_divided/)|[Avian81](/u/Avian81)
-[A Reachmen Poem: Poor Civilized Ciorstag!](/r/teslore/6b4jjv/)|[BunburyGrousset](/u/BunburyGrousset)
-[A Short Missive to High King Torygg from the West Reach](/r/teslore/comments/40pdy1/apocrypha_a_short_missive_to_high_king_torygg/)|[Blackcoldren](/u/Blackcoldren)
-[Baptism](/r/teslore/comments/1v386k/baptism/)|[Sythirius](/u/Sythirius)
-[Diary of a Doomed Reachman](https://www.reddit.com/r/teslore/comments/5z7nyu/diary_of_a_doomed_reachman/)|[HamSandLich](/u/HamSandLich)
-[East-Reachian pantheon I made, feed-back wanted](/r/teslore/comments/4ig7o4/eastreachian_pantheon_i_made_feedback_wanted/)|[Blackcoldren](/u/Blackcoldren)
-[The Forsworn Kingdom](/r/teslore/comments/1ue2tt/the_forsworn_kingdom/)|[Avian81](/u/Avian81)
-[The Gods of West Reach](/r/teslore/comments/24b6qz/the_gods_of_west_reach/)|[william_door](/u/william_door)
-[Interview with a Barbarian](/r/teslore/comments/2jrp0u/interview_with_a_barbarian/)|[Cyclenophus](/u/Cyclenophus)
-[Interview with a Farmer](/r/teslore/comments/2kvai4/interview_with_a_farmer/)|[Cyclenophus](/u/Cyclenophus)
-[The Logdjoflaogdreki: Parts I & II](/r/teslore/comments/5bokt0/the_logdjoflaogdreki_parts_i_ii/)|[Al-Hatoor](/u/Al-Hatoor)
-[Madanach's Speech Cerca 4E 176](/r/teslore/comments/4m8ike/madanachs_speech_cerca_4e_176/)|[Jakcobolt](/u/Jakcobolt)
-[Myths of the Eastern Reach](/r/teslore/comments/24c581/myths_of_the_eastern_reach_revised/)|[Sakazwal](/u/Sakazwal)
-[The Nature Of Forsworn Magic](/r/teslore/comments/3glot9/the_nature_of_forsworn_magic/)|[nmd453](/u/nmd453)
-[Proverbs of Tamriel Part 1: A Reachman saying](/r/teslore/comments/465smq/proverbs_of_tamriel_part_1_a_reachman_saying/)|[shivj80](/u/shivj80)
-[The Rape of the Reach, or the Myth of Red-Eagle, chapter I: The Brewing of the South](/r/teslore/comments/27jp6w/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter II: The Kings of the Reach](/r/teslore/comments/27m3uy/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, chapter III: Faolan returns and the armies are seen](/r/teslore/comments/27mzyj/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter IV: Orcí Tells of the Reach](/r/teslore/comments/27p9f0/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter V: Héstram fights the kings](/r/teslore/comments/27ts51/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter VI: The Combat of Héstram and Faolan](/r/teslore/comments/27wjyv/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter VII: Faolan is Healed and Builds his Militia](/r/teslore/comments/27zaae/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter VIII: Faolan meets a Stranger](/r/teslore/comments/28bew7/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie) (1288)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter IX: the Guerilla begins and Faolan fights Lúg](/r/teslore/comments/28elgd/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red Eagle, Chapter X: Orcí and Faolan Do Battle](/r/teslore/comments/28t290/the_rape_of_the_reach_or_the_myth_of_red_eagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter XI: Faolan meets the Hagraven](/r/teslore/comments/29i0p1/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red-Eagle, Chapter XII: The Onslaught](/r/teslore/comments/29nheu/the_rape_of_the_reach_or_the_myth_of_redeagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, Chapter XIII: Faolan's and Orcí's Final Battle](/r/teslore/comments/29z3ym/the_rape_of_the_reach_chapter_xiii_faolans_and/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red Eagle, Chapter XIV: The Last Battle](/r/teslore/comments/2a9ft5/the_rape_of_the_reach_or_the_myth_of_red_eagle/)|[Hollymarkie](/u/Hollymarkie)
-[The Rape of the Reach, or the Myth of Red Eagle, Chapter XV: Eulogies](/r/teslore/comments/2acs07/the_rape_of_the_reach_or_the_myth_of_red_eagle/)|[Hollymarkie](/u/Hollymarkie)
-[Reachman Lecture, no. 1: Diet](/r/teslore/comments/4sc9dx/reachman_lecture_no_1_diet/)|[GawainsNiceHips](/u/GawainsNiceHips)
-[Religion and Faith of the High Rock Reachmen](/r/teslore/comments/4tawki/religion_and_faith_of_the_high_rock_reachmen/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Songs of the Red Eagle (a 4E175 audio memory-logging)](/r/teslore/comments/389jpx/songs_of_the_red_eagle_a_4e175_audio_memorylogging/)|[Rob-the-Bob](/u/Rob-the-Bob)
-[Stories of the Reach, Vol. 1: The Reachgods](/r/teslore/comments/66mdlj/)|
-[Stories of the Reach, Vol. 2: Cailleach Carries the Mountains](/r/teslore/comments/66tejx/)|
-[Survival through Natural Subversion and Dominance: Thoughts on the Ideals of Reachmagic](/r/teslore/comments/2neg8b/survival_through_natural_subversion_and_dominance/)|[FranklyEarnest](/u/FranklyEarnest)
-[Tales of Old Tamriel ##6: The Demon Hestra](/r/teslore/comments/2dfcoc/tales_of_old_tamriel_6_the_demon_hestra/)|[Cyclenophus](/u/Cyclenophus)
-[Tales of Old Tamriel ## 8: Our Lady Hestra](/r/teslore/comments/2ef98v/tales_of_old_tamriel_8_our_lady_hestra/)|[Cyclenophus](/u/Cyclenophus)
-[Tales of the Reachmen: Life and Darkness](/r/teslore/comments/2radc8/tales_of_the_reachmen_life_and_darkness/)|[queenayrenn](/u/queenayrenn)
-[Thalmor Report on the Factions of Skyrim: The Forsworn](/r/teslore/comments/2kxqog/thalmor_report_on_the_factions_of_skyrim_the/)|[ddaybones](/u/ddaybones)
-[Tribes of Tamriel, Volume V: the Reachmen](/r/teslore/comments/2z0q3z/tribes_of_tamriel_volume_v_the_reachmen/)|[Hollymarkie](/u/Hollymarkie)
-[The Various Reachian Name Types](/r/teslore/comments/4ju97k/apocrypha_the_various_reachian_name_types/)|[Blackcoldren](/u/Blackcoldren)
+| **Title**                                                                                                                   | **Author**                                    |
+| :-------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [Accounts on Reach Hedge-Magic Used in Battle](/r/teslore/5wx6oe)                                                           | [slovakiin](/u/slovakiin)                     |
+| [A different perspective on Arranius Arrius and 'The Bear of Markarth'](/r/teslore/2sa0k5)                                  | [wfftipwff](/u/wfftipwff)                     |
+| [An Invocation Against the Witchmen](/r/teslore/5yyktp)                                                                     | [HamSandLich](/u/HamSandLich)                 |
+| [A Reach Divided](/r/teslore/25qlil)                                                                                        | [Avian81](/u/Avian81)                         |
+| [A Reachmen Poem: Poor Civilized Ciorstag!](/r/teslore/6b4jjv/)                                                             | [BunburyGrousset](/u/BunburyGrousset)         |
+| [A Short Missive to High King Torygg from the West Reach](/r/teslore/40pdy1)                                                | [Blackcoldren](/u/Blackcoldren)               |
+| [Baptism](/r/teslore/1v386k)                                                                                                | [Sythirius](/u/Sythirius)                     |
+| [Diary of a Doomed Reachman](/r/teslore/5z7nyu)                                                                             | [HamSandLich](/u/HamSandLich)                 |
+| [East-Reachian pantheon I made, feed-back wanted](/r/teslore/4ig7o4)                                                        | [Blackcoldren](/u/Blackcoldren)               |
+| [The Forsworn Kingdom](/r/teslore/1ue2tt)                                                                                   | [Avian81](/u/Avian81)                         |
+| [The Gods of West Reach](/r/teslore/24b6qz)                                                                                 | [william_door](/u/william_door)               |
+| [Interview with a Barbarian](/r/teslore/2jrp0u)                                                                             | [Cyclenophus](/u/Cyclenophus)                 |
+| [Interview with a Farmer](/r/teslore/2kvai4)                                                                                | [Cyclenophus](/u/Cyclenophus)                 |
+| [The Logdjoflaogdreki: Parts I & II](/r/teslore/5bokt0)                                                                     | [Al-Hatoor](/u/Al-Hatoor)                     |
+| [Madanach's Speech Cerca 4E 176](/r/teslore/4m8ike)                                                                         | [Jakcobolt](/u/Jakcobolt)                     |
+| [Myths of the Eastern Reach](/r/teslore/24c581)                                                                             | [Sakazwal](/u/Sakazwal)                       |
+| [The Nature Of Forsworn Magic](/r/teslore/3glot9)                                                                           | [nmd453](/u/nmd453)                           |
+| [Proverbs of Tamriel Part 1: A Reachman saying](/r/teslore/465smq)                                                          | [shivj80](/u/shivj80)                         |
+| [The Rape of the Reach, or the Myth of Red-Eagle, chapter I: The Brewing of the South](/r/teslore/27jp6w)                   | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter II: The Kings of the Reach](/r/teslore/27m3uy)                    | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, chapter III: Faolan returns and the armies are seen](/r/teslore/27mzyj)   | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter IV: Orcí Tells of the Reach](/r/teslore/27p9f0)                   | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter V: Héstram fights the kings](/r/teslore/27ts51)                   | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter VI: The Combat of Héstram and Faolan](/r/teslore/27wjyv)          | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter VII: Faolan is Healed and Builds his Militia](/r/teslore/27zaae)  | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter VIII: Faolan meets a Stranger](/r/teslore/28bew7)                 | [Hollymarkie](/u/Hollymarkie) (1288)          |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter IX: the Guerilla begins and Faolan fights Lúg](/r/teslore/28elgd) | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red Eagle, Chapter X: Orcí and Faolan Do Battle](/r/teslore/28t290)                  | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter XI: Faolan meets the Hagraven](/r/teslore/29i0p1)                 | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red-Eagle, Chapter XII: The Onslaught](/r/teslore/29nheu)                            | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, Chapter XIII: Faolan's and Orcí's Final Battle](/r/teslore/29z3ym)                                  | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red Eagle, Chapter XIV: The Last Battle](/r/teslore/2a9ft5)                          | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Rape of the Reach, or the Myth of Red Eagle, Chapter XV: Eulogies](/r/teslore/2acs07)                                  | [Hollymarkie](/u/Hollymarkie)                 |
+| [Reachman Lecture, no. 1: Diet](/r/teslore/4sc9dx)                                                                          | [GawainsNiceHips](/u/GawainsNiceHips)         |
+| [Religion and Faith of the High Rock Reachmen](/r/teslore/4tawki)                                                           | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [Songs of the Red Eagle (a 4E175 audio memory-logging)](/r/teslore/389jpx)                                                  | [Rob-the-Bob](/u/Rob-the-Bob)                 |
+| [Stories of the Reach, Vol. 1: The Reachgods](/r/teslore/66mdlj)                                                            |
+| [Stories of the Reach, Vol. 2: Cailleach Carries the Mountains](/r/teslore/66tejx)                                          |
+| [Survival through Natural Subversion and Dominance: Thoughts on the Ideals of Reachmagic](/r/teslore/2neg8b)                | [FranklyEarnest](/u/FranklyEarnest)           |
+| [Tales of Old Tamriel ##6: The Demon Hestra](/r/teslore/2dfcoc)                                                             | [Cyclenophus](/u/Cyclenophus)                 |
+| [Tales of Old Tamriel ## 8: Our Lady Hestra](/r/teslore/2ef98v)                                                             | [Cyclenophus](/u/Cyclenophus)                 |
+| [Tales of the Reachmen: Life and Darkness](/r/teslore/2radc8)                                                               | [queenayrenn](/u/queenayrenn)                 |
+| [Thalmor Report on the Factions of Skyrim: The Forsworn](/r/teslore/2kxqog)                                                 | [ddaybones](/u/ddaybones)                     |
+| [Tribes of Tamriel, Volume V: the Reachmen](/r/teslore/2z0q3z)                                                              | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Various Reachian Name Types](/r/teslore/4ju97k)                                                                        | [Blackcoldren](/u/Blackcoldren)               |
 
 ### Red Mountain
 
-**Title**| **Author**
-:-----------|:----------
-[A Dream of Red Mountain, A Horator Sundered](/r/teslore/comments/4wk0dq/a_dream_of_red_mountain_a_horator_sundered/)|[BuckneyBos](/u/BuckneyBos)
-[A Red Dusk Before Dawn](http://docs.google.com/document/d/1PDrGUCnESi4qoEBVa1MpoGa5JsnnjoXF9zZG57sc3zg/edit)|[kaydet](/u/kaydet)
-[The Doom-Drum and the Lucky Coin](/r/teslore/comments/4x3t7i/the_doomdrum_and_the_lucky_coin/)|[Voryan-who-Dreams](/u/Voryan-who-Dreams)
-[My Love's Return](/r/teslore/comments/5ja4qp/my_loves_return/)|[Poison-Song](/u/Poison-Song)
-[Numidium and the Battle of Red Mountain as a Competitive Reverse Mantling of Creation and Convention](/r/teslore/comments/38073t/numidium_and_the_battle_of_red_mountain_as_a/)|[DaSaw](/u/DaSaw)
-[On Vvardenfell, the Red Year, and the Years After: Volume I](/r/teslore/comments/5wxkgy/on_vvardenfell_the_red_year_and_the_years_after/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[On Vvardenfell, the Red Year, and the Years After: Volume II](/r/teslore/comments/5wyrte/on_vvardenfell_the_red_year_and_the_years_after/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[RASHA GIVER WORDS BIG](/r/teslore/comments/18oouk/rasha_giver_words_big/)|[Mr_Flippers](/u/Mr_Flippers)
-[Scales and Ash: The Argonians at Red Mountain (Part I)](/r/teslore/comments/1sjrla/scales_and_ash_the_argonians_at_red_mountain_part/)|[IceFireWarden](/u/IceFireWarden)
-[Scales and Ash: The Argonians at Red Mountain (Part II)](/r/teslore/comments/1t61sx/scales_and_ash_the_argonians_at_red_mountain_part/)|[IceFireWarden](/u/IceFireWarden)
-[Scales and Ash: The Argonians at Red Mountain (Part III)](/r/teslore/comments/1zmlc0/scales_and_ash_the_argonians_at_red_mountain_part/)|[IceFireWarden](/u/IceFirewarden)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Three Enantiomorphs of Red Mountain](/r/teslore/comments/3m0xeb/the_three_enantiomorphs_of_red_mountain/)|[BlackgrassSilverasp](/u/BlackgrassSilverasp)
-[The Time God Conspiracy](/r/teslore/comments/11iqga/the_time_god_conspiracy/)|[regalnerd](/u/regalnerd)
+| **Title**                                                                                                                 | **Author**                                    |
+| :------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------- |
+| [A Dream of Red Mountain, A Horator Sundered](/r/teslore/4wk0dq)                                                          | [BuckneyBos](/u/BuckneyBos)                   |
+| [A Red Dusk Before Dawn](https://docs.google.com/document/d/1PDrGUCnESi4qoEBVa1MpoGa5JsnnjoXF9zZG57sc3zg/edit)            | [kaydet](/u/kaydet)                           |
+| [The Doom-Drum and the Lucky Coin](/r/teslore/4x3t7i)                                                                     | [Voryan-who-Dreams](/u/Voryan-who-Dreams)     |
+| [My Love's Return](/r/teslore/5ja4qp)                                                                                     | [Poison-Song](/u/Poison-Song)                 |
+| [Numidium and the Battle of Red Mountain as a Competitive Reverse Mantling of Creation and Convention](/r/teslore/38073t) | [DaSaw](/u/DaSaw)                             |
+| [On Vvardenfell, the Red Year, and the Years After: Volume I](/r/teslore/5wxkgy)                                          | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [On Vvardenfell, the Red Year, and the Years After: Volume II](/r/teslore/5wyrte)                                         | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [RASHA GIVER WORDS BIG](/r/teslore/18oouk)                                                                                | [Mr_Flippers](/u/Mr_Flippers)                 |
+| [Scales and Ash: The Argonians at Red Mountain (Part I)](/r/teslore/1sjrla)                                               | [IceFireWarden](/u/IceFireWarden)             |
+| [Scales and Ash: The Argonians at Red Mountain (Part II)](/r/teslore/1t61sx)                                              | [IceFireWarden](/u/IceFireWarden)             |
+| [Scales and Ash: The Argonians at Red Mountain (Part III)](/r/teslore/1zmlc0)                                             | [IceFireWarden](/u/IceFirewarden)             |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                                                         | [Mr_Flippers](/u/Mr_Flippers)                 |
+| [The Three Enantiomorphs of Red Mountain](/r/teslore/3m0xeb)                                                              | [BlackgrassSilverasp](/u/BlackgrassSilverasp) |
+| [The Time God Conspiracy](/r/teslore/11iqga)                                                                              | [regalnerd](/u/regalnerd)                     |
 
 ### Redguards
 
-**Title**| **Author**
-:-----------|:----------
-[A description of Sword Singers](/r/teslore/comments/1n6ncc/a_description_of_the_swordsingers/)|[Hollymarkie](/u/Hollymarkie)
-[A Dunedweller's Account](/r/teslore/comments/25zio3/a_dunedwellers_account/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[A history of Yokudans](/r/teslore/comments/1rs98c/a_history_of_yokudans/)|[Hollymarkie](/u/Hollymarkie)
-[AR1A: A Redguard C0DA](/r/teslore/6wob02/)|[Banu_Hanimasaishi](/u/Banu_Hanimasaishi)
-[A Scaver Gospel, or the Memory of the Pankratosword](/r/teslore/comments/2xnwpc/a_scaver_gospel_or_the_memory_of_the_pankratosword/)|[Aramithius](/u/Aramithius)
-[Battle of the Alik'r Desert](/r/teslore/comments/30evgl/battle_of_the_alikr_desert/)|[ddaybones](/u/ddaybones)
-[Burned Fragment From The Cesparian Annuals](/r/teslore/comments/2p02f7/burned_fragment_from_the_cesparian_annuals/)|[IceFireWarden](/u/IceFireWarden)
-[Casualties of The Great War: Hammerfell](/r/teslore/comments/1v0u5a/casualties_of_the_great_war_hammerfell/)|[Avian81](/u/Avian81)
-[The Chrome Guards, or how the Raga Survived Landfall](/r/teslore/comments/2capx0/the_chrome_guards_or_how_the_raga_survived/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The concept of time in Argonian and Yokudan culture](/r/teslore/comments/1u2cri/the_concept_of_time_in_argonian_and_yokudan/)|[Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)
-[Cultural Diversity in Hammerfell: The Roseguardians](/r/teslore/comments/2b6kuw/cultural_diversity_in_hammerfell_the_roseguardians/)|[fargoniac](/u/fargoniac)
-[Desperate Acts of Yoku and Bosmer and the Unintended Consequences](/r/teslore/comments/39e51z/desperate_acts_of_yoku_and_bosmer_and_the/)|[Mr_Name](/u/Mr_Name)
-[Honoured Ancestors of the Redguards](/r/teslore/comments/57btwq/honoured_ancestors_of_the_redguards/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Hoon Ding's Decree to the Chromeguards](/r/teslore/comments/2ctggk/the_hoon_dings_decree_to_the_chromeguards/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 4: The Redguards](/r/teslore/comments/2hyis3/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Interview with a Master Swordsman](/r/teslore/comments/2i6d4d/interview_with_a_master_swordsman/)|[Cyclenophus](/u/Cyclenophus)
-[Last Wish of a Ra Gada](/r/teslore/comments/4uo18x/last_wish_of_a_ra_gada/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Lesser-Known Peoples of Tamriel IV: The Gohei or Arrow Saints](/r/teslore/comments/26wqlt/lesserknown_peoples_of_tamriel_iv_the_gohei_or/)|[Lord_Hoot](/u/Lord_Hoot)
-[On Martial Importance in Yokudan and Orcish Culture](/r/teslore/comments/1u2exv/on_martial_importance_in_ypkudan_and_orcish/)|[Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)
-[On Nedes and Nords](/r/teslore/comments/194uhp/on_nedes_and_nords/)|[lebiro](/u/lebiro)
-[On The Species Of Tamriel, Volume XIII: The Dark Men of the Desert](/r/teslore/comments/1lt5xf/on_the_species_of_tamriel_volume_xiii_the_dark/)|[Hollymarkie](/u/Hollymarkie)
-[On the Walkabout](/r/teslore/comments/1wehbi/on_the_walkabout/)|[Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)
-[On Venatical Practices in the Empire](/r/teslore/comments/1uahh7/on_venatical_practices_in_the_empire/)|[Sythirius](/u/Sythirius)
-[The Origin of a False Theory](/r/teslore/comments/1tj47l/the_origin_of_a_false_theory/)|[Hollymarkie](/u/Hollymarkie)
-[The Perfect Landing Day Dinner](/r/teslore/comments/2nkw4j/the_perfect_landing_day_dinner/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Pity for the Fallen Daughter](/r/teslore/comments/1ydu2b/pity_for_the_fallen_daughter/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[Practical Applications of Sand Magic - blasting sand and Yoku cannon](/r/teslore/comments/1t9y13/practical_applications_of_sand_magic_blasting/)|[lebiro](/u/lebiro)
-[Redguards & Realistic Social Attitudes Towards Magic](/r/teslore/comments/4e4665/redguards_realistic_social_attitudes_towards_magic/)|[BayonetHipshot](/u/BayonetHipshot)
-[Remember Your Forebears - A Ra Gada Children's Story](/r/teslore/comments/4fc9jd/remember_your_forebears_a_ra_gada_childrens_story/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Role of Sword-Singers in Yokudan Culture](/r/teslore/comments/1zbnnq/the_role_of_swordsingers_in_yokudan_culture/)|[Hollymarkie](/u/Hollymarkie)
-[The Satakal's Wisdom](/r/teslore/comments/552sqd/the_satakals_wisdom/)|[LegateZanUjcic](/u/LegateZanUjcic)
-[The Savior of Hammerfell: The Truth about Yokeda Sayf at-Noor](/r/teslore/comments/61t564/)|[Jimeee](/u/Jimeee)
-[Swords, sands, and stoners: The culture of Hammerfell](/r/teslore/comments/4127cn/swords_sands_and_stoners_the_culture_of_hammerfell/)|[swedishplayer97](/u/swedishplayer97)
-[Tribes of Tamriel, Volume II: the Nomads of the Alik'r](/r/teslore/comments/2c91j8/tribes_of_tamriel_volume_ii_the_nomads_of_the/)|[Hollymarkie](/u/Hollymarkie)
-[What's On The Menu: Vol. 1, Hammerfell](/r/teslore/comments/226h6a/whats_on_the_menu_vol_1_hammerfell/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
+| **Title**                                                                                                            | **Author**                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [A description of Sword Singers](/r/teslore/1n6ncc)                                                                  | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [A Dunedweller's Account](/r/teslore/25zio3)                                                                         | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| [A history of Yokudans](/r/teslore/1rs98c)                                                                           | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [AR1A: A Redguard C0DA](/r/teslore/6wob02/)                                                                          | [Banu_Hanimasaishi](/u/Banu_Hanimasaishi)                                                                                                 |
+| [A Scaver Gospel, or the Memory of the Pankratosword](/r/teslore/2xnwpc)                                             | [Aramithius](/u/Aramithius)                                                                                                               |
+| [Battle of the Alik'r Desert](/r/teslore/30evgl)                                                                     | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Burned Fragment From The Cesparian Annuals](/r/teslore/2p02f7)                                                      | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Casualties of The Great War: Hammerfell](/r/teslore/1v0u5a)                                                         | [Avian81](/u/Avian81)                                                                                                                     |
+| [The Chrome Guards, or how the Raga Survived Landfall](/r/teslore/2capx0)                                            | [Doom-DrivenPoster](/u/Doom-DrivenPoster)                                                                                                 |
+| [The concept of time in Argonian and Yokudan culture](/r/teslore/1u2cri)                                             | [Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)                                                                                                   |
+| [Cultural Diversity in Hammerfell: The Roseguardians](/r/teslore/2b6kuw)                                             | [fargoniac](/u/fargoniac)                                                                                                                 |
+| [Desperate Acts of Yoku and Bosmer and the Unintended Consequences](/r/teslore/39e51z)                               | [Mr_Name](/u/Mr_Name)                                                                                                                     |
+| [Honoured Ancestors of the Redguards](/r/teslore/57btwq)                                                             | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [The Hoon Ding's Decree to the Chromeguards](/r/teslore/2ctggk)                                                      | [Doom-DrivenPoster](/u/Doom-DrivenPoster)                                                                                                 |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 4: The Redguards](/r/teslore/2hyis3)                | [rekkt](/u/rekkt)                                                                                                                         |
+| [Interview with a Master Swordsman](/r/teslore/2i6d4d)                                                               | [Cyclenophus](/u/Cyclenophus)                                                                                                             |
+| [Last Wish of a Ra Gada](/r/teslore/4uo18x)                                                                          | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Lesser-Known Peoples of Tamriel IV: The Gohei or Arrow Saints](/r/teslore/26wqlt)                                   | [Lord_Hoot](/u/Lord_Hoot)                                                                                                                 |
+| [On Martial Importance in Yokudan and Orcish Culture](/r/teslore/1u2exv)                                             | [Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)                                                                                                   |
+| [On Nedes and Nords](/r/teslore/194uhp)                                                                              | [lebiro](/u/lebiro)                                                                                                                       |
+| [On The Species Of Tamriel, Volume XIII: The Dark Men of the Desert](/r/teslore/1lt5xf)                              | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [On the Walkabout](/r/teslore/1wehbi)                                                                                | [Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)                                                                                                   |
+| [On Venatical Practices in the Empire](/r/teslore/1uahh7)                                                            | [Sythirius](/u/Sythirius)                                                                                                                 |
+| [The Origin of a False Theory](/r/teslore/1tj47l)                                                                    | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [The Perfect Landing Day Dinner](/r/teslore/2nkw4j)                                                                  | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| [Pity for the Fallen Daughter](/r/teslore/1ydu2b)                                                                    | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit) | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [Practical Applications of Sand Magic - blasting sand and Yoku cannon](/r/teslore/1t9y13)                            | [lebiro](/u/lebiro)                                                                                                                       |
+| [Redguards & Realistic Social Attitudes Towards Magic](/r/teslore/4e4665)                                            | [BayonetHipshot](/u/BayonetHipshot)                                                                                                       |
+| [Remember Your Forebears - A Ra Gada Children's Story](/r/teslore/4fc9jd)                                            | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [The Role of Sword-Singers in Yokudan Culture](/r/teslore/1zbnnq)                                                    | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [The Satakal's Wisdom](/r/teslore/552sqd)                                                                            | [LegateZanUjcic](/u/LegateZanUjcic)                                                                                                       |
+| [The Savior of Hammerfell: The Truth about Yokeda Sayf at-Noor](/r/teslore/61t564)                                   | [Jimeee](/u/Jimeee)                                                                                                                       |
+| [Swords, sands, and stoners: The culture of Hammerfell](/r/teslore/4127cn)                                           | [swedishplayer97](/u/swedishplayer97)                                                                                                     |
+| [Tribes of Tamriel, Volume II: the Nomads of the Alik'r](/r/teslore/2c91j8)                                          | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [What's On The Menu: Vol. 1, Hammerfell](/r/teslore/226h6a)                                                          | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
 
 ### Religion
 
-**Title**| **Author**
-:-----------|:----------
-['Tenants of the Pursuers of Dibellan Arts' (Divine Cult c. 2E 582)](/r/teslore/comments/2ymcxq/tenants_of_the_pursuers_of_dibellan_arts_divine/)|[Rob-the-Bob](/u/Rob-the-Bob)
-[About Stendarr's Orders - Lore and background of Stendarr's Paladins](/r/teslore/comments/3tg1cs/about_stendarrs_orders_lore_and_background_of/)|[Guerinus](/u/Guerinus)
-[A Dialogue with Stendarr](/r/teslore/comments/4gx87w/a_dialogue_with_stendarr/)|[ixidono](/u/ixidono)
-[A Japanophile's Guide to Nirn](/r/teslore/comments/1wnpg3/a_japanophiles_guide_to_nirn/)|[laurelanthalasa](/u/laurelanthalasa)
-[Akel is Akatosh? The Three Become One. Towers](/r/teslore/comments/24jizf/akel_is_akatosh_the_three_become_one_towers/)|[turokman2000](/u/turokman2000)
-[A Kothringi Prayer](/r/teslore/comments/4vgugg/a_kothringi_prayer/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Alkosh, his Children, and Lorkhaj's Tricks](/r/teslore/comments/16jn6k/alkosh_his_children_and_lorkhajs_tricks/)|[Mr_Flippers](/u/Mr_Flippers)
-[Alkosh, The First Cat](/r/teslore/comments/2v7kvw/alkosh_the_first_cat/)|[TuMadreEsMiCorazon](/u/TuMadreEsMiCorazon)
-[Alkosh the unending!](/r/teslore/comments/192aam/alkosh_the_unending/)|[Mr_Flippers](/u/Mr_Flippers)
-[A Look At Echmeri Metaphysics](/r/teslore/comments/2bbl4z/a_look_at_echmeri_metaphysics/)|[IceFireWarden](/u/IceFireWarden)
-[An Alternate view of the Tribunal](/r/teslore/comments/14uixx/an_alternate_view_of_the_tribunal/)|[Strangeloup](/u/Strangeloup)
-[An Analysis of the Words of a Khajiit Clanmother](/r/teslore/comments/2so4sk/an_analysis_of_the_words_of_a_khajiit_clanmother/)|[TuMadreEsMiCorazon](/u/TuMadreEsMiCorazon)
-[Ancestor Moths and the Old Ehlnofey; an analysis of the reliefs in the Hall of Stories](/r/teslore/comments/1q36jw/ancestor_moths_and_the_old_ehlnofey_an_analysis/)|[WilliamtheV](/u/WilliamtheV)
-[Ancient Nord Culture and Religion](/r/teslore/comments/sayyx/ancient_nord_culture_and_religion/)|[lilrhys](/u/lilrhys)
-[An intercepted letter](/r/teslore/comments/1n9jby/an_intercepted_letter/)|[Hollymarkie](/u/Hollymarkie)
-[Annals of the Vanar, Part I](/r/teslore/6chug9/)|[Culey](/u/Culey)
-[A Nordic prayer](/r/teslore/comments/4250fu/a_nordic_prayer/)|[Heliomance](/u/Heliomance)
-[An Overview of Gods and Worship in Echmer Society](/r/teslore/comments/3lhhqo/um_an_overview_of_gods_and_worship_in_echmer/)|[IceFireWarden](/u/IceFireWarden)
-[The Anticipations (heretical version)](/r/teslore/comments/5v1m2r/the_anticipations_heretical_version/)|[Misticsan](/u/Misticsan)
-[An Ykaloni Pantheon](/r/teslore/comments/1xb81u/an_ykaloni_pantheon/)|[NudeProvided](/u/NudeProvided)
-[A Prayer to the Father Dragon](/r/teslore/comments/2v6lkx/a_prayer_to_the_father_dragon/)|[Alveryn](/u/Alveryn)
-[A Priest's old Journal: The Burden of the Empire](/r/teslore/comments/1j44q7/a_priests_old_journal_the_burden_of_the_empire/)|[waldorfwithoutwalnut](/u/waldorfwithoutwalnut)
-[Archaeologists Discover Ancient Religious Text in Skyrim](/r/teslore/comments/62mq7a/)|[BunburyGrousset](/u/BunburyGrousset)
-[A Short Introduction to the Tribunal Temple](/r/teslore/comments/1on7gw/a_short_introduction_to_the_tribunal_temple/)|[Hollymarkie](/u/Hollymarkie)
-[A Story by Clan Mother Ko'zasha (Notes on the Khajiiti interpretation of the god Ius)](/r/teslore/comments/3ifhp1/a_story_by_clan_mother_kozasha_notes_on_the/)|[valzilla2000](/u/valzilla2000)
-[Atlantoa, Yokudan Goddess of Storms, the Deep, and Shipwrecks](/r/teslore/6glai1/)|[Phantasmak](/u/Phantasmak)
-[A treatise on the Talos Cult. 4e198](/r/teslore/comments/w6opa/a_treatise_on_the_talos_cult_4e198/)|[lilrhys](/u/lilrhys)
-[A Troll Creation Myth](/r/teslore/comments/262a1w/a_troll_creation_myth/)|[Sythirius](/u/Sythirius)
-[Barbesaic Ayleids creation myth](/r/teslore/comments/367jb2/barbesaic_ayleids_creation_myth/)|[Ayleidsornothing](/u/Ayleidsornothing)
-[Beware of Oblivion](/r/teslore/comments/5720j5/beware_of_oblivion/)|[caioddit](/u/caioddit)
-[Blessed Servants of the Dark Lord](/r/teslore/comments/4cmg1d/blessed_servants_of_the_dark_lord/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Bormahu Aka-Tusk, father of the Dovah](/r/teslore/comments/urruf/bormahu_akatusk_father_of_the_dovah/)|[lilrhys](/u/lilrhys)
-[Chapels of Cyrodiil](/r/teslore/6j4nlh/)|[Phantasmak](/u/Phantasmak)
-[Commentaries on the Malachite Tablet](/r/teslore/comments/66p2mu/)|[saufall](/u/saufall)
-[Cults Within Nibenese Society](/r/teslore/comments/3w9anx/cults_within_nibenese_society/)|[Zinitrad2](/u/Zinitrad2)
-[Cultural Phenomena of Tamriel: Cyrodiil’s Cults of Shezarr](/r/teslore/comments/33n2n7/cultural_phenomena_of_tamriel_cyrodiils_cults_of/)|[ddaybones](/u/ddaybones)
-[Cultures of Morrowind: The Great Houses (Part 3- Spirituality)](/r/teslore/comments/3hq9sj/cultures_of_morrowind_the_great_houses_part_3/)|[nmd453](/u/nmd453)
-[Daedra Worship Across Tamriel: Peryite](/r/teslore/comments/2ig2gw/daedra_worship_across_tamriel_peryite/)|[IceFireWarden](/u/IceFireWarden)
-[The Dawn awaits you, novitiate: A Sermon for Camoran's Faithful](/r/teslore/comments/6an3vp/)|[Phantasmak](/u/Phantasmak)
-[Dragon Priests as Totemic Representatives](/r/teslore/comments/3m4cdt/dragon_priests_as_totemic_representatives/)|[jadierhetseni](/u/jadierhetseni)
-[Dreamsleeve Transcript: Black Silence and How to Fill it](/r/teslore/comments/383l9z/dreamsleeve_transcript_black_silence_and_how_to/)|[neknotes](/u/neknotes)
-[The Dunmer Mashiach and Judaism](/r/teslore/comments/5e2vox/the_dunmer_mashiach_and_judaism/)|[Sakazwal](/u/Sakazwal)
-[Earth, Water and Wind; Sun, Beast and Hist](/r/teslore/comments/281o51/earth_water_and_wind_sun_beast_and_hist/)|[Mathemagics15](/u/Mathemagics15)
-[East-Reachian pantheon I made, feed-back wanted](/r/teslore/comments/4ig7o4/eastreachian_pantheon_i_made_feedback_wanted/)|[Blackcoldren](/u/Blackcoldren)
-[Ecclesia de Mortalitatis et Aedris - A Short Pamphlet](/r/teslore/comments/2nz8rt/ecclesia_de_mortalitatis_et_aedris_a_short/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Education of a Saint](/r/teslore/comments/5stktg/education_of_a_saint/)|[imgaharambe](/u/imgaharambe)
-[Erwan, Painter, Son of Ernard](/r/teslore/comments/2c61yr/erwan_painter_son_of_ernard/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[The Et'Ada That Could Not Flee](/r/teslore/comments/6278qh/)|[Adlestrop](/u/Adlestrop)
-[Excerpt from Saints of Cyrod by Avidius Pinario](/r/teslore/comments/5xtg4h/excerpt_from_saints_of_cyrod_by_avidius_pinario/)|[Phantasmak](/u/Phantasmak)
-[Father of the Sky](/r/teslore/comments/698on1/)|[Phantasmak](/u/Phantasmak)
-[Fragmented Memory Stone: 2 of the 9 Tales of the Snake that Ate + Intro](/r/teslore/comments/5wse0m/fragmented_memory_stone_2_of_the_9_tales_of_the/)|[Cuhlecain_Sifr](/u/Cuhlecain_Sifr)
-[Fragment of the Gorieda, ##2](/r/teslore/comments/2icn6e/fragment_of_the_gorieda_2/)|[Alveryn](/u/Alveryn)
-[Fresh eyes on the Tsaesci](/r/teslore/comments/1xkl6x/fresh_eyes_on_the_tsaesci/)|[laurelanthalasa](/u/laurelanthalasa)
-[From the Augmented Covenants: The Eight Virtues of the Divines](/r/teslore/comments/4h0t1n/from_the_augmented_covenants_the_eight_virtues_of/)|[Alarialas](/u/Alarialas)
-[From the Forbidden Galonllyfr: On the Cycle of Death and Rebirth](/r/teslore/comments/1y1g65/from_the_forbidden_galonllyfr_on_the_cycle_of/)|[NudeProvided](/u/NudeProvided)
-[From totems to gods, and why Alduin went mad](/r/teslore/comments/42kvpk/from_totems_to_gods_and_why_alduin_went_mad/)|[Heliomance](/u/Heliomance)
-[Further Inquiries into the Skaal Faith: A Letter](/r/teslore/6nvwxt/)|[AsukaRyou](/u/AsukaRyou)
-[Glory to the Grit-Prince!](https://reddit.com/r/teslore/comments/5o1idq/glory_to_the_gritprince/)|[HamSandLich](/u/HamSandLich)
-[The Handbook for Parish Priest of the Nine (4E189 Edition) by Br. Gaile](/r/teslore/comments/5sqcf9/the_handbook_for_parish_priest_of_the_nine_4e189/)|[SpaceJhester](/u/SpaceJhester)
-[Hermeneutical Principles for Allegorical Interpretation of Mythic Texts (Volume 1)](/r/teslore/comments/342dh0/hermeneutical_principles_for_allegorical/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[Hieromonastic Orders of High Rock: Introduction and Contents](/r/teslore/7fli3j)|[Zamanzi](/u/Zamanzi)
-[Hieromonastic Orders of High Rock: Chapter One: The Petrites](/r/teslore/7fnibf)|[Zamanzi](/u/Zamanzi)
-[How the Greedy-Man Broke the Heart of Beasts](/r/teslore/6vrew0/)|[veloticy](/u/veloticy)
-[Hymn to Mora](/r/teslore/7hvigw)|[AsukaRyou](/u/AsukaRyou)
-[Hyu-Ket Creation Myth](/r/teslore/comments/2qeuxo/hyuket_creation_myth/)|[TheDementedManic](/u/TheDementedManic)
-[Imperial Hegemony, part 3/3: Religion](/r/teslore/comments/224xtd/imperial_hegemony_part_33_religion/)|[Hollymarkie](/u/Hollymarkie)
-[In-Depth Collation Between Argonians and Hinduism: Gods, Spirit, and Reality (Part 2)](/r/teslore/comments/23l3r7/indepth_collation_between_argonians_and_hinduism/)|[IceFireWarden](/u/IceFireWarden)
-[Interview with a Seth cultist](/r/teslore/comments/3rsgck/interview_with_a_seth_cultist/)|[twilot_spankle](/u/twilot_spankle)
-[Invocations to the Divines](/r/teslore/comments/4ofsro/invocations_to_the_divines/)|[Kaitousenpai](/u/Kaitousenpai)
-[Jeshi-re](/r/teslore/comments/227tzt/jeshire/)|[Sha-ar_izad](/u/Sha-ar_izad)
-[Kyne and the Wanderer](/r/teslore/comments/4xiqjp/kyne_and_the_wanderer/)|[coopitypootypot](/u/coopitypootypot)
-[Laviagna, the Night Huntress](/r/teslore/comments/2xue8g/laviagna_the_night_huntress/)|[Kurufinve](/u/Kurufinve)
-[Lesser Deities of the Khajiiti Pantheon](/r/teslore/comments/4f045z/lesser_deities_of_the_khajiiti_pantheon/)|[fargoniac](/u/fargoniac)
-[Letter from a Dibellan Initiate](/r/teslore/comments/37atuw/letter_from_a_dibellan_initiate/)|[elderscroll_dot_pdf](/u/elderscroll_dot_pdf)
-[Logic, Reason, and Pragmatism: A Few Thoughts on the Dwemeri Pantheon](/r/teslore/comments/1x6pt4/logic_reason_and_pragmatism_a_few_thoughts_on_the/)|[FranklyEarnest](/u/FranklyEarnest)
-[The Logdjoflaogdreki: Parts I & II](/r/teslore/comments/5bokt0/the_logdjoflaogdreki_parts_i_ii/)|[Al-Hatoor](/u/Al-Hatoor)
-[Maormer: The exiled worshippers of Lorkhan from Aldmeris?](/r/teslore/7gwau3)|[-PELINAL-](/u/-PELINAL-)
-[Monomyth from Lyg: Vermaean, The Maker's Lament](/r/teslore/comments/2a5jb6/monomyth_from_lyg_vermaean_the_makers_lament/)|[mojonation1487](/u/mojonation1487)
-[Mystery Play of Old Ebonheart](/r/teslore/comments/2aw5qz/mystery_play_of_old_ebonheart/)|[TamrielRebuilt](/u/TamrielRebuilt)
-[Myths of the Eastern Reach](/r/teslore/comments/24c581/myths_of_the_eastern_reach_revised/)|[Sakazwal](/u/Sakazwal)
-[Myths over Riften: In The Shadow of the Dragonborn](/r/teslore/comments/23iiro/myths_over_riften_in_the_shadow_of_the_dragonborn/)|[Asotil](/u/Asotil)
-[The Nature of the Celestial Serpent](/r/teslore/comments/4ww5bw/the_nature_of_the_celestial_serpent/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Nord Totems for the Daedra](/r/teslore/comments/5y4z1y/nord_totems_for_the_daedra/)|[Phantasmak](/u/Phantasmak)
-[Numbers](/r/teslore/comments/14hgmx/numbers/)|[RottenDeadite](/u/RottenDeadite)
-[Oath of the Faithful Orcs](/r/teslore/comments/4smy9m/oath_of_the_faithful_orcs/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Ode to the All-Maker](/r/teslore/comments/3z99x8/ode_to_the_allmaker/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Of Massr and Zekkun](/r/teslore/comments/2eipfc/of_massr_and_zekkun/)|[phil_hinds](/u/phil_hinds)
-[On Cyrodilic Religion, Part the First: The Eight Divines](/r/teslore/comments/5uzb4d/on_cyrodilic_religion_part_the_first_the_eight/)|[arl99](/u/arl99)
-[On Cyrodilic Religion, Part the Second: The Alessian Order](/r/teslore/comments/5v1b69/on_cyrodilic_religion_part_the_second_the/)|[arl99](/u/arl99)
-[On the Daedric Worship of the Ashlanders](/r/teslore/7axmm5)|[Kevaar](/u/Kevaar)
-[On The Nature of the Black-Welkin](/r/teslore/comments/31n9d2/um_on_the_nature_of_the_blackwelkin/)|[IceFireWarden](/u/IceFireWarden)
-[On the Origins of the Nordic Totemic Religion](/r/teslore/comments/427npj/on_the_origins_of_the_nordic_totemic_religion/)|[Heliomance](/u/Heliomance)
-[On the Ram of Markarth](/r/teslore/comments/37xu4p/on_the_ram_of_markarth/)|[fabricofspacetime](/u/fabricofspacetime)
-[On The Value of Fun](/r/teslore/comments/1yuss0/on_the_value_of_fun/)|[RideTheLine](/u/RideTheLine)
-[On Trolls: Nights of the Gathrahan](/r/teslore/comments/264ulp/on_trolls_nights_of_the_gathrahan/)|[Sythirius](/u/Sythirius)
-[On Trolls: The Pantheon of the Wagkuni](/r/teslore/comments/261v2i/on_trolls_the_pantheon_of_the_wagkuni/)|[Sythirius](/u/Sythirius)
-[Oracle Bone Transcription – Maormeri Text](/r/teslore/comments/174ejg/oracle_bone_transcription_maormeri_text/)|[OPGreenback](/u/OPGreenback)
-[Partial Interview with Hrahndeyl](/r/teslore/comments/4da590/partial_interview_with_hrahndeyl/)|[IceFireWarden](/u/IceFireWarden)
-[Phallic worship in Dibellan religious practices. Part One](/r/teslore/comments/323oiu/phallic_worship_in_dibellan_religious_practices/)|[Turelie_Sillvari](/u/Turelie_Sillvari)
-[Prayer to Lorkhaj](/r/teslore/comments/4ak3jb/prayer_to_lorkhaj/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Princes of Mundus: Philosophy of the Eight](/r/teslore/comments/44n4gp/princes_of_mundus_philosophy_of_the_eight/)|[OtakuOfMe](/u/OtakuOfMe)
-[The Ravings of Nu-Camoran: Prophet of the Dawn](/r/teslore/comments/6a6bo7/)|[Phantasmak](/u/Phantasmak)
-[Reflections of a Jhunal Devotee, and Guru; Who was a Native Imperial Colovian, and Friend to the Emperor Uriel Septim [Excerpt]](/r/teslore/7cl2eo)|[AsukaRyou](/u/AsukaRyou)
-[Refuting the Resolutes of Stendarr: Exposing the Truth Behind a Misled Religious Order](/r/teslore/comments/3lkwv4/refuting_the_resolutes_of_stendarr_exposing_the/)|[Alveryn](/u/Alveryn)
-[Religion and Faith of the High Rock Reachmen](/r/teslore/comments/4tawki/religion_and_faith_of_the_high_rock_reachmen/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Remanite Sermon from the Interregnum](/r/teslore/comments/4ibvwu/remanite_sermon_from_the_interregnum/)|[Alarialas](/u/Alarialas)
-[Research into Skaal Religion] (/r/teslore/comments/1ofvdq/research_into_skaal_religion/)|[Hollymarkie](/u/Hollymarkie)
-[Rite-In-Detestation-of-TRINIMAC-WHO-IS-MALACATH](/r/teslore/comments/58vm94/riteindetestationoftrinimacwhoismalacath/)|[HamSandLich](/u/HamSandLich)
-[Ruling Kings, and Our Kingdoms: A Foreword](/r/teslore/comments/2e68yk/ruling_kings_and_our_kingdoms_a_foreword/)|[IceFireWarden](/u/IceFireWarden)
-[Ruling Kings, and Our Kingdoms: The First Step, Having True Happiness](/r/teslore/comments/2e69ln/ruling_kings_and_our_kingdoms_the_first_step/)|[IceFireWarden](/u/IceFireWarden)
-[Sanctum Cyrod: a Fragmentary List of the Saints of the Imperial Heartland](/r/teslore/comments/4gd6h5/sanctum_cyrod_a_fragmentary_list_of_the_saints_of/)|[Alarialas](/u/Alarialas)
-[The Satakal's Wisdom](/r/teslore/comments/552sqd/the_satakals_wisdom/)|[LegateZanUjcic](/u/LegateZanUjcic)
-[Scribbles of a Maormeri Zealot](/r/teslore/comments/4av7ht/scribbles_of_a_maormeri_zealot/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Sermons of a breton priest addressing the inner conflict of the empire](/r/teslore/comments/2odebr/sermons_of_a_breton_priest_addressing_the_inner/)|[Thekidwiththedogs](/u/Thekidwiththedogs)
-[The Sermons of Saint Jiub](/r/teslore/comments/5tf7xo/the_sermons_of_saint_jiub/)|[Misticsan](/u/Misticsan)
-[Shor of the Shore: An Interview with Skjornheim Pearl-Eye](/r/teslore/comments/1thw42/shor_of_the_shore_an_interview_with_skjornheim/)|[wkuechen](/u/wkuechen)
-[Sixth House Sermons](/r/teslore/comments/4bwrli/sixth_house_sermons/)|[TheOutOfWorld](/u/TheOutOfWorld)
-[Soldier's Prayer to Perrif](/r/teslore/comments/2c7o07/soldiers_prayer_to_perrif/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Song of the Abyss](/r/teslore/comments/2hs0r1/song_of_the_abyss/)|[ProvinceCyrodiil](/u/ProvinceCyrodiil)
-[Songs of the Return, Volume 38: The Nigh Lost Tale of the Brahtmiir](/r/teslore/comments/1y5dd9/songs_of_the_return_volume_38_the_nigh_lost_tale/)|[IceFireWarden](/u/IceFireWarden)
-[Spirituality of the Roscreans](/r/teslore/comments/2b2lnj/spirituality_of_the_roscreans/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-["The Teachings of Stuhn to Mortals" as told by Aeda Branch-Hand](/r/teslore/comments/5lwjj0/the_teachings_of_stuhn_to_mortals_as_told_by_aeda/)|[BCM_00](/u/BCM_00)
-[TES Comparative Mythology: The Flood Myth](/r/teslore/comments/3qmtw2/tes_comparative_mythology_the_flood_myth/)|[midwinter-sun](/u/midwinter-sun)
-[Thalmor Census-Report On Argonia, Circa 4E 201](/r/teslore/comments/1sjqv6/thalmor_censusreport_on_argonia_circa_4e_201/)|[IceFireWarden](/u/IceFireWarden)
-[The Archive of Thot](/r/teslore/comments/1y1oyr/the_archive_of_thot/)|[XAYAH](/u/XAYAH)
-[The Boiche, a Treatise on the Elves of Valenwood, part I](/r/teslore/comments/17i9cl/the_boiche_a_treatise_on_the_elves_of_valenwood/)|[lebiro](/u/lebiro)
-[The Conundrum of Ninu’yutesaz](/r/teslore/comments/2epxxl/the_conundrum_of_ninuyutesaz/)|[IceFireWarden](/u/IceFireWarden)
-[The Cult of Agamanus](/r/teslore/comments/24gy83/the_cult_of_agamanus/)|[Asotil](/u/Asotil)
-[The Cult of the Fish, Axiom I: We are the End](/r/teslore/comments/2gv7ya/the_cult_of_the_fish_axiom_i_we_are_the_end/)|[CreamWafers](/u/CreamWafers)
-[The Cults of Cyrodill: The Leaf Eaters](/r/teslore/comments/2dc5qi/the_cults_of_cyrodill_the_leaf_eaters/)|[Dreadnautilus](/u/Dreadnautilus)
-[The Divines as Imperial leverage](/r/teslore/comments/4qc9iu/the_divines_as_imperial_leverage/)|[Rajti](/u/Rajti)
-[The Doctrine of the Hawase'zur](/r/teslore/comments/32ahs5/unofficial_um_the_doctrine_of_the_hawasezur/)|[fargoniac](/u/fargoniac)
-[The Dreaming City](/r/teslore/comments/2etj09/the_dreaming_city/)|[IceFireWarden](/u/IceFireWarden)
-[The Dwemer were Primarily not Atheist by Sedave Mora](/r/teslore/comments/3sy387/the_dwemer_were_primarily_not_atheist_by_sedave/)|[twilot_spankle](/u/twilot_spankle)
-[The Dying Words of Prophet Heimskr, Vol. I](/r/teslore/comments/2p5cb6/the_dying_words_of_prophet_heimskr_vol_i/)|[ZizZizZiz](/u/ZizZizZiz)
-[The Eight Stories of Y'ffre and the Eight Promises of the Bosmer](/r/teslore/comments/17icta/the_eight_stories_of_yffre_and_the_eight_promises/)|[lebiro](/u/lebiro)
-[The Evolution of Aldmeri Faith](/r/teslore/comments/4c8l0z/the_evolution_of_aldmeri_faith/)|[Dreadnautilus](/u/Dreadnautilus)
-[The Eye of Fate](/r/teslore/comments/2xbjjh/the_eye_of_fate/)|[Mortazo](/u/Mortazo)
-[The Faiths of the Sixth Era: Preface](/r/teslore/comments/2kla3h/the_faiths_of_the_sixth_era_preface/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The Faiths of the Sixth Era: Vehkism](/r/teslore/comments/2kmc0y/the_faiths_of_the_sixth_era_vehkism/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The First Aldmeri Dominion Interfaith Gathering of Record-Keepers (Pamphlet)](/r/teslore/comments/2c3gl6/the_first_aldmeri_dominion_interfaith_gathering/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Gift of Horses](/r/teslore/comments/273ybt/the_gift_of_horses/)|[lebiro](/u/lebiro)
-[The God of Mankind: A Sermon](/r/teslore/comments/1ypia1/the_god_of_mankind_a_sermon/)|[Welmora](/u/Welmora)
-[The Gods of West Reach](/r/teslore/comments/24b6qz/the_gods_of_west_reach/)|[william_door](/u/william_door)
-[The House of Troubles' role in the New Temple](/r/teslore/comments/2v10ta/the_house_of_troubles_role_in_the_new_temple/)|[OldResdayn](/u/OldResdayn)
-[The Importance of Prayer](/r/teslore/comments/3s6mfl/the_importance_of_prayer/)|[twilot_spankle](/u/twilot_spankle)
-[The Leyaweese Pantheon](/r/teslore/comments/22cyt3/the_leyaweese_pantheon/)|[fargoniac](/u/fargoniac)
-[The Meridian Exodus](/r/teslore/comments/2j1pgg/the_meridian_exodus/)|[ech0alpha](/u/ech0alpha)
-[The Noisy Serpent Loves his War Speech](/r/teslore/comments/1j3c5x/the_noisy_serpent_loves_his_war_speech/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Onus of the Castes](/r/teslore/comments/4ccikl/the_onus_of_the_castes/)|[Dreadnautilus](/u/Dreadnautilus)
-[The Origin of the Druadachs](/r/teslore/comments/2x3ps9/the_origin_of_the_druadachs/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[The Origins of Arkay](/r/teslore/comments/4qfhaj/the_origins_of_arkay/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Pantheon and Faith of Giants](/r/teslore/comments/4iw3af/the_pantheon_and_faith_of_giants/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[The Psychological Development of Man](/r/teslore/comments/43lbm2/the_psychological_development_of_man_the_children/)|[The_White_Guar](/u/The_White_Guar)
-[The Rise and Fall of Nekros: The Lord of the Rotting Darkness](/r/teslore/comments/2ftmq9/the_rise_and_fall_of_nekros_the_lord_of_the/)|[IceFireWarden](/u/IceFireWarden)
-[The Savage Village of Nahalaar](/r/teslore/comments/29qh9g/the_savage_village_of_nahalaar/)|[Asotil](/u/Asotil)
-[The Saxhleel and the Tsaesci: An Analysis](/r/teslore/comments/1ruv2w/the_saxhleel_and_the_tsaesci_an_analysis/)|[IceFireWarden](/u/IceFireWarden)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Sow and the Snake](/r/teslore/comments/1buyn1/the_sow_and_the_snake/)|[OPGreenback](/u/OPGreenback)
-[The Spirit of the Now](/r/teslore/comments/1u6276/the_spirit_of_the_now/)|[lebiro](/u/lebiro)
-[The Time God's Whiskers and Other Khajiiti Myths Explored](/r/teslore/comments/11zpv9/the_time_gods_whiskers_and_other_khajiiti_myths/)|[Voryn](/u/Voryn)
-[The time gods of Imperial Faith](/r/teslore/comments/1u73qz/the_time_gods_of_imperial_faith/)|[TESJaxt](/u/TESJaxt)
-[The Tragedy of Merrunz](/r/teslore/comments/2z1jtw/the_tragedy_of_merrunz/)|[BanditoWalrus](/u/BanditoWalrus)
-[The Tsaesci Creation Myth Reexamined](/r/teslore/comments/21akfu/the_tsaesci_creation_myth_reexamined/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The Two-Hearts of the Saxhleel: The Hist and Sethhleel. Or, a semi-religious treatise from a former Tree-Minder](/r/teslore/comments/2wgrjo/the_twohearts_of_the_saxhleel_the_hist_and/)|[Jordoom](/u/Jordoom)
-[The Worship of Zenithar in Cyrodill](/r/teslore/comments/44khzg/the_worship_of_zenithar_in_cyrodill/)|[Dreadnautilus](/u/Dreadnautilus)
-[The Ynesleaic Enchiridion: A Well-Constructed Guide To The Yneslian Islands, Part II](/r/teslore/comments/2bm2m1/the_ynesleaic_enchiridion_a_wellconstructed_guide/)|[IceFireWarden](/u/IceFireWarden)
-[The [Azure] Tide: The Maormeri Creation Myth](/r/teslore/comments/1zbuzz/the_azure_tide_the_maormeri_creation_myth/)|[wkuechen](/u/wkuechen)
-[Tissa-no-Lo'igri](/r/teslore/6jqfhm/)|[Cuhlecain_Sifr](/u/Cuhlecain_Sifr)
-[Tissa no-Ligra CH I-III](/r/teslore/78u00f)|[Cuhlecain_Sifr](/u/Cuhlecain_Sifr)
-[Torinaan, Heart of Auridon](/r/teslore/comments/4h88ie/torinaan_heart_of_auridon/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Tribes of Tamriel, Volume I: The Skaal of Solstheim](/r/teslore/comments/2c6ivi/tribes_of_tamriel_volume_i_the_skaal_of_solstheim/)|[Hollymarkie](/u/Hollymarkie)
-[Tribes of Tamriel, Volume III: The Ashlanders](/r/teslore/comments/2cbyru/tribes_of_tamriel_volume_iii_the_ashlanders/)|[Hollymarkie](/u/Hollymarkie)
-[Troll-Bitten, Worm-Burrowed, Stag-Tramped, Dredged By The Octopus](/r/teslore/comments/2b2kj9/trollbitten_wormburrowed_stagtramped_dredged_by/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Uutak: HRAHNDEYL](/r/teslore/comments/1y5boc/uutak_hrahndeyl/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak: The Neglected Missives](/r/teslore/comments/1y5cky/uutak_the_neglected_missives/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Genesis: Echmer](/r/teslore/comments/223jsp/uutak_genesis_echmer/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Genesis: HRAHNDEYL](/r/teslore/comments/226zdw/uutak_genesis_hrahndeyl/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Mythos Archives: The Echmer [PART I: ON THE ECHMER]](/r/teslore/comments/32g7i9/uutak_mythos_archives_the_echmer_part_i_on_the/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Mythos Archives: The Echmer [PART II: WHISPERS OF YNESLEA]](/r/teslore/comments/32h88b/uutak_mythos_archives_the_echmer_part_ii_whispers/)|[IceFireWarden](/u/IceFireWarden)
-[Varieties of Faith in Tamriel: The Dreugh](/r/teslore/comments/2pyvyt/varieties_of_faith_in_tamriel_the_dreugh/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Vonus Valerius, Oracle of the Cult of the Free Mind](/r/teslore/comments/1zmj3d/vonus_valerius_oracle_of_the_cult_of_the_free_mind/)|[Mdnthrvst](/u/Mdnthrvst)
-[The Ways of the All-Maker](/r/teslore/729i5g)|[DLBAM](/u/DLBAM)
-[What appears to be the Maormeri Creation Myth](/r/teslore/comments/2s0n6h/what_appears_to_be_the_maormeri_creation_myth/)|[Scarab-Phoenix](/u/Scarab-Phoenix)
-[What Nords (True Nords!) see when they look upon Shor](/r/teslore/6hzbqk/)|[Phantasmak](/u/Phantasmak)
-[What of the Other et'Ada?](/r/teslore/comments/626sno/)|[scourgicus](/u/scourgicus)
-[When the Eagle fights the Snake: War Without End](/r/teslore/7e09nh)|[Phantasmak](/u/Phantasmak)
-[Who said what? looking at the information on the Khajiit (Part 4 Faith Edition 2: Holy Boogaloo)](/r/teslore/comments/1wyxut/who_said_what_looking_at_the_information_on_the/)|[Mr_Flippers](/u/Mr_Flippers)
-[Who said what? looking at the information on the Khajiit (Part 4, Faith Edition)](/r/teslore/comments/1wyrd5/who_said_what_looking_at_the_information_on_the/)|[Mr_Flippers](/u/Mr_Flippers)
-[Why We Praise the Light!](/r/teslore/comments/4mq763/why_we_praise_the_light/)|[Alarialas](/u/Alarialas)
-[Worshipping the Waves: a Coral Priestess's Sermon on Atlantoa](/r/teslore/6hzfac/)|[Phantasmak](/u/Phantasmak)
-[You Were Once Gods](/r/teslore/comments/4jd53c/you_were_once_gods/)|[Rusty_Shakalford](/u/Rusty_Shakalford)
+| **Title**                                                                                                                                            | **Author**                                                                                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| ['Tenants of the Pursuers of Dibellan Arts' (Divine Cult c. 2E 582)](/r/teslore/2ymcxq)                                                              | [Rob-the-Bob](/u/Rob-the-Bob)                                                                                                             |
+| [About Stendarr's Orders - Lore and background of Stendarr's Paladins](/r/teslore/3tg1cs)                                                            | [Guerinus](/u/Guerinus)                                                                                                                   |
+| [A Dialogue with Stendarr](/r/teslore/4gx87w)                                                                                                        | [ixidono](/u/ixidono)                                                                                                                     |
+| [A Japanophile's Guide to Nirn](/r/teslore/1wnpg3)                                                                                                   | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [Akel is Akatosh? The Three Become One. Towers](/r/teslore/24jizf)                                                                                   | [turokman2000](/u/turokman2000)                                                                                                           |
+| [A Kothringi Prayer](/r/teslore/4vgugg)                                                                                                              | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Alkosh, his Children, and Lorkhaj's Tricks](/r/teslore/16jn6k)                                                                                      | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [Alkosh, The First Cat](/r/teslore/2v7kvw)                                                                                                           | [TuMadreEsMiCorazon](/u/TuMadreEsMiCorazon)                                                                                               |
+| [Alkosh the unending!](/r/teslore/192aam)                                                                                                            | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [A Look At Echmeri Metaphysics](/r/teslore/2bbl4z)                                                                                                   | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [An Alternate view of the Tribunal](/r/teslore/14uixx)                                                                                               | [Strangeloup](/u/Strangeloup)                                                                                                             |
+| [An Analysis of the Words of a Khajiit Clanmother](/r/teslore/2so4sk)                                                                                | [TuMadreEsMiCorazon](/u/TuMadreEsMiCorazon)                                                                                               |
+| [Ancestor Moths and the Old Ehlnofey; an analysis of the reliefs in the Hall of Stories](/r/teslore/1q36jw)                                          | [WilliamtheV](/u/WilliamtheV)                                                                                                             |
+| [Ancient Nord Culture and Religion](/r/teslore/sayyx)                                                                                                | [lilrhys](/u/lilrhys)                                                                                                                     |
+| [An intercepted letter](/r/teslore/1n9jby)                                                                                                           | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Annals of the Vanar, Part I](/r/teslore/6chug9/)                                                                                                    | [Culey](/u/Culey)                                                                                                                         |
+| [A Nordic prayer](/r/teslore/4250fu)                                                                                                                 | [Heliomance](/u/Heliomance)                                                                                                               |
+| [An Overview of Gods and Worship in Echmer Society](/r/teslore/3lhhqo)                                                                               | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Anticipations (heretical version)](/r/teslore/5v1m2r)                                                                                           | [Misticsan](/u/Misticsan)                                                                                                                 |
+| [An Ykaloni Pantheon](/r/teslore/1xb81u)                                                                                                             | [NudeProvided](/u/NudeProvided)                                                                                                           |
+| [A Prayer to the Father Dragon](/r/teslore/2v6lkx)                                                                                                   | [Alveryn](/u/Alveryn)                                                                                                                     |
+| [A Priest's old Journal: The Burden of the Empire](/r/teslore/1j44q7)                                                                                | [waldorfwithoutwalnut](/u/waldorfwithoutwalnut)                                                                                           |
+| [Archaeologists Discover Ancient Religious Text in Skyrim](/r/teslore/62mq7a)                                                                        | [BunburyGrousset](/u/BunburyGrousset)                                                                                                     |
+| [A Short Introduction to the Tribunal Temple](/r/teslore/1on7gw)                                                                                     | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [A Story by Clan Mother Ko'zasha (Notes on the Khajiiti interpretation of the god Ius)](/r/teslore/3ifhp1)                                           | [valzilla2000](/u/valzilla2000)                                                                                                           |
+| [Atlantoa, Yokudan Goddess of Storms, the Deep, and Shipwrecks](/r/teslore/6glai1/)                                                                  | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [A treatise on the Talos Cult. 4e198](/r/teslore/w6opa)                                                                                              | [lilrhys](/u/lilrhys)                                                                                                                     |
+| [A Troll Creation Myth](/r/teslore/262a1w)                                                                                                           | [Sythirius](/u/Sythirius)                                                                                                                 |
+| [Barbesaic Ayleids creation myth](/r/teslore/367jb2)                                                                                                 | [Ayleidsornothing](/u/Ayleidsornothing)                                                                                                   |
+| [Beware of Oblivion](/r/teslore/5720j5)                                                                                                              | [caioddit](/u/caioddit)                                                                                                                   |
+| [Blessed Servants of the Dark Lord](/r/teslore/4cmg1d)                                                                                               | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Bormahu Aka-Tusk, father of the Dovah](/r/teslore/urruf)                                                                                            | [lilrhys](/u/lilrhys)                                                                                                                     |
+| [Chapels of Cyrodiil](/r/teslore/6j4nlh/)                                                                                                            | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [Commentaries on the Malachite Tablet](/r/teslore/66p2mu)                                                                                            | [saufall](/u/saufall)                                                                                                                     |
+| [Cults Within Nibenese Society](/r/teslore/3w9anx)                                                                                                   | [Zinitrad2](/u/Zinitrad2)                                                                                                                 |
+| [Cultural Phenomena of Tamriel: Cyrodiil’s Cults of Shezarr](/r/teslore/33n2n7)                                                                      | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Cultures of Morrowind: The Great Houses (Part 3- Spirituality)](/r/teslore/3hq9sj)                                                                  | [nmd453](/u/nmd453)                                                                                                                       |
+| [Daedra Worship Across Tamriel: Peryite](/r/teslore/2ig2gw)                                                                                          | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Dawn awaits you, novitiate: A Sermon for Camoran's Faithful](/r/teslore/6an3vp)                                                                 | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [Dragon Priests as Totemic Representatives](/r/teslore/3m4cdt)                                                                                       | [jadierhetseni](/u/jadierhetseni)                                                                                                         |
+| [Dreamsleeve Transcript: Black Silence and How to Fill it](/r/teslore/383l9z)                                                                        | [neknotes](/u/neknotes)                                                                                                                   |
+| [The Dunmer Mashiach and Judaism](/r/teslore/5e2vox)                                                                                                 | [Sakazwal](/u/Sakazwal)                                                                                                                   |
+| [Earth, Water and Wind; Sun, Beast and Hist](/r/teslore/281o51)                                                                                      | [Mathemagics15](/u/Mathemagics15)                                                                                                         |
+| [East-Reachian pantheon I made, feed-back wanted](/r/teslore/4ig7o4)                                                                                 | [Blackcoldren](/u/Blackcoldren)                                                                                                           |
+| [Ecclesia de Mortalitatis et Aedris - A Short Pamphlet](/r/teslore/2nz8rt)                                                                           | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| [Education of a Saint](/r/teslore/5stktg)                                                                                                            | [imgaharambe](/u/imgaharambe)                                                                                                             |
+| [Erwan, Painter, Son of Ernard](/r/teslore/2c61yr)                                                                                                   | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| [The Et'Ada That Could Not Flee](/r/teslore/6278qh)                                                                                                  | [Adlestrop](/u/Adlestrop)                                                                                                                 |
+| [Excerpt from Saints of Cyrod by Avidius Pinario](/r/teslore/5xtg4h)                                                                                 | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [Father of the Sky](/r/teslore/698on1)                                                                                                               | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [Fragmented Memory Stone: 2 of the 9 Tales of the Snake that Ate + Intro](/r/teslore/5wse0m)                                                         | [Cuhlecain_Sifr](/u/Cuhlecain_Sifr)                                                                                                       |
+| [Fragment of the Gorieda, ##2](/r/teslore/2icn6e)                                                                                                    | [Alveryn](/u/Alveryn)                                                                                                                     |
+| [Fresh eyes on the Tsaesci](/r/teslore/1xkl6x)                                                                                                       | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [From the Augmented Covenants: The Eight Virtues of the Divines](/r/teslore/4h0t1n)                                                                  | [Alarialas](/u/Alarialas)                                                                                                                 |
+| [From the Forbidden Galonllyfr: On the Cycle of Death and Rebirth](/r/teslore/1y1g65)                                                                | [NudeProvided](/u/NudeProvided)                                                                                                           |
+| [From totems to gods, and why Alduin went mad](/r/teslore/42kvpk)                                                                                    | [Heliomance](/u/Heliomance)                                                                                                               |
+| [Further Inquiries into the Skaal Faith: A Letter](/r/teslore/6nvwxt/)                                                                               | [AsukaRyou](/u/AsukaRyou)                                                                                                                 |
+| [Glory to the Grit-Prince!](/r/teslore/5o1idq)                                                                                                       | [HamSandLich](/u/HamSandLich)                                                                                                             |
+| [The Handbook for Parish Priest of the Nine (4E189 Edition) by Br. Gaile](/r/teslore/5sqcf9)                                                         | [SpaceJhester](/u/SpaceJhester)                                                                                                           |
+| [Hermeneutical Principles for Allegorical Interpretation of Mythic Texts (Volume 1)](/r/teslore/342dh0)                                              | [Doom-DrivenPoster](/u/Doom-DrivenPoster)                                                                                                 |
+| [Hieromonastic Orders of High Rock: Introduction and Contents](/r/teslore/7fli3j)                                                                    | [Zamanzi](/u/Zamanzi)                                                                                                                     |
+| [Hieromonastic Orders of High Rock: Chapter One: The Petrites](/r/teslore/7fnibf)                                                                    | [Zamanzi](/u/Zamanzi)                                                                                                                     |
+| [How the Greedy-Man Broke the Heart of Beasts](/r/teslore/6vrew0/)                                                                                   | [veloticy](/u/veloticy)                                                                                                                   |
+| [Hymn to Mora](/r/teslore/7hvigw)                                                                                                                    | [AsukaRyou](/u/AsukaRyou)                                                                                                                 |
+| [Hyu-Ket Creation Myth](/r/teslore/2qeuxo)                                                                                                           | [TheDementedManic](/u/TheDementedManic)                                                                                                   |
+| [Imperial Hegemony, part 3/3: Religion](/r/teslore/224xtd)                                                                                           | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [In-Depth Collation Between Argonians and Hinduism: Gods, Spirit, and Reality (Part 2)](/r/teslore/23l3r7)                                           | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Interview with a Seth cultist](/r/teslore/3rsgck)                                                                                                   | [twilot_spankle](/u/twilot_spankle)                                                                                                       |
+| [Invocations to the Divines](/r/teslore/4ofsro)                                                                                                      | [Kaitousenpai](/u/Kaitousenpai)                                                                                                           |
+| [Jeshi-re](/r/teslore/227tzt)                                                                                                                        | [Sha-ar_izad](/u/Sha-ar_izad)                                                                                                             |
+| [Kyne and the Wanderer](/r/teslore/4xiqjp)                                                                                                           | [coopitypootypot](/u/coopitypootypot)                                                                                                     |
+| [Laviagna, the Night Huntress](/r/teslore/2xue8g)                                                                                                    | [Kurufinve](/u/Kurufinve)                                                                                                                 |
+| [Lesser Deities of the Khajiiti Pantheon](/r/teslore/4f045z)                                                                                         | [fargoniac](/u/fargoniac)                                                                                                                 |
+| [Letter from a Dibellan Initiate](/r/teslore/37atuw)                                                                                                 | [elderscroll_dot_pdf](/u/elderscroll_dot_pdf)                                                                                             |
+| [Logic, Reason, and Pragmatism: A Few Thoughts on the Dwemeri Pantheon](/r/teslore/1x6pt4)                                                           | [FranklyEarnest](/u/FranklyEarnest)                                                                                                       |
+| [The Logdjoflaogdreki: Parts I & II](/r/teslore/5bokt0)                                                                                              | [Al-Hatoor](/u/Al-Hatoor)                                                                                                                 |
+| [Maormer: The exiled worshippers of Lorkhan from Aldmeris?](/r/teslore/7gwau3)                                                                       | [-PELINAL-](/u/-PELINAL-)                                                                                                                 |
+| [Monomyth from Lyg: Vermaean, The Maker's Lament](/r/teslore/2a5jb6)                                                                                 | [mojonation1487](/u/mojonation1487)                                                                                                       |
+| [Mystery Play of Old Ebonheart](/r/teslore/2aw5qz)                                                                                                   | [TamrielRebuilt](/u/TamrielRebuilt)                                                                                                       |
+| [Myths of the Eastern Reach](/r/teslore/24c581)                                                                                                      | [Sakazwal](/u/Sakazwal)                                                                                                                   |
+| [Myths over Riften: In The Shadow of the Dragonborn](/r/teslore/23iiro)                                                                              | [Asotil](/u/Asotil)                                                                                                                       |
+| [The Nature of the Celestial Serpent](/r/teslore/4ww5bw)                                                                                             | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Nord Totems for the Daedra](/r/teslore/5y4z1y)                                                                                                      | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [Numbers](/r/teslore/14hgmx)                                                                                                                         | [RottenDeadite](/u/RottenDeadite)                                                                                                         |
+| [Oath of the Faithful Orcs](/r/teslore/4smy9m)                                                                                                       | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Ode to the All-Maker](/r/teslore/3z99x8)                                                                                                            | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Of Massr and Zekkun](/r/teslore/2eipfc)                                                                                                             | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [On Cyrodilic Religion, Part the First: The Eight Divines](/r/teslore/5uzb4d)                                                                        | [arl99](/u/arl99)                                                                                                                         |
+| [On Cyrodilic Religion, Part the Second: The Alessian Order](/r/teslore/5v1b69)                                                                      | [arl99](/u/arl99)                                                                                                                         |
+| [On the Daedric Worship of the Ashlanders](/r/teslore/7axmm5)                                                                                        | [Kevaar](/u/Kevaar)                                                                                                                       |
+| [On The Nature of the Black-Welkin](/r/teslore/31n9d2)                                                                                               | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [On the Origins of the Nordic Totemic Religion](/r/teslore/427npj)                                                                                   | [Heliomance](/u/Heliomance)                                                                                                               |
+| [On the Ram of Markarth](/r/teslore/37xu4p)                                                                                                          | [fabricofspacetime](/u/fabricofspacetime)                                                                                                 |
+| [On The Value of Fun](/r/teslore/1yuss0)                                                                                                             | [RideTheLine](/u/RideTheLine)                                                                                                             |
+| [On Trolls: Nights of the Gathrahan](/r/teslore/264ulp)                                                                                              | [Sythirius](/u/Sythirius)                                                                                                                 |
+| [On Trolls: The Pantheon of the Wagkuni](/r/teslore/261v2i)                                                                                          | [Sythirius](/u/Sythirius)                                                                                                                 |
+| [Oracle Bone Transcription – Maormeri Text](/r/teslore/174ejg)                                                                                       | [OPGreenback](/u/OPGreenback)                                                                                                             |
+| [Partial Interview with Hrahndeyl](/r/teslore/4da590)                                                                                                | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Phallic worship in Dibellan religious practices. Part One](/r/teslore/323oiu)                                                                       | [Turelie_Sillvari](/u/Turelie_Sillvari)                                                                                                   |
+| [Prayer to Lorkhaj](/r/teslore/4ak3jb)                                                                                                               | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Princes of Mundus: Philosophy of the Eight](/r/teslore/44n4gp)                                                                                      | [OtakuOfMe](/u/OtakuOfMe)                                                                                                                 |
+| [The Ravings of Nu-Camoran: Prophet of the Dawn](/r/teslore/6a6bo7)                                                                                  | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [Reflections of a Jhunal Devotee, and Guru; Who was a Native Imperial Colovian, and Friend to the Emperor Uriel Septim [Excerpt]](/r/teslore/7cl2eo) | [AsukaRyou](/u/AsukaRyou)                                                                                                                 |
+| [Refuting the Resolutes of Stendarr: Exposing the Truth Behind a Misled Religious Order](/r/teslore/3lkwv4)                                          | [Alveryn](/u/Alveryn)                                                                                                                     |
+| [Religion and Faith of the High Rock Reachmen](/r/teslore/4tawki)                                                                                    | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Remanite Sermon from the Interregnum](/r/teslore/4ibvwu)                                                                                            | [Alarialas](/u/Alarialas)                                                                                                                 |
+| [Research into Skaal Religion] (/r/teslore/1ofvdq)                                                                                                   | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Rite-In-Detestation-of-TRINIMAC-WHO-IS-MALACATH](/r/teslore/58vm94)                                                                                 | [HamSandLich](/u/HamSandLich)                                                                                                             |
+| [Ruling Kings, and Our Kingdoms: A Foreword](/r/teslore/2e68yk)                                                                                      | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Ruling Kings, and Our Kingdoms: The First Step, Having True Happiness](/r/teslore/2e69ln)                                                           | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Sanctum Cyrod: a Fragmentary List of the Saints of the Imperial Heartland](/r/teslore/4gd6h5)                                                       | [Alarialas](/u/Alarialas)                                                                                                                 |
+| [The Satakal's Wisdom](/r/teslore/552sqd)                                                                                                            | [LegateZanUjcic](/u/LegateZanUjcic)                                                                                                       |
+| [Scribbles of a Maormeri Zealot](/r/teslore/4av7ht)                                                                                                  | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Sermons of a breton priest addressing the inner conflict of the empire](/r/teslore/2odebr)                                                          | [Thekidwiththedogs](/u/Thekidwiththedogs)                                                                                                 |
+| [The Sermons of Saint Jiub](/r/teslore/5tf7xo)                                                                                                       | [Misticsan](/u/Misticsan)                                                                                                                 |
+| [Shor of the Shore: An Interview with Skjornheim Pearl-Eye](/r/teslore/1thw42)                                                                       | [wkuechen](/u/wkuechen)                                                                                                                   |
+| [Sixth House Sermons](/r/teslore/4bwrli)                                                                                                             | [TheOutOfWorld](/u/TheOutOfWorld)                                                                                                         |
+| [Soldier's Prayer to Perrif](/r/teslore/2c7o07)                                                                                                      | [Anonymous_Mononymous](/u/Anonymous_Mononymous)                                                                                           |
+| [Song of the Abyss](/r/teslore/2hs0r1)                                                                                                               | [ProvinceCyrodiil](/u/ProvinceCyrodiil)                                                                                                   |
+| [Songs of the Return, Volume 38: The Nigh Lost Tale of the Brahtmiir](/r/teslore/1y5dd9)                                                             | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Spirituality of the Roscreans](/r/teslore/2b2lnj)                                                                                                   | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| ["The Teachings of Stuhn to Mortals" as told by Aeda Branch-Hand](/r/teslore/5lwjj0)                                                                 | [BCM_00](/u/BCM_00)                                                                                                                       |
+| [TES Comparative Mythology: The Flood Myth](/r/teslore/3qmtw2)                                                                                       | [midwinter-sun](/u/midwinter-sun)                                                                                                         |
+| [Thalmor Census-Report On Argonia, Circa 4E 201](/r/teslore/1sjqv6)                                                                                  | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Archive of Thot](/r/teslore/1y1oyr)                                                                                                             | [XAYAH](/u/XAYAH)                                                                                                                         |
+| [The Boiche, a Treatise on the Elves of Valenwood, part I](/r/teslore/17i9cl)                                                                        | [lebiro](/u/lebiro)                                                                                                                       |
+| [The Conundrum of Ninu’yutesaz](/r/teslore/2epxxl)                                                                                                   | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Cult of Agamanus](/r/teslore/24gy83)                                                                                                            | [Asotil](/u/Asotil)                                                                                                                       |
+| [The Cult of the Fish, Axiom I: We are the End](/r/teslore/2gv7ya)                                                                                   | [CreamWafers](/u/CreamWafers)                                                                                                             |
+| [The Cults of Cyrodill: The Leaf Eaters](/r/teslore/2dc5qi)                                                                                          | [Dreadnautilus](/u/Dreadnautilus)                                                                                                         |
+| [The Divines as Imperial leverage](/r/teslore/4qc9iu)                                                                                                | [Rajti](/u/Rajti)                                                                                                                         |
+| [The Doctrine of the Hawase'zur](/r/teslore/32ahs5)                                                                                                  | [fargoniac](/u/fargoniac)                                                                                                                 |
+| [The Dreaming City](/r/teslore/2etj09)                                                                                                               | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Dwemer were Primarily not Atheist by Sedave Mora](/r/teslore/3sy387)                                                                            | [twilot_spankle](/u/twilot_spankle)                                                                                                       |
+| [The Dying Words of Prophet Heimskr, Vol. I](/r/teslore/2p5cb6)                                                                                      | [ZizZizZiz](/u/ZizZizZiz)                                                                                                                 |
+| [The Eight Stories of Y'ffre and the Eight Promises of the Bosmer](/r/teslore/17icta)                                                                | [lebiro](/u/lebiro)                                                                                                                       |
+| [The Evolution of Aldmeri Faith](/r/teslore/4c8l0z)                                                                                                  | [Dreadnautilus](/u/Dreadnautilus)                                                                                                         |
+| [The Eye of Fate](/r/teslore/2xbjjh)                                                                                                                 | [Mortazo](/u/Mortazo)                                                                                                                     |
+| [The Faiths of the Sixth Era: Preface](/r/teslore/2kla3h)                                                                                            | [Doom-DrivenPoster](/u/Doom-DrivenPoster)                                                                                                 |
+| [The Faiths of the Sixth Era: Vehkism](/r/teslore/2kmc0y)                                                                                            | [Doom-DrivenPoster](/u/Doom-DrivenPoster)                                                                                                 |
+| [The First Aldmeri Dominion Interfaith Gathering of Record-Keepers (Pamphlet)](/r/teslore/2c3gl6)                                                    | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [The Gift of Horses](/r/teslore/273ybt)                                                                                                              | [lebiro](/u/lebiro)                                                                                                                       |
+| [The God of Mankind: A Sermon](/r/teslore/1ypia1)                                                                                                    | [Welmora](/u/Welmora)                                                                                                                     |
+| [The Gods of West Reach](/r/teslore/24b6qz)                                                                                                          | [william_door](/u/william_door)                                                                                                           |
+| [The House of Troubles' role in the New Temple](/r/teslore/2v10ta)                                                                                   | [OldResdayn](/u/OldResdayn)                                                                                                               |
+| [The Importance of Prayer](/r/teslore/3s6mfl)                                                                                                        | [twilot_spankle](/u/twilot_spankle)                                                                                                       |
+| [The Leyaweese Pantheon](/r/teslore/22cyt3)                                                                                                          | [fargoniac](/u/fargoniac)                                                                                                                 |
+| [The Meridian Exodus](/r/teslore/2j1pgg)                                                                                                             | [ech0alpha](/u/ech0alpha)                                                                                                                 |
+| [The Noisy Serpent Loves his War Speech](/r/teslore/1j3c5x)                                                                                          | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Onus of the Castes](/r/teslore/4ccikl)                                                                                                          | [Dreadnautilus](/u/Dreadnautilus)                                                                                                         |
+| [The Origin of the Druadachs](/r/teslore/2x3ps9)                                                                                                     | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [The Origins of Arkay](/r/teslore/4qfhaj)                                                                                                            | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [The Pantheon and Faith of Giants](/r/teslore/4iw3af)                                                                                                | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)                                 | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [The Psychological Development of Man](/r/teslore/43lbm2)                                                                                            | [The_White_Guar](/u/The_White_Guar)                                                                                                       |
+| [The Rise and Fall of Nekros: The Lord of the Rotting Darkness](/r/teslore/2ftmq9)                                                                   | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Savage Village of Nahalaar](/r/teslore/29qh9g)                                                                                                  | [Asotil](/u/Asotil)                                                                                                                       |
+| [The Saxhleel and the Tsaesci: An Analysis](/r/teslore/1ruv2w)                                                                                       | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                                                                                    | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Sow and the Snake](/r/teslore/1buyn1)                                                                                                           | [OPGreenback](/u/OPGreenback)                                                                                                             |
+| [The Spirit of the Now](/r/teslore/1u6276)                                                                                                           | [lebiro](/u/lebiro)                                                                                                                       |
+| [The Time God's Whiskers and Other Khajiiti Myths Explored](/r/teslore/11zpv9)                                                                       | [Voryn](/u/Voryn)                                                                                                                         |
+| [The time gods of Imperial Faith](/r/teslore/1u73qz)                                                                                                 | [TESJaxt](/u/TESJaxt)                                                                                                                     |
+| [The Tragedy of Merrunz](/r/teslore/2z1jtw)                                                                                                          | [BanditoWalrus](/u/BanditoWalrus)                                                                                                         |
+| [The Tsaesci Creation Myth Reexamined](/r/teslore/21akfu)                                                                                            | [Doom-DrivenPoster](/u/Doom-DrivenPoster)                                                                                                 |
+| [The Two-Hearts of the Saxhleel: The Hist and Sethhleel. Or, a semi-religious treatise from a former Tree-Minder](/r/teslore/2wgrjo)                 | [Jordoom](/u/Jordoom)                                                                                                                     |
+| [The Worship of Zenithar in Cyrodill](/r/teslore/44khzg)                                                                                             | [Dreadnautilus](/u/Dreadnautilus)                                                                                                         |
+| [The Ynesleaic Enchiridion: A Well-Constructed Guide To The Yneslian Islands, Part II](/r/teslore/2bm2m1)                                            | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The [Azure] Tide: The Maormeri Creation Myth](/r/teslore/1zbuzz)                                                                                    | [wkuechen](/u/wkuechen)                                                                                                                   |
+| [Tissa-no-Lo'igri](/r/teslore/6jqfhm/)                                                                                                               | [Cuhlecain_Sifr](/u/Cuhlecain_Sifr)                                                                                                       |
+| [Tissa no-Ligra CH I-III](/r/teslore/78u00f)                                                                                                         | [Cuhlecain_Sifr](/u/Cuhlecain_Sifr)                                                                                                       |
+| [Torinaan, Heart of Auridon](/r/teslore/4h88ie)                                                                                                      | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Tribes of Tamriel, Volume I: The Skaal of Solstheim](/r/teslore/2c6ivi)                                                                             | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Tribes of Tamriel, Volume III: The Ashlanders](/r/teslore/2cbyru)                                                                                   | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Troll-Bitten, Worm-Burrowed, Stag-Tramped, Dredged By The Octopus](/r/teslore/2b2kj9)                                                               | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| [Uutak: HRAHNDEYL](/r/teslore/1y5boc)                                                                                                                | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Uutak: The Neglected Missives](/r/teslore/1y5cky)                                                                                                   | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Uutak Genesis: Echmer](/r/teslore/223jsp)                                                                                                           | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Uutak Genesis: HRAHNDEYL](/r/teslore/226zdw)                                                                                                        | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Uutak Mythos Archives: The Echmer [PART I: ON THE ECHMER]](/r/teslore/32g7i9)                                                                       | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Uutak Mythos Archives: The Echmer [PART II: WHISPERS OF YNESLEA]](/r/teslore/32h88b)                                                                | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Varieties of Faith in Tamriel: The Dreugh](/r/teslore/2pyvyt)                                                                                       | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [Vonus Valerius, Oracle of the Cult of the Free Mind](/r/teslore/1zmj3d)                                                                             | [Mdnthrvst](/u/Mdnthrvst)                                                                                                                 |
+| [The Ways of the All-Maker](/r/teslore/729i5g)                                                                                                       | [DLBAM](/u/DLBAM)                                                                                                                         |
+| [What appears to be the Maormeri Creation Myth](/r/teslore/2s0n6h)                                                                                   | [Scarab-Phoenix](/u/Scarab-Phoenix)                                                                                                       |
+| [What Nords (True Nords!) see when they look upon Shor](/r/teslore/6hzbqk/)                                                                          | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [What of the Other et'Ada?](/r/teslore/626sno)                                                                                                       | [scourgicus](/u/scourgicus)                                                                                                               |
+| [When the Eagle fights the Snake: War Without End](/r/teslore/7e09nh)                                                                                | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [Who said what? looking at the information on the Khajiit (Part 4 Faith Edition 2: Holy Boogaloo)](/r/teslore/1wyxut)                                | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [Who said what? looking at the information on the Khajiit (Part 4, Faith Edition)](/r/teslore/1wyrd5)                                                | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [Why We Praise the Light!](/r/teslore/4mq763)                                                                                                        | [Alarialas](/u/Alarialas)                                                                                                                 |
+| [Worshipping the Waves: a Coral Priestess's Sermon on Atlantoa](/r/teslore/6hzfac/)                                                                  | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [You Were Once Gods](/r/teslore/4jd53c)                                                                                                              | [Rusty_Shakalford](/u/Rusty_Shakalford)                                                                                                   |
 
 ### Reman
 
-**Title**| **Author**
-:-----------|:----------
-[From Hestra to Reman: On His Rise](/r/teslore/comments/2dkph4/from_hestra_to_reman_on_his_rise/)|[Annals_of_Cyrod](/u/Annals_of_Cyrod)
-[Mundus Remanada, or The Life of Reman Cyrodiil, CH. I-III](/r/teslore/comments/5qetnl/mundus_remanada_or_the_life_of_reman_cyrodiil_ch/)|[Alveryn](/u/Alveryn)
-[Mundus Remanada, or The Life of Reman Cyrodiil, CH. IV-VI](/r/teslore/comments/5qg4xg/mundus_remanada_or_the_life_of_reman_cyrodiil_ch/)|[Alveryn](/u/Alveryn)
-[Mundus Remanada, or The Life of Reman Cyrodiil, CH. VII-VIII](/r/teslore/comments/5qg8r3/mundus_remanada_or_the_life_of_reman_cyrodiil_ch/)|[Alveryn](/u/Alveryn)
-[Mundus Remanada, or The Life of Reman Cyrodiil, CH. IX](/r/teslore/comments/5qjn55/mundus_remanada_or_the_life_of_reman_cyrodiil_ch/)|[Alveryn](/u/Alveryn)
-[Remanite Declaration of the End of Landfall, and the Return of the Nu-Empire](/r/teslore/comments/5qlk9i/remanite_declaration_of_the_end_of_landfall_and/)|[Alveryn](/u/Alveryn)
-[Ruminations on Reman & the Red Diamond](/r/teslore/6de89s/)|[The_Ruski](/u/The_Ruski)
-[Tales of Old Tamriel ##3 - Eulogy for Reman II](/r/teslore/comments/2cbig0/tales_of_old_tamriel_3_eulogy_for_reman_ii/)|[Cyclenophus](/u/Cyclenophus)
+| **Title**                                                                                         | **Author**                            |
+| :------------------------------------------------------------------------------------------------ | :------------------------------------ |
+| [From Hestra to Reman: On His Rise](/r/teslore/2dkph4)                                            | [Annals_of_Cyrod](/u/Annals_of_Cyrod) |
+| [Mundus Remanada, or The Life of Reman Cyrodiil, CH. I-III](/r/teslore/5qetnl)                    | [Alveryn](/u/Alveryn)                 |
+| [Mundus Remanada, or The Life of Reman Cyrodiil, CH. IV-VI](/r/teslore/5qg4xg)                    | [Alveryn](/u/Alveryn)                 |
+| [Mundus Remanada, or The Life of Reman Cyrodiil, CH. VII-VIII](/r/teslore/5qg8r3)                 | [Alveryn](/u/Alveryn)                 |
+| [Mundus Remanada, or The Life of Reman Cyrodiil, CH. IX](/r/teslore/5qjn55)                       | [Alveryn](/u/Alveryn)                 |
+| [Remanite Declaration of the End of Landfall, and the Return of the Nu-Empire](/r/teslore/5qlk9i) | [Alveryn](/u/Alveryn)                 |
+| [Ruminations on Reman & the Red Diamond](/r/teslore/6de89s/)                                      | [The_Ruski](/u/The_Ruski)             |
+| [Tales of Old Tamriel ##3 - Eulogy for Reman II](/r/teslore/2cbig0)                               | [Cyclenophus](/u/Cyclenophus)         |
 
 ### Rieklings
 
-**Title**| **Author**
-:-----------|:----------
-[How Riekling Fight](/r/teslore/6mpki7/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Rieklings: A Tiny Civillization, Unmasked](/r/teslore/comments/198q3r/rieklings_a_tiny_civilization_unmasked/)|[Lorfiend](/u/Lorfiend)
-[When Riekling Go Big Sleep](/r/teslore/comments/612pih/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Why Riekling Wear Skulls](https://reddit.com/r/teslore/comments/5oazvh/why_riekling_wear_skulls/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
+| **Title**                                                      | **Author**                                    |
+| :------------------------------------------------------------- | :-------------------------------------------- |
+| [How Riekling Fight](/r/teslore/6mpki7/)                       | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [Rieklings: A Tiny Civillization, Unmasked](/r/teslore/198q3r) | [Lorfiend](/u/Lorfiend)                       |
+| [When Riekling Go Big Sleep](/r/teslore/612pih)                | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [Why Riekling Wear Skulls](/r/teslore/5oazvh)                  | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
 
 ### Roscrea
 
-**Title**| **Author**
-:-----------|:----------
-[An Introductory Guide to Roscrea](/r/teslore/comments/2b2jev/an_introductory_guide_to_roscrea/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[The Founding of Roscrea](/r/teslore/comments/3ch4jd/the_founding_of_roscrea/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Roscrea and her people, #1: Introduction](/r/teslore/73vrgd)|[slovakiin](/u/slovakiin)
-[Roscrean Shipping Manifest](/r/teslore/comments/2b2pw9/roscrean_shipping_manifest/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Spirituality of the Roscreans](/r/teslore/comments/2b2lnj/spirituality_of_the_roscreans/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Troll-Bitten, Worm-Burrowed, Stag-Tramped, Dredged By The Octopus](/r/teslore/comments/2b2kj9/trollbitten_wormburrowed_stagtramped_dredged_by/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Yearly Note To the Head of the Imperial Geographic Society](/r/teslore/79imkx)|[Blackcoldren](/u/Blackcoldren)
+| **Title**                                                                              | **Author**                                    |
+| :------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [An Introductory Guide to Roscrea](/r/teslore/2b2jev)                                  | [The_OP3RaT0R](/u/The_OP3RaT0R)               |
+| [The Founding of Roscrea](/r/teslore/3ch4jd)                                           | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [Roscrea and her people, #1: Introduction](/r/teslore/73vrgd)                          | [slovakiin](/u/slovakiin)                     |
+| [Roscrean Shipping Manifest](/r/teslore/2b2pw9)                                        | [The_OP3RaT0R](/u/The_OP3RaT0R)               |
+| [Spirituality of the Roscreans](/r/teslore/2b2lnj)                                     | [The_OP3RaT0R](/u/The_OP3RaT0R)               |
+| [Troll-Bitten, Worm-Burrowed, Stag-Tramped, Dredged By The Octopus](/r/teslore/2b2kj9) | [The_OP3RaT0R](/u/The_OP3RaT0R)               |
+| [Yearly Note To the Head of the Imperial Geographic Society](/r/teslore/79imkx)        | [Blackcoldren](/u/Blackcoldren)               |
 
 ## S
 
 ### Sanguine
 
-**Title**| **Author**
-:-----------|:----------
-[Sanguine, Sanguinare Vampiris](/r/teslore/comments/27f4ry/sanguine_sanguinare_vampiris/)|[RideTheLine](/u/RideTheLine)
-[The Ways Of The Princes. The Whispering Trumpet of Hunger](/r/teslore/comments/2ftlae/the_ways_of_the_princes_the_whispering_trumpet_of/)|[bnmbnm0](/u/bnmbnm0)
+| **Title**                                                                      | **Author**                    |
+| :----------------------------------------------------------------------------- | :---------------------------- |
+| [Sanguine, Sanguinare Vampiris](/r/teslore/27f4ry)                             | [RideTheLine](/u/RideTheLine) |
+| [The Ways Of The Princes. The Whispering Trumpet of Hunger](/r/teslore/2ftlae) | [bnmbnm0](/u/bnmbnm0)         |
 
 ### Sexuality
 
-**Title**| **Author**
-:-----------|:----------
-[The Contraceptives of Modern Tamriel](/r/teslore/comments/5vfm2r/the_contraceptives_of_modern_tamriel/)|[Pariah_The_Pariah](/u/Pariah_The_Pariah)
-[Red Hot Sload Sex](/r/teslore/comments/5cf6qj/red_hot_sload_sex/)|[Rusty_Shakalford](/u/Rusty_Shakalford)
+| **Title**                                                 | **Author**                                |
+| :-------------------------------------------------------- | :---------------------------------------- |
+| [The Contraceptives of Modern Tamriel](/r/teslore/5vfm2r) | [Pariah_The_Pariah](/u/Pariah_The_Pariah) |
+| [Red Hot Sload Sex](/r/teslore/5cf6qj)                    | [Rusty_Shakalford](/u/Rusty_Shakalford)   |
 
 ### Sheogorath
 
-**Title**| **Author**
-:-----------|:----------
-[A Note on My Origin and Other Things](/r/teslore/comments/3k3ygi/a_note_on_my_origin_and_other_things/)|[pike184](/u/pike184)
-[A Prayer to Sheogorath](/r/teslore/comments/6673to/)|[Lagarto_Azul](/u/Lagarto_Azul)
-[Desperate Conjuring](www.reddit.com/r/teslore/comments/5qv1gz/desperate_conjuring/)|[GoldenEyeOfMora](/u/GoldenEyeOfMora)
-[Erwan, Painter, Son of Ernard](/r/teslore/comments/2c61yr/erwan_painter_son_of_ernard/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[The House of Troubles and the Upstart who Vanishes](/r/teslore/comments/13t8s5/the_house_of_troubles_and_the_upstart_who_vanish)|[regalnerd](/u/regalnerd)
-[How Uncle Sheo made the Wabbajack](/r/teslore/comments/5lc3oi/how_uncle_sheo_made_the_wabbajack/)|[HamSandLich](/u/HamSandLich)
-[The Legat and the Shogucath!](https://reddit.com/r/teslore/comments/5gtyvs/the_legat_and_the_shogucath/)|[Sawbones194](/u/Sawbones194)
-[The Madman's Finger](/r/teslore/comments/5koc82/the_madmans_finger/)|[brinehammer](/u/brinehammer)
-[Musings on Vivec and Sheogorath](/r/teslore/comments/4q41f0/musings_on_vivec_and_sheogorath_written_in_a_way/)|[syzithryx](/u/syzithryx)
-[The Origins and nature of Sheogorath](/r/teslore/comments/31adq5/the_origins_and_nature_of_sheogorath/)|[Lachdonin](/u/Lachdonin)
-[RASHA GIVER WORDS BIG](/r/teslore/comments/18oouk/rasha_giver_words_big/)|[Mr_Flippers](/u/Mr_Flippers)
-[Recovered Texts from Devotees of Sheogorath, Vol. I](/r/teslore/comments/5eydau/recovered_texts_from_devotees_of_sheogorath_vol_i/)|[ScrollingScholar](/u/ScrollingScholar)
-[SHEGG the MAD](/r/teslore/comments/2vzmbd/shegg_the_mad/)|[Sha-ar_izad](/u/Sha-ar_izad)
-[Sheogorath's Alduin the World Eater](/r/teslore/comments/1whuuv/sheogoraths_alduin_the_wordeater/)|[rckmrtrll](/u/rckmrtrll)
-[Sheogoraths Sheogorad](/r/teslore/comments/3hybax/sheogoraths_sheogorad/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[Sheogorath’s Summoning Day](/r/teslore/77w2sx)|[imgaharambe](/u/imgaharambe)
-[Sheogorath the Champion and His Favorite Dance](/r/teslore/comments/29w1h6/sheogorath_the_champion_and_his_favorite_dance/)|[excitedllama](/u/excitedllama)
-[Sixteen Accords of Madness, Volume III - Molag Bal's Tale](/r/teslore/70e40x)|[fruityloops49](/u/fruityloops49)
-[Sixteen Accords of Madness: Volume XIII – Peryite’s Tale](/r/teslore/comments/1x9u82/sixteen_accords_of_madness_volume_xiii_peryites/)|[IceFireWarden](/u/IceFireWarden)
-[There are a few Blasphemes we must accept, here out on the open waters](/r/teslore/comments/1zuxn9/there_are_a_few_blasphemes_we_must_accept_here/)|[TheGhostOfDRMURDER](/u/TheGhostOfDRMURDER)
-[Uncle Sheo: On Forks and their Tonal Applications](/r/teslore/comments/61mq2g)|[HamSandLich](/u/HamSandLich)
-[16 Accords of Madness: Namira's Tale](/r/teslore/6wnp62/)|[BlackRated](/u/BlackRated)
-[16 Accords of Madness XIII](/r/teslore/comments/3r4k8c/16_accords_of_madness_xiii/)|[pike184](/u/pike184)
+| **Title**                                                                                   | **Author**                                  |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------ |
+| [A Note on My Origin and Other Things](/r/teslore/3k3ygi)                                   | [pike184](/u/pike184)                       |
+| [A Prayer to Sheogorath](/r/teslore/6673to)                                                 | [Lagarto_Azul](/u/Lagarto_Azul)             |
+| [Desperate Conjuring](www.reddit.com/r/teslore/5qv1gz)                                      | [GoldenEyeOfMora](/u/GoldenEyeOfMora)       |
+| [Erwan, Painter, Son of Ernard](/r/teslore/2c61yr)                                          | [The_OP3RaT0R](/u/The_OP3RaT0R)             |
+| [The House of Troubles and the Upstart who Vanishes](/r/teslore/13t8s5)                     | [regalnerd](/u/regalnerd)                   |
+| [How Uncle Sheo made the Wabbajack](/r/teslore/5lc3oi)                                      | [HamSandLich](/u/HamSandLich)               |
+| [The Legat and the Shogucath!](/r/teslore/5gtyvs)                                           | [Sawbones194](/u/Sawbones194)               |
+| [The Madman's Finger](/r/teslore/5koc82)                                                    | [brinehammer](/u/brinehammer)               |
+| [Musings on Vivec and Sheogorath](/r/teslore/4q41f0)                                        | [syzithryx](/u/syzithryx)                   |
+| [The Origins and nature of Sheogorath](/r/teslore/31adq5)                                   | [Lachdonin](/u/Lachdonin)                   |
+| [RASHA GIVER WORDS BIG](/r/teslore/18oouk)                                                  | [Mr_Flippers](/u/Mr_Flippers)               |
+| [Recovered Texts from Devotees of Sheogorath, Vol. I](/r/teslore/5eydau)                    | [ScrollingScholar](/u/ScrollingScholar)     |
+| [SHEGG the MAD](/r/teslore/2vzmbd)                                                          | [Sha-ar_izad](/u/Sha-ar_izad)               |
+| [Sheogorath's Alduin the World Eater](/r/teslore/1whuuv)                                    | [rckmrtrll](/u/rckmrtrll)                   |
+| [Sheogoraths Sheogorad](/r/teslore/3hybax)                                                  | [Mathieu-Bellamont](/u/Mathieu-Bellamont)   |
+| [Sheogorath’s Summoning Day](/r/teslore/77w2sx)                                             | [imgaharambe](/u/imgaharambe)               |
+| [Sheogorath the Champion and His Favorite Dance](/r/teslore/29w1h6)                         | [excitedllama](/u/excitedllama)             |
+| [Sixteen Accords of Madness, Volume III - Molag Bal's Tale](/r/teslore/70e40x)              | [fruityloops49](/u/fruityloops49)           |
+| [Sixteen Accords of Madness: Volume XIII – Peryite’s Tale](/r/teslore/1x9u82)               | [IceFireWarden](/u/IceFireWarden)           |
+| [There are a few Blasphemes we must accept, here out on the open waters](/r/teslore/1zuxn9) | [TheGhostOfDRMURDER](/u/TheGhostOfDRMURDER) |
+| [Uncle Sheo: On Forks and their Tonal Applications](/r/teslore/comments/61mq2g)             | [HamSandLich](/u/HamSandLich)               |
+| [16 Accords of Madness: Namira's Tale](/r/teslore/6wnp62/)                                  | [BlackRated](/u/BlackRated)                 |
+| [16 Accords of Madness XIII](/r/teslore/3r4k8c)                                             | [pike184](/u/pike184)                       |
 
 ### Shezzarine
 
-**Title**| **Author**
-:-----------|:----------
-[The Forgotten Shezzarine](/r/teslore/comments/5jyj6v/the_forgotten_shezzarine/)|[FFLeo](/u/FFLeo)
-[The Shezzarrine Problem](/r/teslore/comments/4cxqpo/the_shezzarrine_problem/)|[WW1305](/u/WW1305)
+| **Title**                                     | **Author**          |
+| :-------------------------------------------- | :------------------ |
+| [The Forgotten Shezzarine](/r/teslore/5jyj6v) | [FFLeo](/u/FFLeo)   |
+| [The Shezzarrine Problem](/r/teslore/4cxqpo)  | [WW1305](/u/WW1305) |
 
 ### Sithis
 
-**Title**| **Author**
-:-----------|:----------
-[A Last Lecture on Sithis](/r/teslore/comments/1v5ugj/a_last_lecture_on_sithis/)|[RideTheLine](/u/RideTheLine)
-[Anui-El and Sithis: Love and Strife](/r/teslore/comments/467f9y/anuiel_and_sithis_love_and_strife/)|[Dreadnautilus](/u/Dreadnautilus)
-[Fangs of Sithis](/r/teslore/comments/218s1k/fangs_of_sithis/)|[IceFireWarden](/u/IceFireWarden)
-[The Last Lecture of Magister Pagadil](www.reddit.com/r/teslore/comments/5sb3gy/apocrypha_the_last_lecture_of_magister_pagadil/)|[Lactic_Patrol](/u/Lactic_Patrol)
-[Sithis as the Deity of Death in Form of Separation](/r/teslore/comments/2cj30i/sithis_as_the_deity_of_death_in_form_of_separation/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[What Sithis Is Not](/r/teslore/comments/4h3z07/what_sithis_is_not/)|[DuplexFields](/u/DuplexFields)
-[You will die by a thousand cuts unseen, for I am Vehk and Vehk, Dread Father and Night Mother, Mephala reborn, sex-death of language and lord of the middle air - Vivec!](/r/teslore/comments/1wjula/you_will_die_by_a_thousand_cuts_unseen_for_i_am/)|[Mdnthrvst](/u/Mdnthrvst)
+| **Title**                                                                                                                                                                                     | **Author**                                |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------- |
+| [A Last Lecture on Sithis](/r/teslore/1v5ugj)                                                                                                                                                 | [RideTheLine](/u/RideTheLine)             |
+| [Anui-El and Sithis: Love and Strife](/r/teslore/467f9y)                                                                                                                                      | [Dreadnautilus](/u/Dreadnautilus)         |
+| [Fangs of Sithis](/r/teslore/218s1k)                                                                                                                                                          | [IceFireWarden](/u/IceFireWarden)         |
+| [The Last Lecture of Magister Pagadil](www.reddit.com/r/teslore/5sb3gy)                                                                                                                       | [Lactic_Patrol](/u/Lactic_Patrol)         |
+| [Sithis as the Deity of Death in Form of Separation](/r/teslore/2cj30i)                                                                                                                       | [Doom-DrivenPoster](/u/Doom-DrivenPoster) |
+| [What Sithis Is Not](/r/teslore/4h3z07)                                                                                                                                                       | [DuplexFields](/u/DuplexFields)           |
+| [You will die by a thousand cuts unseen, for I am Vehk and Vehk, Dread Father and Night Mother, Mephala reborn, sex-death of language and lord of the middle air - Vivec!](/r/teslore/1wjula) | [Mdnthrvst](/u/Mdnthrvst)                 |
 
 ### Skaal
 
-**Title**| **Author**
-:-----------|:----------
-[The All-Maker, Skaal, & Tinfoil Theories](/r/teslore/comments/32wigh/the_allmaker_skaal_tinfoil_theories_wall_of_text/)|[World-Wanderer](/u/World-Wanderer)
-[An Evening with the Skaal](https://reddit.com/r/teslore/comments/5gmydw/an_evening_with_the_skaal/)|[veloticy](/u/veloticy)
-[Earth, Water and Wind; Sun, Beast and Hist](/r/teslore/comments/281o51/earth_water_and_wind_sun_beast_and_hist/)|[Mathemagics15](/u/Mathemagics15)
-[Further Inquiries into the Skaal Faith: A Letter](/r/teslore/6nvwxt/)|[AsukaRyou](/u/AsukaRyou)
-[How the Greedy Man lead Hrothmund the Red Astray](/r/teslore/comments/5hxl26/how_the_greedy_man_lead_hrothmund_the_red_astray/)|[veloticy](/u/veloticy)
-[How the Greedy-Man Broke the Heart of Beasts](/r/teslore/6vrew0/)|[veloticy](/u/veloticy)
-[The Lay of King Rafn: First Stanza - The Gift of Raven's Rock](/r/teslore/comments/2e09db/the_lay_of_king_rafn_first_stanza_the_gift_of/)|[OrdoCorvus](/u/OrdoCorvus)
-[The Lay of King Rafn: Second Stanza - The Joke of Trinmjurir](/r/teslore/comments/2e16y2/the_lay_of_king_rafn_second_stanza_the_joke_of/)|[OrdoCorvus](/u/OrdoCorvus)
-[The Lay of King Rafn: Third Stanza - The Sad Tale of Magni Dagnjr Leaps-Like-Salmon](/r/teslore/comments/2e5n3b/the_lay_of_king_rafn_third_stanza_the_sad_tale_of/)|[OrdoCorvus](/u/OrdoCorvus)
-[The Lay of King Rafn: Fourth Stanza - The Joke of King Iglaagr](/r/teslore/comments/2e7hdt/the_lay_of_king_rafn_fourth_stanza_the_joke_of/)|[OrdoCorvus](/u/OrdoCorvus)
-[The Lay of King Rafn: Fifth Stanza – The Kindness of King Hrajneyl](/r/teslore/comments/2ejpiw/the_lay_of_king_rafn_fifth_stanza_the_kindness_of/)|[IceFireWarden](/u/IceFireWarden) and [OrdoCorvus](/u/OrdoCorvus)
-[The Lay of King Rafn: Fifth Stanza: What Became of His Children](/r/teslore/comments/2ulxrd/the_lay_of_king_rafn_fifth_stanza_what_became_of/)|[OrdoCorvus](/u/OrdoCorvus)
-[The Lay of King Rafn: Sixth Stanza - Of the house of Dedrir](/r/teslore/comments/2v1lqh/the_lay_of_king_rafn_sixth_stanza_of_the_house_of/)|[OrdoCorvus](/u/OrdoCorvus)
-[Ode to the All-Maker](/r/teslore/comments/3z99x8/ode_to_the_allmaker/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Research into Skaal Religion] (/r/teslore/comments/1ofvdq/research_into_skaal_religion/)|[Hollymarkie](/u/Hollymarkie)
-['The Story of Aevar Stone-Singer' is no less than the story of Herma-Mora and the time-travelling Last Dragonborn in 4E201](/r/teslore/comments/1sw38w/the_story_of_aevar_stonesinger_is_no_less_than/)|[OccupyTamriel](/u/OccupyTamriel)
-[Things Herma-Mora saw ##2: Precepts of Thrond](/r/teslore/comments/2gqrh3/things_hermamora_saw_2_precepts_of_thrond/)|[Cyclenophus](/u/Cyclenophus)
-[The Three Blind Men and the Statue of the All-Maker](/r/teslore/comments/5m1ecz/the_three_blind_men_and_the_statue_of_the_allmaker/)|[veloticy](/u/veloticy)
-[Tribes of Tamriel, Volume I: The Skaal of Solstheim](/r/teslore/comments/2c6ivi/tribes_of_tamriel_volume_i_the_skaal_of_solstheim/)|[Hollymarkie](/u/Hollymarkie)
-[The Ways of the All-Maker](/r/teslore/729i5g)|[DLBAM](/u/DLBAM)
+| **Title**                                                                                                                                       | **Author**                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
+| [The All-Maker, Skaal, & Tinfoil Theories](/r/teslore/32wigh)                                                                                   | [World-Wanderer](/u/World-Wanderer)                               |
+| [An Evening with the Skaal](/r/teslore/5gmydw)                                                                                                  | [veloticy](/u/veloticy)                                           |
+| [Earth, Water and Wind; Sun, Beast and Hist](/r/teslore/281o51)                                                                                 | [Mathemagics15](/u/Mathemagics15)                                 |
+| [Further Inquiries into the Skaal Faith: A Letter](/r/teslore/6nvwxt/)                                                                          | [AsukaRyou](/u/AsukaRyou)                                         |
+| [How the Greedy Man lead Hrothmund the Red Astray](/r/teslore/5hxl26)                                                                           | [veloticy](/u/veloticy)                                           |
+| [How the Greedy-Man Broke the Heart of Beasts](/r/teslore/6vrew0/)                                                                              | [veloticy](/u/veloticy)                                           |
+| [The Lay of King Rafn: First Stanza - The Gift of Raven's Rock](/r/teslore/2e09db)                                                              | [OrdoCorvus](/u/OrdoCorvus)                                       |
+| [The Lay of King Rafn: Second Stanza - The Joke of Trinmjurir](/r/teslore/2e16y2)                                                               | [OrdoCorvus](/u/OrdoCorvus)                                       |
+| [The Lay of King Rafn: Third Stanza - The Sad Tale of Magni Dagnjr Leaps-Like-Salmon](/r/teslore/2e5n3b)                                        | [OrdoCorvus](/u/OrdoCorvus)                                       |
+| [The Lay of King Rafn: Fourth Stanza - The Joke of King Iglaagr](/r/teslore/2e7hdt)                                                             | [OrdoCorvus](/u/OrdoCorvus)                                       |
+| [The Lay of King Rafn: Fifth Stanza – The Kindness of King Hrajneyl](/r/teslore/2ejpiw)                                                         | [IceFireWarden](/u/IceFireWarden) and [OrdoCorvus](/u/OrdoCorvus) |
+| [The Lay of King Rafn: Fifth Stanza: What Became of His Children](/r/teslore/2ulxrd)                                                            | [OrdoCorvus](/u/OrdoCorvus)                                       |
+| [The Lay of King Rafn: Sixth Stanza - Of the house of Dedrir](/r/teslore/2v1lqh)                                                                | [OrdoCorvus](/u/OrdoCorvus)                                       |
+| [Ode to the All-Maker](/r/teslore/3z99x8)                                                                                                       | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                     |
+| [Research into Skaal Religion] (/r/teslore/1ofvdq)                                                                                              | [Hollymarkie](/u/Hollymarkie)                                     |
+| ['The Story of Aevar Stone-Singer' is no less than the story of Herma-Mora and the time-travelling Last Dragonborn in 4E201](/r/teslore/1sw38w) | [OccupyTamriel](/u/OccupyTamriel)                                 |
+| [Things Herma-Mora saw ##2: Precepts of Thrond](/r/teslore/2gqrh3)                                                                              | [Cyclenophus](/u/Cyclenophus)                                     |
+| [The Three Blind Men and the Statue of the All-Maker](/r/teslore/5m1ecz)                                                                        | [veloticy](/u/veloticy)                                           |
+| [Tribes of Tamriel, Volume I: The Skaal of Solstheim](/r/teslore/2c6ivi)                                                                        | [Hollymarkie](/u/Hollymarkie)                                     |
+| [The Ways of the All-Maker](/r/teslore/729i5g)                                                                                                  | [DLBAM](/u/DLBAM)                                                 |
 
 ### Skyrim
 
-**Title**| **Author**
-:-----------|:----------
-[A Bedtime Story about the Dragon Bridge](/r/teslore/comments/1v01m5/a_bedtime_story_about_the_dragon_bridge/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[A bit more census details of Skyrim](https://reddit.com/r/teslore/comments/5p6boj/a_bit_more_census_details_of_skyrim/)|[Zinitrad2](/u/Zinitrad2)
-[A Guide to the Reach](/r/teslore/comments/3t0cpr/a_guide_to_the_reach/)|[sjansen1](/u/sjansen1)
-[A History of Skyrim's Civil War (Part 1)](/r/teslore/comments/53os1e/a_history_of_skyrims_civil_war_part_1/)|[TheLionoftheEast](/u/TheLionoftheEast)
-[A Lament for the Northern City](/r/teslore/6cxo11/)|[Phantasmak](/u/Phantasmak)
-[A Multi-Stage plan for Self-Strengthening in Skyrim under the Stormcloak Dynasty: Part 1, Relations with the Dunmer and Saxhleel](/r/teslore/comments/58jn44/a_multistage_plan_for_selfstrengthening_in_skyrim/)|[HamSandLich](/u/HamSandLich)
-[A Multi-Stage Plan for Self-Strengthening in Skyrim under the Stormcloak Dynasty: Part 3, The Problem of The Reach](/r/teslore/comments/58pej1/a_multistage_plan_for_selfstrengthening_in_skyrim/)|[HamSandLich](/u/HamSandLich)
-[A Multi-stage plan for Self-Strengthening in Skyrim under the Stormcloak Dynasty: Part 2, Relations with Hammerfell and the Orcs](/r/teslore/comments/58nqtk/a_multistage_plan_for_selfstrengthening_in_skyrim/)|[HamSandLich](/u/HamSandLich)
-[A Multi-Stage Plan for Self-Strengthening in Skyrim under the Stormcloak Dynasty: Part 4, Learning and Faith](/r/teslore/comments/597q8l/a_multistage_plan_for_selfstrengthening_in_skyrim/)|[HamSandLich](/u/HamSandLich)
-[Maormer: The exiled worshippers of Lorkhan from Aldmeris?](/r/teslore/7gwau3)|[-PELINAL-](/u/-PELINAL-)
-[A Scholarly Assessment of the Motive, Nature, and Construction of Ancient Nord Cities from Observations of the Modern Ruins](/r/teslore/comments/5bgbb2/a_scholarly_assessment_of_the_motive_nature_and/)|[A_Puddle](/u/A_Puddle)
-[A Tale of Strife - Memoires and Diary of Jorgensen Steady-foot](/r/teslore/comments/66sbzg/)|[stealthybastardo](/u/stealthybastardo)
-[A Theory about the sigil of the Rift](/r/teslore/comments/514ypg/a_theory_about_the_sigil_of_the_rift/)|[shivj80](/u/shivj80)
-[Can Skyrim Defend Itself? Assessing Skyrim's Position](/r/teslore/comments/5j2j9o/can_skyrim_defend_itself_assessing_skyrims/)|[FoxInTheBrush](/u/FoxInTheBrush)
-[The Cattle Raid of Karthwasten](/r/teslore/comments/5eoigw/the_cattle_raid_of_karthwasten/)|[Ultach](/u/Ultach)
-[The City of Falkreath: An excerpt from “An Explorer’s Guide to Skyrim (2nd ed.)](/r/teslore/comments/3qsi6z/the_city_of_falkreath_an_excerpt_from_an/)|[parliamenttreehouse](/u/parliamenttreehouse)
-[The City of Morthal: An excerpt from “An Explorer’s Guide to Skyrim (2nd ed.)”](/r/teslore/comments/3r71sa/the_city_of_morthal_an_excerpt_from_an_explorers/)|[parliamenttreehouse](/u/parliamenttreehouse)
-[The City of Whiterun: An excerpt from "An Explorer's Guide to Skyrim (2nd ed.)"](/r/teslore/comments/3qiere/the_city_of_whiterun_an_excerpt_from_an_explorers/)|[parliamenttreehouse](/u/parliamenttreehouse)
-[A Concise Biography of High King Torygg, Volume I](/r/teslore/comments/22uinz/a_concise_biography_of_high_king_torygg_volume_i/)|[phil_hinds](/u/phil_hinds)
-[A Concise Biography of High King Torygg, Volume II](/r/teslore/comments/22vi12/a_concise_biography_of_high_king_torygg_volume_ii/)|[phil_hinds](/u/phil_hinds)
-[A Concise Biography of High King Torygg, Volume III](/r/teslore/comments/22wxrt/a_concise_biography_of_high_king_torygg_volume_iii/)|[phil_hinds](/u/phil_hinds)
-[A Cult’s Last Breath: Forelhost and Rahgot](/r/teslore/comments/2mx4dk/a_cults_last_breath_forelhost_and_rahgot/)|[ddaybones](/u/ddaybones)
-[A Gift From Arkay](/r/teslore/comments/2fgsrn/a_gift_from_arkay/)|[phil_hinds](/u/phil_hinds)
-[A History of Skyrim's Civil War (Part 1)](/r/teslore/comments/53os1e/a_history_of_skyrims_civil_war_part_1/)|[TheLionoftheEast](/u/TheLionoftheEast)
-[A History of Skyrim's Civil War (Part 2)](/r/teslore/comments/54m69u/a_history_of_skyrims_civil_war_part_2/)|[TheLionoftheEast](/u/TheLionoftheEast)
-[An Account On The Unfortunate Ending of Sabjar Crossed-Dagger](/r/teslore/comments/2cytqx/an_account_on_the_unfortunate_ending_of_sabjar/)|[phil_hinds](/u/phil_hinds)
-[An Essay on the Mammoths of Skyrim](/r/teslore/comments/18y858/an_essay_on_the_mammoths_of_skyrim/)|[Anhrl](/u/Anhrl)
-[An Ordinary Life, All Things Considered](/r/teslore/comments/25sc0w/an_ordinary_life_all_things_considered/)|[laurelanthalasa](/u/laurelanthalasa)
-[An Unlikely Guardian](/r/teslore/comments/2m8lou/an_unlikely_guardian/)|[Spoiscos](/u/Spoiscos)
-[An unplanned post about Ulfric Stormcloak](/r/teslore/comments/16ozps/an_unplanned_post_about_ulfric_stormcloak/)|[dbcification](/u/salivific)
-[An Unpublished Interview between Carrius Arevia and Elsa the Untrustworthy](/r/teslore/comments/2ibcuf/an_unpublished_interview_between_carrius_arevia/)|[phil_hinds](/u/phil_hinds)
-[A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Cover & Foreword)](/r/teslore/comments/26pw8p/a_pocket_guide_to_skyrim_and_its_environs/)|[IceFireWarden](/u/IceFireWarden)
-[A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 1)](/r/teslore/comments/26pxho/a_pocket_guide_to_skyrim_and_its_environs/)|[IceFireWarden](/u/IceFireWarden)
-[A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 2)](/r/teslore/comments/29l3tr/a_pocket_guide_to_skyrim_and_its_environs/)|[IceFireWarden](/u/IceFireWarden)
-[A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 3)](/r/teslore/comments/2i3543/a_pocket_guide_to_skyrim_and_its_environs/)|[IceFireWarden](/u/IceFireWarden)
-[A Reach Divided](/r/teslore/comments/25qlil/a_reach_divided/)|[Avian81](/u/Avian81)
-[A Report on the Bloodlines of Tamriel's Vampires Vol I](/r/teslore/comments/25fatg/a_report_on_the_bloodlines_of_tamriels_vampires/)|[Zoeyface](/u/Zoeyface)
-[A Report to Your Highness the Emperor from Mikavel Silver-Tongue](/r/teslore/comments/1kazf5/a_report_to_your_highness_the_emperor_from/)|[Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)
-[Archaeological despatch from postwar Skyrim](/r/teslore/comments/27hexc/archaeological_despatch_from_postwar_skyrim/)|[Lord_Hoot](/u/Lord_Hoot)
-[A Short Text Regarding Fang Lair](/r/teslore/comments/3i6ya3/a_short_text_regarding_fang_lair/)|[larrian_evermore](/u/larrian_evermore)
-[The Ballad of Harald Hand-Free: Part I](/r/teslore/comments/5blqsc/the_ballad_of_harald_handfree_part_i/)|[TheOutOfWorld](/u/TheOutOfWorld)
-[The Bard's Handbook: An Introduction To Skyrim's Musical Tradition](/r/teslore/comments/3igj7w/the_bards_handbook_an_introduction_to_skyrims/)|[nmd453](/u/nmd453)
-[The Bearded King Of The Mountain](/r/teslore/comments/2fhtiz/the_bearded_king_of_the_mountainteslore_challenge/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[Blood Under The Ice](/r/teslore/comments/2nw29t/blood_under_the_ice/)|[Spoiscos](/u/Spoiscos)
-[The Clan of Blood: Bloodskal Barrow and Zahkriisos](/r/teslore/comments/2nzid0/the_clan_of_blood_bloodskal_barrow_and_zahkriisos/)|[ddaybones](/u/ddaybones)
-[Crown of the Ancient Traveler](/r/teslore/comments/2fi4de/crown_of_the_ancient_traveler/)|[Sakazwal](/u/Sakazwal)
-[Rage Unending: A Descent into Forelhost](/r/teslore/comments/5bob29/rage_unending_a_descent_into_forelhost/)|[HamSandLich](/u/HamSandLich)
-[Dovahsebrom Forgotten: The Lost Tale of the High King Jhunal of Solitude, Part I](/r/teslore/comments/2fr7op/dovahsebrom_forgotten_the_lost_tale_of_the_high/)|[Francois_Rapiste](/u/Francois_Rapiste)
-[The Enigma of Ragnvald](/r/teslore/comments/2m446r/the_enigma_of_ragnvald/)|[ddaybones](/u/ddaybones)
-[Eternal Watch Against the Woodland Man: Vahlok’s Tomb and Vahlok the Jailor](/r/teslore/comments/2oeod9/eternal_watch_against_the_woodland_man_vahloks/)|[ddaybones](/u/ddaybones)
-[Expanded Herbology of the North](/r/teslore/comments/2ii9xj/expanded_herbology_of_the_north/)|[Omn1](/u/Omn1)
-[The Fall of Snowhawk](/r/teslore/comments/23chin/the_fall_of_snowhawk/)|[phil_hinds](/u/Phil_hinds)
-[Fang Expedition Weather Report: Northern Tamriel](/r/teslore/comments/27ocvn/fang_expedition_weather_report_northern_tamriel/)|[turokman2000](/u/turokman2000)
-[Flora of Skyrim, Volume I: The Humble Snowberry](/r/teslore/comments/35eria/flora_of_skyrim_volume_i_the_humble_snowberry/)|[cthulhuh00p](/u/cthulhuh00p)
-[Flora of Skyrim, Volume II: The Wily Juniper](/r/teslore/comments/35esri/flora_of_skyrim_volume_ii_the_wily_juniper/)|[cthulhuh00p](/u/cthulhuh00p)
-[Flora of Skyrim, Volume III: The Ominous Deathbell](/r/teslore/comments/35etv2/flora_of_skyrim_volume_iii_the_ominous_deathbell/)|[cthulhuh00p](/u/cthulhuh00p)
-[Flora of Skyrim, Volume IV: The Well-Used Tundra Cotton](/r/teslore/comments/35jv6w/flora_of_skyrim_volume_iv_the_wellused_tundra/)|[cthulhuh00p](/u/cthulhuh00p)
-[Flora of Skyrim, Volume V: The Dragon’s Tongue of Argonia](/r/teslore/comments/3673go/flora_of_skyrim_volume_v_the_dragons_tongue_of/)|[cthulhuh00p](/u/cthulhuh00p)
-[Forest Law of Whiterun](/r/teslore/comments/5crj37/forest_law_of_whiterun/)|[veloticy](/u/veloticy)
-[The Forgotten Lore of Skyrim, Volume XVII, Part I: The Pale Sorceress of Snowhawk](/r/teslore/6pp6cd/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[The Form of the Atronachs](/r/teslore/comments/1455tg/the_form_of_the_atronachs/)|[Ishullanu](/u/Ishullanu)
-[The Forsworn Kingdom](/r/teslore/comments/1ue2tt/the_forsworn_kingdom/)|[Avian81](/u/Avian81)
-[For the love of Talos](/r/teslore/comments/2kbvfq/for_the_love_of_talos/)|[Spoiscos](/u/Spoiscos)
-[The Great Hunt of the Traveller](/r/teslore/comments/2fh53n/the_great_hunt_of_the_traveller/)|[Hollymarkie](/u/Hollymarkie)
-[The Great Mead Crisis of the First Era](/r/teslore/comments/5mjsv1/the_great_mead_crisis_of_the_first_era/)|[avakinumibus](/u/avakinumibus)
-[The Grey Quarter: Re-Examined](/r/teslore/comments/5aqm2l/the_grey_quarter_reexamined/)|[veloticy](/u/veloticy)
-[Guardian of the North: High Gate Ruins and Vokun](/r/teslore/comments/2mb4oi/guardian_of_the_north_high_gate_ruins_and_vokun/)|[ddaybones](/u/ddaybones)
-[Guide to the Karth River](/r/teslore/comments/4c9nv8/guide_to_the_karth_river/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Heart Chamber as the Cave and other Heresies](/r/teslore/comments/26eyth/the_heart_chamber_as_the_cave_and_other_heresies/)|[laurelanthalasa](/u/laurelanthalasa)
-[Heating in Skyrim's major cities](/r/teslore/comments/4c6kmh/heating_in_skyrims_major_cities/)|[TurtleNoises](/u/TurtleNoises)
-[He Who Increaseth Knowledge, Increaseth Sorrow: Kolbjorn Barrow and Ahzidal](/r/teslore/comments/2o76hc/he_who_increaseth_knowledge_increaseth_sorrow/)|[ddaybones](/u/ddaybones)
-[Honest Intentions - Part I](/r/teslore/comments/2l84bj/honest_intentions_part_i/)|[ddaybones](/u/ddaybones)
-[Honest Intentions - Part II](/r/teslore/comments/2l87jf/honest_intentions_part_ii/)|[Toxictoyoursanity](/u/Toxictoyoursanity)
-[Honest Intentions - Part III](/r/teslore/comments/2lc0ei/honest_intentions_part_iii/)|[ddaybones](/u/ddaybones)
-[Honest Intentions - Part IV](/r/teslore/comments/2lc3pk/honest_intentions_part_iv/)|[Toxictoyoursanity](/u/Toxictoyoursanity)
-[Horror of Haafingar: Volskygge and Volsung](/r/teslore/comments/2mf19u/horror_of_haafingar_volskygge_and_volsung/)|[ddaybones](/u/ddaybones)
-[Hortator and Sharmat, Konahrik and Miraak, 1 and 1](/r/teslore/comments/1pcss6/hortator_and_sharmat_konahrik_and_miraak_1_and_1/)|[Mr_Flippers](/u/Mr_Flippers)
-[I found what remains of the "Skyrim Wildlife Ecological Survey" of 4E 201](/r/teslore/comments/3d43dd/i_found_what_remains_of_the_skyrim_wildlife/)|[Quantumtroll](/u/Quantumtroll)
-[The Importance of Identifying the Correct Materials to Create the Perfect Bedroll](/r/teslore/comments/2ioqwq/the_importance_of_identifying_the_correct/)|[phil_hinds](/u/phil_hinds)
-[Index Mappai Solitudi: The City of Solitude](/r/teslore/comments/3d10ti/index_mappai_solitudi_the_city_of_solitude/)|[RetharSaryon](/u/RetharSaryon)
-[Index Mappai Solitudi: The Norinvaar Hundred](/r/teslore/comments/3d8jng/index_mappai_solitudi_the_norinvaar_hundred/)|[RetharSaryon](/u/RetharSaryon)
-[Index Mappai Solitudi: The Lordship of Volthaal](/r/teslore/comments/3dq519/index_mappai_solitudi_the_lordship_of_volthaal/)|[RetharSaryon](/u/RetharSaryon)
-[Index Mappai Solitudi: Sovereignty of Luftraan](/r/teslore/comments/3dfkbl/index_mappai_solitudi_sovereignty_of_luftraan/)|[RetharSaryon](/u/RetharSaryon)
-[Index Mappai Solitudi: The Island of Volkihar](/r/teslore/comments/3d4iog/index_mappai_solitudi_the_island_of_volkihar/)|[RetharSaryon](/u/RetharSaryon)
-[Interview with a Legionnaire](/r/teslore/comments/2n2orx/interview_with_a_legionnaire/)|[Cyclenophus](/u/Cyclenophus)
-[Jarl Hanse's Folly](/r/teslore/comments/2fhkgc/jarl_hanses_folly_teslore_challenge_1/)|[AMFKing](/u/AMFKing)
-[The Journal of Cairine](/r/teslore/comments/28mvtv/the_journal_of_cairine/)|[phil_hinds](/u/phil_hinds)
-[Kyne's-Kiss Breathsnatcher Speaks at the Moot of Maws](/r/teslore/6ta91s/)|[the418thstep](/u/the418thstep)
-[Last Speech of the Witch-Queen](/r/teslore/comments/59792s/last_speech_of_the_witchqueen/)|[imgaharambe](/u/imgaharambe)
-[The Legend of Bhag Two Tongues](/r/teslore/comments/1zxmxa/the_legend_of_bhag_two_tongues/)|[Lord_Hoot](/u/Lord_Hoot)
-[The Lore of Law - Part II: Jurisdiction and Inter-Province Law](/r/teslore/comments/1lbrmb/the_lore_of_law_part_ii_jurisdiction_and/)|[kilcunda](/u/kilcunda)
-[Minor Factions of Skyrim: The Cult of Heliolagius](/r/teslore/comments/29n0zf/minor_factions_of_skyrim_the_cult_of_heliolagius/)|[Asotil](/u/Asotil)
-[Minor Factions of Skyrim: The Elk-Killing Society](/r/teslore/comments/29mhzq/minor_factions_of_skyrim_the_elkkilling_society/)|[Asotil](/u/Asotil)
-[Minor Factions of Skyrim: The Soldier-Cults of Malacath](/r/teslore/comments/2yk7ho/minor_factions_of_skyrim_the_soldiercults_of/)|[Asotil](/u/Asotil)
-[The Misfit of Morthal](/r/teslore/6f0frz/)|[avakinumibus](/u/avakinumibus)
-[The Missing Point](/r/teslore/6ta6he/)|[TheWoodenplank](/u/TheWoodenplank)
-[Myths over Riften: In The Shadow of the Dragonborn](/r/teslore/comments/23iiro/myths_over_riften_in_the_shadow_of_the_dragonborn/)|[Asotil](/u/Asotil)
-[The Nords and the Giants](/r/teslore/comments/1bzq5i/the_nords_and_the_giants/)|[Morganmarz](/u/Morganmarz)
-[The Numidiad: Part I](/r/teslore/comments/1rgnjn/the_numidiad_part_i/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part V](/r/teslore/comments/1rgnjn/the_numidiad_part_v/)|[myrrlyn](/u/myrrlyn)
-[Of Ragnulf the Bloodied and How He Met His Final End](/r/teslore/comments/2fm1dh/of_ragnulf_the_bloodied_and_how_he_met_his_final/)|[Asotil](/u/Asotil)
-[On Harkon the Bloody](/r/teslore/comments/2kjtia/on_harkon_the_bloody/)|[Asotil](/u/Asotil)
-[On the Humble Mudcrab](/r/teslore/comments/1t3lw3/on_the_humble_mudcrab/)|[lebiro](/u/lebiro)
-[On Hjaalmarch](/r/teslore/7fxg08)|[in-the-pine-forest](/u/in-the-pine-forest)
-[On Nedes and Nords](/r/teslore/comments/194uhp/on_nedes_and_nords/)|[lebiro](/u/lebiro)
-[On Orsimeri Family Life](/r/teslore/comments/1mw7f5/on_orsimeri_family_life/)|[myrrlyn](/u/myrrlyn)
-[On The Species Of Tamriel, Volume XIV: The Sons of the Snow](/r/teslore/comments/1lvjq0/on_the_species_of_tamriel_volume_xiv_the_sons_of/)|[Hollymarkie](/u/Hollymarkie)
-[On The Species Of Tamriel, Volume XVII: The Dead Elves of the North](/r/teslore/comments/1mnoc9/on_the_species_of_tamriel_volume_xvii_the_dead/)|[Hollymarkie](/u/Hollymarkie)
-[The Orcs of Skyrim, Vol. 1](/r/teslore/comments/5v0c96/the_orcs_of_skyrim_vol_1/)|[Black_Eagle78](/u/Black_Eagle78)
-[The Orcs of Skyrim, Vol. 2](/r/teslore/comments/5v0d0c/the_orcs_of_skyrim_vol_2/)|[Black_Eagle78](/u/Black_Eagle78)
-[Personal thoughts and reports on Northern Tamriel](/r/teslore/comments/1tc7q5/personal_thoughts_and_reports_on_northern_tamriel/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[The Red Era of Tamriel - Fall of Winterhold](/r/teslore/6ee3md/)|[TheWoodenplank](/u/TheWoodenplank)
-[Report for the Rift: 31st Sun's Height 1E2841](/r/teslore/comments/3dw1eg/report_for_the_rift_31st_suns_height_1e2841/)|[Trials_and_3rrors](/u/Trials_and_3rrors)
-[The Reunification of Skyrim, Part 1 - the Rift](/r/teslore/comments/5fdr8a/the_reunification_of_skyrim_part_1_the_rift/)|[veloticy](/u/veloticy)
-[The Reunification of Skyrim, Part 2 - Hjaalmarch](/r/teslore/comments/5ff7t8/the_reunification_of_skyrim_part_2_hjaalmarch/)|[veloticy](/u/veloticy)
-[The Reunification of Skyrim, Part 3 - Whiterun](/r/teslore/comments/5fjyt4/reunification_of_skyrim_part_3_whiterun/)|[veloticy](/u/veloticy)
-[The Reunification of Skyrim, Part 4 - the Reach](/r/teslore/comments/5fql4m/reunification_of_skyrim_part_4_the_reach/)|[veloticy](/u/veloticy)
-[The Reunification of Skyrim, Part 5 - the Truce](/r/teslore/comments/5fxkuu/reunification_of_skyrim_part_5_the_truce/)|[veloticy](/u/veloticy)
-[Rise Now, Great City of Winterhold](/r/teslore/comments/1t5f18/rise_now_great_city_of_winterhold/)|[Avian81](/u/Avian81)
-[Roads to Skyrim: the Pale Pass, part 1](/r/teslore/comments/55iz20/roads_to_skyrim_the_pale_pass_part_1/)|[KingBeron](/u/KingBeron)
-[Roads to Skyrim: the Pale Pass, part 2](/r/teslore/comments/55vkco/roads_to_skyrim_the_pale_pass_part_2/)|[KingBeron](/u/KingBeron)
-[Saturalia in Skyrim](/r/teslore/comments/2qb5z2/saturalia_in_skyrim/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Roads to Skyrim: the Pale Pass, part 3](/r/teslore/comments/59i450/roads_to_skyrim_the_pale_pass_part_3/)|[KingBeron](/u/KingBeron)
-[The Sea Of Ghosts](https://reddit.com/r/teslore/comments/5h2otx/the_sea_of_ghosts/)|[Sinistas](/u/Sinistas)
-[Sewage and the Rustics: A Case Study](/r/teslore/comments/1bcgww/sewage_and_the_rustics_a_case_study/)|[abrykwall](/u/abrykwall)
-[Shame for the Fallen: White Ridge Barrow and Dukaan](/r/teslore/comments/2o33su/shame_for_the_fallen_white_ridge_barrow_and_dukaan/)|[ddaybones](/u/ddaybones)
-[Sigils of the Great Houses of Skyrim, Part I](/r/teslore/comments/4q6c05/sigils_of_the_great_houses_of_skyrim_part_i/)|[shivj80](/u/shivj80)
-[The Sleepy Hamlets and Villages of Skyrim (Circa 3E 400)](/r/teslore/comments/54is6y/the_sleepy_hamlets_and_villages_of_skyrim_circa/)|[avakinumibus](/u/avakinumibus)
-[Smoking Traditions of Tamriel: Skyrim](/r/teslore/comments/2g9xrs/smoking_traditions_of_tamriel_skyrim/)|[OrdoCorvus](/u/OrdoCorvus)
-[Soil/Geology Report on Blackreach](/r/teslore/comments/25gq14/soilgeology_report_on_blackreach/)|[hoosierdaddy163](/u/hoosierdaddy163)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[Stairway to Heaven: Skuldafn and Nahkriin](/r/teslore/comments/2natf1/stairway_to_heaven_skuldafn_and_nahkriin/)|[ddaybones](/u/ddaybones)
-[The Stone of Snow-Throat](/r/teslore/comments/1oihxh/the_stone_of_snowthroat/)|[myrrlyn](/u/myrrlyn)
-[Stone of Snow-Throat, Eye of Magnus and more](/r/teslore/comments/26t64m/stone_of_snowthroat_eye_of_magnus_and_more/)|[EFG567](/u/EFG567)
-[Submission from the Athenaeum Telvanni: A Map of Haafingar Hold](/r/teslore/comments/38i9y2/submission_from_the_athenaeum_telvanni_a_map_of/)|[RetharSaryon](/u/RetharSaryon)
-[Summary of the Census of the Empire of Tamriel, in the 1st year of our 4th era; Skyrim](https://reddit.com/r/teslore/comments/5ozn8z/summary_of_the_census_of_the_empire_of_tamriel_in/)|[Zinitrad2](/u/Zinitrad2)
-[The Temptation of Apotheosis: Temple of Miraak and Miraak](/r/teslore/comments/2ooq74/the_temptation_of_apotheosis_temple_of_miraak_and/)|[ddaybones](/u/ddaybones)
-[Thalmor Inquiries - Part I](/r/teslore/comments/2l4inv/thalmor_inquiries_part_i/)|[Toxictoyoursanity](/u/Toxictoyoursanity)
-[Thalmor Inquiries - Part II](/r/teslore/comments/2l4maj/thalmor_inquiries_part_ii/)|[ddaybones](/u/ddaybones)
-[Thalmor Inquiries - Part III](/r/teslore/comments/2lfudq/thalmor_inquiries_part_iii/)|[Toxictoyoursanity](/u/Toxictoyoursanity)
-[Thalmor Inquiries - Part IV](/r/teslore/comments/2lg00e/thalmor_inquires_part_iv_elenwens_interrogation/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: College of Winterhold](/r/teslore/comments/2k4not/thalmor_report_on_the_factions_of_skyrim_college/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: Intro](/r/teslore/comments/2jstjk/thalmor_report_on_the_factions_of_skyrim_intro/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: The Companions](/r/teslore/comments/2k15fd/thalmor_report_on_the_factions_of_skyrim_the/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: The Dark Brotherhood](/r/teslore/comments/2khm3p/thalmor_report_on_the_factions_of_skyrim_the_dark/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: The Forsworn](/r/teslore/comments/2kxqog/thalmor_report_on_the_factions_of_skyrim_the/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: The Imperial Legion](/r/teslore/comments/2kpgh2/thalmor_report_on_the_factions_of_skyrim_the/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: The Stormcloaks](/r/teslore/comments/2klish/thalmor_report_on_the_factions_of_skyrim_the/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: The Penitus Oculatus](/r/teslore/comments/2ktglr/thalmor_report_on_the_factions_of_skyrim_the/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Factions of Skyrim: Thieves Guild](/r/teslore/comments/2k7g2q/thalmor_report_on_the_factions_of_skyrim_thieves/)|[ddaybones](/u/ddaybones)
-[Third Era Politics of Tamriel, Volume III: Skyrim](/r/teslore/comments/2yyfhe/third_era_politics_of_tamriel_volume_iii_skyrim/)|[Hollymarkie](/u/Hollymarkie)
-[Through Eastern Eyes, Part III.2: The Clash of Princes](/r/teslore/comments/1wpywa/through_eastern_eyes_part_iii2_the_clash_of/)|[Blackfyre67](/u/Blackfyre87)
-[Tyranny of the Northern Lord: Bromjunaar Sanctuary and Konahrik](/r/teslore/comments/2neecq/tyranny_of_the_northern_lord_bromjunaar_sanctuary/)|[ddaybones](/u/ddaybones)
-[Ulfric Stormcloak, the Civil War, the Crown of Verity, and the rejection of Jarl Ulfric](/r/teslore/comments/2a4xba/ulfric_stormcloak_the_civil_war_the_crown_of/)|[Blackfyre87](/u/Blackfyre87)
-[Ulfric, the Stormcloaks, and Hammerfell](/r/teslore/comments/5alqsb/ulfric_the_stormcloaks_and_hammerfell/)|[KomturAdrian](/u/KomturAdrian)
-[Under an Open Sky: Shearpoint and Krosis](/r/teslore/comments/2m7teu/under_an_open_sky_shearpoint_and_krosis/)|[ddaybones](/u/ddaybones)
-[Walking the World, Volume I: Winterhold](/r/teslore/6meltl/)|[Jimeee](/u/Jimeee)
-[Walking the World, Volume XI: Windhelm](/r/teslore/comments/23d0eb/walking_the_world_volume_xi_windhelm/)|[phil_hinds](/u/phil_hinds)
-[Winterhold Daily Courier - College closure has some local Nords irked](/r/teslore/comments/2y5lbk/winterhold_daily_courier_college_closure_has_some/)|[CupOfCanada](/u/CupOfCanada)
-[The 10th Hold?](/r/teslore/comments/5y1ixn/the_10th_hold/)|[SpaceJhester](/u/SpaceJhester)
-[25th of Evening Star, 4E 168 - A cheerful tale by Thedorus Mallus](/r/teslore/comments/2qa5oh/25th_of_evening_star_4e_168_a_cheerful_tale_by/)|[Spoiscos](/u/Spoiscos)
+| **Title**                                                                                                                                             | **Author**                                                                                                                                |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [A Bedtime Story about the Dragon Bridge](/r/teslore/1v01m5)                                                                                          | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| [A bit more census details of Skyrim](/r/teslore/5p6boj)                                                                                              | [Zinitrad2](/u/Zinitrad2)                                                                                                                 |
+| [A Guide to the Reach](/r/teslore/3t0cpr)                                                                                                             | [sjansen1](/u/sjansen1)                                                                                                                   |
+| [A History of Skyrim's Civil War (Part 1)](/r/teslore/53os1e)                                                                                         | [TheLionoftheEast](/u/TheLionoftheEast)                                                                                                   |
+| [A Lament for the Northern City](/r/teslore/6cxo11/)                                                                                                  | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [A Multi-Stage plan for Self-Strengthening in Skyrim under the Stormcloak Dynasty: Part 1, Relations with the Dunmer and Saxhleel](/r/teslore/58jn44) | [HamSandLich](/u/HamSandLich)                                                                                                             |
+| [A Multi-Stage Plan for Self-Strengthening in Skyrim under the Stormcloak Dynasty: Part 3, The Problem of The Reach](/r/teslore/58pej1)               | [HamSandLich](/u/HamSandLich)                                                                                                             |
+| [A Multi-stage plan for Self-Strengthening in Skyrim under the Stormcloak Dynasty: Part 2, Relations with Hammerfell and the Orcs](/r/teslore/58nqtk) | [HamSandLich](/u/HamSandLich)                                                                                                             |
+| [A Multi-Stage Plan for Self-Strengthening in Skyrim under the Stormcloak Dynasty: Part 4, Learning and Faith](/r/teslore/597q8l)                     | [HamSandLich](/u/HamSandLich)                                                                                                             |
+| [Maormer: The exiled worshippers of Lorkhan from Aldmeris?](/r/teslore/7gwau3)                                                                        | [-PELINAL-](/u/-PELINAL-)                                                                                                                 |
+| [A Scholarly Assessment of the Motive, Nature, and Construction of Ancient Nord Cities from Observations of the Modern Ruins](/r/teslore/5bgbb2)      | [A_Puddle](/u/A_Puddle)                                                                                                                   |
+| [A Tale of Strife - Memoires and Diary of Jorgensen Steady-foot](/r/teslore/66sbzg)                                                                   | [stealthybastardo](/u/stealthybastardo)                                                                                                   |
+| [A Theory about the sigil of the Rift](/r/teslore/514ypg)                                                                                             | [shivj80](/u/shivj80)                                                                                                                     |
+| [Can Skyrim Defend Itself? Assessing Skyrim's Position](/r/teslore/5j2j9o)                                                                            | [FoxInTheBrush](/u/FoxInTheBrush)                                                                                                         |
+| [The Cattle Raid of Karthwasten](/r/teslore/5eoigw)                                                                                                   | [Ultach](/u/Ultach)                                                                                                                       |
+| [The City of Falkreath: An excerpt from “An Explorer’s Guide to Skyrim (2nd ed.)](/r/teslore/3qsi6z)                                                  | [parliamenttreehouse](/u/parliamenttreehouse)                                                                                             |
+| [The City of Morthal: An excerpt from “An Explorer’s Guide to Skyrim (2nd ed.)”](/r/teslore/3r71sa)                                                   | [parliamenttreehouse](/u/parliamenttreehouse)                                                                                             |
+| [The City of Whiterun: An excerpt from "An Explorer's Guide to Skyrim (2nd ed.)"](/r/teslore/3qiere)                                                  | [parliamenttreehouse](/u/parliamenttreehouse)                                                                                             |
+| [A Concise Biography of High King Torygg, Volume I](/r/teslore/22uinz)                                                                                | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [A Concise Biography of High King Torygg, Volume II](/r/teslore/22vi12)                                                                               | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [A Concise Biography of High King Torygg, Volume III](/r/teslore/22wxrt)                                                                              | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [A Cult’s Last Breath: Forelhost and Rahgot](/r/teslore/2mx4dk)                                                                                       | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [A Gift From Arkay](/r/teslore/2fgsrn)                                                                                                                | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [A History of Skyrim's Civil War (Part 1)](/r/teslore/53os1e)                                                                                         | [TheLionoftheEast](/u/TheLionoftheEast)                                                                                                   |
+| [A History of Skyrim's Civil War (Part 2)](/r/teslore/54m69u)                                                                                         | [TheLionoftheEast](/u/TheLionoftheEast)                                                                                                   |
+| [An Account On The Unfortunate Ending of Sabjar Crossed-Dagger](/r/teslore/2cytqx)                                                                    | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [An Essay on the Mammoths of Skyrim](/r/teslore/18y858)                                                                                               | [Anhrl](/u/Anhrl)                                                                                                                         |
+| [An Ordinary Life, All Things Considered](/r/teslore/25sc0w)                                                                                          | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [An Unlikely Guardian](/r/teslore/2m8lou)                                                                                                             | [Spoiscos](/u/Spoiscos)                                                                                                                   |
+| [An unplanned post about Ulfric Stormcloak](/r/teslore/16ozps)                                                                                        | [dbcification](/u/salivific)                                                                                                              |
+| [An Unpublished Interview between Carrius Arevia and Elsa the Untrustworthy](/r/teslore/2ibcuf)                                                       | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Cover & Foreword)](/r/teslore/26pw8p)                                          | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 1)](/r/teslore/26pxho)                                                 | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 2)](/r/teslore/29l3tr)                                                 | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [A Pocket Guide to Skyrim and Its Environs: Hjaalmarch, Third Edition (Chapter 3)](/r/teslore/2i3543)                                                 | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [A Reach Divided](/r/teslore/25qlil)                                                                                                                  | [Avian81](/u/Avian81)                                                                                                                     |
+| [A Report on the Bloodlines of Tamriel's Vampires Vol I](/r/teslore/25fatg)                                                                           | [Zoeyface](/u/Zoeyface)                                                                                                                   |
+| [A Report to Your Highness the Emperor from Mikavel Silver-Tongue](/r/teslore/1kazf5)                                                                 | [Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)                                                                                                   |
+| [Archaeological despatch from postwar Skyrim](/r/teslore/27hexc)                                                                                      | [Lord_Hoot](/u/Lord_Hoot)                                                                                                                 |
+| [A Short Text Regarding Fang Lair](/r/teslore/3i6ya3)                                                                                                 | [larrian_evermore](/u/larrian_evermore)                                                                                                   |
+| [The Ballad of Harald Hand-Free: Part I](/r/teslore/5blqsc)                                                                                           | [TheOutOfWorld](/u/TheOutOfWorld)                                                                                                         |
+| [The Bard's Handbook: An Introduction To Skyrim's Musical Tradition](/r/teslore/3igj7w)                                                               | [nmd453](/u/nmd453)                                                                                                                       |
+| [The Bearded King Of The Mountain](/r/teslore/2fhtiz)                                                                                                 | [Doom-DrivenPoster](/u/Doom-DrivenPoster)                                                                                                 |
+| [Blood Under The Ice](/r/teslore/2nw29t)                                                                                                              | [Spoiscos](/u/Spoiscos)                                                                                                                   |
+| [The Clan of Blood: Bloodskal Barrow and Zahkriisos](/r/teslore/2nzid0)                                                                               | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Crown of the Ancient Traveler](/r/teslore/2fi4de)                                                                                                    | [Sakazwal](/u/Sakazwal)                                                                                                                   |
+| [Rage Unending: A Descent into Forelhost](/r/teslore/5bob29)                                                                                          | [HamSandLich](/u/HamSandLich)                                                                                                             |
+| [Dovahsebrom Forgotten: The Lost Tale of the High King Jhunal of Solitude, Part I](/r/teslore/2fr7op)                                                 | [Francois_Rapiste](/u/Francois_Rapiste)                                                                                                   |
+| [The Enigma of Ragnvald](/r/teslore/2m446r)                                                                                                           | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Eternal Watch Against the Woodland Man: Vahlok’s Tomb and Vahlok the Jailor](/r/teslore/2oeod9)                                                      | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Expanded Herbology of the North](/r/teslore/2ii9xj)                                                                                                  | [Omn1](/u/Omn1)                                                                                                                           |
+| [The Fall of Snowhawk](/r/teslore/23chin)                                                                                                             | [phil_hinds](/u/Phil_hinds)                                                                                                               |
+| [Fang Expedition Weather Report: Northern Tamriel](/r/teslore/27ocvn)                                                                                 | [turokman2000](/u/turokman2000)                                                                                                           |
+| [Flora of Skyrim, Volume I: The Humble Snowberry](/r/teslore/35eria)                                                                                  | [cthulhuh00p](/u/cthulhuh00p)                                                                                                             |
+| [Flora of Skyrim, Volume II: The Wily Juniper](/r/teslore/35esri)                                                                                     | [cthulhuh00p](/u/cthulhuh00p)                                                                                                             |
+| [Flora of Skyrim, Volume III: The Ominous Deathbell](/r/teslore/35etv2)                                                                               | [cthulhuh00p](/u/cthulhuh00p)                                                                                                             |
+| [Flora of Skyrim, Volume IV: The Well-Used Tundra Cotton](/r/teslore/35jv6w)                                                                          | [cthulhuh00p](/u/cthulhuh00p)                                                                                                             |
+| [Flora of Skyrim, Volume V: The Dragon’s Tongue of Argonia](/r/teslore/3673go)                                                                        | [cthulhuh00p](/u/cthulhuh00p)                                                                                                             |
+| [Forest Law of Whiterun](/r/teslore/5crj37)                                                                                                           | [veloticy](/u/veloticy)                                                                                                                   |
+| [The Forgotten Lore of Skyrim, Volume XVII, Part I: The Pale Sorceress of Snowhawk](/r/teslore/6pp6cd/)                                               | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [The Form of the Atronachs](/r/teslore/1455tg)                                                                                                        | [Ishullanu](/u/Ishullanu)                                                                                                                 |
+| [The Forsworn Kingdom](/r/teslore/1ue2tt)                                                                                                             | [Avian81](/u/Avian81)                                                                                                                     |
+| [For the love of Talos](/r/teslore/2kbvfq)                                                                                                            | [Spoiscos](/u/Spoiscos)                                                                                                                   |
+| [The Great Hunt of the Traveller](/r/teslore/2fh53n)                                                                                                  | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [The Great Mead Crisis of the First Era](/r/teslore/5mjsv1)                                                                                           | [avakinumibus](/u/avakinumibus)                                                                                                           |
+| [The Grey Quarter: Re-Examined](/r/teslore/5aqm2l)                                                                                                    | [veloticy](/u/veloticy)                                                                                                                   |
+| [Guardian of the North: High Gate Ruins and Vokun](/r/teslore/2mb4oi)                                                                                 | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Guide to the Karth River](/r/teslore/4c9nv8)                                                                                                         | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [The Heart Chamber as the Cave and other Heresies](/r/teslore/26eyth)                                                                                 | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [Heating in Skyrim's major cities](/r/teslore/4c6kmh)                                                                                                 | [TurtleNoises](/u/TurtleNoises)                                                                                                           |
+| [He Who Increaseth Knowledge, Increaseth Sorrow: Kolbjorn Barrow and Ahzidal](/r/teslore/2o76hc)                                                      | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Honest Intentions - Part I](/r/teslore/2l84bj)                                                                                                       | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Honest Intentions - Part II](/r/teslore/2l87jf)                                                                                                      | [Toxictoyoursanity](/u/Toxictoyoursanity)                                                                                                 |
+| [Honest Intentions - Part III](/r/teslore/2lc0ei)                                                                                                     | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Honest Intentions - Part IV](/r/teslore/2lc3pk)                                                                                                      | [Toxictoyoursanity](/u/Toxictoyoursanity)                                                                                                 |
+| [Horror of Haafingar: Volskygge and Volsung](/r/teslore/2mf19u)                                                                                       | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Hortator and Sharmat, Konahrik and Miraak, 1 and 1](/r/teslore/1pcss6)                                                                               | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [I found what remains of the "Skyrim Wildlife Ecological Survey" of 4E 201](/r/teslore/3d43dd)                                                        | [Quantumtroll](/u/Quantumtroll)                                                                                                           |
+| [The Importance of Identifying the Correct Materials to Create the Perfect Bedroll](/r/teslore/2ioqwq)                                                | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [Index Mappai Solitudi: The City of Solitude](/r/teslore/3d10ti)                                                                                      | [RetharSaryon](/u/RetharSaryon)                                                                                                           |
+| [Index Mappai Solitudi: The Norinvaar Hundred](/r/teslore/3d8jng)                                                                                     | [RetharSaryon](/u/RetharSaryon)                                                                                                           |
+| [Index Mappai Solitudi: The Lordship of Volthaal](/r/teslore/3dq519)                                                                                  | [RetharSaryon](/u/RetharSaryon)                                                                                                           |
+| [Index Mappai Solitudi: Sovereignty of Luftraan](/r/teslore/3dfkbl)                                                                                   | [RetharSaryon](/u/RetharSaryon)                                                                                                           |
+| [Index Mappai Solitudi: The Island of Volkihar](/r/teslore/3d4iog)                                                                                    | [RetharSaryon](/u/RetharSaryon)                                                                                                           |
+| [Interview with a Legionnaire](/r/teslore/2n2orx)                                                                                                     | [Cyclenophus](/u/Cyclenophus)                                                                                                             |
+| [Jarl Hanse's Folly](/r/teslore/2fhkgc)                                                                                                               | [AMFKing](/u/AMFKing)                                                                                                                     |
+| [The Journal of Cairine](/r/teslore/28mvtv)                                                                                                           | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [Kyne's-Kiss Breathsnatcher Speaks at the Moot of Maws](/r/teslore/6ta91s/)                                                                           | [the418thstep](/u/the418thstep)                                                                                                           |
+| [Last Speech of the Witch-Queen](/r/teslore/59792s)                                                                                                   | [imgaharambe](/u/imgaharambe)                                                                                                             |
+| [The Legend of Bhag Two Tongues](/r/teslore/1zxmxa)                                                                                                   | [Lord_Hoot](/u/Lord_Hoot)                                                                                                                 |
+| [The Lore of Law - Part II: Jurisdiction and Inter-Province Law](/r/teslore/1lbrmb)                                                                   | [kilcunda](/u/kilcunda)                                                                                                                   |
+| [Minor Factions of Skyrim: The Cult of Heliolagius](/r/teslore/29n0zf)                                                                                | [Asotil](/u/Asotil)                                                                                                                       |
+| [Minor Factions of Skyrim: The Elk-Killing Society](/r/teslore/29mhzq)                                                                                | [Asotil](/u/Asotil)                                                                                                                       |
+| [Minor Factions of Skyrim: The Soldier-Cults of Malacath](/r/teslore/2yk7ho)                                                                          | [Asotil](/u/Asotil)                                                                                                                       |
+| [The Misfit of Morthal](/r/teslore/6f0frz/)                                                                                                           | [avakinumibus](/u/avakinumibus)                                                                                                           |
+| [The Missing Point](/r/teslore/6ta6he/)                                                                                                               | [TheWoodenplank](/u/TheWoodenplank)                                                                                                       |
+| [Myths over Riften: In The Shadow of the Dragonborn](/r/teslore/23iiro)                                                                               | [Asotil](/u/Asotil)                                                                                                                       |
+| [The Nords and the Giants](/r/teslore/1bzq5i)                                                                                                         | [Morganmarz](/u/Morganmarz)                                                                                                               |
+| [The Numidiad: Part I](/r/teslore/1rgnjn)                                                                                                             | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [The Numidiad: Part V](/r/teslore/1rgnjn)                                                                                                             | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [Of Ragnulf the Bloodied and How He Met His Final End](/r/teslore/2fm1dh)                                                                             | [Asotil](/u/Asotil)                                                                                                                       |
+| [On Harkon the Bloody](/r/teslore/2kjtia)                                                                                                             | [Asotil](/u/Asotil)                                                                                                                       |
+| [On the Humble Mudcrab](/r/teslore/1t3lw3)                                                                                                            | [lebiro](/u/lebiro)                                                                                                                       |
+| [On Hjaalmarch](/r/teslore/7fxg08)                                                                                                                    | [in-the-pine-forest](/u/in-the-pine-forest)                                                                                               |
+| [On Nedes and Nords](/r/teslore/194uhp)                                                                                                               | [lebiro](/u/lebiro)                                                                                                                       |
+| [On Orsimeri Family Life](/r/teslore/1mw7f5)                                                                                                          | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [On The Species Of Tamriel, Volume XIV: The Sons of the Snow](/r/teslore/1lvjq0)                                                                      | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [On The Species Of Tamriel, Volume XVII: The Dead Elves of the North](/r/teslore/1mnoc9)                                                              | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [The Orcs of Skyrim, Vol. 1](/r/teslore/5v0c96)                                                                                                       | [Black_Eagle78](/u/Black_Eagle78)                                                                                                         |
+| [The Orcs of Skyrim, Vol. 2](/r/teslore/5v0d0c)                                                                                                       | [Black_Eagle78](/u/Black_Eagle78)                                                                                                         |
+| [Personal thoughts and reports on Northern Tamriel](/r/teslore/1tc7q5)                                                                                | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)                                  | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [The Red Era of Tamriel - Fall of Winterhold](/r/teslore/6ee3md/)                                                                                     | [TheWoodenplank](/u/TheWoodenplank)                                                                                                       |
+| [Report for the Rift: 31st Sun's Height 1E2841](/r/teslore/3dw1eg)                                                                                    | [Trials_and_3rrors](/u/Trials_and_3rrors)                                                                                                 |
+| [The Reunification of Skyrim, Part 1 - the Rift](/r/teslore/5fdr8a)                                                                                   | [veloticy](/u/veloticy)                                                                                                                   |
+| [The Reunification of Skyrim, Part 2 - Hjaalmarch](/r/teslore/5ff7t8)                                                                                 | [veloticy](/u/veloticy)                                                                                                                   |
+| [The Reunification of Skyrim, Part 3 - Whiterun](/r/teslore/5fjyt4)                                                                                   | [veloticy](/u/veloticy)                                                                                                                   |
+| [The Reunification of Skyrim, Part 4 - the Reach](/r/teslore/5fql4m)                                                                                  | [veloticy](/u/veloticy)                                                                                                                   |
+| [The Reunification of Skyrim, Part 5 - the Truce](/r/teslore/5fxkuu)                                                                                  | [veloticy](/u/veloticy)                                                                                                                   |
+| [Rise Now, Great City of Winterhold](/r/teslore/1t5f18)                                                                                               | [Avian81](/u/Avian81)                                                                                                                     |
+| [Roads to Skyrim: the Pale Pass, part 1](/r/teslore/55iz20)                                                                                           | [KingBeron](/u/KingBeron)                                                                                                                 |
+| [Roads to Skyrim: the Pale Pass, part 2](/r/teslore/55vkco)                                                                                           | [KingBeron](/u/KingBeron)                                                                                                                 |
+| [Saturalia in Skyrim](/r/teslore/2qb5z2)                                                                                                              | [The_OP3RaT0R](/u/The_OP3RaT0R)                                                                                                           |
+| [Roads to Skyrim: the Pale Pass, part 3](/r/teslore/59i450)                                                                                           | [KingBeron](/u/KingBeron)                                                                                                                 |
+| [The Sea Of Ghosts](/r/teslore/5h2otx)                                                                                                                | [Sinistas](/u/Sinistas)                                                                                                                   |
+| [Sewage and the Rustics: A Case Study](/r/teslore/1bcgww)                                                                                             | [abrykwall](/u/abrykwall)                                                                                                                 |
+| [Shame for the Fallen: White Ridge Barrow and Dukaan](/r/teslore/2o33su)                                                                              | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Sigils of the Great Houses of Skyrim, Part I](/r/teslore/4q6c05)                                                                                     | [shivj80](/u/shivj80)                                                                                                                     |
+| [The Sleepy Hamlets and Villages of Skyrim (Circa 3E 400)](/r/teslore/54is6y)                                                                         | [avakinumibus](/u/avakinumibus)                                                                                                           |
+| [Smoking Traditions of Tamriel: Skyrim](/r/teslore/2g9xrs)                                                                                            | [OrdoCorvus](/u/OrdoCorvus)                                                                                                               |
+| [Soil/Geology Report on Blackreach](/r/teslore/25gq14)                                                                                                | [hoosierdaddy163](/u/hoosierdaddy163)                                                                                                     |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                                                                                     | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [Stairway to Heaven: Skuldafn and Nahkriin](/r/teslore/2natf1)                                                                                        | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [The Stone of Snow-Throat](/r/teslore/1oihxh)                                                                                                         | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [Stone of Snow-Throat, Eye of Magnus and more](/r/teslore/26t64m)                                                                                     | [EFG567](/u/EFG567)                                                                                                                       |
+| [Submission from the Athenaeum Telvanni: A Map of Haafingar Hold](/r/teslore/38i9y2)                                                                  | [RetharSaryon](/u/RetharSaryon)                                                                                                           |
+| [Summary of the Census of the Empire of Tamriel, in the 1st year of our 4th era; Skyrim](/r/teslore/5ozn8z)                                           | [Zinitrad2](/u/Zinitrad2)                                                                                                                 |
+| [The Temptation of Apotheosis: Temple of Miraak and Miraak](/r/teslore/2ooq74)                                                                        | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Inquiries - Part I](/r/teslore/2l4inv)                                                                                                       | [Toxictoyoursanity](/u/Toxictoyoursanity)                                                                                                 |
+| [Thalmor Inquiries - Part II](/r/teslore/2l4maj)                                                                                                      | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Inquiries - Part III](/r/teslore/2lfudq)                                                                                                     | [Toxictoyoursanity](/u/Toxictoyoursanity)                                                                                                 |
+| [Thalmor Inquiries - Part IV](/r/teslore/2lg00e)                                                                                                      | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: College of Winterhold](/r/teslore/2k4not)                                                                  | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: Intro](/r/teslore/2jstjk)                                                                                  | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: The Companions](/r/teslore/2k15fd)                                                                         | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: The Dark Brotherhood](/r/teslore/2khm3p)                                                                   | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: The Forsworn](/r/teslore/2kxqog)                                                                           | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: The Imperial Legion](/r/teslore/2kpgh2)                                                                    | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: The Stormcloaks](/r/teslore/2klish)                                                                        | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: The Penitus Oculatus](/r/teslore/2ktglr)                                                                   | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Thalmor Report on the Factions of Skyrim: Thieves Guild](/r/teslore/2k7g2q)                                                                          | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Third Era Politics of Tamriel, Volume III: Skyrim](/r/teslore/2yyfhe)                                                                                | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Through Eastern Eyes, Part III.2: The Clash of Princes](/r/teslore/1wpywa)                                                                           | [Blackfyre67](/u/Blackfyre87)                                                                                                             |
+| [Tyranny of the Northern Lord: Bromjunaar Sanctuary and Konahrik](/r/teslore/2neecq)                                                                  | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Ulfric Stormcloak, the Civil War, the Crown of Verity, and the rejection of Jarl Ulfric](/r/teslore/2a4xba)                                          | [Blackfyre87](/u/Blackfyre87)                                                                                                             |
+| [Ulfric, the Stormcloaks, and Hammerfell](/r/teslore/5alqsb)                                                                                          | [KomturAdrian](/u/KomturAdrian)                                                                                                           |
+| [Under an Open Sky: Shearpoint and Krosis](/r/teslore/2m7teu)                                                                                         | [ddaybones](/u/ddaybones)                                                                                                                 |
+| [Walking the World, Volume I: Winterhold](/r/teslore/6meltl/)                                                                                         | [Jimeee](/u/Jimeee)                                                                                                                       |
+| [Walking the World, Volume XI: Windhelm](/r/teslore/23d0eb)                                                                                           | [phil_hinds](/u/phil_hinds)                                                                                                               |
+| [Winterhold Daily Courier - College closure has some local Nords irked](/r/teslore/2y5lbk)                                                            | [CupOfCanada](/u/CupOfCanada)                                                                                                             |
+| [The 10th Hold?](/r/teslore/5y1ixn)                                                                                                                   | [SpaceJhester](/u/SpaceJhester)                                                                                                           |
+| [25th of Evening Star, 4E 168 - A cheerful tale by Thedorus Mallus](/r/teslore/2qa5oh)                                                                | [Spoiscos](/u/Spoiscos)                                                                                                                   |
 
 ### Slavery
 
-**Title**| **Author**
-:-----------|:----------
-[An Ordinary Life, All Things Considered](/r/teslore/comments/25sc0w/an_ordinary_life_all_things_considered/)|[laurelanthalasa](/u/laurelanthalasa)
-[Killing the Brothers Ienith](/r/teslore/comments/2q5d9b/killing_the_brothers_ienith/)|[The_Silvenar](/u/The_Silvenar)
-[Memoir of a Khajiiti Slave (Part 1)](/r/teslore/6ceh6b/)|[RancidTrombone](/u/RancidTrombone)
-[Memoirs of a Khajiiti Slave (Part 2 of 3)](/r/teslore/6d6o35/)|[RancidTrombone](/u/RancidTrombone)
-[Memoirs of a Khajiiti Slave (Part 3)](/r/teslore/6obdou/)|[RancidTrombone](/u/RancidTrombone)
-[On the Marriage Practices of Morrowind, and some notes on the institution of slavery in Morrowind](/r/teslore/comments/19smmy/on_the_marriage_practices_of_morrowind_and_so)|[FrankManic](/u/FrankManic)
-[The Red Era of Tamriel - Last words of a House Hlaalu Slave](/r/teslore/6doa4w/)|[TheWoodenplank](/u/TheWoodenplank)
-[Romantization of the Nchuand-Zel Stone](/r/teslore/comments/14f98f/romanization_of_the_nchuandzel_stone/)|[dbcification](/u/salivific)
+| **Title**                                                                                                              | **Author**                            |
+| :--------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
+| [An Ordinary Life, All Things Considered](/r/teslore/25sc0w)                                                           | [laurelanthalasa](/u/laurelanthalasa) |
+| [Killing the Brothers Ienith](/r/teslore/2q5d9b)                                                                       | [The_Silvenar](/u/The_Silvenar)       |
+| [Memoir of a Khajiiti Slave (Part 1)](/r/teslore/6ceh6b/)                                                              | [RancidTrombone](/u/RancidTrombone)   |
+| [Memoirs of a Khajiiti Slave (Part 2 of 3)](/r/teslore/6d6o35/)                                                        | [RancidTrombone](/u/RancidTrombone)   |
+| [Memoirs of a Khajiiti Slave (Part 3)](/r/teslore/6obdou/)                                                             | [RancidTrombone](/u/RancidTrombone)   |
+| [On the Marriage Practices of Morrowind, and some notes on the institution of slavery in Morrowind](/r/teslore/19smmy) | [FrankManic](/u/FrankManic)           |
+| [The Red Era of Tamriel - Last words of a House Hlaalu Slave](/r/teslore/6doa4w/)                                      | [TheWoodenplank](/u/TheWoodenplank)   |
+| [Romantization of the Nchuand-Zel Stone](/r/teslore/14f98f)                                                            | [dbcification](/u/salivific)          |
 
 ### Sload
 
-**Title**| **Author**
-:-----------|:----------
-[A Gift From The Sload](/r/teslore/comments/5bmtaj/a_gift_from_the_sload/)|[docclox](/u/docclox)
-[An Alehouse Story About Sload](/r/teslore/comments/1rjlha/an_alehouse_story_about_sload/)|[OPGreenback](/u/OPGreenback)
-[An Excerpt from "The Misunderstandings of the Sload"](/r/teslore/6by7o9/)|[The_White_Guar](/u/The_White_Guar)
-[A Possible Sload Creation Myth](/r/teslore/comments/68q4ve/)|[The_White_Guar](/u/The_White_Guar)
-[Arrival](/r/teslore/comments/5bum65/arrival/)|[Semblio](/u/Semblio)
-[A Summary On The More Obscure Races Of Nirn](/r/teslore/comments/1lva4q/a_summary_on_the_more_obscure_races_of_nirn/)|[Hollymarkie](/u/Hollymarkie)
-[The Harp](www.reddit.com/r/teslore/comments/5thbwq/the_harp/)|[The_White_Guar](/u/The_White_Guar)
-[Lesser Known Sload of Nirn](/r/teslore/comments/3454my/lesser_known_sload_of_nirn/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[N'gasta! Defiler! Destroyer!](/r/teslore/comments/5c6cwp/ngasta_defiler_destroyer/)|[milkdrinkersunited](/u/milkdrinkersunited)
-[On the Nature of the Kamal](/r/teslore/comments/1utual/on_the_nature_of_the_kamal/)|[FreezerBurn00](/u/FreezerBurn00)
-[Red Hot Sload Sex](/r/teslore/comments/5cf6qj/red_hot_sload_sex/)|[Rusty_Shakalford](/u/Rusty_Shakalford)
-[Sa Notauw N'Gasta](/r/teslore/7ipqpd)|[The_White_Guar](/u/The_White_Guar)
-[SL0DA](/r/teslore/comments/5brom5/sl0da/)|[The_White_Guar](/u/The_White_Guar)
-[The Adventurer’s Companion To Black Marsh: Soulrest](/r/teslore/comments/1xaedm/the_adventurers_companion_to_black_marsh_soulrest/)|[IceFireWarden](/u/IceFireWarden)
-[The Revised Imperial Report on the Sload, by Flavius Lups, Synod Scholar](/r/teslore/comments/17omee/the_revised_imperial_report_on_the_origin_of_the/)|[b-rad-oleary](/u/b-rad-oleary)
+| **Title**                                                                                     | **Author**                                    |
+| :-------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [A Gift From The Sload](/r/teslore/5bmtaj)                                                    | [docclox](/u/docclox)                         |
+| [An Alehouse Story About Sload](/r/teslore/1rjlha)                                            | [OPGreenback](/u/OPGreenback)                 |
+| [An Excerpt from "The Misunderstandings of the Sload"](/r/teslore/6by7o9/)                    | [The_White_Guar](/u/The_White_Guar)           |
+| [A Possible Sload Creation Myth](/r/teslore/68q4ve)                                           | [The_White_Guar](/u/The_White_Guar)           |
+| [Arrival](/r/teslore/5bum65)                                                                  | [Semblio](/u/Semblio)                         |
+| [A Summary On The More Obscure Races Of Nirn](/r/teslore/1lva4q)                              | [Hollymarkie](/u/Hollymarkie)                 |
+| [The Harp](www.reddit.com/r/teslore/5thbwq)                                                   | [The_White_Guar](/u/The_White_Guar)           |
+| [Lesser Known Sload of Nirn](/r/teslore/3454my)                                               | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [N'gasta! Defiler! Destroyer!](/r/teslore/5c6cwp)                                             | [milkdrinkersunited](/u/milkdrinkersunited)   |
+| [On the Nature of the Kamal](/r/teslore/1utual)                                               | [FreezerBurn00](/u/FreezerBurn00)             |
+| [Red Hot Sload Sex](/r/teslore/5cf6qj)                                                        | [Rusty_Shakalford](/u/Rusty_Shakalford)       |
+| [Sa Notauw N'Gasta](/r/teslore/7ipqpd)                                                        | [The_White_Guar](/u/The_White_Guar)           |
+| [SL0DA](/r/teslore/5brom5)                                                                    | [The_White_Guar](/u/The_White_Guar)           |
+| [The Adventurer’s Companion To Black Marsh: Soulrest](/r/teslore/1xaedm)                      | [IceFireWarden](/u/IceFireWarden)             |
+| [The Revised Imperial Report on the Sload, by Flavius Lups, Synod Scholar](/r/teslore/17omee) | [b-rad-oleary](/u/b-rad-oleary)               |
 
 ### Solstheim
 
-**Title**| **Author**
-:-----------|:----------
-[The Civil War of Solstheim: The Traitor vs. A Guardian](/r/teslore/comments/4cadvx/the_civil_war_of_solstheim_the_traitor_vs_a/)|[ddaybones](/u/ddaybones)
-[The Clan of Blood: Bloodskal Barrow and Zahkriisos](/r/teslore/comments/2nzid0/the_clan_of_blood_bloodskal_barrow_and_zahkriisos/)|[ddaybones](/u/ddaybones)
-[The definitive guide to Solstheims development in the 4th Era, and why YOU should invest in it!](/r/teslore/comments/5yttcd/the_definitive_guide_to_solstheims_development_in/)|[Ximicacan](/u/Ximicacan)
-[Hortator and Sharmat, Konahrik and Miraak, 1 and 1](/r/teslore/comments/1pcss6/hortator_and_sharmat_konahrik_and_miraak_1_and_1/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Incoherence of Solstheim](/r/teslore/comments/21o0gl/the_incoherence_of_solstheim/)|[Blackfyre87](/u/Blackfyre87)
-[Research into Skaal Religion] (/r/teslore/comments/1ofvdq/research_into_skaal_religion/)|[Hollymarkie](/u/Hollymarkie)
-[Rieklings: A Tiny Civillization, Unmasked](/r/teslore/comments/198q3r/rieklings_a_tiny_civilization_unmasked/)|[Lorfiend](/u/Lorfiend)
-[The War of Bloody Ravens](/r/teslore/comments/29l5ma/the_war_of_bloody_ravens/)|[IceFireWarden](/u/IceFireWarden)
+| **Title**                                                                                                            | **Author**                        |
+| :------------------------------------------------------------------------------------------------------------------- | :-------------------------------- |
+| [The Civil War of Solstheim: The Traitor vs. A Guardian](/r/teslore/4cadvx)                                          | [ddaybones](/u/ddaybones)         |
+| [The Clan of Blood: Bloodskal Barrow and Zahkriisos](/r/teslore/2nzid0)                                              | [ddaybones](/u/ddaybones)         |
+| [The definitive guide to Solstheims development in the 4th Era, and why YOU should invest in it!](/r/teslore/5yttcd) | [Ximicacan](/u/Ximicacan)         |
+| [Hortator and Sharmat, Konahrik and Miraak, 1 and 1](/r/teslore/1pcss6)                                              | [Mr_Flippers](/u/Mr_Flippers)     |
+| [The Incoherence of Solstheim](/r/teslore/21o0gl)                                                                    | [Blackfyre87](/u/Blackfyre87)     |
+| [Research into Skaal Religion] (/r/teslore/1ofvdq)                                                                   | [Hollymarkie](/u/Hollymarkie)     |
+| [Rieklings: A Tiny Civillization, Unmasked](/r/teslore/198q3r)                                                       | [Lorfiend](/u/Lorfiend)           |
+| [The War of Bloody Ravens](/r/teslore/29l5ma)                                                                        | [IceFireWarden](/u/IceFireWarden) |
 
 ### Sotha Sil
 
-**Title**| **Author**
-:-----------|:----------
-[Almalexia and Sotha Sil have an Argument](/r/teslore/comments/245noy/almalexia_and_sotha_sil_have_an_argument/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[The Connection-Fabricant of Lord Sotha Sil](/r/teslore/71is1y)|[Sawbones194](/u/Sawbones194)
-[Deep Under The Sea With A Clockwork Deity](/r/teslore/comments/2es3lz/deep_under_the_sea_with_a_clockwork_deity/)|[Trainwiz](/u/Trainwiz)
-[From NTH with love](/r/teslore/71qac0)|[Sawbones194](/u/Sawbones194)
-[Gender in Tamrielic Faith Part 2: Seht and Azura](/r/teslore/comments/272827/gender_in_tamrielic_faith_part_2_seht_and_azura/)|[laurelanthalasa](/u/laurelanthalasa)
-[Moon Meeting with Sotha Sil](/r/teslore/comments/1sbgqr/moon_meeting_with_sotha_sil/)|[Mr_Flippers](/u/Mr_Flippers)
-[Root Meditation with Sotha Sil](/r/teslore/comments/1tp16x/root_meditation_with_sotha_sil/)|[IceFireWarden](/u/IceFireWarden)
-[Sotha Sil's Word-Meeting With The Eight Voids](/r/teslore/comments/6a5iy0/)|[Jonny_Anonymous](/u/Jonny_Anonymous)
-[When Sotha Sil left his legs](/r/teslore/comments/24xf6r/when_sotha_sil_left_his_legs/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
+| **Title**                                                             | **Author**                                |
+| :-------------------------------------------------------------------- | :---------------------------------------- |
+| [Almalexia and Sotha Sil have an Argument](/r/teslore/245noy)         | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl) |
+| [The Connection-Fabricant of Lord Sotha Sil](/r/teslore/71is1y)       | [Sawbones194](/u/Sawbones194)             |
+| [Deep Under The Sea With A Clockwork Deity](/r/teslore/2es3lz)        | [Trainwiz](/u/Trainwiz)                   |
+| [From NTH with love](/r/teslore/71qac0)                               | [Sawbones194](/u/Sawbones194)             |
+| [Gender in Tamrielic Faith Part 2: Seht and Azura](/r/teslore/272827) | [laurelanthalasa](/u/laurelanthalasa)     |
+| [Moon Meeting with Sotha Sil](/r/teslore/1sbgqr)                      | [Mr_Flippers](/u/Mr_Flippers)             |
+| [Root Meditation with Sotha Sil](/r/teslore/1tp16x)                   | [IceFireWarden](/u/IceFireWarden)         |
+| [Sotha Sil's Word-Meeting With The Eight Voids](/r/teslore/6a5iy0)    | [Jonny_Anonymous](/u/Jonny_Anonymous)     |
+| [When Sotha Sil left his legs](/r/teslore/24xf6r)                     | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl) |
 
 ### Souls
 
-**Title**| **Author**
-:-----------|:----------
-[Journal of a Lost Soul](/r/teslore/comments/20mc5v/journal_of_a_lost_soul/)|[ShezLorShor](/u/ShezLorShor)
-[Souls, the Dreamsleeve, and Stories](/r/teslore/comments/2bkus0/souls_the_dreamsleeve_and_stories/)|[Aelfgyve](/u/Aelfgyve)
+| **Title**                                                | **Author**                    |
+| :------------------------------------------------------- | :---------------------------- |
+| [Journal of a Lost Soul](/r/teslore/20mc5v)              | [ShezLorShor](/u/ShezLorShor) |
+| [Souls, the Dreamsleeve, and Stories](/r/teslore/2bkus0) | [Aelfgyve](/u/Aelfgyve)       |
 
 ### Summerset Isles
 
-**Title**| **Author**
-:-----------|:----------
-[An Analysis of Altmer Crime In The Late 420's](/r/teslore/7a4l2w)|[Psychotrip](/u/Psychotrip)
-[An Analysis Of Altmeri Architecture In The Late 420's](/r/teslore/7ad623)|[Psychotrip](/u/Psychotrip)
-[An Analysis Of Summerset's "Bloody Sundas"](/r/teslore/79nsbp)|[Psychotrip](/u/Psychotrip)
-[An Analysis Of The Altmer Caste System In The Late 420's](/r/teslore/7a0pry)|[Psychotrip](/u/Psychotrip)
-[Excerpt from the minutes of the "Skywatch Concerned Citizens" meeting, 12 Frostfall 2E 583](/r/teslore/comments/57eiht/excerpt_from_the_minutes_of_the_skywatch/)|[Rusty_Shakalford](/u/Rusty_Shakalford)
-[Fauna of Summerset: The Greatfly](/r/teslore/79wd6a)|[Psychotrip](/u/Psychotrip)
-[Lesser-Known Peoples of Tamriel V: The Weyache Skygazers](/r/teslore/comments/299j3e/lesserknown_peoples_of_tamriel_v_the_weyache/)|[Lord_Hoot](/u/Lord_Hoot)
-[Lillandril, A Brief History: The Merethic Era](/r/teslore/comments/3sop51/lillandril_a_brief_history_the_merethic_era/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Maxis II, The Lamp King of Firsthold](/r/teslore/comments/5g1c7a/maxis_ii_the_lamp_king_of_firsthold/)|[brinehammer](/u/brinehammer)
-[On the Humble Mudcrab](/r/teslore/comments/1t3lw3/on_the_humble_mudcrab/)|[lebiro](/u/lebiro)
-[On The Species Of Tamriel, Volume III: Cultured and Arrogant: the Altmer](/r/teslore/comments/1ja6nm/on_the_species_of_tamriel_volume_iii_cultured_and/)|[Hollymarkie](/u/Hollymarkie)
-[Smoking Traditions of Tamriel: The Summerset Isles](/r/teslore/comments/2g6k4v/smoking_traditions_of_tamriel_the_summerset_isles/)|[OrdoCorvus](/u/OrdoCorvus)
-[Summerset Cuisine](/r/teslore/7akcks)|[Psychotrip](/u/Psychotrip)
-[The Altmer: A Cultural Perspective](/r/teslore/comments/pvwe2/the_altmer_a_cultural_perspective/)|[nerdlights](/u/nerdlights)
-[The Beautiful](/r/teslore/comments/267sr4/the_beautiful/)|[Hollymarkie](/u/Hollymarkie)
-[The Gifts Of The Artists](/r/teslore/79p2v9)|[Psychotrip](/u/Psychotrip)
-[The Nature Loving Mer of Tamriel's South](/r/teslore/comments/1791f2/the_nature_loving_mer_of_tamriels_south/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Numidiad: Part II](/r/teslore/comments/1rgnjn/the_numidiad_part_ii/)|[myrrlyn](/u/myrrlyn)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[The Political Situation Of The Summerset Isles In The Late 420's](/r/teslore/79ja5m)|[Psychotrip](/u/Psychotrip)
+| **Title**                                                                                                            | **Author**                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [An Analysis of Altmer Crime In The Late 420's](/r/teslore/7a4l2w)                                                   | [Psychotrip](/u/Psychotrip)                                                                                                               |
+| [An Analysis Of Altmeri Architecture In The Late 420's](/r/teslore/7ad623)                                           | [Psychotrip](/u/Psychotrip)                                                                                                               |
+| [An Analysis Of Summerset's "Bloody Sundas"](/r/teslore/79nsbp)                                                      | [Psychotrip](/u/Psychotrip)                                                                                                               |
+| [An Analysis Of The Altmer Caste System In The Late 420's](/r/teslore/7a0pry)                                        | [Psychotrip](/u/Psychotrip)                                                                                                               |
+| [Excerpt from the minutes of the "Skywatch Concerned Citizens" meeting, 12 Frostfall 2E 583](/r/teslore/57eiht)      | [Rusty_Shakalford](/u/Rusty_Shakalford)                                                                                                   |
+| [Fauna of Summerset: The Greatfly](/r/teslore/79wd6a)                                                                | [Psychotrip](/u/Psychotrip)                                                                                                               |
+| [Lesser-Known Peoples of Tamriel V: The Weyache Skygazers](/r/teslore/299j3e)                                        | [Lord_Hoot](/u/Lord_Hoot)                                                                                                                 |
+| [Lillandril, A Brief History: The Merethic Era](/r/teslore/3sop51)                                                   | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [Maxis II, The Lamp King of Firsthold](/r/teslore/5g1c7a)                                                            | [brinehammer](/u/brinehammer)                                                                                                             |
+| [On the Humble Mudcrab](/r/teslore/1t3lw3)                                                                           | [lebiro](/u/lebiro)                                                                                                                       |
+| [On The Species Of Tamriel, Volume III: Cultured and Arrogant: the Altmer](/r/teslore/1ja6nm)                        | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Smoking Traditions of Tamriel: The Summerset Isles](/r/teslore/2g6k4v)                                              | [OrdoCorvus](/u/OrdoCorvus)                                                                                                               |
+| [Summerset Cuisine](/r/teslore/7akcks)                                                                               | [Psychotrip](/u/Psychotrip)                                                                                                               |
+| [The Altmer: A Cultural Perspective](/r/teslore/pvwe2)                                                               | [nerdlights](/u/nerdlights)                                                                                                               |
+| [The Beautiful](/r/teslore/267sr4)                                                                                   | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [The Gifts Of The Artists](/r/teslore/79p2v9)                                                                        | [Psychotrip](/u/Psychotrip)                                                                                                               |
+| [The Nature Loving Mer of Tamriel's South](/r/teslore/1791f2)                                                        | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Numidiad: Part II](/r/teslore/1rgnjn)                                                                           | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit) | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [The Political Situation Of The Summerset Isles In The Late 420's](/r/teslore/79ja5m)                                | [Psychotrip](/u/Psychotrip)                                                                                                               |
 
 ### Sword-Singing
 
-**Title**| **Author**
-:-----------|:----------
-[A description of Sword Singers](/r/teslore/comments/1n6ncc/a_description_of_the_swordsingers/)|[Hollymarkie](/u/Hollymarkie)
-[Interview with the Sword-Singer](/r/teslore/comments/2z715o/interview_with_the_swordsinger/)|[ZizZizZiz](/u/ZizZizZiz)
-[The Numidiad: Part V](/r/teslore/comments/1rgnjn/the_numidiad_part_v/)|[myrrlyn](/u/myrrlyn)
-[On Sword-Singing](/r/teslore/comments/3fjnk6/on_swordsinging/)|[SomniologistKaickul](/u/SomniologistKaickul)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[The Role of Sword-Singers in Yokudan Culture](/r/teslore/comments/1zbnnq/the_role_of_swordsingers_in_yokudan_culture/)|[Hollymarkie](/u/Hollymarkie)
-[The Sword and the I](/r/teslore/comments/26ampg/the_sword_and_the_i/)|[Hollymarkie](/u/Hollymarkie)
+| **Title**                                                                                                            | **Author**                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [A description of Sword Singers](/r/teslore/1n6ncc)                                                                  | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Interview with the Sword-Singer](/r/teslore/2z715o)                                                                 | [ZizZizZiz](/u/ZizZizZiz)                                                                                                                 |
+| [The Numidiad: Part V](/r/teslore/1rgnjn)                                                                            | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [On Sword-Singing](/r/teslore/3fjnk6)                                                                                | [SomniologistKaickul](/u/SomniologistKaickul)                                                                                             |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit) | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [The Role of Sword-Singers in Yokudan Culture](/r/teslore/1zbnnq)                                                    | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [The Sword and the I](/r/teslore/26ampg)                                                                             | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
 
 ## T
 
 ### Talos
 
-**Title**| **Author**
-:-----------|:----------
-[A Campfire Story, of Hob-Hob and Tiber Septim](/r/teslore/6v36lz/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[A Campfire Story about Tiber Septim](/r/teslore/comments/1rkczu/a_campfire_story_about_tiber_septim/)|[Asotil](/u/Asotil)
-[Analyzing the Altmeri Commentary on Talos](/r/teslore/comments/2c9fkj/analyzing_the_altmeri_commentary_on_talos/)|[MareloRyan](/u/MareloRyan)
-[A treatise on the Talos Cult. 4e198](/r/teslore/comments/w6opa/a_treatise_on_the_talos_cult_4e198/)|[lilrhys](/u/lilrhys)
-[The Classified Autobiography of Tiber Septim](/r/teslore/comments/2sjtmk/the_classified_autobiography_of_tiber_septim/)|[IceFireWarden](/u/IceFireWarden)
-[Convention 2.0](/r/teslore/comments/101dwz/convention_20/)|[lilrhys](/u/lilrhys)
-[The Emperor, The Underking, and The Bastard Divine](/r/teslore/7awn9w)|[ginja_ninja](/u/ginja_ninja)
-[How Talos elevated](/r/teslore/comments/53c4dg/how_talos_elevated/)|[thesenjusaiyan](/u/thesenjusaiyan)
-[The Importance of Ysmir](/r/teslore/comments/zkisy/the_importance_of_ysmir/)|[lilrhys](/u/lilrhys)
-[In Better Times, I Was Normal Just Like You](/r/teslore/comments/2etcw2/in_better_times_i_was_normal_just_like_you/)|[phil_hinds](/u/phil_hinds)
-[In-Depth Collation Between Argonians and Hinduism: Gods, Spirit, and Reality (Part 1)](/r/teslore/comments/23l35f/indepth_collation_between_argonians_and_hinduism/)|[IceFireWarden](/u/IceFireWarden)
-[Moon Meeting with Tiber Septim](/r/teslore/comments/1n5y9h/moon_meeting_with_tiber_septim/)|[Mr_Flippers](/u/Mr_Flippers)
-[Moon Meeting with Vivec](/r/teslore/comments/1n62ol/moon_meeting_with_vivec/)|[Mr_Flippers](/u/Mr_Flippers)
-[Nirn's Divinity, the Missing AE, and Talos Twice-Hearted](/r/teslore/comments/1usuwl/nirns_divinity_the_missing_ae_and_talos/)|[MareloRyan](/u/MareloRyan)
-[The Republic, Book 1](/r/teslore/comments/3edxx8/the_republic_book_1/)|[SignOfTheHorns](/u/SignOfTheHorns)
-[The Rise of the Red King, Act I Scene I](/r/teslore/comments/2iwa6p/the_rise_of_the_red_king_act_i_scene_i/)|[phil_hinds](/u/phil_hinds)
-[The Rise of the Red King, Act IV Scene II](/r/teslore/comments/2iuxa1/the_rise_of_the_red_king_act_iv_scene_ii/)|[phil_hinds](/u/phil_hinds)
-[The Rise of the Red King, Act IV Scene VII](/r/teslore/comments/2s2fu5/the_rise_of_the_red_king_act_iv_scene_vii/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[The Rise of the Red King, Act IV Scene X](/r/teslore/comments/2v34a6/the_rise_of_the_red_king_act_iv_scene_x/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Root Meditation with Tiber Septim](/r/teslore/comments/1t8srt/root_meditation_with_tiber_septim/)|[IceFireWarden](/u/IceFireWarden)
-[Talos and the Many-Headed Serpent](/r/teslore/72tgum)|[DLBAM](/u/DLBAM)
-[Talos the conqueror, Vivec the teacher and the Lessons](/r/teslore/comments/1j39qw/talos_the_conqueror_vivec_the_teacher_and_the/)|[Mr_Flippers](/u/Mr_Flippers)
-[Talos vs The World: The man with two hearts](/r/teslore/comments/29r8sy/talos_vs_the_world_the_man_with_two_hearts/)|[Mr_Flippers](/u/Mr_Flippers)
-[Tiberada: Talos of Alcaire](/r/teslore/comments/5xixp5/tiberada_talos_of_alcaire/)|[slovakiin](/u/slovakiin)
-[Tiber Septim, The Way of the Voice, and the Greybeards Hypocrisy](/r/teslore/comments/389ox1/tiber_septim_the_way_of_the_voice_and_the/)|[Twilot_Spankle](/u/Twilot_Spankle)
-[Tinvaak with Hjalti Early-Beard](/r/teslore/comments/2mnthp/tinvaak_with_hjalti_earlybeard/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[The Underking](/r/teslore/comments/3hrcra/the_underking/)|[CapitalA1](/u/CapitalA1)
-[Weynon Prior](/r/teslore/comments/3p5wck/weynon_prior/)|[Cishuman](/u/Cishuman)
-[The Whispered Web](/r/teslore/comments/1l3vzl/the_whispered_web/)|[Mr_Flippers](/u/Mr_Flippers)
+| **Title**                                                                                                  | **Author**                                    |
+| :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [A Campfire Story, of Hob-Hob and Tiber Septim](/r/teslore/6v36lz/)                                        | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [A Campfire Story about Tiber Septim](/r/teslore/1rkczu)                                                   | [Asotil](/u/Asotil)                           |
+| [Analyzing the Altmeri Commentary on Talos](/r/teslore/2c9fkj)                                             | [MareloRyan](/u/MareloRyan)                   |
+| [A treatise on the Talos Cult. 4e198](/r/teslore/w6opa)                                                    | [lilrhys](/u/lilrhys)                         |
+| [The Classified Autobiography of Tiber Septim](/r/teslore/2sjtmk)                                          | [IceFireWarden](/u/IceFireWarden)             |
+| [Convention 2.0](/r/teslore/101dwz)                                                                        | [lilrhys](/u/lilrhys)                         |
+| [The Emperor, The Underking, and The Bastard Divine](/r/teslore/7awn9w)                                    | [ginja_ninja](/u/ginja_ninja)                 |
+| [How Talos elevated](/r/teslore/53c4dg)                                                                    | [thesenjusaiyan](/u/thesenjusaiyan)           |
+| [The Importance of Ysmir](/r/teslore/zkisy)                                                                | [lilrhys](/u/lilrhys)                         |
+| [In Better Times, I Was Normal Just Like You](/r/teslore/2etcw2)                                           | [phil_hinds](/u/phil_hinds)                   |
+| [In-Depth Collation Between Argonians and Hinduism: Gods, Spirit, and Reality (Part 1)](/r/teslore/23l35f) | [IceFireWarden](/u/IceFireWarden)             |
+| [Moon Meeting with Tiber Septim](/r/teslore/1n5y9h)                                                        | [Mr_Flippers](/u/Mr_Flippers)                 |
+| [Moon Meeting with Vivec](/r/teslore/1n62ol)                                                               | [Mr_Flippers](/u/Mr_Flippers)                 |
+| [Nirn's Divinity, the Missing AE, and Talos Twice-Hearted](/r/teslore/1usuwl)                              | [MareloRyan](/u/MareloRyan)                   |
+| [The Republic, Book 1](/r/teslore/3edxx8)                                                                  | [SignOfTheHorns](/u/SignOfTheHorns)           |
+| [The Rise of the Red King, Act I Scene I](/r/teslore/2iwa6p)                                               | [phil_hinds](/u/phil_hinds)                   |
+| [The Rise of the Red King, Act IV Scene II](/r/teslore/2iuxa1)                                             | [phil_hinds](/u/phil_hinds)                   |
+| [The Rise of the Red King, Act IV Scene VII](/r/teslore/2s2fu5)                                            | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [The Rise of the Red King, Act IV Scene X](/r/teslore/2v34a6)                                              | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [Root Meditation with Tiber Septim](/r/teslore/1t8srt)                                                     | [IceFireWarden](/u/IceFireWarden)             |
+| [Talos and the Many-Headed Serpent](/r/teslore/72tgum)                                                     | [DLBAM](/u/DLBAM)                             |
+| [Talos the conqueror, Vivec the teacher and the Lessons](/r/teslore/1j39qw)                                | [Mr_Flippers](/u/Mr_Flippers)                 |
+| [Talos vs The World: The man with two hearts](/r/teslore/29r8sy)                                           | [Mr_Flippers](/u/Mr_Flippers)                 |
+| [Tiberada: Talos of Alcaire](/r/teslore/5xixp5)                                                            | [slovakiin](/u/slovakiin)                     |
+| [Tiber Septim, The Way of the Voice, and the Greybeards Hypocrisy](/r/teslore/389ox1)                      | [Twilot_Spankle](/u/Twilot_Spankle)           |
+| [Tinvaak with Hjalti Early-Beard](/r/teslore/2mnthp)                                                       | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis) |
+| [The Underking](/r/teslore/3hrcra)                                                                         | [CapitalA1](/u/CapitalA1)                     |
+| [Weynon Prior](/r/teslore/3p5wck)                                                                          | [Cishuman](/u/Cishuman)                       |
+| [The Whispered Web](/r/teslore/1l3vzl)                                                                     | [Mr_Flippers](/u/Mr_Flippers)                 |
 
 ### Tang-Mo
 
-**Title**| **Author**
-:-----------|:----------
-[Missive from the Tang Mo](/r/teslore/comments/21cau5/missive_from_the_tang_mo/)|[Lord_Hoot](/u/Lord_Hoot)
-[On the History and Politics of Akavir](/r/teslore/comments/1byjl1/on_the_history_and_politics_of_akavir/)|[Alexxerth](/u/Alexxerth)
-[Tang Mo-Ho-Ho La-Ha-ugh at You-ouh](/r/teslore/comments/588zea/tang_mohoho_lahaugh_at_yououh/)|[BuckneyBos](/u/BuckneyBos)
-[The Thousand Islands and the Origin of the Tang Mo (Akaviri-Calling)](/r/teslore/comments/5vecs3/the_thousand_islands_and_the_origin_of_the_tang/)|[ShadowDestroyerTime](/u/ShadowDestroyerTime)
+| **Title**                                                                                 | **Author**                                    |
+| :---------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [Missive from the Tang Mo](/r/teslore/21cau5)                                             | [Lord_Hoot](/u/Lord_Hoot)                     |
+| [On the History and Politics of Akavir](/r/teslore/1byjl1)                                | [Alexxerth](/u/Alexxerth)                     |
+| [Tang Mo-Ho-Ho La-Ha-ugh at You-ouh](/r/teslore/588zea)                                   | [BuckneyBos](/u/BuckneyBos)                   |
+| [The Thousand Islands and the Origin of the Tang Mo (Akaviri-Calling)](/r/teslore/5vecs3) | [ShadowDestroyerTime](/u/ShadowDestroyerTime) |
 
 ### Technology
 
-**Title**| **Author**
-:-----------|:----------
-[A Grumpy Nord Blacksmith Talks About Dwemer Metal](/r/teslore/comments/2qsjul/a_grumpy_nord_blacksmith_talks_about_dwemer_metal/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A Grumpy Nord Blacksmith Talks About Mithril](/r/teslore/comments/2r2t0f/a_grumpy_nord_blacksmith_talks_about_mithril/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A New Take on the Medieval State of Tamriel](/r/teslore/comments/16obab/a_new_take_on_the_medieval_state_of_tamriel/)|[Maxtheman](/u/Maxtheman)
-[An Inquiry into the Properties of Glass](/r/teslore/comments/1939fw/an_inquiry_into_the_properties_of_glass/)|[Anhrl](/u/Anhrl)
-[An Instructor's Reply to a Foolish Proposal](/r/teslore/comments/24h16u/an_instructors_reply_to_a_foolish_proposal/)|[Asotil](/u/Asotil)
-[Ascension Intercept](/r/teslore/6ycgif)|[slovakiin](/u/slovakiin)
-[Battlespire Report](/r/teslore/comments/21f4fz/battlespire_report/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[Bluefang and Sky-Smile: On the Secret Purpose of Welkynd Stones](/r/teslore/comments/2094k5/bluefang_and_skysmile_on_the_secret_purpose_of/)|[wkuechen](/u/wkuechen)
-[Conjecture regarding the Dwemer Ballistae](/r/teslore/comments/1r676c/conjecture_regarding_the_dwemer_ballistae/)|[Magictrician](/u/Magictrician)
-[Dwemer Automatons](/r/teslore/comments/1qzray/dwemer_automatons/)|[QuackOfAllTrades](/u/QuackOfAllTrades)
-[Ghost Ships & You: A helpful primer](/r/teslore/comments/5g731c/ghost_ships_you_a_helpful_primer/)|[Trainwiz](/u/Trainwiz)
-[Guild Recruitment Flyer - The Tinkers Guild](/r/teslore/comments/2b825r/guild_recruitment_flyer_the_tinkers_guild/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Heating in Skyrim's major cities](/r/teslore/comments/4c6kmh/heating_in_skyrims_major_cities/)|[TurtleNoises](/u/TurtleNoises)
-[The History of Dreamsleeve Technology](/r/teslore/comments/1v1fkd/the_history_of_dreamsleeve_technology/)|[XAYAH](/u/XAYAH)
-[Imperial Armory report on [Gunpowder] Weapons, 4E173](/r/teslore/comments/1v5af3/imperial_armory_report_on_gunpowder_weapons_4e173/)|[sha-3-512](/u/sha-3-512)
-[Notes on Dwemer Constructs](/r/teslore/comments/34qycy/notes_on_dwemer_constructs/)|[Vuldilviin](/u/Vuldilviin)
-[On Latasine](/r/teslore/comments/4c8jvn/on_latasine/)|[Dreadnautilus](/u/Dreadnautilus)
-[On Mnem-bots](/r/teslore/comments/4ag46s/on_mnembots/)|[scourgicus](/u/scourgicus)
-[On Re-creating Dwemer Technology](/r/teslore/comments/44kbju/on_recreating_dwemer_technology/)|[scourgicus](/u/scourgicus)
-[On Silk](/r/teslore/comments/1xhhtt/on_silk/)|[ladynerevar](/u/ladynerevar)
-[The Pickaxe: Crafting, Use, and Care](/r/teslore/comments/2083n7/the_pickaxe_crafting_use_and_care/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Practical Applications of Sand Magic - blasting sand and Yoku cannon](/r/teslore/comments/1t9y13/practical_applications_of_sand_magic_blasting/)|[lebiro](/u/lebiro)
-[The Renaissance that Never Was: Or How Azura Destroyed the Enlightenment](/r/teslore/comments/10go5y/the_renaissance_that_never_was_or_how_azura/)|[thinkpadius](/u/thinkpadius)
-[Sewage and the Rustics: A Case Study](/r/teslore/comments/1bcgww/sewage_and_the_rustics_a_case_study/)|[abrykwall](/u/abrykwall)
-[Star Shrines of Akos Kasaz](/r/teslore/comments/4e56rh/star_shrines_of_akos_kasaz/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Technological Advancement in Tamriel, or Galerion the Industrialist](/r/teslore/comments/2vl47l/technological_advancement_in_tamriel_or_galerion/)|[Aramithius](/u/Aramithius)
-[Thalmor Census-Report On Argonia, Circa 4E 201](/r/teslore/comments/1sjqv6/thalmor_censusreport_on_argonia_circa_4e_201/)|[IceFireWarden](/u/IceFireWarden)
-[Treatise on Bosmeri Ships](/r/teslore/comments/177t6t/treatise_on_bosmeri_ships/)|[OPGreenback](/u/OPGreenback)
-[Usefulness of the Azure Plasm](/r/teslore/comments/4eljfu/usefulness_of_the_azure_plasm/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Velothi Void Striders: A Report](/r/teslore/comments/2qfn6s/velothi_void_striders_a_report/)|[RideTheLine](/u/RideTheLine)
-[Vvardenfell Dwemer "radio" technology](/r/teslore/comments/1rep12/vvardenfell_dwemer_radio_technology/)|[PADHOME_LKHAN](/u/PADHOME_LKHAN)
-[The Wailways of Old Cyrodiil](/r/teslore/comments/1wmxmm/the_wailways_of_old_cyrodiil/)|[Trainwiz](/u/Trainwiz)
-[Watercraft of Tamriel: The Imperial Transport Barge](/r/teslore/comments/3zctl4/watercraft_of_tamriel_the_imperial_transport_barge/)|[rocketmantan](/u/rocketmantan)
-[Yokudan Necromantic Charm](/r/teslore/comments/4eslm5/yokudan_necromantic_charm/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
+| **Title**                                                                                     | **Author**                                    |
+| :-------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [A Grumpy Nord Blacksmith Talks About Dwemer Metal](/r/teslore/2qsjul)                        | [DuncanTheSilent](/u/DuncanTheSilent)         |
+| [A Grumpy Nord Blacksmith Talks About Mithril](/r/teslore/2r2t0f)                             | [DuncanTheSilent](/u/DuncanTheSilent)         |
+| [A New Take on the Medieval State of Tamriel](/r/teslore/16obab)                              | [Maxtheman](/u/Maxtheman)                     |
+| [An Inquiry into the Properties of Glass](/r/teslore/1939fw)                                  | [Anhrl](/u/Anhrl)                             |
+| [An Instructor's Reply to a Foolish Proposal](/r/teslore/24h16u)                              | [Asotil](/u/Asotil)                           |
+| [Ascension Intercept](/r/teslore/6ycgif)                                                      | [slovakiin](/u/slovakiin)                     |
+| [Battlespire Report](/r/teslore/21f4fz)                                                       | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)     |
+| [Bluefang and Sky-Smile: On the Secret Purpose of Welkynd Stones](/r/teslore/2094k5)          | [wkuechen](/u/wkuechen)                       |
+| [Conjecture regarding the Dwemer Ballistae](/r/teslore/1r676c)                                | [Magictrician](/u/Magictrician)               |
+| [Dwemer Automatons](/r/teslore/1qzray)                                                        | [QuackOfAllTrades](/u/QuackOfAllTrades)       |
+| [Ghost Ships & You: A helpful primer](/r/teslore/5g731c)                                      | [Trainwiz](/u/Trainwiz)                       |
+| [Guild Recruitment Flyer - The Tinkers Guild](/r/teslore/2b825r)                              | [The_OP3RaT0R](/u/The_OP3RaT0R)               |
+| [Heating in Skyrim's major cities](/r/teslore/4c6kmh)                                         | [TurtleNoises](/u/TurtleNoises)               |
+| [The History of Dreamsleeve Technology](/r/teslore/1v1fkd)                                    | [XAYAH](/u/XAYAH)                             |
+| [Imperial Armory report on [Gunpowder] Weapons, 4E173](/r/teslore/1v5af3)                     | [sha-3-512](/u/sha-3-512)                     |
+| [Notes on Dwemer Constructs](/r/teslore/34qycy)                                               | [Vuldilviin](/u/Vuldilviin)                   |
+| [On Latasine](/r/teslore/4c8jvn)                                                              | [Dreadnautilus](/u/Dreadnautilus)             |
+| [On Mnem-bots](/r/teslore/4ag46s)                                                             | [scourgicus](/u/scourgicus)                   |
+| [On Re-creating Dwemer Technology](/r/teslore/44kbju)                                         | [scourgicus](/u/scourgicus)                   |
+| [On Silk](/r/teslore/1xhhtt)                                                                  | [ladynerevar](/u/ladynerevar)                 |
+| [The Pickaxe: Crafting, Use, and Care](/r/teslore/2083n7)                                     | [The_OP3RaT0R](/u/The_OP3RaT0R)               |
+| [Practical Applications of Sand Magic - blasting sand and Yoku cannon](/r/teslore/1t9y13)     | [lebiro](/u/lebiro)                           |
+| [The Renaissance that Never Was: Or How Azura Destroyed the Enlightenment](/r/teslore/10go5y) | [thinkpadius](/u/thinkpadius)                 |
+| [Sewage and the Rustics: A Case Study](/r/teslore/1bcgww)                                     | [abrykwall](/u/abrykwall)                     |
+| [Star Shrines of Akos Kasaz](/r/teslore/4e56rh)                                               | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [Technological Advancement in Tamriel, or Galerion the Industrialist](/r/teslore/2vl47l)      | [Aramithius](/u/Aramithius)                   |
+| [Thalmor Census-Report On Argonia, Circa 4E 201](/r/teslore/1sjqv6)                           | [IceFireWarden](/u/IceFireWarden)             |
+| [Treatise on Bosmeri Ships](/r/teslore/177t6t)                                                | [OPGreenback](/u/OPGreenback)                 |
+| [Usefulness of the Azure Plasm](/r/teslore/4eljfu)                                            | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
+| [Velothi Void Striders: A Report](/r/teslore/2qfn6s)                                          | [RideTheLine](/u/RideTheLine)                 |
+| [Vvardenfell Dwemer "radio" technology](/r/teslore/1rep12)                                    | [PADHOME_LKHAN](/u/PADHOME_LKHAN)             |
+| [The Wailways of Old Cyrodiil](/r/teslore/1wmxmm)                                             | [Trainwiz](/u/Trainwiz)                       |
+| [Watercraft of Tamriel: The Imperial Transport Barge](/r/teslore/3zctl4)                      | [rocketmantan](/u/rocketmantan)               |
+| [Yokudan Necromantic Charm](/r/teslore/4eslm5)                                                | [Commander-Gro-Badul](/u/Commander-Gro-Badul) |
 
 ### Thalmor
 
-**Title**| **Author**
-:-----------|:----------
-[A Brief History of the Second Great War](/r/teslore/comments/2qw0lq/a_brief_history_of_the_second_great_war/)|[ZizZizZiz](/u/ZizZizZiz)
-[A differing perspective on Towers and Thalmor](/r/teslore/comments/1x2l6j/a_differing_perspective_on_towers_and_thalmor/)|[ginja_ninja](/u/ginja_ninja)
-[The Aldmeri Inquisition Pt.1](/r/teslore/comments/2tum8z/the_aldmeri_inquisition_pt1/)|[Thekidwiththedogs](/u/Thekidwiththedogs)
-[The Aldmeri Inquisition Pt.2](/r/teslore/comments/2tz38w/the_aldmeri_inquisition_pt2/)|[Thekidwiththedogs](/u/Thekidwiththedogs)
-[A Letter to the Loyal Remnants of Trinimac, of "Orsinium Novum"](/r/teslore/comments/337nkh/a_letter_to_the_loyal_remnants_of_trinimac_of/)|[Aramithius](/u/Aramithius)
-[The Altmer: A Cultural Perspective](/r/teslore/comments/pvwe2/the_altmer_a_cultural_perspective/)|[nerdlights](/u/nerdlights)
-[Analyzing the Altmeri Commentary on Talos](/r/teslore/comments/2c9fkj/analyzing_the_altmeri_commentary_on_talos/)|[MareloRyan](/u/MareloRyan)
-[An Archaeologist's Guide to Thalmor Ruins](/r/teslore/comments/2ry1yr/an_archaeologists_guide_to_thalmor_ruins/)|[ZizZizZiz](/u/ZizZizZiz)
-[An Imperial Account of the Second Great War](/r/teslore/comments/32hcyn/an_imperial_account_of_the_second_great_war/)|[ZizZizZiz](/u/ZizZizZiz)
-[An unplanned post about Ulfric Stormcloak](/r/teslore/comments/16ozps/an_unplanned_post_about_ulfric_stormcloak/)|[dbcification](/u/salivific)
-[A Practical Dialogue on the Philosophy of War, 4E199](/r/teslore/comments/1ukoor/a_practical_dialogue_on_the_philosophy_of_war/)|[sha-3-512](/u/sha-3-512)
-[The Ayrennian Heresy](/r/teslore/comments/30ymb6/the_ayrennian_heresy/)|[eyeofgames](/u/eyeofgames)
-[Birth is the Greater Atrocity](/r/teslore/comments/3hi56i/birth_is_the_greater_atrocity/)|[neknotes](/u/neknotes)
-[Casualties of The Great War: Cyrodiil](/r/teslore/comments/1tqjl9/casualties_of_the_great_war_cyrodiil/)|[Avian81](/u/Avian81)
-[Casualties of The Great War: Cyrodiil II](/r/teslore/comments/1tt2z8/casualties_of_the_great_war_cyrodiil_ii/)|[Avian81](/u/Avian81)
-[Dominion Prism Textract Regarding The Solar Vault Facility](/r/teslore/comments/2fa2bs/dominion_prism_textract_regarding_the_solar_vault/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The First Aldmeri Dominion Interfaith Gathering of Record-Keepers (Pamphlet)](/r/teslore/comments/2c3gl6/the_first_aldmeri_dominion_interfaith_gathering/)|[laurelanthalasa](/u/laurelanthalasa)
-[Honest Intentions - Part I](/r/teslore/comments/2l84bj/honest_intentions_part_i/)|[ddaybones](/u/ddaybones)
-[Honest Intentions - Part II](/r/teslore/comments/2l87jf/honest_intentions_part_ii/)|[Toxictoyoursanity](/u/Toxictoyoursanity)
-[Honest Intentions - Part III](/r/teslore/comments/2lc0ei/honest_intentions_part_iii/)|[ddaybones](/u/ddaybones)
-[Honest Intentions - Part IV](/r/teslore/comments/2lc3pk/honest_intentions_part_iv/)|[Toxictoyoursanity](/u/Toxictoyoursanity)
-[How Mehrunes Dagon Sealed the Fate of the Empire](/r/teslore/comments/1s521k/how_mehrunes_dagon_sealed_the_fate_of_the_empire/)|[Vulamond](/u/Vulamond)
-[In defense of Men](/r/teslore/comments/629hd3/)|[Misticsan](/u/Misticsan)
-[Journal of Aicanian Aedus, Dominion Soldier: 4E176](/r/teslore/comments/5qevny/journal_of_aicanian_aedus_dominion_soldier_4e176/)|[HamSandLich](/u/HamSandLich)
-[Language Control is Thought Control: Orwell and the Altmer](/r/teslore/comments/1xqa2p/language_control_is_thought_control_orwell_and/)|[laurelanthalasa](/u/laurelanthalasa)
-[Letter from the Tsaesci to the Thalmor](/r/teslore/comments/21su46/letter_from_the_tsaesci_to_the_thalmor/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[Penitus Oculatus Dossier: The Second Treaty of Stros M'Kai](/r/teslore/comments/2k413j/penitus_oculatus_dossier_the_second_treaty_of/)|[Blackfyre87](/u/Blackfyre87)
-[Query, Part III: Rise of the Thalmor](/r/teslore/comments/3igc3m/query_part_iii_rise_of_the_thalmor/)|[neknotes](/u/neknotes)
-[Query, Part IV: The Second War against the Empire](/r/teslore/comments/3ih85w/query_part_iv_the_second_war_against_the_empire/)|[neknotes](/u/neknotes)
-[Query, Final Part: The Verdict](/r/teslore/comments/3ii7qs/query_final_part_the_verdict/)|[neknotes](/u/neknotes)
-[Political Makeup of the Aldmeri Dominion](/r/teslore/comments/4qmrfd/political_makeup_of_the_aldmeri_dominion/)|[cfmacleod](/u/cfmacleod)
-[Report from Invasion Force on Akavir](/r/teslore/comments/3biac1/report_from_invasion_force_on_akavir/)|[Xhylorekihel](/u/Xhylorekihel)
-[The role of the blades-in-hiding leading up the events of Skyrim](/r/teslore/comments/14ojmd/the_role_of_the_bladesinhiding_leading_up_to_the)|[dbcification](/u/salivific)
-[Samanwe Direnni's Letter](https://reddit.com/r/teslore/comments/5ot8rn/apocrypha_samanwe_dirennis_letter/)|[eekadeeka](/u/eekadeeka)
-[The Scholar in the Basement](/r/teslore/comments/3bfu7k/the_scholar_in_the_basement/)|[neknotes](/u/neknotes)
-[The Siege of City Hall](/r/teslore/comments/3injx6/the_siege_of_city_hall/)|[neknotes](/u/neknotes)
-[The Siege of City Hall, Second Day](/r/teslore/comments/3itrv2/the_siege_of_city_hall_second_day/)|[neknotes](/u/neknotes)
-[Siege of City Hall, Third Day, Morning](/r/teslore/comments/3jq76k/siege_of_city_hall_third_day_morning/)|[neknotes](/u/neknotes)
-[Siege of City Hall, Finale](/r/teslore/comments/3jqhvz/siege_of_city_hall_finale/)|[neknotes](/u/neknotes)
-[Tam!RUGH! Revolution](/r/teslore/comments/1b6jr7/tamrugh_revolution/)|[NordJitsu](/u/NordJitsu)
-[Thalmor Dossier: Aicanian Aedus](/r/teslore/comments/5lvwet/thalmor_dossier_aicanian_aedus/)|[HamSandLich](/u/HamSandLich)
-[Thalmor Dossier: Tonal Manipulation](/r/teslore/comments/5psb7e/thalmor_dossier_tonal_manipulation/)|[lolzor99](/u/lolzor99)
-[Thalmor Intelligence Dossier: Terrorist Cells in the Aldmeri Dominion](/r/teslore/comments/5lvui2/thalmor_intelligence_dossier_terrorist_cells_in/)|[HamSandLich](/u/HamSandLich)
-[Thalmor Inquiries - Part I](/r/teslore/comments/2l4inv/thalmor_inquiries_part_i/)|[Toxictoyoursanity](/u/Toxictoyoursanity)
-[Thalmor Inquiries - Part II](/r/teslore/comments/2l4maj/thalmor_inquiries_part_ii/)|[ddaybones](/u/ddaybones)
-[Thalmor Inquiries - Part III](/r/teslore/comments/2lfudq/thalmor_inquiries_part_iii/)|[Toxictoyoursanity](/u/Toxictoyoursanity)
-[Thalmor Inquiries - Part IV](/r/teslore/comments/2lg00e/thalmor_inquires_part_iv_elenwens_interrogation/)|[ddaybones](/u/ddaybones)
-[Thalmor Inquires - Part V (Elenwen's Interrogation)](/r/teslore/comments/2mvha2/thalmor_inquires_part_v_elenwens_interrogation/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Dawnguard](/r/teslore/comments/2jg3d2/thalmor_report_on_the_dawnguard/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Dragonborn](/r/teslore/comments/2isj4q/thalmor_report_on_the_dragonborn/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Dragonborn Part II](/r/teslore/comments/2iw1cj/thalmor_report_on_the_dragonborn_part_ii/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Dragonborn Part III](/r/teslore/comments/2j2d6n/thalmor_report_on_the_dragonborn_part_iii/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Dragonborn Part IV](/r/teslore/comments/2j5ead/thalmor_report_on_the_dragonborn_part_iv/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Tyranny of the Sun](/r/teslore/comments/2jjvj0/thalmor_report_on_the_tyranny_of_the_sun/)|[ddaybones](/u/ddaybones)
-[Thalmor Report on the Volkihar Clan](/r/teslore/comments/2jbqvd/thalmor_report_on_the_volkihar_clan/)|[ddaybones](/u/ddaybones)
-[Who We Are (Thalmor propaganda in Elsweyr)](/r/teslore/6dpy99/)|[Nethan2000](/u/Nethan2000)
+| **Title**                                                                                         | **Author**                                |
+| :------------------------------------------------------------------------------------------------ | :---------------------------------------- |
+| [A Brief History of the Second Great War](/r/teslore/2qw0lq)                                      | [ZizZizZiz](/u/ZizZizZiz)                 |
+| [A differing perspective on Towers and Thalmor](/r/teslore/1x2l6j)                                | [ginja_ninja](/u/ginja_ninja)             |
+| [The Aldmeri Inquisition Pt.1](/r/teslore/2tum8z)                                                 | [Thekidwiththedogs](/u/Thekidwiththedogs) |
+| [The Aldmeri Inquisition Pt.2](/r/teslore/2tz38w)                                                 | [Thekidwiththedogs](/u/Thekidwiththedogs) |
+| [A Letter to the Loyal Remnants of Trinimac, of "Orsinium Novum"](/r/teslore/337nkh)              | [Aramithius](/u/Aramithius)               |
+| [The Altmer: A Cultural Perspective](/r/teslore/pvwe2)                                            | [nerdlights](/u/nerdlights)               |
+| [Analyzing the Altmeri Commentary on Talos](/r/teslore/2c9fkj)                                    | [MareloRyan](/u/MareloRyan)               |
+| [An Archaeologist's Guide to Thalmor Ruins](/r/teslore/2ry1yr)                                    | [ZizZizZiz](/u/ZizZizZiz)                 |
+| [An Imperial Account of the Second Great War](/r/teslore/32hcyn)                                  | [ZizZizZiz](/u/ZizZizZiz)                 |
+| [An unplanned post about Ulfric Stormcloak](/r/teslore/16ozps)                                    | [dbcification](/u/salivific)              |
+| [A Practical Dialogue on the Philosophy of War, 4E199](/r/teslore/1ukoor)                         | [sha-3-512](/u/sha-3-512)                 |
+| [The Ayrennian Heresy](/r/teslore/30ymb6)                                                         | [eyeofgames](/u/eyeofgames)               |
+| [Birth is the Greater Atrocity](/r/teslore/3hi56i)                                                | [neknotes](/u/neknotes)                   |
+| [Casualties of The Great War: Cyrodiil](/r/teslore/1tqjl9)                                        | [Avian81](/u/Avian81)                     |
+| [Casualties of The Great War: Cyrodiil II](/r/teslore/1tt2z8)                                     | [Avian81](/u/Avian81)                     |
+| [Dominion Prism Textract Regarding The Solar Vault Facility](/r/teslore/2fa2bs)                   | [Doom-DrivenPoster](/u/Doom-DrivenPoster) |
+| [The First Aldmeri Dominion Interfaith Gathering of Record-Keepers (Pamphlet)](/r/teslore/2c3gl6) | [laurelanthalasa](/u/laurelanthalasa)     |
+| [Honest Intentions - Part I](/r/teslore/2l84bj)                                                   | [ddaybones](/u/ddaybones)                 |
+| [Honest Intentions - Part II](/r/teslore/2l87jf)                                                  | [Toxictoyoursanity](/u/Toxictoyoursanity) |
+| [Honest Intentions - Part III](/r/teslore/2lc0ei)                                                 | [ddaybones](/u/ddaybones)                 |
+| [Honest Intentions - Part IV](/r/teslore/2lc3pk)                                                  | [Toxictoyoursanity](/u/Toxictoyoursanity) |
+| [How Mehrunes Dagon Sealed the Fate of the Empire](/r/teslore/1s521k)                             | [Vulamond](/u/Vulamond)                   |
+| [In defense of Men](/r/teslore/629hd3)                                                            | [Misticsan](/u/Misticsan)                 |
+| [Journal of Aicanian Aedus, Dominion Soldier: 4E176](/r/teslore/5qevny)                           | [HamSandLich](/u/HamSandLich)             |
+| [Language Control is Thought Control: Orwell and the Altmer](/r/teslore/1xqa2p)                   | [laurelanthalasa](/u/laurelanthalasa)     |
+| [Letter from the Tsaesci to the Thalmor](/r/teslore/21su46)                                       | [Doom-DrivenPoster](/u/Doom-DrivenPoster) |
+| [Penitus Oculatus Dossier: The Second Treaty of Stros M'Kai](/r/teslore/2k413j)                   | [Blackfyre87](/u/Blackfyre87)             |
+| [Query, Part III: Rise of the Thalmor](/r/teslore/3igc3m)                                         | [neknotes](/u/neknotes)                   |
+| [Query, Part IV: The Second War against the Empire](/r/teslore/3ih85w)                            | [neknotes](/u/neknotes)                   |
+| [Query, Final Part: The Verdict](/r/teslore/3ii7qs)                                               | [neknotes](/u/neknotes)                   |
+| [Political Makeup of the Aldmeri Dominion](/r/teslore/4qmrfd)                                     | [cfmacleod](/u/cfmacleod)                 |
+| [Report from Invasion Force on Akavir](/r/teslore/3biac1)                                         | [Xhylorekihel](/u/Xhylorekihel)           |
+| [The role of the blades-in-hiding leading up the events of Skyrim](/r/teslore/14ojmd)             | [dbcification](/u/salivific)              |
+| [Samanwe Direnni's Letter](/r/teslore/5ot8rn)                                                     | [eekadeeka](/u/eekadeeka)                 |
+| [The Scholar in the Basement](/r/teslore/3bfu7k)                                                  | [neknotes](/u/neknotes)                   |
+| [The Siege of City Hall](/r/teslore/3injx6)                                                       | [neknotes](/u/neknotes)                   |
+| [The Siege of City Hall, Second Day](/r/teslore/3itrv2)                                           | [neknotes](/u/neknotes)                   |
+| [Siege of City Hall, Third Day, Morning](/r/teslore/3jq76k)                                       | [neknotes](/u/neknotes)                   |
+| [Siege of City Hall, Finale](/r/teslore/3jqhvz)                                                   | [neknotes](/u/neknotes)                   |
+| [Tam!RUGH! Revolution](/r/teslore/1b6jr7)                                                         | [NordJitsu](/u/NordJitsu)                 |
+| [Thalmor Dossier: Aicanian Aedus](/r/teslore/5lvwet)                                              | [HamSandLich](/u/HamSandLich)             |
+| [Thalmor Dossier: Tonal Manipulation](/r/teslore/5psb7e)                                          | [lolzor99](/u/lolzor99)                   |
+| [Thalmor Intelligence Dossier: Terrorist Cells in the Aldmeri Dominion](/r/teslore/5lvui2)        | [HamSandLich](/u/HamSandLich)             |
+| [Thalmor Inquiries - Part I](/r/teslore/2l4inv)                                                   | [Toxictoyoursanity](/u/Toxictoyoursanity) |
+| [Thalmor Inquiries - Part II](/r/teslore/2l4maj)                                                  | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Inquiries - Part III](/r/teslore/2lfudq)                                                 | [Toxictoyoursanity](/u/Toxictoyoursanity) |
+| [Thalmor Inquiries - Part IV](/r/teslore/2lg00e)                                                  | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Inquires - Part V (Elenwen's Interrogation)](/r/teslore/2mvha2)                          | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Report on the Dawnguard](/r/teslore/2jg3d2)                                              | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Report on the Dragonborn](/r/teslore/2isj4q)                                             | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Report on the Dragonborn Part II](/r/teslore/2iw1cj)                                     | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Report on the Dragonborn Part III](/r/teslore/2j2d6n)                                    | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Report on the Dragonborn Part IV](/r/teslore/2j5ead)                                     | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Report on the Tyranny of the Sun](/r/teslore/2jjvj0)                                     | [ddaybones](/u/ddaybones)                 |
+| [Thalmor Report on the Volkihar Clan](/r/teslore/2jbqvd)                                          | [ddaybones](/u/ddaybones)                 |
+| [Who We Are (Thalmor propaganda in Elsweyr)](/r/teslore/6dpy99/)                                  | [Nethan2000](/u/Nethan2000)               |
 
 ### Thras
 
-**Title**| **Author**
-:-----------|:----------
-[A Summary On The More Obscure Races Of Nirn](/r/teslore/comments/1lva4q/a_summary_on_the_more_obscure_races_of_nirn/)|[Hollymarkie](/u/Hollymarkie)
+| **Title**                                                        | **Author**                    |
+| :--------------------------------------------------------------- | :---------------------------- |
+| [A Summary On The More Obscure Races Of Nirn](/r/teslore/1lva4q) | [Hollymarkie](/u/Hollymarkie) |
 
 ### Thu'um
 
-**Title**| **Author**
-:-----------|:----------
-[Extract from "Tones, Moans and Shouts: The Voice in Tamriel"](/r/teslore/comments/373502/extract_from_tones_moans_and_shouts_the_voice_in/)|[HighAlmaJaroon](/u/HighAlmaJaroon)
-[Greybeard Sjorn's Thu'um Manual: Preparations](/r/teslore/comments/5tuqow/greybeard_sjorns_thuum_manual_preparations/)|[HamSandLich](/u/HamSandLich)
-[Letter of Expulsion from the Imperial College of the Voice](/r/teslore/comments/20zvov/letter_of_expulsion_from_the_imperial_college_of/)|[Asotil](/u/Asotil)
-[On Dragonrend's intrinsic tie to humanity](/r/teslore/comments/3tvuh5/on_dragonrends_intrinsic_tie_to_humanity/)|[looshface](/u/looshface)
-[Rotmulaag Meditations with Durnehviir: Dur](/r/teslore/comments/2uo82u/rotmulaag_meditations_with_durnehviir_dur/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Durnehviir: Rii](/r/teslore/comments/2t2b0p/rotmulaag_meditations_with_durnehviir_rii/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Gaan](/r/teslore/comments/2r11gh/rotmulaag_meditations_with_paarthurnax_gaan/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Gol](/r/teslore/comments/2rvy46/rotmulaag_meditations_with_paarthurnax_gol/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Laas](/r/teslore/comments/2p0hmp/rotmulaag_meditations_with_paarthurnax_laas/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Lok](/r/teslore/comments/2p3roh/rotmulaag_meditations_with_paarthurnax_lok/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Mid](/r/teslore/comments/2rfd5p/rotmulaag_meditations_with_paarthurnax_mid/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Mul](/r/teslore/comments/2rrpjv/rotmulaag_meditations_with_paarthurnax_mul/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Raan](/r/teslore/comments/2owhcx/rotmulaag_meditations_with_paarthurnax_raan/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Strun](/r/teslore/comments/2q85tc/rotmulaag_meditations_with_paarthurnax_strun/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Tiid](/r/teslore/comments/2q4cq4/rotmulaag_meditations_with_paarthurnax_tiid/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Ven](/r/teslore/comments/2ro9eh/rotmulaag_meditations_with_paarthurnax_ven/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Wuld](/r/teslore/comments/2qy0xs/rotmulaag_meditations_with_paarthurnax_wuld/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Zul](/r/teslore/comments/2qr6l7/rotmulaag_meditations_with_paarthurnax_zul/)|[ddaybones](/u/ddaybones)
-[Rotmulaag Meditations with Paarthurnax: Zun](/r/teslore/comments/2p6e4n/rotmulaag_meditations_with_paarthurnax_zun/)|[ddaybones](/u/ddaybones)
-[Saga of the Dragon War: Part Two, Of The First Tongues](/r/teslore/comments/2i3tl2/saga_of_the_dragon_war_part_two_of_the_first/)|[EFG567](/u/EFG567)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Thu'um as an explanation for Frozen Atmora](/r/teslore/comments/5xwg1t/the_thuum_as_an_explanation_for_frozen_atmora/)|[Lachdonin](/u/Lachdonin)
-[The Thu'um is a Big Deal: Divinity](/r/teslore/comments/2i1hiz/the_thuum_is_a_big_deal_divinity/)|[Francois_Rapiste](/u/Francois_Rapiste)
-[Two Voices Discuss The Voice](/r/teslore/comments/211sq3/two_voices_discuss_the_voice/)|[Asotil](/u/Asotil)
-[The Worth of the Soul: The Subtext of a Dragon's Duel](/r/teslore/comments/170nio/the_worth_of_the_soul_the_subtext_of_a_dragons/)|[Ishullanu](/u/Ishullanu)
+| **Title**                                                                         | **Author**                              |
+| :-------------------------------------------------------------------------------- | :-------------------------------------- |
+| [Extract from "Tones, Moans and Shouts: The Voice in Tamriel"](/r/teslore/373502) | [HighAlmaJaroon](/u/HighAlmaJaroon)     |
+| [Greybeard Sjorn's Thu'um Manual: Preparations](/r/teslore/5tuqow)                | [HamSandLich](/u/HamSandLich)           |
+| [Letter of Expulsion from the Imperial College of the Voice](/r/teslore/20zvov)   | [Asotil](/u/Asotil)                     |
+| [On Dragonrend's intrinsic tie to humanity](/r/teslore/3tvuh5)                    | [looshface](/u/looshface)               |
+| [Rotmulaag Meditations with Durnehviir: Dur](/r/teslore/2uo82u)                   | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Durnehviir: Rii](/r/teslore/2t2b0p)                   | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Gaan](/r/teslore/2r11gh)                 | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Gol](/r/teslore/2rvy46)                  | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Laas](/r/teslore/2p0hmp)                 | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Lok](/r/teslore/2p3roh)                  | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Mid](/r/teslore/2rfd5p)                  | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Mul](/r/teslore/2rrpjv)                  | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Raan](/r/teslore/2owhcx)                 | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Strun](/r/teslore/2q85tc)                | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Tiid](/r/teslore/2q4cq4)                 | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Ven](/r/teslore/2ro9eh)                  | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Wuld](/r/teslore/2qy0xs)                 | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Zul](/r/teslore/2qr6l7)                  | [ddaybones](/u/ddaybones)               |
+| [Rotmulaag Meditations with Paarthurnax: Zun](/r/teslore/2p6e4n)                  | [ddaybones](/u/ddaybones)               |
+| [Saga of the Dragon War: Part Two, Of The First Tongues](/r/teslore/2i3tl2)       | [EFG567](/u/EFG567)                     |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                 | [Mr_Flippers](/u/Mr_Flippers)           |
+| [The Thu'um as an explanation for Frozen Atmora](/r/teslore/5xwg1t)               | [Lachdonin](/u/Lachdonin)               |
+| [The Thu'um is a Big Deal: Divinity](/r/teslore/2i1hiz)                           | [Francois_Rapiste](/u/Francois_Rapiste) |
+| [Two Voices Discuss The Voice](/r/teslore/211sq3)                                 | [Asotil](/u/Asotil)                     |
+| [The Worth of the Soul: The Subtext of a Dragon's Duel](/r/teslore/170nio)        | [Ishullanu](/u/Ishullanu)               |
 
 ### Time
 
-**Title**| **Author**
-:-----------|:----------
-[A Challenge of the Agreed Upon Historical Eras: New thoughts on the nature of time in the Aurbis](/r/teslore/comments/4k4hon/a_challenge_of_the_agreed_upon_historical_eras/)|[That2009WeirdEmoKid](/u/That2009WeirdEmoKid)
-[A treatise of the effects of trans-liminal passage on local space-time](/r/teslore/comments/1q07pv/a_treatise_of_the_effects_of_transliminal_passage/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[The Bite of the Menders](/r/teslore/comments/1797ch/the_bite_of_the_mender)|[dbcification](/u/salivific)
-[Bormahu Aka-Tusk, father of the Dovah](/r/teslore/comments/urruf/bormahu_akatusk_father_of_the_dovah/)|[lilrhys](/u/lilrhys)
-[The Color of Time](/r/teslore/comments/1rqia7/the_color_of_time/)|[TESJaxt](/u/TESJaxt)
-[The concept of time in Argonian and Yokudan culture](/r/teslore/comments/1u2cri/the_concept_of_time_in_argonian_and_yokudan/)|[Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)
-[The Disappearance of Morning Star](/r/teslore/comments/330csm/the_disappearance_of_morning_star/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[The Last Words of Oztrakos](/r/teslore/comments/56q5yr/the_last_words_of_oztrakos/)|[myrrlyn](/u/myrrlyn)
-[The orsimeric time-reckoning](/r/teslore/comments/4jhv1e/c0daapokrypha_the_orsimeric_timereckoning/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[The Spirit of the Now](/r/teslore/comments/1u6276/the_spirit_of_the_now/)|[lebiro](/u/lebiro)
-[Suktul, the Argonian who Hated Time](/r/teslore/comments/1u1r3z/suktul_the_argonian_who_hated_time/)|[xenoposeidon](/u/xenoposeidon)
-[The time gods of Imperial Faith](/r/teslore/comments/1u73qz/the_time_gods_of_imperial_faith/)|[TESJaxt](/u/TESJaxt)
-[The True Nature of Time](/r/teslore/comments/1zu6ay/the_true_nature_of_time/)|[TESJaxt](/u/TESJaxt)
+| **Title**                                                                                                             | **Author**                                                                                                                                |
+| :-------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [A Challenge of the Agreed Upon Historical Eras: New thoughts on the nature of time in the Aurbis](/r/teslore/4k4hon) | [That2009WeirdEmoKid](/u/That2009WeirdEmoKid)                                                                                             |
+| [A treatise of the effects of trans-liminal passage on local space-time](/r/teslore/1q07pv)                           | [Anonymous_Mononymous](/u/Anonymous_Mononymous)                                                                                           |
+| [The Bite of the Menders](/r/teslore/1797ch)                                                                          | [dbcification](/u/salivific)                                                                                                              |
+| [Bormahu Aka-Tusk, father of the Dovah](/r/teslore/urruf)                                                             | [lilrhys](/u/lilrhys)                                                                                                                     |
+| [The Color of Time](/r/teslore/1rqia7)                                                                                | [TESJaxt](/u/TESJaxt)                                                                                                                     |
+| [The concept of time in Argonian and Yokudan culture](/r/teslore/1u2cri)                                              | [Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)                                                                                                   |
+| [The Disappearance of Morning Star](/r/teslore/330csm)                                                                | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [The Last Words of Oztrakos](/r/teslore/56q5yr)                                                                       | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [The orsimeric time-reckoning](/r/teslore/4jhv1e)                                                                     | [Mathieu-Bellamont](/u/Mathieu-Bellamont)                                                                                                 |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)  | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [The Spirit of the Now](/r/teslore/1u6276)                                                                            | [lebiro](/u/lebiro)                                                                                                                       |
+| [Suktul, the Argonian who Hated Time](/r/teslore/1u1r3z)                                                              | [xenoposeidon](/u/xenoposeidon)                                                                                                           |
+| [The time gods of Imperial Faith](/r/teslore/1u73qz)                                                                  | [TESJaxt](/u/TESJaxt)                                                                                                                     |
+| [The True Nature of Time](/r/teslore/1zu6ay)                                                                          | [TESJaxt](/u/TESJaxt)                                                                                                                     |
 
 ### Towers
 
-**Title**| **Author**
-:-----------|:----------
-[A differing perspective on Towers and Thalmor](/r/teslore/comments/1x2l6j/a_differing_perspective_on_towers_and_thalmor/)|[ginja_ninja](/u/ginja_ninja)
-[A Theory on the Mechanics of Towers](/r/teslore/comments/268egs/a_theory_on_the_mechanics_of_towers/)|[MareloRyan](/u/MareloRyan)
-[Aurbis: The Musical](/r/teslore/comments/1oybze/aurbis_the_musical/)|[myrrlyn](/u/myrrlyn)
-[The Ending Of The Words Is ALMSIVI: The Dunmeri Tower](/r/teslore/comments/218dqz/the_ending_of_the_words_is_almsivi_the_dunmeri/)|[IceFireWarden](/u/IceFireWarden)
-[The Founding of White-Gold](/r/teslore/comments/4x8g9t/the_founding_of_whitegold/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Heart Chamber as the Cave and other Heresies](/r/teslore/comments/26eyth/the_heart_chamber_as_the_cave_and_other_heresies/)|[laurelanthalasa](/u/laurelanthalasa)
-[How the Snow-Throat Got Its Groove Back](/r/teslore/comments/5ve1te/how_the_snowthroat_got_its_groove_back/)|[Val_Ritz](/u/Val_Ritz)
-[The Khajiit Tower](/r/teslore/comments/3oh7wf/the_khajiit_tower/)|[scourgicus](/u/scourgicus)
-[The Khajiit Tower (in-world re-write)](/r/teslore/7i33b5)|[scourgicus](/u/scourgicus)
-[The Khajiit Tower (revisited)](/r/teslore/comments/4aihnk/the_khajiit_tower_revisited/)|[scourgicus](/u/scourgicus)
-[Kynbriefing: Concerning the White-Gold Tower](/r/teslore/comments/4u37mt/kynbriefing_concerning_the_whitegold_tower/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Mysteries of the Orichalc Tower](/r/teslore/comments/53ouvi/mysteries_of_the_orichalc_tower/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[Names of Mother Cyrod](/r/teslore/comments/1ptadr/names_of_mother_cyrod/)|[ppitm](/u/ppitm)
-[On the Nature of White-Gold](/r/teslore/comments/4cxfyt/on_the_nature_of_whitegold/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[The Prolix Tower and Dracochrysalis Analyzed](/r/teslore/comments/2n9gy9/the_prolix_tower_and_dracochrysalis_analyzed/)|[IceFireWarden](/u/IceFireWarden)
-[The Secret of the Stone of Snow-Throat: A C0da](/r/teslore/comments/3fxgh7/the_secret_of_the_stone_of_snowthroat_a_c0da/)|[omegabrad](/u/omegabrad)
-[The Stone of Orichalc, the Walkabout and the Pankratosword](/r/teslore/comments/1yb3ky/the_stone_of_orichalc_the_walkabout_and_the/)|[Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)
-[The Stone of Snow-Throat](/r/teslore/comments/1oihxh/the_stone_of_snowthroat/)|[myrrlyn](/u/myrrlyn)
-[Stone of Snow-Throat, Eye of Magnus and more](/r/teslore/comments/26t64m/stone_of_snowthroat_eye_of_magnus_and_more/)|[EFG567](/u/EFG567)
-[The Sword and the I](/r/teslore/comments/26ampg/the_sword_and_the_i/)|[Hollymarkie](/u/Hollymarkie)
-[Sympathy Magic](/r/teslore/comments/26pa7i/sympathy_magic/)|[awesomefaceninjahead](/u/awesomefaceninjahead)
-[Thoughts on the Sundering of Snow Tower](/r/teslore/comments/2uuewj/thoughts_on_the_sundering_of_snow_tower/)|[entirelyalive](/u/entirelyalive)
-[The Tower and the Towers](/r/teslore/comments/5cvx8g/the_tower_and_the_towers/)|[docclox](/u/docclox)
-[The Towers maintain stability... but not of Mundus](/r/teslore/comments/3o2c4d/the_towers_maintain_stability_but_not_of_mundus/)|[Val_Ritz](/u/Val_Ritz)
-[The True Purpose of White-Gold Tower: The Mantling of the Wheels](/r/teslore/comments/2184mk/the_true_purpose_of_whitegold_tower_the_mantling/)|[IceFireWarden](/u/IceFireWarden)
-[Words of the Towers](/r/teslore/comments/4g30hz/words_of_the_towers/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
+| **Title**                                                                                                            | **Author**                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [A differing perspective on Towers and Thalmor](/r/teslore/1x2l6j)                                                   | [ginja_ninja](/u/ginja_ninja)                                                                                                             |
+| [A Theory on the Mechanics of Towers](/r/teslore/268egs)                                                             | [MareloRyan](/u/MareloRyan)                                                                                                               |
+| [Aurbis: The Musical](/r/teslore/1oybze)                                                                             | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [The Ending Of The Words Is ALMSIVI: The Dunmeri Tower](/r/teslore/218dqz)                                           | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Founding of White-Gold](/r/teslore/4x8g9t)                                                                      | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [The Heart Chamber as the Cave and other Heresies](/r/teslore/26eyth)                                                | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [How the Snow-Throat Got Its Groove Back](/r/teslore/5ve1te)                                                         | [Val_Ritz](/u/Val_Ritz)                                                                                                                   |
+| [The Khajiit Tower](/r/teslore/3oh7wf)                                                                               | [scourgicus](/u/scourgicus)                                                                                                               |
+| [The Khajiit Tower (in-world re-write)](/r/teslore/7i33b5)                                                           | [scourgicus](/u/scourgicus)                                                                                                               |
+| [The Khajiit Tower (revisited)](/r/teslore/4aihnk)                                                                   | [scourgicus](/u/scourgicus)                                                                                                               |
+| [Kynbriefing: Concerning the White-Gold Tower](/r/teslore/4u37mt)                                                    | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Mysteries of the Orichalc Tower](/r/teslore/53ouvi)                                                                 | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [Names of Mother Cyrod](/r/teslore/1ptadr)                                                                           | [ppitm](/u/ppitm)                                                                                                                         |
+| [On the Nature of White-Gold](/r/teslore/4cxfyt)                                                                     | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit) | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [The Prolix Tower and Dracochrysalis Analyzed](/r/teslore/2n9gy9)                                                    | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [The Secret of the Stone of Snow-Throat: A C0da](/r/teslore/3fxgh7)                                                  | [omegabrad](/u/omegabrad)                                                                                                                 |
+| [The Stone of Orichalc, the Walkabout and the Pankratosword](/r/teslore/1yb3ky)                                      | [Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)                                                                                                   |
+| [The Stone of Snow-Throat](/r/teslore/1oihxh)                                                                        | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [Stone of Snow-Throat, Eye of Magnus and more](/r/teslore/26t64m)                                                    | [EFG567](/u/EFG567)                                                                                                                       |
+| [The Sword and the I](/r/teslore/26ampg)                                                                             | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [Sympathy Magic](/r/teslore/26pa7i)                                                                                  | [awesomefaceninjahead](/u/awesomefaceninjahead)                                                                                           |
+| [Thoughts on the Sundering of Snow Tower](/r/teslore/2uuewj)                                                         | [entirelyalive](/u/entirelyalive)                                                                                                         |
+| [The Tower and the Towers](/r/teslore/5cvx8g)                                                                        | [docclox](/u/docclox)                                                                                                                     |
+| [The Towers maintain stability... but not of Mundus](/r/teslore/3o2c4d)                                              | [Val_Ritz](/u/Val_Ritz)                                                                                                                   |
+| [The True Purpose of White-Gold Tower: The Mantling of the Wheels](/r/teslore/2184mk)                                | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Words of the Towers](/r/teslore/4g30hz)                                                                             | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
 
 ### Tribunal
 
-**Title**| **Author**
-:-----------|:----------
-[A Body that Changes is Better](/r/teslore/comments/3n0rre/a_body_that_changes_is_better/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[A Confession of Annana Rathen, Temple Priestess (Part 1)](/r/teslore/comments/2odp26/a_confession_of_annana_rathen_temple_priestess/)|[eyeofgames](/u/eyeofgames)
-[A Confession of Annana Rathen, Temple Priestess (Part 2)](/r/teslore/comments/2ozkib/a_confession_of_annana_rathen_temple_priestess/)|[eyeofgames](/u/eyeofgames)
-[A Confession of Annana Rathen, Temple Priestess (Part 4, Conclusion)](/r/teslore/comments/2qpxi2/a_confession_of_annana_rathen_temple_priestess/)|[eyeofgames](/u/eyeofgames)
-[A Fairytale for Ayem](/r/teslore/comments/1z2qtg/a_fairytale_for_ayem/)|[Gerenoir](/u/Gerenoir)
-[Almalexia and Sotha Sil have an Argument](/r/teslore/comments/245noy/almalexia_and_sotha_sil_have_an_argument/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[ALMSIVI, Saints of Justice!](/r/teslore/comments/5s8q5f/almsivi_saints_of_justice/)|[Misticsan](/u/Misticsan)
-[An Alternate view of the Tribunal](/r/teslore/comments/14uixx/an_alternate_view_of_the_tribunal/)|[Strangeloup](/u/Strangeloup)
-[A Red Dusk Before Dawn](http://docs.google.com/document/d/1PDrGUCnESi4qoEBVa1MpoGa5JsnnjoXF9zZG57sc3zg/edit)|[kaydet](/u/kaydet)
-[A Short Introduction to the Tribunal Temple](/r/teslore/comments/1on7gw/a_short_introduction_to_the_tribunal_temple/)|[Hollymarkie](/u/Hollymarkie)
-[A Story: Mantling in the Fourth Era, or, The Nirnroot Jug Band](/r/teslore/comments/25qgn7/a_story_mantling_in_the_fourth_era_or_the/)|[AMFKing](/u/AMFKing)
-[A Very Heretical Account of Red Mountain](/r/teslore/comments/306k2w/a_very_heretical_account_of_red_mountain/)|[willxpm](/u/willxpm)
-[Dear Relamus Indoril....](/r/teslore/comments/3672z9/dear_relamus_indoril/)|[twilot_spankle](/u/twilot_spankle)
-[Deep is the cut, and subtle is the poison. Worship, o faithful. Pray your death is short](/r/teslore/comments/1jscd5/deep_is_the_cut_and_subtle_is_the_poison_worship/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Doomed World Protocol](/r/teslore/comments/2j2jq4/doomed_world_protocol/)|[FelineErotica](/u/FelineErotica)
-[The Ending Of The Words Is ALMSIVI: The Dunmeri Tower](/r/teslore/comments/218dqz/the_ending_of_the_words_is_almsivi_the_dunmeri/)|[IceFireWarden](/u/IceFireWarden)
-[Gender in Tamrielic Faith: Prelude to ALMSIVI](/r/teslore/comments/2243n9/gender_in_tamrielic_faith_prelude_to_almsivi/)|[laurelanthalasa](/u/laurelanthalasa)
-[Gender in Tamrielic Faith Part 1: Ayem the Mortal and Boethiah](/r/teslore/comments/233vdg/gender_in_tamrielic_faith_part_1_ayem_the_mortal/)|[laurelanthalasa](/u/laurelanthalasa)
-[Interview: Ascension](/r/teslore/comments/2jex86/interview_ascension/)|[Kopaka99559](/u/Kopaka99559)
-[in the heart chamber](/r/teslore/6b7fqj/)|[Ysmiraak](/u/Ysmiraak)
-[Moon Meeting with Sotha Sil](/r/teslore/comments/1sbgqr/moon_meeting_with_sotha_sil/)|[Mr_Flippers](/u/Mr_Flippers)
-[Mother of Mourning: Her Lost Love](/r/teslore/7gkby2)|[BuckneyBos](/u/BuckneyBos)
-[On Our Tarot](/r/teslore/comments/1zdlda/on_our_tarot/)|[RideTheLine](/u/RideTheLine)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[To Almalexia](/r/teslore/comments/367htn/to_almalexia/)|[Kestrellius](/u/Kestrellius)
-[The Thirty-Three Sermons of the Saints, Sermon Nine: Saint Aralor the Penitent](/r/teslore/comments/2o53ot/the_thirtythree_sermons_of_the_saints_sermon_nine/)|[LordsAndLadies](/u/LordsAndLadies)
-[The Tribunal and the case of the Unknown Pregnancy Before Marriage](/r/teslore/comments/25dtsa/the_tribunal_and_the_case_of_the_unknown/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[The Tribunal did nothing wrong (Or did they?) - Musings on Foul Murder and the paradoxical nature of Dunmer morality](/r/teslore/comments/5ep0cj/the_tribunal_did_nothing_wrong_or_did_they/)|[Mathemagics15](/u/Mathemagics15)
-[The Tribunal: The Power of the World, the Knowledge of the World and the other World](/r/teslore/71bwer)|[Sawbones194](/u/Sawbones194)
-[Two Nords Read A Book](/r/teslore/comments/3ele1b/two_nords_read_a_book/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[When the Dwemer were removed, the Tribunal ate their ashes](/r/teslore/comments/1jjhjk/when_the_dwemer_were_removed_the_tribunal_ate/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[The 36 Lessons of Vivec and Liber AL vel Legis](/r/teslore/comments/1l0mk7/the_36_lessons_of_vivec_and_liber_al_vel_legis/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[5E 724, p2](/r/teslore/comments/2gdz7x/5e_724_p2/)|[CreamWafers](/u/CreamWafers)
+| **Title**                                                                                                                                 | **Author**                                                                                                                                |
+| :---------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [A Body that Changes is Better](/r/teslore/3n0rre)                                                                                        | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)                                                                                                 |
+| [A Confession of Annana Rathen, Temple Priestess (Part 1)](/r/teslore/2odp26)                                                             | [eyeofgames](/u/eyeofgames)                                                                                                               |
+| [A Confession of Annana Rathen, Temple Priestess (Part 2)](/r/teslore/2ozkib)                                                             | [eyeofgames](/u/eyeofgames)                                                                                                               |
+| [A Confession of Annana Rathen, Temple Priestess (Part 4, Conclusion)](/r/teslore/2qpxi2)                                                 | [eyeofgames](/u/eyeofgames)                                                                                                               |
+| [A Fairytale for Ayem](/r/teslore/1z2qtg)                                                                                                 | [Gerenoir](/u/Gerenoir)                                                                                                                   |
+| [Almalexia and Sotha Sil have an Argument](/r/teslore/245noy)                                                                             | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)                                                                                                 |
+| [ALMSIVI, Saints of Justice!](/r/teslore/5s8q5f)                                                                                          | [Misticsan](/u/Misticsan)                                                                                                                 |
+| [An Alternate view of the Tribunal](/r/teslore/14uixx)                                                                                    | [Strangeloup](/u/Strangeloup)                                                                                                             |
+| [A Red Dusk Before Dawn](https://docs.google.com/document/d/1PDrGUCnESi4qoEBVa1MpoGa5JsnnjoXF9zZG57sc3zg/edit)                            | [kaydet](/u/kaydet)                                                                                                                       |
+| [A Short Introduction to the Tribunal Temple](/r/teslore/1on7gw)                                                                          | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [A Story: Mantling in the Fourth Era, or, The Nirnroot Jug Band](/r/teslore/25qgn7)                                                       | [AMFKing](/u/AMFKing)                                                                                                                     |
+| [A Very Heretical Account of Red Mountain](/r/teslore/306k2w)                                                                             | [willxpm](/u/willxpm)                                                                                                                     |
+| [Dear Relamus Indoril....](/r/teslore/3672z9)                                                                                             | [twilot_spankle](/u/twilot_spankle)                                                                                                       |
+| [Deep is the cut, and subtle is the poison. Worship, o faithful. Pray your death is short](/r/teslore/1jscd5)                             | [Anonymous_Mononymous](/u/Anonymous_Mononymous)                                                                                           |
+| [Doomed World Protocol](/r/teslore/2j2jq4)                                                                                                | [FelineErotica](/u/FelineErotica)                                                                                                         |
+| [The Ending Of The Words Is ALMSIVI: The Dunmeri Tower](/r/teslore/218dqz)                                                                | [IceFireWarden](/u/IceFireWarden)                                                                                                         |
+| [Gender in Tamrielic Faith: Prelude to ALMSIVI](/r/teslore/2243n9)                                                                        | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [Gender in Tamrielic Faith Part 1: Ayem the Mortal and Boethiah](/r/teslore/233vdg)                                                       | [laurelanthalasa](/u/laurelanthalasa)                                                                                                     |
+| [Interview: Ascension](/r/teslore/2jex86)                                                                                                 | [Kopaka99559](/u/Kopaka99559)                                                                                                             |
+| [in the heart chamber](/r/teslore/6b7fqj/)                                                                                                | [Ysmiraak](/u/Ysmiraak)                                                                                                                   |
+| [Moon Meeting with Sotha Sil](/r/teslore/1sbgqr)                                                                                          | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [Mother of Mourning: Her Lost Love](/r/teslore/7gkby2)                                                                                    | [BuckneyBos](/u/BuckneyBos)                                                                                                               |
+| [On Our Tarot](/r/teslore/1zdlda)                                                                                                         | [RideTheLine](/u/RideTheLine)                                                                                                             |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)                      | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [To Almalexia](/r/teslore/367htn)                                                                                                         | [Kestrellius](/u/Kestrellius)                                                                                                             |
+| [The Thirty-Three Sermons of the Saints, Sermon Nine: Saint Aralor the Penitent](/r/teslore/2o53ot)                                       | [LordsAndLadies](/u/LordsAndLadies)                                                                                                       |
+| [The Tribunal and the case of the Unknown Pregnancy Before Marriage](/r/teslore/25dtsa)                                                   | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)                                                                                                 |
+| [The Tribunal did nothing wrong (Or did they?) - Musings on Foul Murder and the paradoxical nature of Dunmer morality](/r/teslore/5ep0cj) | [Mathemagics15](/u/Mathemagics15)                                                                                                         |
+| [The Tribunal: The Power of the World, the Knowledge of the World and the other World](/r/teslore/71bwer)                                 | [Sawbones194](/u/Sawbones194)                                                                                                             |
+| [Two Nords Read A Book](/r/teslore/3ele1b)                                                                                                | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [When the Dwemer were removed, the Tribunal ate their ashes](/r/teslore/1jjhjk)                                                           | [Anonymous_Mononymous](/u/Anonymous_Mononymous)                                                                                           |
+| [The 36 Lessons of Vivec and Liber AL vel Legis](/r/teslore/1l0mk7)                                                                       | [Anonymous_Mononymous](/u/Anonymous_Mononymous)                                                                                           |
+| [5E 724, p2](/r/teslore/2gdz7x)                                                                                                           | [CreamWafers](/u/CreamWafers)                                                                                                             |
 
 ### Trinimac
 
-**Title**| **Author**
-:-----------|:----------
-[The Apostasy of Trinimac](/r/teslore/comments/2t39ve/the_apostasy_of_trinimac/)|[laurelanthalasa](/u/laurelanthalasa)
-[Debunking "Trinmalarkay"](/r/teslore/comments/27gcb4/debunking_trinmalarkay/)|[Mdnthrvst](/u/Mdnthrvst)
-[Dishonor, Deceit, and Duplicity](/r/teslore/comments/24vt3h/dishonor_deceit_and_duplicity/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Identifying Trinimac: A Theory](/r/teslore/comments/2aqx55/identifying_trinimac_a_theory/)|[MalakTheOrc](/u/MalakTheOrc)
-[The paideutic palillogy of TRNMC [children]](/r/teslore/6pa0n3/)|[Pelinal-Whitestrake](/u/Pelinal-Whitestrake)
-[The Revised Imperial Report on the Sload, by Flavius Lups, Synod Scholar](/r/teslore/comments/17omee/the_revised_imperial_report_on_the_origin_of_the/)|[b-rad-oleary](/u/b-rad-oleary)
-[Rite-In-Detestation-of-TRINIMAC-WHO-IS-MALACATH](/r/teslore/comments/58vm94/riteindetestationoftrinimacwhoismalacath/)|[HamSandLich](/u/HamSandLich)
-[The Silver Sword Resurrection](/r/teslore/comments/2b6fz3/the_silver_sword_resurrection/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[The Tale of Trinimac and the Sword-Swallower](/r/teslore/comments/2zwbii/the_tale_of_trinimac_and_the_swordswallower/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Trinimac, False God of the Orcs](/r/teslore/comments/5cxk8y/trinimac_false_god_of_the_orcs/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Trinimac Ideology](/r/teslore/comments/64bllo/)|[SetoKaybola](/u/SetoKaybola)
-[Trinimac The Artemad](/r/teslore/comments/24dc63/trinimac_the_artemad/)|[turokman2000](/u/turokman2000)
-[Trinimac yet Lives!](/r/teslore/comments/60w5qo/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Vanity of Trinimac](/r/teslore/comments/1vxykb/the_vanity_of_trinimac/)|[laurelanthalasa](/u/laurelanthalasa)
+| **Title**                                                                                     | **Author**                                      |
+| :-------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| [The Apostasy of Trinimac](/r/teslore/2t39ve)                                                 | [laurelanthalasa](/u/laurelanthalasa)           |
+| [Debunking "Trinmalarkay"](/r/teslore/27gcb4)                                                 | [Mdnthrvst](/u/Mdnthrvst)                       |
+| [Dishonor, Deceit, and Duplicity](/r/teslore/24vt3h)                                          | [Anonymous_Mononymous](/u/Anonymous_Mononymous) |
+| [Identifying Trinimac: A Theory](/r/teslore/2aqx55)                                           | [MalakTheOrc](/u/MalakTheOrc)                   |
+| [The paideutic palillogy of TRNMC [children]](/r/teslore/6pa0n3/)                             | [Pelinal-Whitestrake](/u/Pelinal-Whitestrake)   |
+| [The Revised Imperial Report on the Sload, by Flavius Lups, Synod Scholar](/r/teslore/17omee) | [b-rad-oleary](/u/b-rad-oleary)                 |
+| [Rite-In-Detestation-of-TRINIMAC-WHO-IS-MALACATH](/r/teslore/58vm94)                          | [HamSandLich](/u/HamSandLich)                   |
+| [The Silver Sword Resurrection](/r/teslore/2b6fz3)                                            | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [The Tale of Trinimac and the Sword-Swallower](/r/teslore/2zwbii)                             | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)   |
+| [Trinimac, False God of the Orcs](/r/teslore/5cxk8y)                                          | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [The Trinimac Ideology](/r/teslore/64bllo)                                                    | [SetoKaybola](/u/SetoKaybola)                   |
+| [Trinimac The Artemad](/r/teslore/24dc63)                                                     | [turokman2000](/u/turokman2000)                 |
+| [Trinimac yet Lives!](/r/teslore/60w5qo)                                                      | [Commander-Gro-Badul](/u/Commander-Gro-Badul)   |
+| [The Vanity of Trinimac](/r/teslore/1vxykb)                                                   | [laurelanthalasa](/u/laurelanthalasa)           |
 
 ### Trolls
 
-**Title**| **Author**
-:-----------|:----------
-[A Troll Creation Myth](/r/teslore/comments/262a1w/a_troll_creation_myth/)|[Sythirius](/u/Sythirius)
-[On Trolls: Nights of the Gathrahan](/r/teslore/comments/264ulp/on_trolls_nights_of_the_gathrahan/)|[Sythirius](/u/Sythirius)
-[On Trolls: The Pantheon of the Wagkuni](/r/teslore/comments/261v2i/on_trolls_the_pantheon_of_the_wagkuni/)|[Sythirius](/u/Sythirius)
-[Trolls](/r/teslore/comments/1z2xtu/trolls/)|[laurelanthalasa](/u/laurelanthalasa)
+| **Title**                                                   | **Author**                            |
+| :---------------------------------------------------------- | :------------------------------------ |
+| [A Troll Creation Myth](/r/teslore/262a1w)                  | [Sythirius](/u/Sythirius)             |
+| [On Trolls: Nights of the Gathrahan](/r/teslore/264ulp)     | [Sythirius](/u/Sythirius)             |
+| [On Trolls: The Pantheon of the Wagkuni](/r/teslore/261v2i) | [Sythirius](/u/Sythirius)             |
+| [Trolls](/r/teslore/1z2xtu)                                 | [laurelanthalasa](/u/laurelanthalasa) |
 
 ### Tsaesci
 
-**Title**| **Author**
-:-----------|:----------
-[A Conversation Between Tsaesci](/r/teslore/comments/5pkn1l/a_conversation_between_tsaesci/)|[Amstrat14](/u/Amstrat14)
-[Akavir Explained: Tsaesci](/r/teslore/comments/3t0oic/akavir_explained_tsaesci/)|[WesaRa](/u/WesaRa)
-[Akavir Is Full of Beast People Because of "Evolution"](/r/teslore/comments/2142f6/akavir_is_full_of_beast_people_because_of/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[A Summary On The More Obscure Races Of Nirn](/r/teslore/comments/1lva4q/a_summary_on_the_more_obscure_races_of_nirn/)|[Hollymarkie](/u/Hollymarkie)
-[Drums of the Tsaesci](/r/teslore/6zcw3o)|[TurtleNoises](/u/TurtleNoises)
-[Fresh eyes on the Tsaesci](/r/teslore/comments/1xkl6x/fresh_eyes_on_the_tsaesci/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Honored Prey - Part One: Origins of the Men of Akavir](/r/teslore/comments/2lm7y4/the_honored_prey_part_one_origins_of_the_men_of/)|[Maering_Bear-Poker](/u/Maering_Bear-Poker)
-[In Defence of the Tsaesci](/r/teslore/comments/5bmr7f/in_defence_of_the_tsaesci/)|[AedanStarfang](/u/AedanStarfang)
-[Letter from the Tsaesci to the Thalmor](/r/teslore/comments/21su46/letter_from_the_tsaesci_to_the_thalmor/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[On the History and Politics of Akavir](/r/teslore/comments/1byjl1/on_the_history_and_politics_of_akavir/)|[Alexxerth](/u/Alexxerth)
-[On the Tsaesci of Akavir and shapeshifting](/r/teslore/comments/4y2vp0/on_the_tsaesci_of_akavir_and_shapeshifting/)|[PADOMAIC-SPECTROMETE](/u/PADOMAIC-SPECTROMETE)
-[On the Tsaesci Species](/r/teslore/comments/1bpa01/on_the_tsaesci_species/)|[Alexxerth](/u/Alexxerth)
-[On the Way of Honor and the Law of Moderation: A Look Into Tsaesci Physiology](/r/teslore/comments/2lao1c/on_the_way_of_honor_and_the_law_of_moderation_a/)|[Maering_Bear-Poker](/u/Maering_Bear-Poker)
-[Recollections of a Humble Potentate](/r/teslore/comments/300isv/recollections_of_a_humble_potentate/)|[IceFireWarden](/u/IceFireWarden)
-[The Saxhleel and the Tsaesci: An Analysis](/r/teslore/comments/1ruv2w/the_saxhleel_and_the_tsaesci_an_analysis/)|[IceFireWarden](/u/IceFireWarden)
-[The Serpent-men and the Argonians](/r/teslore/comments/59p1di/the_serpentmen_and_the_argonians/)|[KingBeron](/u/KingBeron)
-[Speech of Surrender of the Akaviri General at the Pale Pass](/r/teslore/comments/5q8q7b/speech_of_surrender_of_the_akaviri_general_at_the/)|[Alveryn](/u/Alveryn)
-[Studies of a Stranded Scholar](/r/teslore/comments/41izw0/studies_of_a_stranded_scholar/)|[swedishplayer97](/u/swedishplayer97)
-[Studies of a Stranded Scholar, Part II](/r/teslore/comments/41nt5m/studies_of_a_stranded_scholar_part_ii/)|[swedishplayer97](/u/swedishplayer97)
-[Studies of a Stranded Scholar, Part III](/r/teslore/comments/4288i4/studies_of_a_stranded_scholar_part_iii/)|[swedishplayer97](/u/swedishplayer97)
-[The Tsaesci: A Theory](/r/teslore/comments/1t441t/the_tsaesci_a_theory/)|[Maering_Bear-Poker](/u/Maering_Bear-Poker)
-[The Tsaesci Creation Myth Reexamined](/r/teslore/comments/21akfu/the_tsaesci_creation_myth_reexamined/)|[Doom-DrivenPoster](/u/Doom-DrivenPoster)
-[Tsaesci Sacrificial Culture](/r/teslore/comments/2o4qe3/tsaesci_sacrificial_culture/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Whispers On Snakekin](/r/teslore/comments/20zjp4/whispers_on_snakekin/)|[turokman2000](/u/turokman2000)
-[Zurin Arctus begat by Snake-Men, News at Eleven](/r/teslore/comments/5aqvau/zurin_arctus_begat_by_snakemen_news_at_eleven/)|[TheOutOfWorld](/u/TheOutOfWorld)
+| **Title**                                                                                          | **Author**                                      |
+| :------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| [A Conversation Between Tsaesci](/r/teslore/5pkn1l)                                                | [Amstrat14](/u/Amstrat14)                       |
+| [Akavir Explained: Tsaesci](/r/teslore/3t0oic)                                                     | [WesaRa](/u/WesaRa)                             |
+| [Akavir Is Full of Beast People Because of "Evolution"](/r/teslore/2142f6)                         | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [A Summary On The More Obscure Races Of Nirn](/r/teslore/1lva4q)                                   | [Hollymarkie](/u/Hollymarkie)                   |
+| [Drums of the Tsaesci](/r/teslore/6zcw3o)                                                          | [TurtleNoises](/u/TurtleNoises)                 |
+| [Fresh eyes on the Tsaesci](/r/teslore/1xkl6x)                                                     | [laurelanthalasa](/u/laurelanthalasa)           |
+| [The Honored Prey - Part One: Origins of the Men of Akavir](/r/teslore/2lm7y4)                     | [Maering_Bear-Poker](/u/Maering_Bear-Poker)     |
+| [In Defence of the Tsaesci](/r/teslore/5bmr7f)                                                     | [AedanStarfang](/u/AedanStarfang)               |
+| [Letter from the Tsaesci to the Thalmor](/r/teslore/21su46)                                        | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [On the History and Politics of Akavir](/r/teslore/1byjl1)                                         | [Alexxerth](/u/Alexxerth)                       |
+| [On the Tsaesci of Akavir and shapeshifting](/r/teslore/4y2vp0)                                    | [PADOMAIC-SPECTROMETE](/u/PADOMAIC-SPECTROMETE) |
+| [On the Tsaesci Species](/r/teslore/1bpa01)                                                        | [Alexxerth](/u/Alexxerth)                       |
+| [On the Way of Honor and the Law of Moderation: A Look Into Tsaesci Physiology](/r/teslore/2lao1c) | [Maering_Bear-Poker](/u/Maering_Bear-Poker)     |
+| [Recollections of a Humble Potentate](/r/teslore/300isv)                                           | [IceFireWarden](/u/IceFireWarden)               |
+| [The Saxhleel and the Tsaesci: An Analysis](/r/teslore/1ruv2w)                                     | [IceFireWarden](/u/IceFireWarden)               |
+| [The Serpent-men and the Argonians](/r/teslore/59p1di)                                             | [KingBeron](/u/KingBeron)                       |
+| [Speech of Surrender of the Akaviri General at the Pale Pass](/r/teslore/5q8q7b)                   | [Alveryn](/u/Alveryn)                           |
+| [Studies of a Stranded Scholar](/r/teslore/41izw0)                                                 | [swedishplayer97](/u/swedishplayer97)           |
+| [Studies of a Stranded Scholar, Part II](/r/teslore/41nt5m)                                        | [swedishplayer97](/u/swedishplayer97)           |
+| [Studies of a Stranded Scholar, Part III](/r/teslore/4288i4)                                       | [swedishplayer97](/u/swedishplayer97)           |
+| [The Tsaesci: A Theory](/r/teslore/1t441t)                                                         | [Maering_Bear-Poker](/u/Maering_Bear-Poker)     |
+| [The Tsaesci Creation Myth Reexamined](/r/teslore/21akfu)                                          | [Doom-DrivenPoster](/u/Doom-DrivenPoster)       |
+| [Tsaesci Sacrificial Culture](/r/teslore/2o4qe3)                                                   | [Anonymous_Mononymous](/u/Anonymous_Mononymous) |
+| [Whispers On Snakekin](/r/teslore/20zjp4)                                                          | [turokman2000](/u/turokman2000)                 |
+| [Zurin Arctus begat by Snake-Men, News at Eleven](/r/teslore/5aqvau)                               | [TheOutOfWorld](/u/TheOutOfWorld)               |
 
 ## U
 
 ### Ulfric
 
-**Title**| **Author**
-:-----------|:----------
-[Elenwen and Ulfric: Purient Speculation](/r/teslore/comments/4v0by4/elenwen_and_ulfric_purient_speculation/)|[docclox](/u/docclox)
-[The Last Dream of Ulfric Stormcloak](/r/teslore/comments/3a6tiw/the_last_dream_of_ulfric_stormcloak/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Pride Of Ulfric Stormcloak](/r/teslore/comments/5cedgd/the_pride_of_ulfric_stormcloak/)|[docclox](/u/docclox)
-[The Trial of Ulfric Stormcloak](/r/teslore/comments/68onjq/)|[Misticsan](/u/Misticsan)
-[Ulfric, Behind the Mask: Warning!](/r/teslore/comments/3dx4pn/ulfric_behind_the_mask_warning/)|[CreamWafers](/u/CreamWafers)
-[Ulfric, Behind the Mask: The Ulfric I Know](/r/teslore/comments/3dxgou/ulfric_behind_the_mask_the_ulfric_i_know/)|[CreamWafers](/u/CreamWafers)
-[Ulfric, Behind the Mask: The (First) Great War](/r/teslore/comments/3e4gj3/ulfric_behind_the_mask_the_first_great_war/)|[CreamWafers](/u/CreamWafers)
-[Ulfric, Behind the Mask: The Postwar Years](/r/teslore/comments/3e6y2d/ulfric_behind_the_mask_the_postwar_years/)|[CreamWafers](/u/CreamWafers)
-[Ulfric, Behind the Mask: The Hidden Agenda](/r/teslore/comments/3eforx/ulfric_behind_the_mask_the_hidden_agenda/)|[CreamWafers](/u/CreamWafers)
-[Ulfric, Behind the Mask: The (Second!) Great War](/r/teslore/comments/3enmk3/ulfric_behind_the_mask_the_second_great_war/)|[CreamWafers](/u/CreamWafers)
-[Ulfric Stormcloak's Declaration of Skyrim's Independence (4E202)](/r/teslore/comments/628u7w/)|[avakinumibus](/u/avakinumibus)
-[Ulfric the King-Killer](/r/teslore/comments/68v0nl/)|[MrMcfetlock](/u/MrMcfetlock)
-[Ulfric, the Stormcloaks, and Hammerfell](/r/teslore/comments/5alqsb/ulfric_the_stormcloaks_and_hammerfell/)|[KomturAdrian](/u/KomturAdrian)
+| **Title**                                                                             | **Author**                                |
+| :------------------------------------------------------------------------------------ | :---------------------------------------- |
+| [Elenwen and Ulfric: Purient Speculation](/r/teslore/4v0by4)                          | [docclox](/u/docclox)                     |
+| [The Last Dream of Ulfric Stormcloak](/r/teslore/3a6tiw)                              | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [The Pride Of Ulfric Stormcloak](/r/teslore/5cedgd)                                   | [docclox](/u/docclox)                     |
+| [The Trial of Ulfric Stormcloak](/r/teslore/68onjq)                                   | [Misticsan](/u/Misticsan)                 |
+| [Ulfric, Behind the Mask: Warning!](/r/teslore/3dx4pn)                                | [CreamWafers](/u/CreamWafers)             |
+| [Ulfric, Behind the Mask: The Ulfric I Know](/r/teslore/3dxgou)                       | [CreamWafers](/u/CreamWafers)             |
+| [Ulfric, Behind the Mask: The (First) Great War](/r/teslore/3e4gj3)                   | [CreamWafers](/u/CreamWafers)             |
+| [Ulfric, Behind the Mask: The Postwar Years](/r/teslore/3e6y2d)                       | [CreamWafers](/u/CreamWafers)             |
+| [Ulfric, Behind the Mask: The Hidden Agenda](/r/teslore/3eforx)                       | [CreamWafers](/u/CreamWafers)             |
+| [Ulfric, Behind the Mask: The (Second!) Great War](/r/teslore/3enmk3)                 | [CreamWafers](/u/CreamWafers)             |
+| [Ulfric Stormcloak's Declaration of Skyrim's Independence (4E202)](/r/teslore/628u7w) | [avakinumibus](/u/avakinumibus)           |
+| [Ulfric the King-Killer](/r/teslore/68v0nl)                                           | [MrMcfetlock](/u/MrMcfetlock)             |
+| [Ulfric, the Stormcloaks, and Hammerfell](/r/teslore/5alqsb)                          | [KomturAdrian](/u/KomturAdrian)           |
 
 ### Umbriel
 
-**Title**| **Author**
-:-----------|:----------
-[Things Herma-Mora saw ##1: The Glen of Umbriel](/r/teslore/comments/2fpnhi/things_hermamora_saw_1_the_glen_of_umbriel/)|[Cyclenophus](/u/Cyclenophus)
-[Through Eastern Eyes - Book II, Part IV: The Year of Skydeath](/r/teslore/comments/241jsd/through_eastern_eyes_book_ii_part_iv_the_year_of/)|[Blackfyre87](/u/Blackfyre87)
+| **Title**                                                                          | **Author**                    |
+| :--------------------------------------------------------------------------------- | :---------------------------- |
+| [Things Herma-Mora saw ##1: The Glen of Umbriel](/r/teslore/2fpnhi)                | [Cyclenophus](/u/Cyclenophus) |
+| [Through Eastern Eyes - Book II, Part IV: The Year of Skydeath](/r/teslore/241jsd) | [Blackfyre87](/u/Blackfyre87) |
 
 ### Undead
 
-[A Draugr's Sorrow](/r/teslore/706pgv)|[Poison-Song](/u/Poison-Song)
-[Apotheosis through Undeath: Scarab that Transforms into the New Man](/r/teslore/comments/43xy1k/apotheosis_through_undeath_scarab_that_transforms/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Corpse-tinker of Blackrose](https://www.reddit.com/r/teslore/comments/5z9n5o/the_corpsetinker_of_blackrose/)|[HugoLuman](/u/HugoLuman)
-[Eternal Study of Immortals](/r/teslore/comments/55x0az/eternal_study_of_immortals/)|[JagneStormskull](/u/JagneStormskull)
-[Necromancy and Lichdom, a Discourse](/r/teslore/comments/4l0v9h/necromancy_and_lichdom_a_discourse/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[On the Nature of Ghosts, Ghouls, Wraiths and other Phantasms](/r/teslore/comments/5x4s8e/on_the_nature_of_ghosts_ghouls_wraiths_and_other/)|[Phantasmak](/u/Phantasmak)
-[The Ritual of Draugr](/r/teslore/comments/43to46/the_ritual_of_draugr/)|[Heliomance](/u/Heliomance)
-[The undead cabinet of Tamriel](/r/teslore/comments/43g3t0/the_undead_cabinet_of_tamriel/)|[OtakuOfMe](/u/OtakuOfMe)
-[Unexpected residents of Mundus 2 - Vampires/Ghosts](/r/teslore/comments/403jp2/unexpected_residents_of_mundus_2_vampiresghosts/)|[OtakuOfMe](/u/OtakuOfMe)
-[Wispmothers: What In Oblivion Are They?](/r/teslore/comments/6265mt/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
+|[A Draugr's Sorrow](/r/teslore/706pgv)|[Poison-Song](/u/Poison-Song)|
+|[Apotheosis through Undeath: Scarab that Transforms into the New Man](/r/teslore/43xy1k)|[laurelanthalasa](/u/laurelanthalasa)|
+|[The Corpse-tinker of Blackrose](/r/teslore/5z9n5o)|[HugoLuman](/u/HugoLuman)|
+|[Eternal Study of Immortals](/r/teslore/55x0az)|[JagneStormskull](/u/JagneStormskull)|
+|[Necromancy and Lichdom, a Discourse](/r/teslore/4l0v9h)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)|
+|[On the Nature of Ghosts, Ghouls, Wraiths and other Phantasms](/r/teslore/5x4s8e)|[Phantasmak](/u/Phantasmak)|
+|[The Ritual of Draugr](/r/teslore/43to46)|[Heliomance](/u/Heliomance)|
+|[The undead cabinet of Tamriel](/r/teslore/43g3t0)|[OtakuOfMe](/u/OtakuOfMe)|
+|[Unexpected residents of Mundus 2 - Vampires/Ghosts](/r/teslore/403jp2)|[OtakuOfMe](/u/OtakuOfMe)|
+|[Wispmothers: What In Oblivion Are They?](/r/teslore/6265mt)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)|
 
 ## V
 
 ### Vaermina
 
-**Title**| **Author**
-:-----------|:----------
-[A Bedtime Story about Bedtime Stories](/r/teslore/comments/1rimhq/a_bedtime_story_about_bedtime_stories/)|[lebiro](/u/lebiro)
-[An Account of the Disaster at Cheydinhal](/r/teslore/comments/2bybyf/an_account_of_the_disaster_at_cheydinhal/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Archaeologists of Dreams](https://reddit.com/r/teslore/comments/5oboxx/the_archaeologists_of_dreams/)|[Misticsan](/u/Misticsan)
-[The Cursed Visions](/r/teslore/comments/2bvevd/the_cursed_visions/)|[phil_hinds](/u/phil_hinds)
-[The Daedric Doctrines: Weaver of the Panolpy](/r/teslore/comments/27nbs2/the_daedric_doctrines_weaver_of_the_panolpy/)|[RideTheLine](/u/RideTheLine)
-[Excerpt from the journal of Arianne Belfort](/r/teslore/comments/233t8d/excerpt_from_the_journal_of_arianne_belfort/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Gift (Excerpt from an 'Awakened's Journal')](/r/teslore/comments/2g9oau/the_gift_excerpt_from_an_awakeneds_journal/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[Imperial Report on Operation Dream Walker](/r/teslore/comments/2748tb/imperial_report_on_operation_dream_walker/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[Interrogation Transcript - The Dream Speaker](/r/teslore/comments/24vw7q/interrogation_transcript_the_dream_speaker/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[J'hzar's Medical Journal](/r/teslore/comments/23yoca/jhzars_medical_journal/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Mistress's Awakened - Chapter One](/r/teslore/comments/28nmi7/the_mistresss_awakened_chapter_one/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Mistress' Awakened - Chapter 3](/r/teslore/comments/2dnpdf/the_mistress_awakened_chapter_3/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[On Vaermina](/r/teslore/comments/2tosca/on_vaermina/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Purpose of the Weaver](/r/teslore/comments/2gcc42/the_purpose_of_the_weaver/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[Report on Cheydinhal](/r/teslore/comments/2aycy5/report_on_cheydinhal/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[Vaermina's Arena: Sixteen Limbs](/r/teslore/comments/288xib/vaerminas_arena_sixteen_limbs/)|[Impetrong](/u/Impetrong)
-[Vaermina's Arena: Spectator Wakes](/r/teslore/comments/27xtlk/vaerminas_arena_spectator_wakes/)|[Impetrong](/u/Impetrong)
-[Vaermina's Arena: The Wolf and the Steed](/r/teslore/comments/2813lb/vaerminas_arena_the_wolf_and_the_steed/)|[Impetrong](/u/Impetrong)
-[Vaermina's Arena: Sword-meet at Dusk](/r/teslore/comments/282vn1/vaerminas_arena_swordmeet_at_dusk/)|[Impetrong](/u/Impetrong)
-[Vaermina's Summoning Day](/r/teslore/comments/5r2sol/vaerminas_summoning_day/)|[imgaharambe](/u/imgaharambe)
-[Vannanox- Demiprince, Scion of Vaermina](/r/teslore/7cgxvm)|[GoldenEyeOfMora](/u/GoldenEyeOfMora)
-[The Wedding of their Dreams](/r/teslore/comments/63968p/)|[Misticsan](/u/Misticsan)
-
+| **Title**                                                            | **Author**                                |
+| :------------------------------------------------------------------- | :---------------------------------------- |
+| [A Bedtime Story about Bedtime Stories](/r/teslore/1rimhq)           | [lebiro](/u/lebiro)                       |
+| [An Account of the Disaster at Cheydinhal](/r/teslore/2bybyf)        | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [The Archaeologists of Dreams](/r/teslore/5oboxx)                    | [Misticsan](/u/Misticsan)                 |
+| [The Cursed Visions](/r/teslore/2bvevd)                              | [phil_hinds](/u/phil_hinds)               |
+| [The Daedric Doctrines: Weaver of the Panolpy](/r/teslore/27nbs2)    | [RideTheLine](/u/RideTheLine)             |
+| [Excerpt from the journal of Arianne Belfort](/r/teslore/233t8d)     | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [The Gift (Excerpt from an 'Awakened's Journal')](/r/teslore/2g9oau) | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [Imperial Report on Operation Dream Walker](/r/teslore/2748tb)       | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [Interrogation Transcript - The Dream Speaker](/r/teslore/24vw7q)    | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [J'hzar's Medical Journal](/r/teslore/23yoca)                        | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [The Mistress's Awakened - Chapter One](/r/teslore/28nmi7)           | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [The Mistress' Awakened - Chapter 3](/r/teslore/2dnpdf)              | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [On Vaermina](/r/teslore/2tosca)                                     | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [The Purpose of the Weaver](/r/teslore/2gcc42)                       | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [Report on Cheydinhal](/r/teslore/2aycy5)                            | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL) |
+| [Vaermina's Arena: Sixteen Limbs](/r/teslore/288xib)                 | [Impetrong](/u/Impetrong)                 |
+| [Vaermina's Arena: Spectator Wakes](/r/teslore/27xtlk)               | [Impetrong](/u/Impetrong)                 |
+| [Vaermina's Arena: The Wolf and the Steed](/r/teslore/2813lb)        | [Impetrong](/u/Impetrong)                 |
+| [Vaermina's Arena: Sword-meet at Dusk](/r/teslore/282vn1)            | [Impetrong](/u/Impetrong)                 |
+| [Vaermina's Summoning Day](/r/teslore/5r2sol)                        | [imgaharambe](/u/imgaharambe)             |
+| [Vannanox- Demiprince, Scion of Vaermina](/r/teslore/7cgxvm)         | [GoldenEyeOfMora](/u/GoldenEyeOfMora)     |
+| [The Wedding of their Dreams](/r/teslore/63968p)                     | [Misticsan](/u/Misticsan)                 |
 
 ### Valenwood
 
-**Title**| **Author**
-:-----------|:----------
-[A Geologist's Survey of Valenwood](/r/teslore/comments/46hz28/a_geologists_survey_of_valenwood/)|[PM_me_ur_bosmer](/u/PM_me_ur_bosmer)
-[A Graht-Guard’s Journal](/r/teslore/comments/2hd1xx/a_grahtguards_journal/)|[kingjoe64](/u/kingjoe64)
-[A Meeting In The Forest](/r/teslore/comments/24dbch/a_meeting_in_the_forest/)|[hoosierdaddy163](/u/hoosierdaddy163)
-[The Archive of Thot](/r/teslore/comments/1y1oyr/the_archive_of_thot/)|[XAYAH](/u/XAYAH)
-[A Report on the Bloodlines of Tamriel's Vampires Vol V](/r/teslore/comments/4jzshx/a_report_on_the_bloodlines_of_tamriels_vampires/)|[Zoeyface](/u/Zoeyface)
-[A Wood Orc's Notes on Falinesti](/r/teslore/comments/4lf5zz/a_wood_orcs_notes_on_falinesti/)|[Commander-Gro-Badul](/u/Commander-Gro-Badul)
-[The Boiche, a Treatise on the Elves of Valenwood, part I](/r/teslore/comments/17i9cl/the_boiche_a_treatise_on_the_elves_of_valenwood/)|[lebiro](/u/lebiro)
-[Boiche, a Treatise on the Elves of Valenwood, part II](/r/teslore/comments/18jmat/the_boiche_a_treatise_on_the_elves_of_valenwood/)|[lebiro](/u/lebiro)
-[Borgas, the Fool King](/r/teslore/comments/15rc90/borgas_the_foolking/)|[dbcification](/u/salivific)
-[The Coronation of Eplear](/r/teslore/comments/1esj1w/the_coronation_of_eplear/)|[lebiro](/u/lebiro)
-[The Eight Stories of Y'ffre and the Eight Promises of the Bosmer](/r/teslore/comments/17icta/the_eight_stories_of_yffre_and_the_eight_promises/)|[lebiro](/u/lebiro)
-[Eplear and Pelinal](/r/teslore/comments/1en2km/eplear_and_pelinal/)|[lebiro](/u/lebiro)
-[The Fall of Valenwood](/r/teslore/comments/2k0qz0/the_fall_of_valenwood/)|[kingjoe64](/u/kingjoe64)
-[Guide to Greenheart](/r/teslore/comments/2cayff/guide_to_greenheart/)|[fargoniac](/u/fargoniac)
-[Guide to Greenheart, Second Edition](/r/teslore/comments/2mq5rs/guide_to_greenheart_second_edition/)|[fargoniac](/u/fargoniac)
-[Lesser-Known Peoples of Tamriel I: The Coastal Wood Elves](/r/teslore/comments/24yvnj/lesserknown_peoples_of_tamriel_i_the_coastal_wood/)|[Lord_Hoot](/u/Lord_Hoot)
-[The Nature Loving Mer of Tamriel's South](/r/teslore/comments/1791f2/the_nature_loving_mer_of_tamriels_south/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Numidiad: Part II](/r/teslore/comments/1rgnjn/the_numidiad_part_ii/)|[myrrlyn](/u/myrrlyn)
-[On the Geography of Valenwood - Part I](/r/teslore/comments/3jtzx8/on_the_geography_of_valenwood_part_i/)|[larrian_evermore](/u/larrian_evermore)
-[On the Humble Mudcrab](/r/teslore/comments/1t3lw3/on_the_humble_mudcrab/)|[lebiro](/u/lebiro)
-[On The Species Of Tamriel, Volume IV: The Woodfolk](/r/teslore/comments/1jhwm7/on_the_species_of_tamriel_volume_iv_the_woodfolk/)|[Hollymarkie](/u/Hollymarkie)
-[On The Species Of Tamriel, Volume XVIII: The Appendices](/r/teslore/comments/1msfng/on_the_species_of_tamriel_volume_xviii_the/)|[Hollymarkie](/u/Hollymarkie)
-[On the Truth of Grahtmora](/r/teslore/comments/5wihnx/on_the_truth_of_grahtmora/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[On the Vitae of Vilewood: Werevultures](/r/teslore/comments/2ju1vb/on_the_vitae_of_vilewood_werevultures/)|[kingjoe64](/u/kingjoe64)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[Priest to Beast: On the Spinners of Valenwood](/r/teslore/6wdf91)|[Phantasmak](/u/Phantasmak)
-[Report of an experiment on the flora of Grahtwood](/r/teslore/comments/5xe8il/report_of_an_experiment_on_the_flora_of_grahtwood/)|[Lagarto_Azul](/u/Lagarto_Azul)
-[Report on the Sectarian Divisions of the Green Pact](/r/teslore/comments/281rmj/report_on_the_sectarian_divisions_of_the_green/)|[fargoniac](/u/fargoniac)
-[Some notes on the Imga or Great Apes](/r/teslore/comments/26aeqp/some_notes_on_the_imga_or_great_apes/)|[owflory](/u/owflory)
-[Smoking Traditions of Tamriel: The Valenwood](/r/teslore/comments/2g6fsu/smoking_traditions_of_tamriel_the_valenwood/)|[OrdoCorvus](/u/OrdoCorvus)
-[Tam!RUGH! Revolution](/r/teslore/comments/1b6jr7/tamrugh_revolution/)|[NordJitsu](/u/NordJitsu)
-[Ventures to Valenwood Part 1](/r/teslore/comments/33lgan/ventures_to_valenwood_part_1/)|[Cliffrace](/u/Cliffrace)
-[Ventures to Valenwood Part 2](/r/teslore/comments/34vva9/ventures_to_valenwood_part_2/)|[Cliffrace](/u/Cliffrace)
-[Wy Naught and the Pear-You-Eat](http://dropbox.com/s/f77y25ahxscp7uq/WyNaught.pdf)|[dinmenel](/u/purveyoropulchritude)
+| **Title**                                                                                                            | **Author**                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [A Geologist's Survey of Valenwood](/r/teslore/46hz28)                                                               | [PM_me_ur_bosmer](/u/PM_me_ur_bosmer)                                                                                                     |
+| [A Graht-Guard’s Journal](/r/teslore/2hd1xx)                                                                         | [kingjoe64](/u/kingjoe64)                                                                                                                 |
+| [A Meeting In The Forest](/r/teslore/24dbch)                                                                         | [hoosierdaddy163](/u/hoosierdaddy163)                                                                                                     |
+| [The Archive of Thot](/r/teslore/1y1oyr)                                                                             | [XAYAH](/u/XAYAH)                                                                                                                         |
+| [A Report on the Bloodlines of Tamriel's Vampires Vol V](/r/teslore/4jzshx)                                          | [Zoeyface](/u/Zoeyface)                                                                                                                   |
+| [A Wood Orc's Notes on Falinesti](/r/teslore/4lf5zz)                                                                 | [Commander-Gro-Badul](/u/Commander-Gro-Badul)                                                                                             |
+| [The Boiche, a Treatise on the Elves of Valenwood, part I](/r/teslore/17i9cl)                                        | [lebiro](/u/lebiro)                                                                                                                       |
+| [Boiche, a Treatise on the Elves of Valenwood, part II](/r/teslore/18jmat)                                           | [lebiro](/u/lebiro)                                                                                                                       |
+| [Borgas, the Fool King](/r/teslore/15rc90)                                                                           | [dbcification](/u/salivific)                                                                                                              |
+| [The Coronation of Eplear](/r/teslore/1esj1w)                                                                        | [lebiro](/u/lebiro)                                                                                                                       |
+| [The Eight Stories of Y'ffre and the Eight Promises of the Bosmer](/r/teslore/17icta)                                | [lebiro](/u/lebiro)                                                                                                                       |
+| [Eplear and Pelinal](/r/teslore/1en2km)                                                                              | [lebiro](/u/lebiro)                                                                                                                       |
+| [The Fall of Valenwood](/r/teslore/2k0qz0)                                                                           | [kingjoe64](/u/kingjoe64)                                                                                                                 |
+| [Guide to Greenheart](/r/teslore/2cayff)                                                                             | [fargoniac](/u/fargoniac)                                                                                                                 |
+| [Guide to Greenheart, Second Edition](/r/teslore/2mq5rs)                                                             | [fargoniac](/u/fargoniac)                                                                                                                 |
+| [Lesser-Known Peoples of Tamriel I: The Coastal Wood Elves](/r/teslore/24yvnj)                                       | [Lord_Hoot](/u/Lord_Hoot)                                                                                                                 |
+| [The Nature Loving Mer of Tamriel's South](/r/teslore/1791f2)                                                        | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Numidiad: Part II](/r/teslore/1rgnjn)                                                                           | [myrrlyn](/u/myrrlyn)                                                                                                                     |
+| [On the Geography of Valenwood - Part I](/r/teslore/3jtzx8)                                                          | [larrian_evermore](/u/larrian_evermore)                                                                                                   |
+| [On the Humble Mudcrab](/r/teslore/1t3lw3)                                                                           | [lebiro](/u/lebiro)                                                                                                                       |
+| [On The Species Of Tamriel, Volume IV: The Woodfolk](/r/teslore/1jhwm7)                                              | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [On The Species Of Tamriel, Volume XVIII: The Appendices](/r/teslore/1msfng)                                         | [Hollymarkie](/u/Hollymarkie)                                                                                                             |
+| [On the Truth of Grahtmora](/r/teslore/5wihnx)                                                                       | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
+| [On the Vitae of Vilewood: Werevultures](/r/teslore/2ju1vb)                                                          | [kingjoe64](/u/kingjoe64)                                                                                                                 |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit) | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [Priest to Beast: On the Spinners of Valenwood](/r/teslore/6wdf91)                                                   | [Phantasmak](/u/Phantasmak)                                                                                                               |
+| [Report of an experiment on the flora of Grahtwood](/r/teslore/5xe8il)                                               | [Lagarto_Azul](/u/Lagarto_Azul)                                                                                                           |
+| [Report on the Sectarian Divisions of the Green Pact](/r/teslore/281rmj)                                             | [fargoniac](/u/fargoniac)                                                                                                                 |
+| [Some notes on the Imga or Great Apes](/r/teslore/26aeqp)                                                            | [owflory](/u/owflory)                                                                                                                     |
+| [Smoking Traditions of Tamriel: The Valenwood](/r/teslore/2g6fsu)                                                    | [OrdoCorvus](/u/OrdoCorvus)                                                                                                               |
+| [Tam!RUGH! Revolution](/r/teslore/1b6jr7)                                                                            | [NordJitsu](/u/NordJitsu)                                                                                                                 |
+| [Ventures to Valenwood Part 1](/r/teslore/33lgan)                                                                    | [Cliffrace](/u/Cliffrace)                                                                                                                 |
+| [Ventures to Valenwood Part 2](/r/teslore/34vva9)                                                                    | [Cliffrace](/u/Cliffrace)                                                                                                                 |
+| [Wy Naught and the Pear-You-Eat](https://dropbox.com/s/f77y25ahxscp7uq/WyNaught.pdf)                                 | [dinmenel](/u/purveyoropulchritude)                                                                                                       |
 
 ### Vampires
 
-**Title**| **Author**
-:-----------|:----------
-[A Report on the Bloodlines of Tamriel's Vampires Vol I](/r/teslore/comments/25fatg/a_report_on_the_bloodlines_of_tamriels_vampires/)|[Zoeyface](/u/Zoeyface)
-[A Report on the Bloodlines of Tamriel's Vampires Vol II](/r/teslore/comments/25icqh/a_report_on_the_bloodlines_of_tamriels_vampires/)|[Zoeyface](/u/Zoeyface)
-[A Report on the Bloodlines of Tamriel's Vampires Vol III](/r/teslore/comments/25le63/a_report_on_the_bloodlines_of_tamriels_vampires/)|[Zoeyface](/u/Zoeyface)
-[A Report of the Bloodlines of Tamriel's Vampires Vol IV](/r/teslore/comments/25oz7u/a_report_of_the_bloodlines_of_tamriels_vampires/)|[Zoeyface](/u/Zoeyface)
-[A Report on the Bloodlines of Tamriel's Vampires Vol V](/r/teslore/comments/4jzshx/a_report_on_the_bloodlines_of_tamriels_vampires/)|[Zoeyface](/u/Zoeyface)
-[Black Marsh Blood: An Article on Black Marsh's Mysterious Vampires](/r/teslore/6e4g70/)|[Lizeldar](/u/Lizeldar)
-[Cyrodiil Vampiric Order](/r/teslore/6ojn6f/)|[AshtonMiller_Mora](/u/AshtonMiller_Mora)
-[Dibella and Vampires](/r/teslore/6dpi1p/)|[Lizeldar](/u/Lizeldar)
-[Dissentio Vampiris: A Sermon from the Blood Matron](/r/teslore/comments/24go5q/dissentio_vampiris_a_sermon_from_the_blood_matron/)|[AlyxDinas](/u/AlyxDinas)
-[Healing, Vampirism and the Conservation of Magicka](/r/teslore/comments/4t9mft/healing_vampirism_and_the_conservation_of_magicka/)|[docclox](/u/docclox)
-[Kyne's-Kiss Breathsnatcher Speaks at the Moot of Maws](/r/teslore/6ta91s/)|[the418thstep](/u/the418thstep)
-[On the Vampiric Bloodlines of Tamriel, Chapter Three: The Cyrodiil Vampyrum Order](/r/teslore/comments/5u2xd5/on_the_vampiric_bloodlines_of_tamriel_chapter/)|[Nexerous](/u/Nexerous)
-[The Origin of Vampires](/r/teslore/6qqg6k/)|[totally_a_goon](/u/totally_a_goon)
-[Research on Vampirism](/r/teslore/comments/4v9m6s/research_on_vampirism/)|[bold0727](/u/bold0727)
-[Sermon from a Vampire Slayer, Part 1](/r/teslore/comments/5ahb7b/sermon_from_a_vampire_slayer_part_1/)|[veloticy](/u/veloticy)
-[Thalmor Report on the Volkihar Clan](/r/teslore/comments/2jbqvd/thalmor_report_on_the_volkihar_clan/)|[ddaybones](/u/ddaybones)
-[The War of the Sun](https://reddit.com/r/teslore/comments/5gztj2/the_war_of_the_sun/)|[GNerano](/u/GNerano)
-[Whet-Fang Inquiries](/r/teslore/comments/1zjr9x/whetfang_inquiries/)|[IceFireWarden](/u/IceFirewarden)
+| **Title**                                                                                              | **Author**                                |
+| :----------------------------------------------------------------------------------------------------- | :---------------------------------------- |
+| [A Report on the Bloodlines of Tamriel's Vampires Vol I](/r/teslore/25fatg)                            | [Zoeyface](/u/Zoeyface)                   |
+| [A Report on the Bloodlines of Tamriel's Vampires Vol II](/r/teslore/25icqh)                           | [Zoeyface](/u/Zoeyface)                   |
+| [A Report on the Bloodlines of Tamriel's Vampires Vol III](/r/teslore/25le63)                          | [Zoeyface](/u/Zoeyface)                   |
+| [A Report of the Bloodlines of Tamriel's Vampires Vol IV](/r/teslore/25oz7u)                           | [Zoeyface](/u/Zoeyface)                   |
+| [A Report on the Bloodlines of Tamriel's Vampires Vol V](/r/teslore/4jzshx)                            | [Zoeyface](/u/Zoeyface)                   |
+| [Black Marsh Blood: An Article on Black Marsh's Mysterious Vampires](/r/teslore/6e4g70/)               | [Lizeldar](/u/Lizeldar)                   |
+| [Cyrodiil Vampiric Order](/r/teslore/6ojn6f/)                                                          | [AshtonMiller_Mora](/u/AshtonMiller_Mora) |
+| [Dibella and Vampires](/r/teslore/6dpi1p/)                                                             | [Lizeldar](/u/Lizeldar)                   |
+| [Dissentio Vampiris: A Sermon from the Blood Matron](/r/teslore/24go5q)                                | [AlyxDinas](/u/AlyxDinas)                 |
+| [Healing, Vampirism and the Conservation of Magicka](/r/teslore/4t9mft)                                | [docclox](/u/docclox)                     |
+| [Kyne's-Kiss Breathsnatcher Speaks at the Moot of Maws](/r/teslore/6ta91s/)                            | [the418thstep](/u/the418thstep)           |
+| [On the Vampiric Bloodlines of Tamriel, Chapter Three: The Cyrodiil Vampyrum Order](/r/teslore/5u2xd5) | [Nexerous](/u/Nexerous)                   |
+| [The Origin of Vampires](/r/teslore/6qqg6k/)                                                           | [totally_a_goon](/u/totally_a_goon)       |
+| [Research on Vampirism](/r/teslore/4v9m6s)                                                             | [bold0727](/u/bold0727)                   |
+| [Sermon from a Vampire Slayer, Part 1](/r/teslore/5ahb7b)                                              | [veloticy](/u/veloticy)                   |
+| [Thalmor Report on the Volkihar Clan](/r/teslore/2jbqvd)                                               | [ddaybones](/u/ddaybones)                 |
+| [The War of the Sun](/r/teslore/5gztj2)                                                                | [GNerano](/u/GNerano)                     |
+| [Whet-Fang Inquiries](/r/teslore/1zjr9x)                                                               | [IceFireWarden](/u/IceFirewarden)         |
 
 ### Vivec
 
-**Title**| **Author**
-:-----------|:----------
-[An Alternate view of the Tribunal](/r/teslore/comments/14uixx/an_alternate_view_of_the_tribunal/)|[Strangeloup](/u/Strangeloup)
-[An Annotated Sermon 22 or Vivec as Sithis](/r/teslore/comments/1uud25/an_annotated_sermon_22_or_vivec_as_sithis/)|[neragera](/u/neragera)
-[A prayer to Vivec](/r/teslore/6dos6q/)|[Sawbones194](/u/Sawbones194)
-[A Vekh Egg Scramble Part I: An Egg Bearing Preamble](/r/teslore/comments/4tjmka/a_vekh_egg_scramble_part_i_an_egg_bearing_preamble/)|[BuckneyBos](/u/BuckneyBos)
-[A Vehk Egg Scramble Part II: The Pomegranate Disorder: Building the Provisional House of Depersonalization](/r/teslore/comments/4tvlzj/a_vehk_egg_scramble_part_ii_the_pomegranate/)|[BuckneyBos](/u/BuckneyBos)
-[A Vehk Egg Scramble Part III: An Egg With Four Corners](/r/teslore/comments/4uah5u/a_vehk_egg_scramble_part_iii_an_egg_with_four/)|[BuckneyBos](/u/BuckneyBos)
-[A Vehk Egg Scramble Part IV: Children of Egg Trauma, the First Four](/r/teslore/comments/4valf7/a_vehk_egg_scramble_part_iv_children_of_egg/)|[BuckneyBos](/u/BuckneyBos)
-[A Vehk Egg Scramble Part V: The Remaining Beaten Egg-Children](/r/teslore/comments/4wtnqb/a_vehk_egg_scramble_part_v_the_remaining_beaten/)|[BuckneyBos](/u/BuckneyBos)
-[A Vehk Egg Scramble Part VI: Psjjjj, The Endeavor And A Side (Psijic) Order](/r/teslore/comments/51eb0v/a_vehk_egg_scramble_part_vi_psjjjj_the_endeavor/)|[BuckneyBos](/u/BuckneyBos)
-[Betrayal](/r/teslore/comments/2nxbn8/betrayal/)|[Asotil](/u/Asotil)
-[Examining the Name Vehk, a Crowley Perspective](/r/teslore/comments/5e34j8/examining_the_name_vehk_a_crowley_perspective/)|[BuckneyBos](/u/BuckneyBos)
-[The Fire of Vivec](/r/teslore/comments/1v7ycc/the_fire_of_vivec/)|[RottenDeadite](/u/RottenDeadite)
-[Moon Meeting with Vivec](/r/teslore/comments/1n62ol/moon_meeting_with_vivec/)|[Mr_Flippers](/u/Mr_Flippers)
-[Musings on Vivec and Sheogorath](/r/teslore/comments/4q41f0/musings_on_vivec_and_sheogorath_written_in_a_way/)|[syzithryx](/u/syzithryx)
-[The Poet's Heresy](/r/teslore/6lwqnw/)|[TheWoodenplank](/u/TheWoodenplank)
-[Psychological read of the 36 sermons](/r/teslore/comments/47l19n/psychological_read_of_the_36_sermons/)|[OtakuOfMe](/u/OtakuOfMe)
-[RASHA GIVER WORDS BIG](/r/teslore/comments/18oouk/rasha_giver_words_big/)|[Mr_Flippers](/u/Mr_Flippers)
-[Raw musings on the 36 Lessons of Vivec](/r/teslore/comments/1wit6f/raw_musings_on_the_36_lessons_of_vivec/)|[laurelanthalasa](/u/laurelanthalasa)
-[The Republic, Book 1](/r/teslore/comments/3edxx8/the_republic_book_1/)|[SignOfTheHorns](/u/SignOfTheHorns)
-[Saturday Morning Vivec: Episode Two - The Many Headed One](/r/teslore/comments/5jsidq/saturday_morning_vivec_episode_two_the_many/)|[docclox](/u/docclox)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[Sermon Sixteen and the Scathing Bay](/r/teslore/comments/12vc0l/sermon_sixteen_and_the_scathing_bay/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
-[Symbolism of Vivec Artifacts](/r/teslore/comments/4xnhvs/symbolism_of_vivec_artifacts/)|[BuckneyBos](/u/BuckneyBos)
-[Talos the conqueror, Vivec the teacher and the Lessons](/r/teslore/comments/1j39qw/talos_the_conqueror_vivec_the_teacher_and_the/)|[Mr_Flippers](/u/Mr_Flippers)
-[Two theories on the Left Handed Elves](/r/teslore/comments/1xb39r/two_theories_on_the_left_handed_elves/)|[Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)
-[Understanding Vivec's concept of love](/r/teslore/comments/4bjaef/understanding_vivecs_concept_of_love/)|[That2009WeirdEmoKid](/u/That2009WeirdEmoKid)
-[Vehk's City of Light, a Thelemic Interpretation tying Sermon 25 to Sermon 37](/r/teslore/6n0kg5/)|[BuckneyBos](/u/BuckneyBos)
-[Vel and Vehk, Another look at Vivec's namesake](https://an.reddit.com/r/teslore/comments/5oodfi/vel_and_vehk_another_look_at_vivecs_namesake/)|[BuckneyBos](/u/BuckneyBos)
-[Vivec, Amaranth, Life](/r/teslore/comments/1gu4qy/vivec_amaranth_life/)|[RottenDeadite](/u/RottenDeadite)
-[Vivec and the Dragon](/r/teslore/comments/440s0l/vivec_and_the_dragon/)|[diaryofadragonborn](/u/diaryofadragonborn)
-[Vivec and the Healer](/r/teslore/comments/1yqhvs/vivec_and_the_healer/)|[Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)
-[Vivec and Guilt](/r/teslore/comments/2nrhty/vivec_and_guilt/)|[Asotil](/u/Asotil)
-[Vivec and the Turn of the Century: An Essay on Real World Culture](/r/teslore/comments/2xfppv/vivec_and_the_turn_of_the_century_an_essay_on/)|[laurelanthalasa](/u/laurelanthalasa)
-[Vivec is the sun](/r/teslore/comments/376oss/vivec_is_the_sun/)|[qizza](/u/qizza)
-[Vivec's Word-Meeting With The Black Door](/r/teslore/comments/51jvmi/vivecs_wordmeeting_with_the_black_door/)|[BuckneyBos](/u/BuckneyBos)
-[You will die by a thousand cuts unseen, for I am Vehk and Vehk, Dread Father and Night Mother, Mephala reborn, sex-death of language and lord of the middle air - Vivec!](/r/teslore/comments/1wjula/you_will_die_by_a_thousand_cuts_unseen_for_i_am/)|[Mdnthrvst](/u/Mdnthrvst)
-[The 36 Lessons of Vivec and Liber AL vel Legis](/r/teslore/comments/1l0mk7/the_36_lessons_of_vivec_and_liber_al_vel_legis/)|[Anonymous_Mononymous](/u/Anonymous_Mononymous)
+| **Title**                                                                                                                                                                                     | **Author**                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| [An Alternate view of the Tribunal](/r/teslore/14uixx)                                                                                                                                        | [Strangeloup](/u/Strangeloup)                   |
+| [An Annotated Sermon 22 or Vivec as Sithis](/r/teslore/1uud25)                                                                                                                                | [neragera](/u/neragera)                         |
+| [A prayer to Vivec](/r/teslore/6dos6q/)                                                                                                                                                       | [Sawbones194](/u/Sawbones194)                   |
+| [A Vekh Egg Scramble Part I: An Egg Bearing Preamble](/r/teslore/4tjmka)                                                                                                                      | [BuckneyBos](/u/BuckneyBos)                     |
+| [A Vehk Egg Scramble Part II: The Pomegranate Disorder: Building the Provisional House of Depersonalization](/r/teslore/4tvlzj)                                                               | [BuckneyBos](/u/BuckneyBos)                     |
+| [A Vehk Egg Scramble Part III: An Egg With Four Corners](/r/teslore/4uah5u)                                                                                                                   | [BuckneyBos](/u/BuckneyBos)                     |
+| [A Vehk Egg Scramble Part IV: Children of Egg Trauma, the First Four](/r/teslore/4valf7)                                                                                                      | [BuckneyBos](/u/BuckneyBos)                     |
+| [A Vehk Egg Scramble Part V: The Remaining Beaten Egg-Children](/r/teslore/4wtnqb)                                                                                                            | [BuckneyBos](/u/BuckneyBos)                     |
+| [A Vehk Egg Scramble Part VI: Psjjjj, The Endeavor And A Side (Psijic) Order](/r/teslore/51eb0v)                                                                                              | [BuckneyBos](/u/BuckneyBos)                     |
+| [Betrayal](/r/teslore/2nxbn8)                                                                                                                                                                 | [Asotil](/u/Asotil)                             |
+| [Examining the Name Vehk, a Crowley Perspective](/r/teslore/5e34j8)                                                                                                                           | [BuckneyBos](/u/BuckneyBos)                     |
+| [The Fire of Vivec](/r/teslore/1v7ycc)                                                                                                                                                        | [RottenDeadite](/u/RottenDeadite)               |
+| [Moon Meeting with Vivec](/r/teslore/1n62ol)                                                                                                                                                  | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Musings on Vivec and Sheogorath](/r/teslore/4q41f0)                                                                                                                                          | [syzithryx](/u/syzithryx)                       |
+| [The Poet's Heresy](/r/teslore/6lwqnw/)                                                                                                                                                       | [TheWoodenplank](/u/TheWoodenplank)             |
+| [Psychological read of the 36 sermons](/r/teslore/47l19n)                                                                                                                                     | [OtakuOfMe](/u/OtakuOfMe)                       |
+| [RASHA GIVER WORDS BIG](/r/teslore/18oouk)                                                                                                                                                    | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Raw musings on the 36 Lessons of Vivec](/r/teslore/1wit6f)                                                                                                                                   | [laurelanthalasa](/u/laurelanthalasa)           |
+| [The Republic, Book 1](/r/teslore/3edxx8)                                                                                                                                                     | [SignOfTheHorns](/u/SignOfTheHorns)             |
+| [Saturday Morning Vivec: Episode Two - The Many Headed One](/r/teslore/5jsidq)                                                                                                                | [docclox](/u/docclox)                           |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                                                                                                                             | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Sermon Sixteen and the Scathing Bay](/r/teslore/12vc0l)                                                                                                                                      | [Anonymous_Mononymous](/u/Anonymous_Mononymous) |
+| [Symbolism of Vivec Artifacts](/r/teslore/4xnhvs)                                                                                                                                             | [BuckneyBos](/u/BuckneyBos)                     |
+| [Talos the conqueror, Vivec the teacher and the Lessons](/r/teslore/1j39qw)                                                                                                                   | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Two theories on the Left Handed Elves](/r/teslore/1xb39r)                                                                                                                                    | [Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)         |
+| [Understanding Vivec's concept of love](/r/teslore/4bjaef)                                                                                                                                    | [That2009WeirdEmoKid](/u/That2009WeirdEmoKid)   |
+| [Vehk's City of Light, a Thelemic Interpretation tying Sermon 25 to Sermon 37](/r/teslore/6n0kg5/)                                                                                            | [BuckneyBos](/u/BuckneyBos)                     |
+| [Vel and Vehk, Another look at Vivec's namesake](https://an.reddit.com/r/teslore/5oodfi)                                                                                                      | [BuckneyBos](/u/BuckneyBos)                     |
+| [Vivec, Amaranth, Life](/r/teslore/1gu4qy)                                                                                                                                                    | [RottenDeadite](/u/RottenDeadite)               |
+| [Vivec and the Dragon](/r/teslore/440s0l)                                                                                                                                                     | [diaryofadragonborn](/u/diaryofadragonborn)     |
+| [Vivec and the Healer](/r/teslore/1yqhvs)                                                                                                                                                     | [Jaridase_Zasmyocl](/u/Jaridase_Zasmyocl)       |
+| [Vivec and Guilt](/r/teslore/2nrhty)                                                                                                                                                          | [Asotil](/u/Asotil)                             |
+| [Vivec and the Turn of the Century: An Essay on Real World Culture](/r/teslore/2xfppv)                                                                                                        | [laurelanthalasa](/u/laurelanthalasa)           |
+| [Vivec is the sun](/r/teslore/376oss)                                                                                                                                                         | [qizza](/u/qizza)                               |
+| [Vivec's Word-Meeting With The Black Door](/r/teslore/51jvmi)                                                                                                                                 | [BuckneyBos](/u/BuckneyBos)                     |
+| [You will die by a thousand cuts unseen, for I am Vehk and Vehk, Dread Father and Night Mother, Mephala reborn, sex-death of language and lord of the middle air - Vivec!](/r/teslore/1wjula) | [Mdnthrvst](/u/Mdnthrvst)                       |
+| [The 36 Lessons of Vivec and Liber AL vel Legis](/r/teslore/1l0mk7)                                                                                                                           | [Anonymous_Mononymous](/u/Anonymous_Mononymous) |
 
 ## W
 
 ### Warfare
 
-**Title**| **Author**
-:-----------|:----------
-[Accounts on Reach Hedge-Magic Used in Battle](/r/teslore/comments/5wx6oe/accounts_on_reach_hedgemagic_used_in_battle/)|[slovakiin](/u/slovakiin)
-[A description of Sword Singers](/r/teslore/comments/1n6ncc/a_description_of_the_swordsingers/)|[Hollymarkie](/u/Hollymarkie)
-[A History of Skyrim's Civil War (Part 1)](/r/teslore/comments/53os1e/a_history_of_skyrims_civil_war_part_1/)|[TheLionoftheEast](/u/TheLionoftheEast)
-[A History of Skyrim's Civil War (Part 2)](/r/teslore/comments/54m69u/a_history_of_skyrims_civil_war_part_2/)|[TheLionoftheEast](/u/TheLionoftheEast)
-[A Less Brief History of the Empire, Part III: Antiochus and the War of the Isles](/r/teslore/comments/1xk5j9/a_less_brief_history_of_the_empire_part_iii/)|[Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)
-[An assessment of the Strategic Condition of the River Niben](https://reddit.com/r/teslore/comments/5gixq4/an_assessment_of_the_strategic_condition_of_the/)|[Hello_Kalashnikov](/u/Hello_Kalashnikov)
-[An Imperial Account of the Second Great War](/r/teslore/comments/32hcyn/an_imperial_account_of_the_second_great_war/)|[ZizZizZiz](/u/ZizZizZiz)
-[A Nord's Account of the Second Akaviri Invasion and the Ebonheart Pact](/r/teslore/comments/5ijy2b/a_nords_account_of_the_second_akaviri_invasion/)|[FoxInTheBrush](/u/FoxInTheBrush)
-[A Practical Dialogue on the Philosophy of War, 4E199](/r/teslore/comments/1ukoor/a_practical_dialogue_on_the_philosophy_of_war/)|[sha-3-512](/u/sha-3-512)
-[Argon the Great: The First 'King' Of The Saxhleel](/r/teslore/comments/1pwgsn/argon_the_great_the_first_king_of_the_saxhleel/)|[IceFireWarden](/u/IceFireWarden)
-[Battlemages in Naval Warfare](/r/teslore/comments/5xne1k/battlemages_in_naval_warfare/)|[slovakiin](/u/slovakiin)
-[Battle of the Alik'r Desert](/r/teslore/comments/30evgl/battle_of_the_alikr_desert/)|[ddaybones](/u/ddaybones)
-[The Battle of The Carolina: The Worst Military Endeavor In History?](/r/teslore/comments/33lqnh/the_battle_of_the_carolina_the_worst_military/)|[IceFireWarden](/u/IceFireWarden)
-[Battlespire Report](/r/teslore/comments/21f4fz/battlespire_report/)|[ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)
-[The Beauty of War](/r/teslore/comments/40s2py/the_beauty_of_war/)|[swedishplayer97](/u/swedishplayer97)
-[Brief entries on the Tenth Hold war](/r/teslore/comments/62gek0/)|[Blackcoldren](/u/Blackcoldren)
-[Casualties of The Great War: Cyrodiil](/r/teslore/comments/1tqjl9/casualties_of_the_great_war_cyrodiil/)|[Avian81](/u/Avian81)
-[Casualties of The Great War: Cyrodiil II](/r/teslore/comments/1tt2z8/casualties_of_the_great_war_cyrodiil_ii/)|[Avian81](/u/Avian81)
-[The Civil War of Solstheim: The Traitor vs. A Guardian](/r/teslore/comments/4cadvx/the_civil_war_of_solstheim_the_traitor_vs_a/)|[ddaybones](/u/ddaybones)
-[Conjecture on the Codes of Malacath](/r/teslore/comments/15j34k/conjecture_on_the_codes_of_malacath/)|[myrrlyn](/u/myrrlyn)
-[The Country Gentlemans' Diary - 4E201](/r/teslore/comments/2gb21h/the_country_gentlemans_diary_4e201/)|[EnstoneDC](/u/EnstoneDC)
-[Dremora's Account of the Argonian's Invasion of the Deadlands](/r/teslore/6f0dh8/)|[avakinumibus](/u/avakinumibus)
-[The Ebony Giant: Accounts from the battle of Fort Dragonclaw, 2E 584](/r/teslore/comments/2sxoav/the_ebony_giant_accounts_from_the_battle_of_fort/)|[zbzszzzt123](/u/zbzszzzt123)
-[The Eternal Question](/r/teslore/6s8opl)|[seedyvagrant](/u/seedyvagrant)
-[The Fall of Anvil: The Day the Docks Burned](/r/teslore/comments/33kn6q/the_fall_of_anvil_the_day_the_docks_burned/)|[Matobar](/u/Matobar)
-[Five Year War - Downburn of Athay](/r/teslore/comments/439b6o/five_year_war_downburn_of_athay/)|[OtakuOfMe](/u/OtakuOfMe)
-[Five Year War - The Skirmish near Dune](/r/teslore/comments/42zb82/five_year_war_the_skirmish_near_dune/)|[OtakuOfMe](/u/OtakuOfMe)
-[Five Year War - Wild Hunt of Vindisi](/r/teslore/comments/43b1pv/five_year_war_wild_hunt_of_vindisi/)|[OtakuOfMe](/u/OtakuOfMe)
-[The First of First Mate’s Void-Navy Conscription Speech](/r/teslore/comments/1ka495/the_first_of_first_mates_voidnavy_conscription/)|[mojonation1487](/u/mojonation1487)
-[High Rock: Province of Conquest Ch. 1 Pt. 1](/r/teslore/comments/22unpv/high_rock_province_of_conquest_ch_1_pt_1/)|[Avian81](/u/Avian81)
-[How Riekling Fight](/r/teslore/6mpki7/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
-[Imperial Armory report on [Gunpowder] Weapons, 4E173](/r/teslore/comments/1v5af3/imperial_armory_report_on_gunpowder_weapons_4e173/)|[sha-3-512](/u/sha-3-512)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 1: Introduction](/r/teslore/comments/2han28/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 2: The Altmer](/r/teslore/comments/2haula/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 3: The Khajiit](/r/teslore/comments/2hhqqv/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 4: The Redguards](/r/teslore/comments/2hyis3/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Into the Void](/r/teslore/comments/1s6d6d/into_the_void/)|[KingBeron](/u/KingBeron)
-[Khajiiti Warfare](/r/teslore/comments/1jeh7i/khajiiti_warfare/)|[Mr_Flippers](/u/Mr_Flippers)
-[Magical Tactics of High Rock](/r/teslore/comments/5wo39m/magical_tactics_of_high_rock/)|[slovakiin](/u/slovakiin)
-[Magum Ars Militaris: A Study on the Efficacy of Magick Schools in War Part I](/r/teslore/6bdetz/)|[jsantana2010](/u/jsantana2010)
-[Military and Paramilitary Organizations and Orders in Tamriel: The Imperial Legion](/r/teslore/comments/309ape/military_and_paramilitary_organizations_and/)|[LeeJP](/u/LeeJP)
-[Military and Paramilitary Organizations and Orders of Tamriel: The Penitus Oculatus (Legion Addendum)](/r/teslore/comments/30dxa5/military_and_paramilitary_organizations_and/)|[LeeJP](/u/LeeJP)
-[The Mor Khazgur Massacre](/r/teslore/comments/3afl3e/the_mor_khazgur_massacre/)|[supermelon928](/u/supermelon928)
-[Morrowind on the Brink of War](/r/teslore/comments/1v5m0m/morrowind_on_the_brink_of_war/)|[willxpm](/u/willxpm)
-[Nationalism in Tamriel](/r/teslore/comments/25hpnn/nationalism_in_tamriel/)|[Hollymarkie](/u/Hollymarkie)
-[Naval Battles of the Great War, Volume I](/r/teslore/comments/1zeyp9/naval_battles_of_the_great_war_volume_i/)|[ekkuz](/u/ekkuz)
-[Naval Battles of the Great War, Volume II](/r/teslore/comments/20lksg/naval_battles_of_the_great_war_volume_ii/)|[ekkuz](/u/ekkuz)
-[Naval Battles of the Great War, Volume III](/u//r/teslore/comments/20rrao/naval_battles_of_the_great_war_volume_iii/)|[ekkuz](/u/ekkuz)
-[Nord Combat after the Civil War](/r/teslore/comments/3mfsbr/nord_combat_after_the_civil_war/)|[supermelon928](/u/supermelon928)
-[The Numidiad: Part I](/r/teslore/comments/1rgnjn/the_numidiad_part_i/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part II](/r/teslore/comments/1rgnjn/the_numidiad_part_ii/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part III](/r/teslore/comments/1rgnjn/the_numidiad_part_iii/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part IV](/r/teslore/comments/1rgnjn/the_numidiad_part_iv/)|[myrrlyn](/u/myrrlyn)
-[The Numidiad: Part V](/r/teslore/comments/1rgnjn/the_numidiad_part_v/)|[myrrlyn](/u/myrrlyn)
-[One Last Dichotomy](/r/teslore/6uht15)|[TheWoodenplank](/u/TheWoodenplank)
-[On Martial Importance in Yokudan and Orcish Culture](/r/teslore/comments/1u2exv/on_martial_importance_in_ypkudan_and_orcish/)|[Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)
-[On Rebellion: A History of Uprisings in Tamriel - Ch. I: The Anvil Commune](/r/teslore/comments/1wx0i7/on_rebellion_a_history_of_uprisings_in_tamriel_ch/)|[notmyfavouritehat](/u/notmyfavouritehat)
-[On the Accession War and the subsequent borders](/r/teslore/comments/3f0uit/on_the_accession_war_and_the_subsequent_borders/)|[Homusubi](/u/Homusubi)
-[On The Imperial Army](/r/teslore/6qc20n/)|[jackboy900](/u/jackboy900)
-[On the Travesty of War](/r/teslore/comments/5e70r1/on_the_travesty_of_war/)|[Black_Eagle78](/u/Black_Eagle78)
-[Practical Applications of Sand Magic - blasting sand and Yoku cannon](/r/teslore/comments/1t9y13/practical_applications_of_sand_magic_blasting/)|[lebiro](/u/lebiro)
-[The Prospect of Imperial War Hounds](/r/teslore/comments/5dpp7n/the_prospect_of_imperial_war_hounds/)|[veloticy](/u/veloticy)
-[Provincial Legion Auxiliaries: Regner's Rangers](/r/teslore/comments/4s4o1u/provincial_legion_auxiliaries_regners_rangers/?st=iqgwjlgg&sh=1fc11660)|[rocketmantan](/u/rocketmantan)
-[The Re-Establishment of Legion Zero](/r/teslore/comments/494cwd/the_reestablishment_of_legion_zero/)|[gmason527](/u/gmason527)
-[Requisition Orders, 3E 282](/r/teslore/comments/3cxiom/requisition_orders_3e_282/)|[Xuial](/u/Xuial)
-[The Reunification of Skyrim, Part 1 - the Rift](/r/teslore/comments/5fdr8a/the_reunification_of_skyrim_part_1_the_rift/)|[veloticy](/u/veloticy)
-[The Reunification of Skyrim, Part 2 - Hjaalmarch](/r/teslore/comments/5ff7t8/the_reunification_of_skyrim_part_2_hjaalmarch/)|[veloticy](/u/veloticy)
-[The Reunification of Skyrim, Part 3 - Whiterun](/r/teslore/comments/5fjyt4/reunification_of_skyrim_part_3_whiterun/)|[veloticy](/u/veloticy)
-[The Reunification of Skyrim, Part 4 - the Reach](/r/teslore/comments/5fql4m/reunification_of_skyrim_part_4_the_reach/)|[veloticy](/u/veloticy)
-[The Reunification of Skyrim, Part 5 - the Truce](/r/teslore/comments/5fxkuu/reunification_of_skyrim_part_5_the_truce/)|[veloticy](/u/veloticy)
-[The Ruby Ranks: The Transformation of the Imperial Legion Part I](/r/teslore/comments/3myuqc/the_ruby_ranks_the_transformation_of_the_imperial/)|[ddaybones](/u/ddaybones)
-[The Ruby Ranks: The Transformation of the Imperial Legion Part II](/r/teslore/comments/3n3qiw/the_ruby_ranks_the_transformation_of_the_imperial/)|[ddaybones](/u/ddaybones)
-[The Ruby Ranks: The Transformation of the Imperial Legion Part III](/r/teslore/comments/3nmqn4/the_ruby_ranks_the_transformation_of_the_imperial/)|[ddaybones](/u/ddaybones)
-[Scales and Ash: The Argonians at Red Mountain (Part I)](/r/teslore/comments/1sjrla/scales_and_ash_the_argonians_at_red_mountain_part/)|[IceFireWarden](/u/IceFireWarden)
-[Scales and Ash: The Argonians at Red Mountain (Part II)](/r/teslore/comments/1t61sx/scales_and_ash_the_argonians_at_red_mountain_part/)|[IceFireWarden](/u/IceFireWarden)
-[Scales and Ash: The Argonians at Red Mountain (Part III)](/r/teslore/comments/1zmlc0/scales_and_ash_the_argonians_at_red_mountain_part/)|[IceFireWarden](/u/IceFirewarden)
-[The Skylamp Night](/r/teslore/comments/1zdmas/the_skylamp_night/)|[TamrielRebuilt](/u/TamrielRebuilt)
-[Silt Striders With Wings: The Enegoti](/r/teslore/comments/21gn34/silt_striders_with_wings_the_enegoti/)|[willxpm](/u/willxpm)
-[Strategies of the 4th Era Imperial Legion in respect to the Battle of Prisms](/r/teslore/comments/3043ch/strategies_of_the_4th_era_imperial_legion_in/)|[PADOMAIC-SPECTROMETE](/u/PADOMAIC-SPECTROMETE)
-[The Structure and Strength of the Argonian Army](/r/teslore/comments/17a79q/the_structure_and_strength_of_the_argonian_army/)|[xenoposeidon](/u/xenoposeidon)
-[The Surrender of Alinor](/r/teslore/comments/4xv7he/the_surrender_of_alinor/)|[Erethor](/u/Erethor)
-[Tales of Old Tamriel ## 8: Our Lady Hestra](/r/teslore/comments/2ef98v/tales_of_old_tamriel_8_our_lady_hestra/)|[Cyclenophus](/u/Cyclenophus)
-[Talos the conqueror, Vivec the teacher and the Lessons](/r/teslore/comments/1j39qw/talos_the_conqueror_vivec_the_teacher_and_the/)|[Mr_Flippers](/u/Mr_Flippers)
-[Tamriel declares Hammerfell the war (Black-Horse-Courier)](/r/teslore/comments/3il7fs/tamriel_declares_hammerfell_the_war/)|[Mathieu-Bellamont](/u/Mathieu-Bellamont)
-[Tamrielic Armory volume 1 - The Spear](/r/teslore/comments/2l1wh6/tamrielic_armory_volume_1_the_spear/)|[Cyclenophus](/u/Cyclenophus)
-[The Tamrielic Fronde](/r/teslore/comments/5ms12m/the_tamrielic_fronde/)|[FFLeo](/u/FFLeo)
-[Tam!RUGH! Revolution](/r/teslore/comments/1b6jr7/tamrugh_revolution/)|[NordJitsu](/u/NordJitsu)
-[Telvanni Account of the Argonian Invasion](/r/teslore/6fcsp0/)|[ChildishUsername7](/u/ChildishUsername7)
-[Telvanni tactics during the Oblivion Crisis](/r/teslore/comments/2ccjf6/telvanni_tactics_during_the_oblivion_crisis/)|[Lord_Hoot](/u/Lord_Hoot)
-[Thalmor Census-Report On Argonia, Circa 4E 201](/r/teslore/comments/1sjqv6/thalmor_censusreport_on_argonia_circa_4e_201/)|[IceFireWarden](/u/IceFireWarden)
-[Through Eastern Eyes, Part 1: The End and What Came After](/r/teslore/comments/1uyeid/through_eastern_eyes_part_i_the_end_and_what_came/)|[Blackfyre87](/u/Blackfyre87)
-[Through Eastern Eyes, Part II.1: The Blood Gold Epoch; The Stormcrown Interregnum and Its Victims](/r/teslore/comments/1va2ei/through_eastern_eyes_part_ii1_the_blood_gold/)|[Blackfyre87](/u/Blackfyre87)
-[Through Eastern Eyes Part II.2: House Hlaalu and the Scarlet Dusk Over Cheydinhal](/r/teslore/comments/1vi0on/through_eastern_eyes_part_ii2_house_hlaalu_and/)|[Blackfyre87]/u/Blackfyre87)
-[Through Eastern Eyes, Part III.1: The Wolf of the West Weald](/r/teslore/comments/1w3rgm/through_eastern_eyes_part_iii1_the_wolf_of_the/)|[Blackfyre87](/u/Blackfyre87)
-[Through Eastern Eyes, Part III.2: The Clash of Princes](/r/teslore/comments/1wpywa/through_eastern_eyes_part_iii2_the_clash_of/)|[Blackfyre67](/u/Blackfyre87)
-[Through Eastern Eyes Book II, Part I: The Restoration and the Reclamation](/r/teslore/comments/1yghga/through_eastern_eyes_book_ii_part_i_the/)|[Blackfyre87](/u/Blackfyre87)
-[Through Eastern Eyes Book II, Part II: Blood for the Gods](/r/teslore/comments/1zvut7/through_eastern_eyes_book_ii_part_ii_blood_for/)|[Blackfyre87](/u/Blackfyre87)
-[Through Eastern Eyes Part II Book VI: No Country for Old Men](/r/teslore/comments/285793/through_eastern_eyes_part_ii_book_vi_no_country/)|[Blackfyre87](/u/Blackfyre87)
-[The True Story of the Battle of Whiterun](/r/teslore/comments/3ade8q/the_true_story_of_the_battle_of_whiterun/)|[dguy02](/u/dguy02)
-[The Unjust Empire: High Rock](/r/teslore/comments/1wkg1x/the_unjust_empire_high_rock/)|[Avian81](/u/Avian81)
-[War](/r/teslore/comments/4grc6c/war/)|[shivj80](/u/shivj80)
-[The War of Ash and Snow](/r/teslore/comments/31aij0/the_war_of_ash_and_snow/)|[chardo527](/u/chardo527)
-[The War of Bloody Ravens](/r/teslore/comments/29l5ma/the_war_of_bloody_ravens/)|[IceFireWarden](/u/IceFireWarden)
-[Whispers In The Clouds: The Aithērinsula](/r/teslore/comments/2xor2j/whispers_in_the_clouds_the_aith%C4%93rinsula/)|[IceFireWarden](/u/IceFireWarden)
+| **Title**                                                                                                                  | **Author**                                      |
+| :------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| [Accounts on Reach Hedge-Magic Used in Battle](/r/teslore/5wx6oe)                                                          | [slovakiin](/u/slovakiin)                       |
+| [A description of Sword Singers](/r/teslore/1n6ncc)                                                                        | [Hollymarkie](/u/Hollymarkie)                   |
+| [A History of Skyrim's Civil War (Part 1)](/r/teslore/53os1e)                                                              | [TheLionoftheEast](/u/TheLionoftheEast)         |
+| [A History of Skyrim's Civil War (Part 2)](/r/teslore/54m69u)                                                              | [TheLionoftheEast](/u/TheLionoftheEast)         |
+| [A Less Brief History of the Empire, Part III: Antiochus and the War of the Isles](/r/teslore/1xk5j9)                      | [Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)         |
+| [An assessment of the Strategic Condition of the River Niben](/r/teslore/5gixq4)                                           | [Hello_Kalashnikov](/u/Hello_Kalashnikov)       |
+| [An Imperial Account of the Second Great War](/r/teslore/32hcyn)                                                           | [ZizZizZiz](/u/ZizZizZiz)                       |
+| [A Nord's Account of the Second Akaviri Invasion and the Ebonheart Pact](/r/teslore/5ijy2b)                                | [FoxInTheBrush](/u/FoxInTheBrush)               |
+| [A Practical Dialogue on the Philosophy of War, 4E199](/r/teslore/1ukoor)                                                  | [sha-3-512](/u/sha-3-512)                       |
+| [Argon the Great: The First 'King' Of The Saxhleel](/r/teslore/1pwgsn)                                                     | [IceFireWarden](/u/IceFireWarden)               |
+| [Battlemages in Naval Warfare](/r/teslore/5xne1k)                                                                          | [slovakiin](/u/slovakiin)                       |
+| [Battle of the Alik'r Desert](/r/teslore/30evgl)                                                                           | [ddaybones](/u/ddaybones)                       |
+| [The Battle of The Carolina: The Worst Military Endeavor In History?](/r/teslore/33lqnh)                                   | [IceFireWarden](/u/IceFireWarden)               |
+| [Battlespire Report](/r/teslore/21f4fz)                                                                                    | [ASAMANNAMMEDNIGEL](/u/ASAMANNAMMEDNIGEL)       |
+| [The Beauty of War](/r/teslore/40s2py)                                                                                     | [swedishplayer97](/u/swedishplayer97)           |
+| [Brief entries on the Tenth Hold war](/r/teslore/62gek0)                                                                   | [Blackcoldren](/u/Blackcoldren)                 |
+| [Casualties of The Great War: Cyrodiil](/r/teslore/1tqjl9)                                                                 | [Avian81](/u/Avian81)                           |
+| [Casualties of The Great War: Cyrodiil II](/r/teslore/1tt2z8)                                                              | [Avian81](/u/Avian81)                           |
+| [The Civil War of Solstheim: The Traitor vs. A Guardian](/r/teslore/4cadvx)                                                | [ddaybones](/u/ddaybones)                       |
+| [Conjecture on the Codes of Malacath](/r/teslore/15j34k)                                                                   | [myrrlyn](/u/myrrlyn)                           |
+| [The Country Gentlemans' Diary - 4E201](/r/teslore/2gb21h)                                                                 | [EnstoneDC](/u/EnstoneDC)                       |
+| [Dremora's Account of the Argonian's Invasion of the Deadlands](/r/teslore/6f0dh8/)                                        | [avakinumibus](/u/avakinumibus)                 |
+| [The Ebony Giant: Accounts from the battle of Fort Dragonclaw, 2E 584](/r/teslore/2sxoav)                                  | [zbzszzzt123](/u/zbzszzzt123)                   |
+| [The Eternal Question](/r/teslore/6s8opl)                                                                                  | [seedyvagrant](/u/seedyvagrant)                 |
+| [The Fall of Anvil: The Day the Docks Burned](/r/teslore/33kn6q)                                                           | [Matobar](/u/Matobar)                           |
+| [Five Year War - Downburn of Athay](/r/teslore/439b6o)                                                                     | [OtakuOfMe](/u/OtakuOfMe)                       |
+| [Five Year War - The Skirmish near Dune](/r/teslore/42zb82)                                                                | [OtakuOfMe](/u/OtakuOfMe)                       |
+| [Five Year War - Wild Hunt of Vindisi](/r/teslore/43b1pv)                                                                  | [OtakuOfMe](/u/OtakuOfMe)                       |
+| [The First of First Mate’s Void-Navy Conscription Speech](/r/teslore/1ka495)                                               | [mojonation1487](/u/mojonation1487)             |
+| [High Rock: Province of Conquest Ch. 1 Pt. 1](/r/teslore/22unpv)                                                           | [Avian81](/u/Avian81)                           |
+| [How Riekling Fight](/r/teslore/6mpki7/)                                                                                   | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)   |
+| [Imperial Armory report on [Gunpowder] Weapons, 4E173](/r/teslore/1v5af3)                                                  | [sha-3-512](/u/sha-3-512)                       |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 1: Introduction](/r/teslore/2han28)                       | [rekkt](/u/rekkt)                               |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 2: The Altmer](/r/teslore/2haula)                         | [rekkt](/u/rekkt)                               |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 3: The Khajiit](/r/teslore/2hhqqv)                        | [rekkt](/u/rekkt)                               |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 4: The Redguards](/r/teslore/2hyis3)                      | [rekkt](/u/rekkt)                               |
+| [Into the Void](/r/teslore/1s6d6d)                                                                                         | [KingBeron](/u/KingBeron)                       |
+| [Khajiiti Warfare](/r/teslore/1jeh7i)                                                                                      | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Magical Tactics of High Rock](/r/teslore/5wo39m)                                                                          | [slovakiin](/u/slovakiin)                       |
+| [Magum Ars Militaris: A Study on the Efficacy of Magick Schools in War Part I](/r/teslore/6bdetz/)                         | [jsantana2010](/u/jsantana2010)                 |
+| [Military and Paramilitary Organizations and Orders in Tamriel: The Imperial Legion](/r/teslore/309ape)                    | [LeeJP](/u/LeeJP)                               |
+| [Military and Paramilitary Organizations and Orders of Tamriel: The Penitus Oculatus (Legion Addendum)](/r/teslore/30dxa5) | [LeeJP](/u/LeeJP)                               |
+| [The Mor Khazgur Massacre](/r/teslore/3afl3e)                                                                              | [supermelon928](/u/supermelon928)               |
+| [Morrowind on the Brink of War](/r/teslore/1v5m0m)                                                                         | [willxpm](/u/willxpm)                           |
+| [Nationalism in Tamriel](/r/teslore/25hpnn)                                                                                | [Hollymarkie](/u/Hollymarkie)                   |
+| [Naval Battles of the Great War, Volume I](/r/teslore/1zeyp9)                                                              | [ekkuz](/u/ekkuz)                               |
+| [Naval Battles of the Great War, Volume II](/r/teslore/20lksg)                                                             | [ekkuz](/u/ekkuz)                               |
+| [Naval Battles of the Great War, Volume III](/u//r/teslore/20rrao)                                                         | [ekkuz](/u/ekkuz)                               |
+| [Nord Combat after the Civil War](/r/teslore/3mfsbr)                                                                       | [supermelon928](/u/supermelon928)               |
+| [The Numidiad: Part I](/r/teslore/1rgnjn)                                                                                  | [myrrlyn](/u/myrrlyn)                           |
+| [The Numidiad: Part II](/r/teslore/1rgnjn)                                                                                 | [myrrlyn](/u/myrrlyn)                           |
+| [The Numidiad: Part III](/r/teslore/1rgnjn)                                                                                | [myrrlyn](/u/myrrlyn)                           |
+| [The Numidiad: Part IV](/r/teslore/1rgnjn)                                                                                 | [myrrlyn](/u/myrrlyn)                           |
+| [The Numidiad: Part V](/r/teslore/1rgnjn)                                                                                  | [myrrlyn](/u/myrrlyn)                           |
+| [One Last Dichotomy](/r/teslore/6uht15)                                                                                    | [TheWoodenplank](/u/TheWoodenplank)             |
+| [On Martial Importance in Yokudan and Orcish Culture](/r/teslore/1u2exv)                                                   | [Ushnad gro-Udnar](/u/Ushnad_gro-Udnar)         |
+| [On Rebellion: A History of Uprisings in Tamriel - Ch. I: The Anvil Commune](/r/teslore/1wx0i7)                            | [notmyfavouritehat](/u/notmyfavouritehat)       |
+| [On the Accession War and the subsequent borders](/r/teslore/3f0uit)                                                       | [Homusubi](/u/Homusubi)                         |
+| [On The Imperial Army](/r/teslore/6qc20n/)                                                                                 | [jackboy900](/u/jackboy900)                     |
+| [On the Travesty of War](/r/teslore/5e70r1)                                                                                | [Black_Eagle78](/u/Black_Eagle78)               |
+| [Practical Applications of Sand Magic - blasting sand and Yoku cannon](/r/teslore/1t9y13)                                  | [lebiro](/u/lebiro)                             |
+| [The Prospect of Imperial War Hounds](/r/teslore/5dpp7n)                                                                   | [veloticy](/u/veloticy)                         |
+| [Provincial Legion Auxiliaries: Regner's Rangers](/r/teslore/4s4o1u)                                                       | [rocketmantan](/u/rocketmantan)                 |
+| [The Re-Establishment of Legion Zero](/r/teslore/494cwd)                                                                   | [gmason527](/u/gmason527)                       |
+| [Requisition Orders, 3E 282](/r/teslore/3cxiom)                                                                            | [Xuial](/u/Xuial)                               |
+| [The Reunification of Skyrim, Part 1 - the Rift](/r/teslore/5fdr8a)                                                        | [veloticy](/u/veloticy)                         |
+| [The Reunification of Skyrim, Part 2 - Hjaalmarch](/r/teslore/5ff7t8)                                                      | [veloticy](/u/veloticy)                         |
+| [The Reunification of Skyrim, Part 3 - Whiterun](/r/teslore/5fjyt4)                                                        | [veloticy](/u/veloticy)                         |
+| [The Reunification of Skyrim, Part 4 - the Reach](/r/teslore/5fql4m)                                                       | [veloticy](/u/veloticy)                         |
+| [The Reunification of Skyrim, Part 5 - the Truce](/r/teslore/5fxkuu)                                                       | [veloticy](/u/veloticy)                         |
+| [The Ruby Ranks: The Transformation of the Imperial Legion Part I](/r/teslore/3myuqc)                                      | [ddaybones](/u/ddaybones)                       |
+| [The Ruby Ranks: The Transformation of the Imperial Legion Part II](/r/teslore/3n3qiw)                                     | [ddaybones](/u/ddaybones)                       |
+| [The Ruby Ranks: The Transformation of the Imperial Legion Part III](/r/teslore/3nmqn4)                                    | [ddaybones](/u/ddaybones)                       |
+| [Scales and Ash: The Argonians at Red Mountain (Part I)](/r/teslore/1sjrla)                                                | [IceFireWarden](/u/IceFireWarden)               |
+| [Scales and Ash: The Argonians at Red Mountain (Part II)](/r/teslore/1t61sx)                                               | [IceFireWarden](/u/IceFireWarden)               |
+| [Scales and Ash: The Argonians at Red Mountain (Part III)](/r/teslore/1zmlc0)                                              | [IceFireWarden](/u/IceFirewarden)               |
+| [The Skylamp Night](/r/teslore/1zdmas)                                                                                     | [TamrielRebuilt](/u/TamrielRebuilt)             |
+| [Silt Striders With Wings: The Enegoti](/r/teslore/21gn34)                                                                 | [willxpm](/u/willxpm)                           |
+| [Strategies of the 4th Era Imperial Legion in respect to the Battle of Prisms](/r/teslore/3043ch)                          | [PADOMAIC-SPECTROMETE](/u/PADOMAIC-SPECTROMETE) |
+| [The Structure and Strength of the Argonian Army](/r/teslore/17a79q)                                                       | [xenoposeidon](/u/xenoposeidon)                 |
+| [The Surrender of Alinor](/r/teslore/4xv7he)                                                                               | [Erethor](/u/Erethor)                           |
+| [Tales of Old Tamriel ## 8: Our Lady Hestra](/r/teslore/2ef98v)                                                            | [Cyclenophus](/u/Cyclenophus)                   |
+| [Talos the conqueror, Vivec the teacher and the Lessons](/r/teslore/1j39qw)                                                | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Tamriel declares Hammerfell the war (Black-Horse-Courier)](/r/teslore/3il7fs)                                             | [Mathieu-Bellamont](/u/Mathieu-Bellamont)       |
+| [Tamrielic Armory volume 1 - The Spear](/r/teslore/2l1wh6)                                                                 | [Cyclenophus](/u/Cyclenophus)                   |
+| [The Tamrielic Fronde](/r/teslore/5ms12m)                                                                                  | [FFLeo](/u/FFLeo)                               |
+| [Tam!RUGH! Revolution](/r/teslore/1b6jr7)                                                                                  | [NordJitsu](/u/NordJitsu)                       |
+| [Telvanni Account of the Argonian Invasion](/r/teslore/6fcsp0/)                                                            | [ChildishUsername7](/u/ChildishUsername7)       |
+| [Telvanni tactics during the Oblivion Crisis](/r/teslore/2ccjf6)                                                           | [Lord_Hoot](/u/Lord_Hoot)                       |
+| [Thalmor Census-Report On Argonia, Circa 4E 201](/r/teslore/1sjqv6)                                                        | [IceFireWarden](/u/IceFireWarden)               |
+| [Through Eastern Eyes, Part 1: The End and What Came After](/r/teslore/1uyeid)                                             | [Blackfyre87](/u/Blackfyre87)                   |
+| [Through Eastern Eyes, Part II.1: The Blood Gold Epoch; The Stormcrown Interregnum and Its Victims](/r/teslore/1va2ei)     | [Blackfyre87](/u/Blackfyre87)                   |
+| [Through Eastern Eyes Part II.2: House Hlaalu and the Scarlet Dusk Over Cheydinhal](/r/teslore/1vi0on)                     | [Blackfyre87]/u/Blackfyre87)                    |
+| [Through Eastern Eyes, Part III.1: The Wolf of the West Weald](/r/teslore/1w3rgm)                                          | [Blackfyre87](/u/Blackfyre87)                   |
+| [Through Eastern Eyes, Part III.2: The Clash of Princes](/r/teslore/1wpywa)                                                | [Blackfyre67](/u/Blackfyre87)                   |
+| [Through Eastern Eyes Book II, Part I: The Restoration and the Reclamation](/r/teslore/1yghga)                             | [Blackfyre87](/u/Blackfyre87)                   |
+| [Through Eastern Eyes Book II, Part II: Blood for the Gods](/r/teslore/1zvut7)                                             | [Blackfyre87](/u/Blackfyre87)                   |
+| [Through Eastern Eyes Part II Book VI: No Country for Old Men](/r/teslore/285793)                                          | [Blackfyre87](/u/Blackfyre87)                   |
+| [The True Story of the Battle of Whiterun](/r/teslore/3ade8q)                                                              | [dguy02](/u/dguy02)                             |
+| [The Unjust Empire: High Rock](/r/teslore/1wkg1x)                                                                          | [Avian81](/u/Avian81)                           |
+| [War](/r/teslore/4grc6c)                                                                                                   | [shivj80](/u/shivj80)                           |
+| [The War of Ash and Snow](/r/teslore/31aij0)                                                                               | [chardo527](/u/chardo527)                       |
+| [The War of Bloody Ravens](/r/teslore/29l5ma)                                                                              | [IceFireWarden](/u/IceFireWarden)               |
+| [Whispers In The Clouds: The Aithērinsula](/r/teslore/2xor2j)                                                              | [IceFireWarden](/u/IceFireWarden)               |
 
 ### Weapons and Armor
 
-**Title**| **Author**
-:-----------|:----------
-[A Blacksmith Bedtime Story](/r/teslore/comments/25bxtj/a_blacksmith_bedtime_story/)|[angrywom6at](/u/angrywom6at)
-[A Brief Treatise on Attack Runes](/r/teslore/comments/242x23/a_brief_treatise_on_attack_runes/)|[Asotil](/u/Asotil)
-[A Brief Treatise on the Grenade](/r/teslore/comments/2vj60k/a_brief_treatise_on_the_grenade/)|[IceFireWarden](/u/IceFireWarden)
-[A catalog of Swords: The Niben](/r/teslore/comments/2jmiso/a_catalog_of_swords_the_niben/)|[OrdoCorvus](/u/OrdoCorvus)
-[A Grumpy Nord Blacksmith Talks About Bone](/r/teslore/comments/2qgr09/a_grumpy_nord_blacksmith_talks_about_bone/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A Grumpy Nord Blacksmith talks about Moonstone](/r/teslore/comments/2q5h1c/a_grumpy_nord_blacksmith_talks_about_moonstone/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A Grumpy Nord Blacksmith Talks About Dwemer Metal](/r/teslore/comments/2qsjul/a_grumpy_nord_blacksmith_talks_about_dwemer_metal/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A Grumpy Nord Blacksmith Talks About Mithril](/r/teslore/comments/2r2t0f/a_grumpy_nord_blacksmith_talks_about_mithril/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[Amber Weapons in Saxhleel Culture](/r/teslore/comments/4jj5a3/amber_weapons_in_saxhleel_culture/)|[PADOMAIC-SPECTROMETE](/u/PADOMAIC-SPECTROMETE)
-[An Inquiry into the Properties of Glass](/r/teslore/comments/1939fw/an_inquiry_into_the_properties_of_glass/)|[Anhrl](/u/Anhrl)
-[An Instructor's Reply to a Foolish Proposal](/r/teslore/comments/24h16u/an_instructors_reply_to_a_foolish_proposal/)|[Asotil](/u/Asotil)
-[A Nord Blacksmith Talks About Daedric Weapons](/r/teslore/comments/2t0lep/a_nord_blacksmith_talks_about_daedric_weapons/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A Nord Blacksmith Talks About Ebony](/r/teslore/comments/2slgbz/a_nord_blacksmith_talks_about_ebony/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A Nord Blacksmith Talks About Malachite](/r/teslore/comments/2s8wfm/a_nord_blacksmith_talks_about_malachite/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A Nord Smith Talks About Oricalcum](/r/teslore/comments/2rdceq/a_nord_smith_talks_about_oricalcum/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A Nord Blacksmith Talks About Quicksilver](/r/teslore/comments/2rtpub/a_nord_blacksmith_talks_about_quicksilver/)|[DuncanTheSilent](/u/DuncanTheSilent)
-[A notice found in the mess hall of Fort Hawkmoth](/r/teslore/comments/41m0ri/a_notice_found_in_the_mess_hall_of_fort_hawkmoth/)|[rocketmantan](/u/rocketmantan)
-[Armor and Weapon Crafting Practices of Giants at War](/r/teslore/comments/31dgns/armor_and_weapon_crafting_practices_of_giants_at/)|[LeeJP](/u/LeeJP)
-[Bluefang and Sky-Smile: On the Secret Purpose of Welkynd Stones](/r/teslore/comments/2094k5/bluefang_and_skysmile_on_the_secret_purpose_of/)|[wkuechen](/u/wkuechen)
-[Conjecture regarding the Dwemer Ballistae](/r/teslore/comments/1r676c/conjecture_regarding_the_dwemer_ballistae/)|[Magictrician](/u/Magictrician)
-[Death From A Thousand Cuts: A Memoir On Echmeri Swordsmanship](/r/teslore/comments/5nu5v2/death_from_a_thousand_cuts_a_memoir_on_echmeri/)|[Al-Hatoor](/u/Al-Hatoor)
-[Dwemer Automatons](/r/teslore/comments/1qzray/dwemer_automatons/)|[QuackOfAllTrades](/u/QuackOfAllTrades)
-[Fragments: On Daedric Artifacts](/r/teslore/6isygw/)|[TheWoodenplank](/u/TheWoodenplank)
-[Guns in Tamriel](/r/teslore/comments/2i2s5p/guns_in_tamriel/)|[Asotil](/u/Asotil)
-[Historic Enchanted Weapons of Tamriel: The Nibenay-Pattern Siege Tower](/r/teslore/comments/4x16c4/historic_enchanted_weapons_of_tamriel_the/)|[rocketmantan](/u/rocketmantan)
-[How to forge Dragonbones](/r/teslore/6dmut9/)|[Sawbones194](/u/Sawbones194)
-[Imperial Armory report on [Gunpowder] Weapons, 4E173](/r/teslore/comments/1v5af3/imperial_armory_report_on_gunpowder_weapons_4e173/)|[sha-3-512](/u/sha-3-512)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 1: Introduction](/r/teslore/comments/2han28/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 2: The Altmer](/r/teslore/comments/2haula/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 3: The Khajiit](/r/teslore/comments/2hhqqv/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Imperial Field Guide to Combating Enemies of the Empire. Volume 4: The Redguards](/r/teslore/comments/2hyis3/imperial_field_guide_to_combating_enemies_of_the/)|[rekkt](/u/rekkt)
-[Interpreting the Artifacts of the Pale Pass Excavation](/r/teslore/comments/5k1srr/interpreting_the_artifacts_of_the_pale_pass/)|[Hello_Kalashnikov](/u/Hello_Kalashnikov)
-[Khajiiti Warfare](/r/teslore/comments/1jeh7i/khajiiti_warfare/)|[Mr_Flippers](/u/Mr_Flippers)
-[Misconceptions on Equipment Effectiveness](/r/teslore/comments/30tegg/misconceptions_on_equipment_effectiveness/)|[LeeJP](/u/LeeJP)
-[On Hjaalmarch](/r/teslore/7fxg08)|[in-the-pine-forest](/u/in-the-pine-forest)
-[On Moonstone](/r/teslore/comments/4bss2t/on_moonstone/)|[Saint_Jiub42](/u/Saint_Jiub42)
-[Practical Applications of Sand Magic - blasting sand and Yoku cannon](/r/teslore/comments/1t9y13/practical_applications_of_sand_magic_blasting/)|[lebiro](/u/lebiro)
-[The Pre-Orsimeric-Armor](/r/teslore/comments/5fcf7r/the_preorsimericarmor/)|[Sawbones194](/u/Sawbones194)
-[Prosthetics and Amputees in Tamriel](/r/teslore/6c5q4f/)|[BlackWormDisciple](/u/BlackWormDisciple)
-[Records on Daedric Artifacts I](/r/teslore/comments/1tljra/records_on_daedric_artifacts_i/)|[Avian81](/u/Avian81)
-[Records on Daedric Artifacts II](/r/teslore/comments/1tntps/records_on_daedric_artifacts_ii/)|[Avian81](/u/Avian81)
-[Research Notes on the True Nature of Spellbreaker](/r/teslore/comments/2ej4g9/research_notes_on_the_true_nature_of_spellbreaker/)|[IceFireWarden](/u/IceFireWarden)
-[The Secrets of Bonemold](/r/teslore/comments/3tke54/the_secrets_of_bonemold/)|[invisiblemonies](/u/invisiblemonies)
-[The Secrets of the Skyforge](/r/teslore/comments/1tjwdj/the_secrets_of_the_skyforge/)|[shurdi3](/u/shurdi3)
-[Spirits of our Swords](/r/teslore/comments/2gk3m5/spirits_of_our_swords/)|[IceFireWarden](/u/IceFireWarden)
-[Studies on Vvanderfell Dwemeri armor and weapons](/r/teslore/comments/1rwibh/studies_on_vvanderfell_dwemeri_armor_and_weapons/)|[PADHOME_LKHAN](/u/PADHOME_LKHAN)
-[Tamrielic Armory volume 1 - The Spear](/r/teslore/comments/2l1wh6/tamrielic_armory_volume_1_the_spear/)|[Cyclenophus](/u/Cyclenophus)
-[Troll-Bitten, Worm-Burrowed, Stag-Tramped, Dredged By The Octopus](/r/teslore/comments/2b2kj9/trollbitten_wormburrowed_stagtramped_dredged_by/)|[The_OP3RaT0R](/u/The_OP3RaT0R)
-[Weapon Design for the Modern Orc](/r/teslore/comments/5l6pmz/weapon_design_for_the_modern_orc/)|[HamSandLich](/u/HamSandLich)
-[Wielder Of The Fadecleaver – Preface](/r/teslore/6c0p4g/)|[JustAFriendlyMailman](/u/JustAFriendlyMailman)
+| **Title**                                                                                             | **Author**                                      |
+| :---------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| [A Blacksmith Bedtime Story](/r/teslore/25bxtj)                                                       | [angrywom6at](/u/angrywom6at)                   |
+| [A Brief Treatise on Attack Runes](/r/teslore/242x23)                                                 | [Asotil](/u/Asotil)                             |
+| [A Brief Treatise on the Grenade](/r/teslore/2vj60k)                                                  | [IceFireWarden](/u/IceFireWarden)               |
+| [A catalog of Swords: The Niben](/r/teslore/2jmiso)                                                   | [OrdoCorvus](/u/OrdoCorvus)                     |
+| [A Grumpy Nord Blacksmith Talks About Bone](/r/teslore/2qgr09)                                        | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [A Grumpy Nord Blacksmith talks about Moonstone](/r/teslore/2q5h1c)                                   | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [A Grumpy Nord Blacksmith Talks About Dwemer Metal](/r/teslore/2qsjul)                                | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [A Grumpy Nord Blacksmith Talks About Mithril](/r/teslore/2r2t0f)                                     | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [Amber Weapons in Saxhleel Culture](/r/teslore/4jj5a3)                                                | [PADOMAIC-SPECTROMETE](/u/PADOMAIC-SPECTROMETE) |
+| [An Inquiry into the Properties of Glass](/r/teslore/1939fw)                                          | [Anhrl](/u/Anhrl)                               |
+| [An Instructor's Reply to a Foolish Proposal](/r/teslore/24h16u)                                      | [Asotil](/u/Asotil)                             |
+| [A Nord Blacksmith Talks About Daedric Weapons](/r/teslore/2t0lep)                                    | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [A Nord Blacksmith Talks About Ebony](/r/teslore/2slgbz)                                              | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [A Nord Blacksmith Talks About Malachite](/r/teslore/2s8wfm)                                          | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [A Nord Smith Talks About Oricalcum](/r/teslore/2rdceq)                                               | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [A Nord Blacksmith Talks About Quicksilver](/r/teslore/2rtpub)                                        | [DuncanTheSilent](/u/DuncanTheSilent)           |
+| [A notice found in the mess hall of Fort Hawkmoth](/r/teslore/41m0ri)                                 | [rocketmantan](/u/rocketmantan)                 |
+| [Armor and Weapon Crafting Practices of Giants at War](/r/teslore/31dgns)                             | [LeeJP](/u/LeeJP)                               |
+| [Bluefang and Sky-Smile: On the Secret Purpose of Welkynd Stones](/r/teslore/2094k5)                  | [wkuechen](/u/wkuechen)                         |
+| [Conjecture regarding the Dwemer Ballistae](/r/teslore/1r676c)                                        | [Magictrician](/u/Magictrician)                 |
+| [Death From A Thousand Cuts: A Memoir On Echmeri Swordsmanship](/r/teslore/5nu5v2)                    | [Al-Hatoor](/u/Al-Hatoor)                       |
+| [Dwemer Automatons](/r/teslore/1qzray)                                                                | [QuackOfAllTrades](/u/QuackOfAllTrades)         |
+| [Fragments: On Daedric Artifacts](/r/teslore/6isygw/)                                                 | [TheWoodenplank](/u/TheWoodenplank)             |
+| [Guns in Tamriel](/r/teslore/2i2s5p)                                                                  | [Asotil](/u/Asotil)                             |
+| [Historic Enchanted Weapons of Tamriel: The Nibenay-Pattern Siege Tower](/r/teslore/4x16c4)           | [rocketmantan](/u/rocketmantan)                 |
+| [How to forge Dragonbones](/r/teslore/6dmut9/)                                                        | [Sawbones194](/u/Sawbones194)                   |
+| [Imperial Armory report on [Gunpowder] Weapons, 4E173](/r/teslore/1v5af3)                             | [sha-3-512](/u/sha-3-512)                       |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 1: Introduction](/r/teslore/2han28)  | [rekkt](/u/rekkt)                               |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 2: The Altmer](/r/teslore/2haula)    | [rekkt](/u/rekkt)                               |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 3: The Khajiit](/r/teslore/2hhqqv)   | [rekkt](/u/rekkt)                               |
+| [Imperial Field Guide to Combating Enemies of the Empire. Volume 4: The Redguards](/r/teslore/2hyis3) | [rekkt](/u/rekkt)                               |
+| [Interpreting the Artifacts of the Pale Pass Excavation](/r/teslore/5k1srr)                           | [Hello_Kalashnikov](/u/Hello_Kalashnikov)       |
+| [Khajiiti Warfare](/r/teslore/1jeh7i)                                                                 | [Mr_Flippers](/u/Mr_Flippers)                   |
+| [Misconceptions on Equipment Effectiveness](/r/teslore/30tegg)                                        | [LeeJP](/u/LeeJP)                               |
+| [On Hjaalmarch](/r/teslore/7fxg08)                                                                    | [in-the-pine-forest](/u/in-the-pine-forest)     |
+| [On Moonstone](/r/teslore/4bss2t)                                                                     | [Saint_Jiub42](/u/Saint_Jiub42)                 |
+| [Practical Applications of Sand Magic - blasting sand and Yoku cannon](/r/teslore/1t9y13)             | [lebiro](/u/lebiro)                             |
+| [The Pre-Orsimeric-Armor](/r/teslore/5fcf7r)                                                          | [Sawbones194](/u/Sawbones194)                   |
+| [Prosthetics and Amputees in Tamriel](/r/teslore/6c5q4f/)                                             | [BlackWormDisciple](/u/BlackWormDisciple)       |
+| [Records on Daedric Artifacts I](/r/teslore/1tljra)                                                   | [Avian81](/u/Avian81)                           |
+| [Records on Daedric Artifacts II](/r/teslore/1tntps)                                                  | [Avian81](/u/Avian81)                           |
+| [Research Notes on the True Nature of Spellbreaker](/r/teslore/2ej4g9)                                | [IceFireWarden](/u/IceFireWarden)               |
+| [The Secrets of Bonemold](/r/teslore/3tke54)                                                          | [invisiblemonies](/u/invisiblemonies)           |
+| [The Secrets of the Skyforge](/r/teslore/1tjwdj)                                                      | [shurdi3](/u/shurdi3)                           |
+| [Spirits of our Swords](/r/teslore/2gk3m5)                                                            | [IceFireWarden](/u/IceFireWarden)               |
+| [Studies on Vvanderfell Dwemeri armor and weapons](/r/teslore/1rwibh)                                 | [PADHOME_LKHAN](/u/PADHOME_LKHAN)               |
+| [Tamrielic Armory volume 1 - The Spear](/r/teslore/2l1wh6)                                            | [Cyclenophus](/u/Cyclenophus)                   |
+| [Troll-Bitten, Worm-Burrowed, Stag-Tramped, Dredged By The Octopus](/r/teslore/2b2kj9)                | [The_OP3RaT0R](/u/The_OP3RaT0R)                 |
+| [Weapon Design for the Modern Orc](/r/teslore/5l6pmz)                                                 | [HamSandLich](/u/HamSandLich)                   |
+| [Wielder Of The Fadecleaver – Preface](/r/teslore/6c0p4g/)                                            | [JustAFriendlyMailman](/u/JustAFriendlyMailman) |
 
 ### Wild Hunt
 
-**Title**| **Author**
-:-----------|:----------
-[Surviving the Wild Hunt](/r/teslore/comments/3aefc0/surviving_the_wild_hunt/)|[Xhylorekihel](/u/Xhylorekihel)
+| **Title**                                    | **Author**                      |
+| :------------------------------------------- | :------------------------------ |
+| [Surviving the Wild Hunt](/r/teslore/3aefc0) | [Xhylorekihel](/u/Xhylorekihel) |
 
 ## X
 
@@ -2174,131 +2174,130 @@ _For concerns and queries regarding the Archive, please message **/u/xenoposeido
 
 ### Y'ffre
 
-**Title**| **Author**
-:-----------|:----------
-[The Eight Stories of Y'ffre and the Eight Promises of the Bosmer](/r/teslore/comments/17icta/the_eight_stories_of_yffre_and_the_eight_promises/)|[lebiro](/u/lebiro)
-[Eplear and Pelinal](/r/teslore/comments/1en2km/eplear_and_pelinal/)|[lebiro](/u/lebiro)
-[Mnoriad Pley Bar](/r/teslore/7ig89j)|[Sothas](/u/Sothas)
-[The Nature Loving Mer of Tamriel's South](/r/teslore/comments/1791f2/the_nature_loving_mer_of_tamriels_south/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[The Spirit of the Now](/r/teslore/comments/1u6276/the_spirit_of_the_now/)|[lebiro](/u/lebiro)
-[Treatise on Bosmeri Ships](/r/teslore/comments/177t6t/treatise_on_bosmeri_ships/)|[OPGreenback](/u/OPGreenback)
+| **Title**                                                                                                            | **Author**                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [The Eight Stories of Y'ffre and the Eight Promises of the Bosmer](/r/teslore/17icta)                                | [lebiro](/u/lebiro)                                                                                                                       |
+| [Eplear and Pelinal](/r/teslore/1en2km)                                                                              | [lebiro](/u/lebiro)                                                                                                                       |
+| [Mnoriad Pley Bar](/r/teslore/7ig89j)                                                                                | [Sothas](/u/Sothas)                                                                                                                       |
+| [The Nature Loving Mer of Tamriel's South](/r/teslore/1791f2)                                                        | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit) | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [The Spirit of the Now](/r/teslore/1u6276)                                                                           | [lebiro](/u/lebiro)                                                                                                                       |
+| [Treatise on Bosmeri Ships](/r/teslore/177t6t)                                                                       | [OPGreenback](/u/OPGreenback)                                                                                                             |
 
 ### Yneslea
 
-**Title**| **Author**
-:-----------|:----------
-[A Look At Echmeri Government](/r/teslore/comments/2bbg2e/a_look_at_echmeri_government/)|[IceFireWarden](/u/IceFireWarden)
-[A Look At Echmeri Metaphysics](/r/teslore/comments/2bbl4z/a_look_at_echmeri_metaphysics/)|[IceFireWarden](/u/IceFireWarden)
-[Ancestral Tome of Proverbs](/r/teslore/comments/2fjmkf/ancestral_tome_of_proverbs/)|[IceFireWarden](/u/IceFireWarden)
-[An Uutak C0DA, Issue 1 of Five](https://reddit.com/r/teslore/comments/5go406/an_uutak_c0da_issue_1_of_five/)|[Al-Hatoor](/u/Al-Hatoor)
-[An Uutak Mythos Primer: Part I](/r/teslore/comments/52x747/an_uutak_mythos_primer_part_i/)|[Al-Hatoor](/u/Al-Hatoor)
-[A Short History of Yneslea](/r/teslore/comments/2ft25t/a_short_history_of_yneslea/)|[IceFireWarden](/u/IceFireWarden)
-[A Yneslean Ballad](/r/teslore/comments/2nff1p/a_yneslean_ballad/)|[DarthNarwhals](/u/DarthNarwhals)
-[Compendium of Yneslean Fauna, Volume I: Dendoa](/r/teslore/comments/2t24bp/compendium_of_yneslean_fauna_volume_i_dendoa/)|[Andraxius](/u/Andraxius)
-[Compendium of Yneslean Fauna, Volume II: Lahoo](/r/teslore/comments/2t25ln/compendium_of_yneslean_fauna_volume_ii_lahoo/)|[Andraxius](/u/Andraxius)
-[Conversations With Aither, An Echmer Exul](/r/teslore/comments/2i6ovn/conversations_with_aither_an_echmer_exul/)|[IceFireWarden](/u/IceFireWarden)
-[Daedric Elementum: On Binding Stones](/r/teslore/comments/2f9f4d/daedric_elementum_on_binding_stones/)|[IceFireWarden](/u/IceFireWarden)
-[Daedric Genera: On The Cervine Impidae](/r/teslore/comments/2r7u1f/daedric_genera_on_the_cervine_impidae/)|[IceFireWarden](/u/IceFireWarden)
-[Death From A Thousand Cuts: A Memoir On Echmeri Swordsmanship](/r/teslore/comments/5nu5v2/death_from_a_thousand_cuts_a_memoir_on_echmeri/)|[Al-Hatoor](/u/Al-Hatoor)
-[The Definite Guide to the Echmer](/r/teslore/comments/2bbdcu/the_definite_guide_to_the_echmer/)|[IceFireWarden](/u/IceFireWarden)
-[Echmer: A Taint On The Aldmeri](/r/teslore/comments/2i6jw4/echmer_a_taint_on_the_aldmeri/)|[IceFireWarden](/u/IceFireWarden)
-[Echmer: Mer or Beast?](/r/teslore/comments/2i6m0j/echmer_mer_or_beast/)|[IceFireWarden](/u/IceFireWarden) (Yneslea)
-[Echmer: The Missing Link](/r/teslore/comments/2i6kwj/echmer_the_missing_link/)|[IceFireWarden](/u/IceFireWarden)
-[Explorer’s Journal Pages](/r/teslore/comments/2ftl96/explorers_journal_pages/)|[IceFireWarden](/u/IceFireWarden)
-[The Foreigners](/r/teslore/comments/47qw7d/the_foreigners/)|[IceFireWarden](/u/IceFireWarden)
-[Forged of Dark Remnants: A Guide to Sutch (Part I)](/r/teslore/comments/2u3bsm/forged_of_dark_remnants_a_guide_to_sutch_part_i/)|[IceFireWarden](/u/IceFireWarden)
-[God-Killers: What Were the Echmeri Wraiths?](/r/teslore/comments/557ohp/godkillers_what_were_the_echmeri_wraiths/)|[Al-Hatoor](/u/Al-Hatoor)
-[How Yneslea Passed To The Empire](/r/teslore/comments/2ft6ci/how_yneslea_passed_to_the_empire/)|[IceFireWarden](/u/IceFireWarden)
-[HRAHNDEYL's Sword-Meetng with Cyrus the Restless](/r/teslore/comments/26az5k/hrahndeyls_swordmeetng_with_cyrus_the_restless/)|[IceFireWarden](/u/IceFireWarden)
-[Logbook of the Captain of the Dark Whisper](/r/teslore/comments/2ftfx6/logbook_of_the_captain_of_the_dark_whisper/)|[IceFireWarden](/u/IceFireWarden)
-[Memories of the Past and the Ice Cream Lanes: Ysneslea](/r/teslore/comments/2wc1je/memories_of_the_past_and_the_ice_cream_lanes/)|[IceFireWarden](/u/IceFireWarden)
-[MEMORY, SONG, AND DARKNESS: A Disquisition On The Chiropteran Elves (And Other Concerning Citizens) Of The Ynesleaic Archipelago, Volume I](/r/teslore/comments/2u7h81/memory_song_and_darkness_a_disquisition_on_the/)|[IceFireWarden](/u/IceFireWarden)
-[Notes On Echmer Subraces](/r/teslore/comments/2bber4/notes_on_echmer_subraces/)|[IceFireWarden](/u/IceFireWarden)
-[Of The Imperial Territories: Yneslea](/r/teslore/comments/2ft00a/of_the_imperial_territories_yneslea/)|[IceFireWarden](/u/IceFireWarden)
-[On The Bleakrock-Yneslea Concord of 4E 20](/r/teslore/comments/2ft12n/on_the_bleakrockyneslea_concord_of_4e_20/)|[IceFireWarden](/u/IceFireWarden)
-[Our Oaths and Our Creed](/r/teslore/comments/2f9e4o/our_oaths_and_our_creed/)|[IceFireWarden](/u/IceFireWarden)
-[Provinces of Tamriel (Annotated)](/r/teslore/comments/2fjpee/provinces_of_tamriel_annotated/)|[IceFireWarden](/u/IceFireWarden)
-[The Razing of Sutch](/r/teslore/comments/2u3aei/the_razing_of_sutch/)|[IceFireWarden](/u/IceFireWarden)
-[The Regions of Yneslea: A Field Officer’s Guide](/r/teslore/comments/2etk06/the_regions_of_yneslea_a_field_officers_guide/)|[IceFireWarden](/u/IceFireWarden)
-[Relics of our Past](/r/teslore/comments/31vydp/um_relics_of_our_past/)|[IceFireWarden](/u/IceFireWarden)
-[Relics of our Past: Aetherium Amalgamation](/r/teslore/comments/2ggf84/relics_of_our_past_aetherium_amalgamation/)|[IceFireWarden](/u/IceFireWarden)
-[Relics of our Past: The Ancient of Days](/r/teslore/comments/2gka4l/relics_of_our_past_the_ancient_of_days/)|[IceFireWarden](/u/IceFireWarden)
-[Relics of our Past: Exiliums](/r/teslore/comments/2ggg3u/relics_of_our_past_exiliums/)|[IceFireWarden](/u/IceFireWarden)
-[Relics of our Past: Hollow Mer](/r/teslore/comments/2gk84t/relics_of_our_past_hollow_mer/)|[IceFireWarden](/u/IceFireWarden)
-[Relics of our Past: The Nekrosarkophagos](/r/teslore/comments/2gk4or/relics_of_our_past_the_nekrosarkophagos/)|[IceFireWarden](/u/IceFireWarden)
-[Reminder To All New Cream Whirlers](/r/teslore/comments/2djwsb/a_reminder_to_all_new_cream_whirlers/)|[IceFireWarden](/u/IceFireWarden)
-[Sylph: A Study](/r/teslore/comments/2o1njh/sylph_a_study/)|[IceFireWarden](/u/IceFireWarden)
-[Trade, Don’t Buy!](/r/teslore/comments/2f9cuo/trade_dont_buy/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Genesis: Echmer](/r/teslore/comments/223jsp/uutak_genesis_echmer/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Genesis: Echmeri Gods And Worship](/r/teslore/comments/24rrwi/uutak_genesis_echmeri_gods_and_worship/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Genesis: Queries On Bias-Stances](/r/teslore/comments/24rso1/uutak_genesis_queries_on_biasstances/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Genesis: Yneslea](/r/teslore/comments/223kyy/uutak_genesis_yneslea/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Mythos Archives: The Echmer [PART I: ON THE ECHMER]](/r/teslore/comments/32g7i9/uutak_mythos_archives_the_echmer_part_i_on_the/)|[IceFireWarden](/u/IceFireWarden)
-[Uutak Mythos Archives: The Echmer [PART II: WHISPERS OF YNESLEA]](/r/teslore/comments/32h88b/uutak_mythos_archives_the_echmer_part_ii_whispers/)|[IceFireWarden](/u/IceFireWarden)
-[The Uutak Mythos Archives: The Hydan Cwellan](/r/teslore/comments/3vd27m/the_uutak_mythos_archives_the_h%C8%B3dan_cwellan/)|[IceFireWarden](/u/IceFireWarden)
-[The Uutak Mythos Bible: Complete Edition](https://reddit.com/r/teslore/comments/5gwbbo/the_uutak_mythos_bible_complete_edition/)|[Al-Hatoor](/u/Al-Hatoor)
-[The Uutak Mythos Bible, Supplementary I](/r/teslore/6so21f/)|[Al-Hatoor](/u/Al-Hatoor)
-[Uutak Mythos Conversations I](/r/teslore/comments/5xkv6y/uutak_mythos_conversations_i/)|[Al-Hatoor](/u/Al-Hatoor)
-[Uutak Mythos Timeline, Volume I: The Merethic Era, & First 1/2 of the First Era](/r/teslore/comments/4oeah7/um_uutak_mythos_timeline_volume_i_the_merethic/)|[Al-Hatoor](/u/Al-Hatoor)
-[Uutak: Within The Chimera Ambit](/r/teslore/comments/246xfu/uutak_within_the_chimera_ambit/)|[IceFireWarden](/u/IceFireWarden)
-[The Ynesleaic Chronicles: The History of the Ice Cream Isle, Book I – Dawn, Merethic, and First Eras](/r/teslore/comments/2kgz3d/the_ynesleaic_chronicles_the_history_of_the_ice/)|[IceFireWarden](/u/IceFireWarden)
-[The Ynesleaic Chronicles: The History of the Ice Cream Isle, Book II – Second, Third, and Fourth Eras](/r/teslore/comments/2kh0ra/the_ynesleaic_chronicles_the_history_of_the_ice/)|[IceFireWarden](/u/IceFireWarden)
-[The Ynesleaic Enchiridion: A Well-Constructed Guide To The Yneslian Islands, Part I](/r/teslore/comments/2bm1a7/the_ynesleaic_enchiridion_a_wellconstructed_guide/)|[IceFireWarden](/u/IceFireWarden)
-[The Ynesleaic Enchiridion: A Well-Constructed Guide To The Yneslian Islands, Part II](/r/teslore/comments/2bm2m1/the_ynesleaic_enchiridion_a_wellconstructed_guide/)|[IceFireWarden](/u/IceFireWarden)
-[Yneslean Fauna, Volume I](/r/teslore/comments/65psxz/)|[Al-Hatoor](/u/Al-Hatoor)
-[Yneslea Through The Ages: Dawn, Merethic, and First Eras](/r/teslore/comments/32ksq5/um_yneslea_through_the_ages_dawn_merethic_and/)|[IceFireWarden](/u/IceFireWarden)
-[Yneslea Through The Ages: Second and Third Eras](/r/teslore/comments/32kuhy/um_yneslea_through_the_ages_second_and_third_eras/)|[IceFireWarden](/u/IceFireWarden)
-[Yneslea Through The Ages: Fourth Era](/r/teslore/comments/32kw52/um_yneslea_through_the_ages_fourth_era/)|[IceFireWarden](/u/IceFireWarden)
-
+| **Title**                                                                                                                                                       | **Author**                        |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------- |
+| [A Look At Echmeri Government](/r/teslore/2bbg2e)                                                                                                               | [IceFireWarden](/u/IceFireWarden) |
+| [A Look At Echmeri Metaphysics](/r/teslore/2bbl4z)                                                                                                              | [IceFireWarden](/u/IceFireWarden) |
+| [Ancestral Tome of Proverbs](/r/teslore/2fjmkf)                                                                                                                 | [IceFireWarden](/u/IceFireWarden) |
+| [An Uutak C0DA, Issue 1 of Five](/r/teslore/5go406)                                                                                                             | [Al-Hatoor](/u/Al-Hatoor)         |
+| [An Uutak Mythos Primer: Part I](/r/teslore/52x747)                                                                                                             | [Al-Hatoor](/u/Al-Hatoor)         |
+| [A Short History of Yneslea](/r/teslore/2ft25t)                                                                                                                 | [IceFireWarden](/u/IceFireWarden) |
+| [A Yneslean Ballad](/r/teslore/2nff1p)                                                                                                                          | [DarthNarwhals](/u/DarthNarwhals) |
+| [Compendium of Yneslean Fauna, Volume I: Dendoa](/r/teslore/2t24bp)                                                                                             | [Andraxius](/u/Andraxius)         |
+| [Compendium of Yneslean Fauna, Volume II: Lahoo](/r/teslore/2t25ln)                                                                                             | [Andraxius](/u/Andraxius)         |
+| [Conversations With Aither, An Echmer Exul](/r/teslore/2i6ovn)                                                                                                  | [IceFireWarden](/u/IceFireWarden) |
+| [Daedric Elementum: On Binding Stones](/r/teslore/2f9f4d)                                                                                                       | [IceFireWarden](/u/IceFireWarden) |
+| [Daedric Genera: On The Cervine Impidae](/r/teslore/2r7u1f)                                                                                                     | [IceFireWarden](/u/IceFireWarden) |
+| [Death From A Thousand Cuts: A Memoir On Echmeri Swordsmanship](/r/teslore/5nu5v2)                                                                              | [Al-Hatoor](/u/Al-Hatoor)         |
+| [The Definite Guide to the Echmer](/r/teslore/2bbdcu)                                                                                                           | [IceFireWarden](/u/IceFireWarden) |
+| [Echmer: A Taint On The Aldmeri](/r/teslore/2i6jw4)                                                                                                             | [IceFireWarden](/u/IceFireWarden) |
+| [Echmer: Mer or Beast?](/r/teslore/2i6m0j)                                                                                                                      | [IceFireWarden](/u/IceFireWarden) |
+| [Echmer: The Missing Link](/r/teslore/2i6kwj)                                                                                                                   | [IceFireWarden](/u/IceFireWarden) |
+| [Explorer’s Journal Pages](/r/teslore/2ftl96)                                                                                                                   | [IceFireWarden](/u/IceFireWarden) |
+| [The Foreigners](/r/teslore/47qw7d)                                                                                                                             | [IceFireWarden](/u/IceFireWarden) |
+| [Forged of Dark Remnants: A Guide to Sutch (Part I)](/r/teslore/2u3bsm)                                                                                         | [IceFireWarden](/u/IceFireWarden) |
+| [God-Killers: What Were the Echmeri Wraiths?](/r/teslore/557ohp)                                                                                                | [Al-Hatoor](/u/Al-Hatoor)         |
+| [How Yneslea Passed To The Empire](/r/teslore/2ft6ci)                                                                                                           | [IceFireWarden](/u/IceFireWarden) |
+| [HRAHNDEYL's Sword-Meetng with Cyrus the Restless](/r/teslore/26az5k)                                                                                           | [IceFireWarden](/u/IceFireWarden) |
+| [Logbook of the Captain of the Dark Whisper](/r/teslore/2ftfx6)                                                                                                 | [IceFireWarden](/u/IceFireWarden) |
+| [Memories of the Past and the Ice Cream Lanes: Ysneslea](/r/teslore/2wc1je)                                                                                     | [IceFireWarden](/u/IceFireWarden) |
+| [MEMORY, SONG, AND DARKNESS: A Disquisition On The Chiropteran Elves (And Other Concerning Citizens) Of The Ynesleaic Archipelago, Volume I](/r/teslore/2u7h81) | [IceFireWarden](/u/IceFireWarden) |
+| [Notes On Echmer Subraces](/r/teslore/2bber4)                                                                                                                   | [IceFireWarden](/u/IceFireWarden) |
+| [Of The Imperial Territories: Yneslea](/r/teslore/2ft00a)                                                                                                       | [IceFireWarden](/u/IceFireWarden) |
+| [On The Bleakrock-Yneslea Concord of 4E 20](/r/teslore/2ft12n)                                                                                                  | [IceFireWarden](/u/IceFireWarden) |
+| [Our Oaths and Our Creed](/r/teslore/2f9e4o)                                                                                                                    | [IceFireWarden](/u/IceFireWarden) |
+| [Provinces of Tamriel (Annotated)](/r/teslore/2fjpee)                                                                                                           | [IceFireWarden](/u/IceFireWarden) |
+| [The Razing of Sutch](/r/teslore/2u3aei)                                                                                                                        | [IceFireWarden](/u/IceFireWarden) |
+| [The Regions of Yneslea: A Field Officer’s Guide](/r/teslore/2etk06)                                                                                            | [IceFireWarden](/u/IceFireWarden) |
+| [Relics of our Past](/r/teslore/31vydp)                                                                                                                         | [IceFireWarden](/u/IceFireWarden) |
+| [Relics of our Past: Aetherium Amalgamation](/r/teslore/2ggf84)                                                                                                 | [IceFireWarden](/u/IceFireWarden) |
+| [Relics of our Past: The Ancient of Days](/r/teslore/2gka4l)                                                                                                    | [IceFireWarden](/u/IceFireWarden) |
+| [Relics of our Past: Exiliums](/r/teslore/2ggg3u)                                                                                                               | [IceFireWarden](/u/IceFireWarden) |
+| [Relics of our Past: Hollow Mer](/r/teslore/2gk84t)                                                                                                             | [IceFireWarden](/u/IceFireWarden) |
+| [Relics of our Past: The Nekrosarkophagos](/r/teslore/2gk4or)                                                                                                   | [IceFireWarden](/u/IceFireWarden) |
+| [Reminder To All New Cream Whirlers](/r/teslore/2djwsb)                                                                                                         | [IceFireWarden](/u/IceFireWarden) |
+| [Sylph: A Study](/r/teslore/2o1njh)                                                                                                                             | [IceFireWarden](/u/IceFireWarden) |
+| [Trade, Don’t Buy!](/r/teslore/2f9cuo)                                                                                                                          | [IceFireWarden](/u/IceFireWarden) |
+| [Uutak Genesis: Echmer](/r/teslore/223jsp)                                                                                                                      | [IceFireWarden](/u/IceFireWarden) |
+| [Uutak Genesis: Echmeri Gods And Worship](/r/teslore/24rrwi)                                                                                                    | [IceFireWarden](/u/IceFireWarden) |
+| [Uutak Genesis: Queries On Bias-Stances](/r/teslore/24rso1)                                                                                                     | [IceFireWarden](/u/IceFireWarden) |
+| [Uutak Genesis: Yneslea](/r/teslore/223kyy)                                                                                                                     | [IceFireWarden](/u/IceFireWarden) |
+| [Uutak Mythos Archives: The Echmer [PART I: ON THE ECHMER]](/r/teslore/32g7i9)                                                                                  | [IceFireWarden](/u/IceFireWarden) |
+| [Uutak Mythos Archives: The Echmer [PART II: WHISPERS OF YNESLEA]](/r/teslore/32h88b)                                                                           | [IceFireWarden](/u/IceFireWarden) |
+| [The Uutak Mythos Archives: The Hydan Cwellan](/r/teslore/3vd27m)                                                                                               | [IceFireWarden](/u/IceFireWarden) |
+| [The Uutak Mythos Bible: Complete Edition](/r/teslore/5gwbbo)                                                                                                   | [Al-Hatoor](/u/Al-Hatoor)         |
+| [The Uutak Mythos Bible, Supplementary I](/r/teslore/6so21f/)                                                                                                   | [Al-Hatoor](/u/Al-Hatoor)         |
+| [Uutak Mythos Conversations I](/r/teslore/5xkv6y)                                                                                                               | [Al-Hatoor](/u/Al-Hatoor)         |
+| [Uutak Mythos Timeline, Volume I: The Merethic Era, & First 1/2 of the First Era](/r/teslore/4oeah7)                                                            | [Al-Hatoor](/u/Al-Hatoor)         |
+| [Uutak: Within The Chimera Ambit](/r/teslore/246xfu)                                                                                                            | [IceFireWarden](/u/IceFireWarden) |
+| [The Ynesleaic Chronicles: The History of the Ice Cream Isle, Book I – Dawn, Merethic, and First Eras](/r/teslore/2kgz3d)                                       | [IceFireWarden](/u/IceFireWarden) |
+| [The Ynesleaic Chronicles: The History of the Ice Cream Isle, Book II – Second, Third, and Fourth Eras](/r/teslore/2kh0ra)                                      | [IceFireWarden](/u/IceFireWarden) |
+| [The Ynesleaic Enchiridion: A Well-Constructed Guide To The Yneslian Islands, Part I](/r/teslore/2bm1a7)                                                        | [IceFireWarden](/u/IceFireWarden) |
+| [The Ynesleaic Enchiridion: A Well-Constructed Guide To The Yneslian Islands, Part II](/r/teslore/2bm2m1)                                                       | [IceFireWarden](/u/IceFireWarden) |
+| [Yneslean Fauna, Volume I](/r/teslore/65psxz)                                                                                                                   | [Al-Hatoor](/u/Al-Hatoor)         |
+| [Yneslea Through The Ages: Dawn, Merethic, and First Eras](/r/teslore/32ksq5)                                                                                   | [IceFireWarden](/u/IceFireWarden) |
+| [Yneslea Through The Ages: Second and Third Eras](/r/teslore/32kuhy)                                                                                            | [IceFireWarden](/u/IceFireWarden) |
+| [Yneslea Through The Ages: Fourth Era](/r/teslore/32kw52)                                                                                                       | [IceFireWarden](/u/IceFireWarden) |
 
 ### Yokuda
 
-**Title**| **Author**
-:-----------|:----------
-[A description of Sword Singers](/r/teslore/comments/1n6ncc/a_description_of_the_swordsingers/)|[Hollymarkie](/u/Hollymarkie)
-[A history of Yokudans](/r/teslore/comments/1rs98c/a_history_of_yokudans/)|[Hollymarkie](/u/Hollymarkie)
-[An Expedition Into Dreaming Revelations of Yokuda Pt. 1](/r/teslore/comments/1vviww/an_expedition_into_dreaming_revelations_of_yokuda/)|[kamikazekopec](/u/kamikazekopec)
-[An Expedition into Dreaming Revelations of Yokuda Pt. II](/r/teslore/comments/1w1fga/an_expedition_into_dreaming_revelations_of_yokuda/)|[kamikazekopec](/u/kamikazekopec)
-[A Summary On The More Obscure Races Of Nirn](/r/teslore/comments/1lva4q/a_summary_on_the_more_obscure_races_of_nirn/)|[Hollymarkie](/u/Hollymarkie)
-[Atlantoa, Yokudan Goddess of Storms, the Deep, and Shipwrecks](/r/teslore/6glai1/)|[Phantasmak](/u/Phantasmak)
-[The Baron and Yokuda's Wheel](/r/teslore/comments/2griv1/the_baron_and_yokudas_wheel/)|[RottenDeadite](/u/RottenDeadite)
-[On The Species Of Tamriel, Volume X: The Wanderers and the Nedes: the Ancestry of Men](/r/teslore/comments/1ko62c/on_the_species_of_tamriel_volume_x_the_wanderers/)|[Hollymarkie](/u/Hollymarkie)
-[On The Species Of Tamriel, Volume XIII: The Dark Men of the Desert](/r/teslore/comments/1lt5xf/on_the_species_of_tamriel_volume_xiii_the_dark/)|[Hollymarkie](/u/Hollymarkie)
-[The Piercing of Yokuda](/r/teslore/comments/2hcv6m/the_piercing_of_yokuda/)|[RottenDeadite](/u/RottenDeadite)
-[Smoking Traditions of Tamriel: Hammerfell & Yokuda](/r/teslore/comments/2g7pj2/smoking_traditions_of_tamriel_hammerfell_yokuda/)|[OrdoCorvus](/u/OrdoCorvus)
-[The Stone of Orichalc, the Walkabout and the Pankratosword](/r/teslore/comments/1yb3ky/the_stone_of_orichalc_the_walkabout_and_the/)|[Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)
-[The Strange Scavengers of Yokuda](/r/teslore/comments/2netye/the_strange_scavengers_of_yokuda/)|[RottenDeadite](/u/RottenDeadite)
-[Two theories on the Left Handed Elves](/r/teslore/comments/1xb39r/two_theories_on_the_left_handed_elves/)|[Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar)
-[Yokuda's Arrest](/r/teslore/comments/2h5pcq/yokudas_arrest/)|[RottenDeadite](/u/RottenDeadite)
+| **Title**                                                                                                  | **Author**                              |
+| :--------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| [A description of Sword Singers](/r/teslore/1n6ncc)                                                        | [Hollymarkie](/u/Hollymarkie)           |
+| [A history of Yokudans](/r/teslore/1rs98c)                                                                 | [Hollymarkie](/u/Hollymarkie)           |
+| [An Expedition Into Dreaming Revelations of Yokuda Pt. 1](/r/teslore/1vviww)                               | [kamikazekopec](/u/kamikazekopec)       |
+| [An Expedition into Dreaming Revelations of Yokuda Pt. II](/r/teslore/1w1fga)                              | [kamikazekopec](/u/kamikazekopec)       |
+| [A Summary On The More Obscure Races Of Nirn](/r/teslore/1lva4q)                                           | [Hollymarkie](/u/Hollymarkie)           |
+| [Atlantoa, Yokudan Goddess of Storms, the Deep, and Shipwrecks](/r/teslore/6glai1/)                        | [Phantasmak](/u/Phantasmak)             |
+| [The Baron and Yokuda's Wheel](/r/teslore/2griv1)                                                          | [RottenDeadite](/u/RottenDeadite)       |
+| [On The Species Of Tamriel, Volume X: The Wanderers and the Nedes: the Ancestry of Men](/r/teslore/1ko62c) | [Hollymarkie](/u/Hollymarkie)           |
+| [On The Species Of Tamriel, Volume XIII: The Dark Men of the Desert](/r/teslore/1lt5xf)                    | [Hollymarkie](/u/Hollymarkie)           |
+| [The Piercing of Yokuda](/r/teslore/2hcv6m)                                                                | [RottenDeadite](/u/RottenDeadite)       |
+| [Smoking Traditions of Tamriel: Hammerfell & Yokuda](/r/teslore/2g7pj2)                                    | [OrdoCorvus](/u/OrdoCorvus)             |
+| [The Stone of Orichalc, the Walkabout and the Pankratosword](/r/teslore/1yb3ky)                            | [Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar) |
+| [The Strange Scavengers of Yokuda](/r/teslore/2netye)                                                      | [RottenDeadite](/u/RottenDeadite)       |
+| [Two theories on the Left Handed Elves](/r/teslore/1xb39r)                                                 | [Ushnad_gro-Udnar](/u/Ushnad_gro-Udnar) |
+| [Yokuda's Arrest](/r/teslore/2h5pcq)                                                                       | [RottenDeadite](/u/RottenDeadite)       |
 
 ### Ysgramor
 
-**Title**| **Author**
-:-----------|:----------
-[A description of the Ylgermet](/r/teslore/comments/5tulgr/a_description_of_the_ylgermet/)|[HamSandLich](/u/HamSandLich)
-[Borgas, the Fool King](/r/teslore/comments/15rc90/borgas_the_foolking/)|[dbcification](/u/salivific)
-[Root Meditation with Ysgramor](/r/teslore/comments/1zkg3c/root_meditation_with_ysgramor/)|[IceFireWarden](/u/IceFirewarden)
-[The Song of the Return, Book 1: A Little Preview](/r/teslore/comments/4s2q6h/the_song_of_the_return_book_1_a_little_preview/?st=iqgwjp9e&sh=ada0bd30)|[shivj80](/u/shivj80)
-[Untold Legends: The Other Lives of Ysgramor](/r/teslore/comments/26za4h/untold_legends_the_other_lives_of_ysgramor/)|[william_door](/u/william_door)
-[Yngol, Son of Ysgramor](/r/teslore/comments/26zrb3/yngol_son_of_ysgramor/)|[william_door](/u/william_door)
+| **Title**                                                             | **Author**                        |
+| :-------------------------------------------------------------------- | :-------------------------------- |
+| [A description of the Ylgermet](/r/teslore/5tulgr)                    | [HamSandLich](/u/HamSandLich)     |
+| [Borgas, the Fool King](/r/teslore/15rc90)                            | [dbcification](/u/salivific)      |
+| [Root Meditation with Ysgramor](/r/teslore/1zkg3c)                    | [IceFireWarden](/u/IceFirewarden) |
+| [The Song of the Return, Book 1: A Little Preview](/r/teslore/4s2q6h) | [shivj80](/u/shivj80)             |
+| [Untold Legends: The Other Lives of Ysgramor](/r/teslore/26za4h)      | [william_door](/u/william_door)   |
+| [Yngol, Son of Ysgramor](/r/teslore/26zrb3)                           | [william_door](/u/william_door)   |
 
 ### Ysmir
 
-**Title**| **Author**
-:-----------|:----------
-[The Importance of Ysmir](/r/teslore/comments/zkisy/the_importance_of_ysmir/)|[lilrhys](/u/lilrhys)
-[Moon Meeting with Pelinal Whitestrake](/r/teslore/comments/1n8g2a/moon_meeting_with_pelinal_whitestrake/)|[Mr_Flippers](/u/Mr_Flippers)
-[The Pocket Guide to the Lore](http://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit)|[lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers)
-[Raid on Pyandonea](/r/teslore/comments/170264/raid_on_pyandonea/)|[OPGreenback](/u/OPGreenback)
-[The Songs of Jurgen the Calm](/r/teslore/comments/1jhicb/the_songs_of_jurgen_the_calm/)|[Mr_Flippers](/u/Mr_Flippers)
-[Taker of lands, the Undead Ash-King](/r/teslore/comments/39tdqx/taker_of_lands_the_undead_ashking/)|[twilot_spankle](/u/twilot_spankle)
-[Talos the conqueror, Vivec the teacher and the Lessons](/r/teslore/comments/1j39qw/talos_the_conqueror_vivec_the_teacher_and_the/)|[Mr_Flippers](/u/Mr_Flippers)
-[What is Ysmir? An Answer](/r/teslore/comments/2abgrw/what_is_ysmir_an_answer/)|[Sakazwal](/u/Sakazwal)
-[Ysmir-made-real: Part 1](/r/teslore/comments/2ak5p1/ysmirmadereal_part_1/)|[Francois_Rapiste](/u/Francois_Rapiste)
-[Ysmir-made-real: Part 2](/r/teslore/comments/2aslwm/ysmirmadereal_part_2/)|[Francois_Rapiste](/u/Francois_Rapiste)
-[Ysmir's Sphere!](/r/teslore/comments/2ilkp8/ysmirs_sphere/)|[Francois_Rapiste](/u/Francois_Rapiste)
-[Ysmir's Sphere, part II: Dragonborn Boogaloo](/r/teslore/comments/2ixehz/ysmirs_sphere_part_ii_dragonborn_boogaloo/)|[Francois_Rapiste](/u/Francois_Rapiste)
-[Ysmir Wulfharth Ent No Elf!](/r/teslore/comments/3auisg/ysmir_wulfharth_ent_no_elf/)|[ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)
+| **Title**                                                                                                            | **Author**                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [The Importance of Ysmir](/r/teslore/zkisy)                                                                          | [lilrhys](/u/lilrhys)                                                                                                                     |
+| [Moon Meeting with Pelinal Whitestrake](/r/teslore/1n8g2a)                                                           | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [The Pocket Guide to the Lore](https://docs.google.com/document/d/1AtsWXZKVqB4Q825_SwINY6z4_9NaGknXgeOknOCDuCU/edit) | [lilrhys](/u/lilrhys), [xenoposeidon](/u/xenoposeidon), [regalnerd](/u/reglanerd), [lebiro](/u/lebiro), and [Mr_Flippers](/u/Mr_Flippers) |
+| [Raid on Pyandonea](/r/teslore/170264)                                                                               | [OPGreenback](/u/OPGreenback)                                                                                                             |
+| [The Songs of Jurgen the Calm](/r/teslore/1jhicb)                                                                    | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [Taker of lands, the Undead Ash-King](/r/teslore/39tdqx)                                                             | [twilot_spankle](/u/twilot_spankle)                                                                                                       |
+| [Talos the conqueror, Vivec the teacher and the Lessons](/r/teslore/1j39qw)                                          | [Mr_Flippers](/u/Mr_Flippers)                                                                                                             |
+| [What is Ysmir? An Answer](/r/teslore/2abgrw)                                                                        | [Sakazwal](/u/Sakazwal)                                                                                                                   |
+| [Ysmir-made-real: Part 1](/r/teslore/2ak5p1)                                                                         | [Francois_Rapiste](/u/Francois_Rapiste)                                                                                                   |
+| [Ysmir-made-real: Part 2](/r/teslore/2aslwm)                                                                         | [Francois_Rapiste](/u/Francois_Rapiste)                                                                                                   |
+| [Ysmir's Sphere!](/r/teslore/2ilkp8)                                                                                 | [Francois_Rapiste](/u/Francois_Rapiste)                                                                                                   |
+| [Ysmir's Sphere, part II: Dragonborn Boogaloo](/r/teslore/2ixehz)                                                    | [Francois_Rapiste](/u/Francois_Rapiste)                                                                                                   |
+| [Ysmir Wulfharth Ent No Elf!](/r/teslore/3auisg)                                                                     | [ngasta_kvata_kvakis](/u/ngasta_kvata_kvakis)                                                                                             |
 
 ## Z
