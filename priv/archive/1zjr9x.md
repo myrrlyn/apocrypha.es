@@ -9,6 +9,8 @@ date: 2014-03-04T18:12:54Z
 >
 > (Historian and Scholar of The Imperial Geographic Society)
 
+{:tag="aside" .foreword}
+
 ## Preface
 
 Let this be a warning to all who venture into the deepest bowels of Black Marsh,

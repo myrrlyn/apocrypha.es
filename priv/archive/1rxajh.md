@@ -18,9 +18,11 @@ about: |
 > the history of Tamriel, and as I sit here now on my deathbed, I know that this
 > inclination shall never cease within me. This book is the last I will ever
 > write, and I hope it informs many the reader. Thank you.
+
 {:tag="aside" .foreword}
 
 ## 21 Morning Star, 433
+
 ### Soulrest, Black Marsh
 
 Stone-Carver Cuni-Rai sculpted away at the small but delicate lump of limestone
@@ -104,8 +106,8 @@ Lanla Tharys, are you not?”
 
 “I am. It is a pleasure to finally meet you.”
 
- “Likewise. I am Chakran, former Ordinator of the Tribunal Temple. Would you
- care to accompany me?”
+“Likewise. I am Chakran, former Ordinator of the Tribunal Temple. Would you care
+to accompany me?”
 
 “Certainly, Chakran.” Lanla smiled, and allowed Chakran to led the her one of
 the deserted hallways on the roof. After making sure no other souls were

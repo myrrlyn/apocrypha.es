@@ -9,6 +9,8 @@ date: 2014-03-04T19:00:44Z
 >
 > (Historian and Scholar of the Imperial Geographic Society)
 
+{:tag="aside" .foreword}
+
 ---
 
 > Author’s Note: After the Elder Council was reviewing the Eternal Champion’s
@@ -17,6 +19,7 @@ date: 2014-03-04T19:00:44Z
 > organization within my home, they immediately ordered me to learn more about
 > it. This book was published with the royal permission of the Argonian King.
 > Originally written for the Council, and thus some text has been redacted.
+
 {:tag="aside" .foreword}
 
 ## Who Are The Conclave Of Baal?

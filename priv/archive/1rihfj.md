@@ -38,8 +38,8 @@ Argonians, not one bit! Now please go to sleep.”
 
 “No buts! Now goodnight, little one.”
 
-*He leaves and the little girl begins to cry. The housekeeper enters the*
-*bedroom slowly, and sits on the bed.*
+_He leaves and the little girl begins to cry. The housekeeper enters the bedroom
+slowly, and sits on the bed._
 
 “Oh hatchling, what is the matter?”
 
@@ -138,6 +138,6 @@ nothing ever stays the same forever.”
 are meant to be. There are people who are already changing this, and I will you
 show you how to meet them, in the times to come.”
 
-> “*Yawns*. Goodnight, housekeeper.”
+> “_Yawns_. Goodnight, housekeeper.”
 
 “Goodnight, little hatchling.”

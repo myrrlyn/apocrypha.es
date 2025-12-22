@@ -10,9 +10,42 @@ about: |
   viewing, because you all deserve it. Enjoy!
 ---
 
+## Intended Contents
+
+1. Prolegomenon
+1. Reman II Visits the Gods
+1. Dathfliin Grieves and His Crew
+1. The Nine Known Rulers and Nirn’s Keys
+1. The _Tesaloricus_ Is Swept Away
+1. The Story and Crew of the _Accrual_
+1. Bethalamet and His Men Encaged On Apocrypha
+1. Escape From Mora, and Safe Harbor On Xarxes
+1. Oghma Tempts The Heart Of Bethalamet
+1. The _Accrual_ Flees The Erudition Sea
+1. Bethalamet Enters The Court of Ur-Dra
+1. Revenant, Betrayal, and Rebirth
+1. The Sinking of the _Accrual_
+1. Bethalamet Washed Ashore On Bal
+1. The Thirty and Ninety and One Tortures of Molag Bal
+1. The Horns of Bal, The Crimson Ghost, and Scourge
+1. Bethalamet Marooned On The Ruins of Lyg
+1. Dathfliin and the Void Ghost’s Song
+1. The Rainbow Road and Its Mistress
+1. Reman II Counsels Bethalamet’s Wife
+1. Bethalamet and the War of Dagon and Hircine
+1. Black-Welkin, Tone-Ghosts, and HRAHNDEYL
+1. Dathfliin Lost In The Rotting Gardens of Namira
+1. The Diseased Sands of the Pit
+1. Lament For The Crew of the _Tesaloricus_
+1. Bethalamet’s Wife Commits Suicide
+1. Dathfliin Returns Home Alone and In Sorrow
+1. The Rotted Planes, Tatterdemalion, and Exoneration
+1. Bethalamet and the Trek Back Home
+1. Codicil
+
 ## Prolegomenon
 
-> _The Lunar Province of Tatterdemalion is both ancient and new, and is
+> The Lunar Province of Tatterdemalion is both ancient and new, and is
 > beautiful in every one of its aspects. But if it was not for the efforts of
 > one man, Bethalamet Grieves the Mananaut, it would’ve never seen the light of
 > the Second Empire and its descendants. Bethalamet encountered much and went
@@ -21,11 +54,15 @@ about: |
 > twenty-nine volumes. But there is in reality thirty; the last one was hidden
 > by Dathfliin, his son, that crafted a glorious crew of the First Era’s most
 > legendary heroes to help him rescue his father. But I believe it deserves to
-> see the light of day. May he never be forgotten._
+> see the light of day. May he never be forgotten.
 >
 > _Anonymous_{:tag="cite"}
 
-## Book I: Reman II Visits The Gods |BOOK ONE, AS RECORDED BY MNEMOLI|
+{:.foreword}
+
+## Reman II Visits the Gods
+
+### BOOK ONE, AS RECORDED BY MNEMOLI
 
 **Reman II travels on the NVN Heart of Music to the ancient but always-never-was
 temporary plane of Ephēmeros where the Aedra, Daedra, and other beings have
@@ -285,8 +322,8 @@ voice that makes the wind expand.**
 
 “The Immaterial Harmonics Institute of Incongruitech and Extrinsic Travels, by
 order of the Glorious Emperor Reman Cyrodiil II, hereby make Dathfliin Grieves
-First Captain of the NVN Tesaloricus, complete with all rights and privileges of
-the rank. First Captain Dathfliin will also be given any crew that he may
+First Captain of the _NVN Tesaloricus_, complete with all rights and privileges
+of the rank. First Captain Dathfliin will also be given any crew that he may
 request, as long as they can be reasonably found. First Captain Dathfliin will
 also be given the rights and privileges of a General of the New Void Navy.
 Congratulations to First Captain Dathfliin. May you serve the Empire until your

@@ -1,14 +1,15 @@
 ---
-title: "The Adventurer’s Companion To Black Marsh: Soulrest"
+series: The Adventurer’s Companion to Black Marsh
+part: 1
+title: Soulrest
+subtitle: |
+  An Overview of Soulrest: Its Geography, History, Famous Inhabitants, and
+  Outline
 reddit: 1xaedm
 author: Al-Hatoor
 date: 2014-02-07T18:04:35Z
+pseudonym: Eis Vuur Warden, circa 3E 430
 ---
-
-**Written By: Eis Vuur Warden, Circa 3E 430**
-
-**An Overview of Soulrest: Its Geography, History, Famous Inhabitants, and**
-**Outline**
 
 ## Overview
 

@@ -28,9 +28,9 @@ about: |
 
 > Representations of the chim, and by extension the Psijic Endeavor, are always
 > protean values, such as the anumidi models renowned by the Dwemer, the Scarab
-> of contemporary astrolothurges, and **the Striking (“exact egg-cracking”)**
-> **of old Argonia**. All of these representations possess an innate and
-> constant aspect of transformation.
+> of contemporary astrolothurges, and **the Striking (“exact egg-cracking”) of
+> old Argonia**. All of these representations possess an innate and constant
+> aspect of transformation.
 >
 > _[More on the Psijic Endeavor][1]_{:tag="cite"}
 

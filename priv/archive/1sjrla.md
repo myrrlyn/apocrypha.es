@@ -1,7 +1,7 @@
 ---
-title: March on Red Mountain
 series: Scales and Ash – The Argonians at Red Mountain
 part: 1
+title: March on Red Mountain
 reddit: 1sjrla
 author: Al-Hatoor
 date: 2013-12-10T14:35:24Z
@@ -9,6 +9,7 @@ date: 2013-12-10T14:35:24Z
 
 > \[A Partial Truth to the Battle of Red Mountain, which was consequently erased
 > from the minds of almost all that were present on the battlefield that day.\]
+
 {:tag="aside" .foreword}
 
 ## Indoril Nerevar, “Appeal to the Lizard-Men”

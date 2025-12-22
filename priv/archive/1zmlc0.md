@@ -1,7 +1,7 @@
 ---
-title: Within the Heart Chamber
 series: Scales and Ash – The Argonians at Red Mountain
 part: 3
+title: Within the Heart Chamber
 reddit: 1zmlc0
 author: Al-Hatoor
 date: 2014-03-05T14:33:32Z
@@ -9,6 +9,7 @@ date: 2014-03-05T14:33:32Z
 
 > \[A Partial Truth to the Battle of Red Mountain, which was consequently erased
 > from the minds of almost all that were present on the battlefield that day.\]
+
 {:tag="aside" .foreword}
 
 ## Indoril Nerevar, “Before The Machine”

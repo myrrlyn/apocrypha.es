@@ -271,8 +271,8 @@ Hist are in fact an incorporeal entity that takes on the form of trees and whose
 mind is unfathomable to all others. Something I actually agree with:
 
 > The Hist supposedly emanates from all nature in Tamriel but is particularly
-> strong in “Hist trees” – large, usually ancient, growths found at the center of
-> every sizeable Argonian settlement. These Hist trees contain, the Argonians
+> strong in “Hist trees” – large, usually ancient, growths found at the center
+> of every sizeable Argonian settlement. These Hist trees contain, the Argonians
 > believe, the collective memories and knowledge of all Argonians.
 >
 > _On Argonians_{:tag="cite"}
@@ -293,6 +293,8 @@ mind is unfathomable to all others. Something I actually agree with:
 > before all the races of Man and Mer.
 >
 > _Myths and Legends of the Hist_{:tag="cite"}
+
+<!-- -->
 
 > The thought-processes of the Hist are alien to those of all other sentient
 > creatures of Nirn, so strange that it may be a mistake to regard them as

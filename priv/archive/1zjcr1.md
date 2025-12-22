@@ -8,6 +8,7 @@ date: 2014-03-04T16:01:53Z
 > Written By: Eis Vuur Warden, Circa 4E 12
 >
 > (Historian and Scholar of The Imperial Geographic Society)
+
 {:tag="aside" .foreword}
 
 ## Introduction

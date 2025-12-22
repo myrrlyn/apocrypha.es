@@ -9,10 +9,12 @@ date: 2014-06-11T19:10:31Z
 pseudonym: Denogorath the Dread Archivist
 ---
 
-_\[Attachment: This extremely beneficial text informs us of the existence of the
+> \[Attachment: This extremely beneficial text informs us of the existence of the
 dangerous Plague Atronach, as well as the plane they come from. This writing was
 originally found in Coldharbour, and seems to point to a skirmish between the
-Taskmaster and the King of Rape that happened somewhat recently.\]_
+Taskmaster and the King of Rape that happened somewhat recently.\]
+
+{:tag="aside" .foreword}
 
 If one would have asked me if there would ever be Plague Atronachs somewhere in
 the Master’s realm, I would’ve beaten them to death with my bare hands. Those

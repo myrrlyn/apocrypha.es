@@ -9,6 +9,8 @@ date: 2014-03-04T18:42:50Z
 >
 > (Historian and Scholar of the Imperial Geographic Society)
 
+{:tag="aside" .foreword}
+
 ---
 
 > Author’s Note: The following story was loosely translated from an ancient
@@ -19,6 +21,7 @@ date: 2014-03-04T18:42:50Z
 > ceiling over an ashy pit. Unfortunately, Nahlotod collapsed only days after we
 > were able to retrieve several artifacts from it, including the sarcophagus.
 > This story was one such artifact.
+
 {:tag="aside" .foreword}
 
 ## The Hanging of the Renegade
@@ -123,4 +126,5 @@ one would forget the words Iizyoldein said at the end of his trial.
 > immediately cart this off to the Elder Council and never let it see the light
 > of day again, keeping it under lock and key. For if Iizyoldein reawakens… I
 > fear we might not have such a hero to rescue us again.
+
 {:tag="aside" .afterword}

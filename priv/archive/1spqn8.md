@@ -135,6 +135,9 @@ Right now there is silence,
 So let there be peace through the night.
 ```
 
+{:.text-center}
+
 > Happy Holidays From IceFireWarden, The Scaly Atheist. Gotta Love Me This
 > Reddit.
+
 {:tag="aside" .afterword}
