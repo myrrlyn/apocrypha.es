@@ -32,8 +32,8 @@ defmodule Apocrypha.Wiki do
         _ ->
           []
       end)
-      |> Stream.map(&IO.inspect/1)
 
+      # |> Stream.map(&IO.inspect/1)
       # |> Enum.to_list()
     end
   end
@@ -86,7 +86,7 @@ defmodule Apocrypha.Wiki do
            Map.update(accum, current, MapSet.new([{kind, url}]), &MapSet.put(&1, {kind, url}))}
       end)
       |> (&elem(&1, 1)).()
-      |> Stream.map(fn {k, vs} -> {k, Enum.sort_by(vs, & &1, &Apocrypha.url_lessthan/2)} end)
+      |> Stream.map(fn {k, vs} -> {k, Enum.sort(vs, &Apocrypha.url_lessthan/2)} end)
     end
   end
 
@@ -94,7 +94,7 @@ defmodule Apocrypha.Wiki do
   # `<tr><td><a href="the post">...</a></td>...</tr>`, so this function extracts
   # just the hrefs from an index table, and passes through other AST nodes
   # unchanged
-  defp query_table_tbody_tr_tdfirst_a_href(ast) do
+  def query_table_tbody_tr_tdfirst_a_href(ast) do
     ast
     |> Stream.flat_map(fn
       {"table", _, table_parts, _} ->
