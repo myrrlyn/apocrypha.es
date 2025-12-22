@@ -3,6 +3,7 @@ series: The Manaudyssey
 part: 3
 title: The Nine Known Rulers and Nirn’s Keys
 subtitle: BOOK THREE, AS RECORDED BY MNEMOLI
+reddit: 2en4ov
 author: Al-Hatoor
 about: |
   (Site Curator): I don’t know if this section is posted to reddit. The author
