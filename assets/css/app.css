@@ -4,6 +4,8 @@
 
 /* This file is for your main application CSS */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
 @font-face {
   font-family: "Daedric";
   src: url(/fonts/Daedra.otf);
